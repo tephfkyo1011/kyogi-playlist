@@ -1,0 +1,5 @@
+{
+  "name": "🇹🇭 ซีรีส์ไทย BY KYO GI - รวมทั้งหมด",
+  "author": "KYO GI",
+  "groups": []
+}
