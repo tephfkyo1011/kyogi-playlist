@@ -1,14 +1,12 @@
 {
-  "name": "🎤 คอนเสิร์ต & เพลง BY KYO GI",
-  "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
-  "author": "🍁KYOGI🍁",
-  "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_concert_kyogi.txt",
-  "info": "KYO GI",
+  "name": "🎤 คอนเสิร์ต & เพลง",
+  "author": "KYO GI",
+  "image": "https://cdn-icons-png.flaticon.com/512/3083/3083417.png",
   "groups": [
     {
-      "name": "📂 รวมทั้งหมด (ว่าง)",
-      "author": "🍁KYOGI🍁",
-      "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://cdn-icons-png.flaticon.com/512/3083/3083417.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub1_p1.txt",
       "import": false
     }
