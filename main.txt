@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="38 Entertainment",🌟 โซนส่วนตัว BY KYO GI (คัดพิเศษ)
+https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/01.Movie-Series-Anime-BY-KYO-GI.txt
