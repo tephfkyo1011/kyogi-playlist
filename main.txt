@@ -2,7 +2,7 @@
   "name": "38 Entertainment GitHub By KYO GI",
   "author": "KYO GI",
   "info": "ต้องขออภัยเจ้าของลิ้งทุกท่าน ที่ผมได้นำข้อมูลจากลิ้งของท่าน มาตัดต่อ หรือ copy มา ยอมรับผิดทุกประการ ทำลิ้งนี้เพื่อให้ลูกสาวและเพื่อนสนืทได้ดูกันเล่นๆ ไม่เคยคิดหวังผลประโยชน์จากใคร หากผมทำให้ใครเดือดร้อน หรือ เจ้าของลิ้งคิดว่าผมะการได แจ้งไนไลน์ แอดมินได้ครับ พร้อมจะปิดคับ ผมก็ copy ของคนอื่นมาแบ่งๆ กันดู ด่าได้คับแต่อย่าแรง หรือพี่ๆ ท่านไดมีลิ้งหรือข้อมูลดีๆ ส่งให้ผมช่วยลงได้ทางไลน์แอดมินนะคับ",
-  "image": "https://i.okcdn.ru/i?r=CFtAm_VFBkioSGBqh1KJtgreluPtXE6GUNhyuC2stWCGpEklFtujXBiulJxNVH2wxx0XbhWvOniLsseB6jMuxMG_-ACpPsIRAobG4LAdjU9ecBJDen4V3ywwYkEAAAAp&dpr=2",
+  "image": "https://i.okcdn.ru/i?r=CFtAm_VFBkioSGBqh1IPrhg9T2AKsO8nrIHT2fIgdu7lsOiNLCvCQQXVvcy6BlunI0RlkEKqfDM22_RxqJyaqLJnw2BIBEWj5yOfVRKKnMzE6yC0ZY-Oug65NHkAAAAp&dpr=2",
   "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/main.txt",
   "groups": [
     {
