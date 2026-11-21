@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png" group-title="🎬 หนังคัดพิเศษ - รวมทั้งหมด",Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]
+https://main.24playerhd.com/m3u8/6ffa800421ef0671a9dff6b6/6ffa800421ef0671a9dff6b6438.m3u8
