@@ -30,8 +30,8 @@
       "import": "true"
     },
     {
-      "name": "38 Entertainment By KYOGI",
-      "image": "https://docs.google.com/uc?export=download&id=1rMUx6cnsU1fzCbkWCYZSTdDuX9rAYVih",
+      "name": "38 Entertainment",
+      "image": "https://i.okcdn.ru/i?r=CFtAm_VFBkioSGBqh1JHZFI0wuUM86VRDeEjjCqje5L2lYEYuOEm9MXhBelBHF_U5fL5bC_z9EHENbzn1byANaD2q6cDo0IQVCDm3tmOC-zL7c8vwg1fbO-5B9sAAAAp&dpr=2",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/01.Movie-Series-Anime-BY-KYO-GI.txt",
       "import": false
     },
