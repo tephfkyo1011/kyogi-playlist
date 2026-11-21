@@ -1,3 +1,14 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://flagcdn.com/w320/th.png" group-title="🇹🇭 ซีรีส์ไทย",📂 ปี 2026 (1 เรื่อง)
-https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/series_th_sub1_p1.txt
+{
+  "name": "🇹🇭 ซีรีส์ไทย",
+  "author": "KYO GI",
+  "image": "https://flagcdn.com/w320/th.png",
+  "groups": [
+    {
+      "name": "📂 ปี 2026",
+      "info": "1 เรื่อง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/series_th_sub1_p1.txt",
+      "import": false
+    }
+  ]
+}
