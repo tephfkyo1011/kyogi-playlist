@@ -1,14 +1,12 @@
 {
-  "name": "🧸 การ์ตูน & อนิเมะ BY KYO GI",
-  "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
-  "author": "🍁KYOGI🍁",
-  "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_cartoon_kyogi.txt",
-  "info": "KYO GI",
+  "name": "🧸 การ์ตูน & อนิเมะ",
+  "author": "KYO GI",
+  "image": "https://cdn-icons-png.flaticon.com/512/3504/3504016.png",
   "groups": [
     {
-      "name": "📂 รวมทั้งหมด (ว่าง)",
-      "author": "🍁KYOGI🍁",
-      "image": "https://www.dropbox.com/scl/fi/d2jyj6vrchrriaqtr5ybq/.gif?rlkey=k6dwmznxmovr8gla7tvak9msu&dl=1",
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://cdn-icons-png.flaticon.com/512/3504/3504016.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/cartoon_kyogi_sub1_p1.txt",
       "import": false
     }
