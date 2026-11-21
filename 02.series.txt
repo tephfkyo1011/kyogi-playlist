@@ -1,6 +1,6 @@
 {
   "name": "ZONE_SERIES",
-  "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
+  "image": "https://ok.ru/profile/580403241433/album/936700117721/936921311193",
   "author": "อัพเดตระบบ Auto-GitHub BY KYO GI",
   "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/02.series.txt",
   "info": "KYOGI",
