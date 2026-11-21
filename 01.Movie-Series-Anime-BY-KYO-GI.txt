@@ -1,7 +1,7 @@
 {
   "name": "38 Entertainment By KYOGI",
   "author": "KYO GI",
-  "image": "https://docs.google.com/uc?export=download&id=1rMUx6cnsU1fzCbkWCYZSTdDuX9rAYVih",
+  "image": "https://i.okcdn.ru/i?r=CFtAm_VFBkioSGBqh1J2z5d9vyjWqGp0gHd_wyOQECVedcKBHWrkj-bvzDgn9kSU6U_3T6HSLeaYnc0dDek1yjQhbOFx4_tal8DGnQNsqVK6etD4bA7QUjahGqEAAAAp&dpr=2",
   "groups": [
     {
       "name": "🎬 หนังคัดพิเศษ BY KYO GI",
