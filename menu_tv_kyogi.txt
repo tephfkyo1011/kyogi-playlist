@@ -1,14 +1,12 @@
 {
-  "name": "📺 ทีวีออนไลน์ BY KYO GI",
-  "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
-  "author": "🍁KYOGI🍁",
-  "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_tv_kyogi.txt",
-  "info": "KYO GI",
+  "name": "📺 ทีวีออนไลน์",
+  "author": "KYO GI",
+  "image": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
   "groups": [
     {
-      "name": "📂 รวมทั้งหมด (ว่าง)",
-      "author": "🍁KYOGI🍁",
-      "image": "https://www.dropbox.com/scl/fi/ex4q5yhmyoicotlddury4/.gif?rlkey=c5vrjtakupp6utdfibclfsezb&dl=1",
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/tv_kyogi_sub1_p1.txt",
       "import": false
     }
