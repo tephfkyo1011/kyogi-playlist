@@ -1,0 +1,16 @@
+{
+  "name": "🇯🇵 ซีรีส์ญี่ปุ่น BY KYO GI",
+  "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
+  "author": "🍁KYOGI🍁",
+  "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_series_jp.txt",
+  "info": "KYO GI",
+  "groups": [
+    {
+      "name": "📂 รวมทั้งหมด (ว่าง)",
+      "author": "🍁KYOGI🍁",
+      "image": "https://docs.google.com/uc?export=download&id=1f5S30-_p9BGkrt_Mmlijb33R4qErVo_b",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/series_jp_sub1_p1.txt",
+      "import": false
+    }
+  ]
+}
