@@ -8,7 +8,8 @@
       "image": "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/197_y_EVPjZHiuMN3X8OIxTpnDz2y4raCLv7lw.png",
       "url": "https://songkhlafocus.com/cctv-hatyai/?fbclid=IwY2xjawVPcP9leHRuA2FlbQIxMABwZG9mBWJyaWQRMTlxZ3VPMktncEF4V0hpT3BzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf-bCc_3F0YTkq5wTAbag9blWvMOcHwOJHI_AGR4mw6aAg2Bz4QAHrRg1WR68_aem_owgZMKVKUYzp3-P31-p5_g",
       "playInNatPlayer": "true",
-      "referer": "https://mvtv.co.th/"
+      "referer": "https://mvtv.co.th/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
   ]
 }
