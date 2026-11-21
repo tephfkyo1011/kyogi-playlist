@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="KYO GI ZONE",🎬 หนังคัดพิเศษ (Movies)
+https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_movie_kyogi.txt
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2809/2809590.png" group-title="KYO GI ZONE",📺 รวมซีรีส์ (Series)
+https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/02.series.txt
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3069/3069172.png" group-title="KYO GI ZONE",📡 ทีวีออนไลน์ (Live TV)
+https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_tv_kyogi.txt
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3504/3504016.png" group-title="KYO GI ZONE",🎌 การ์ตูน & อนิเมะ (Anime)
+https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_cartoon_kyogi.txt
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3083/3083417.png" group-title="KYO GI ZONE",🎤 คอนเสิร์ต & เพลง (Concert & Music)
+https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_concert_kyogi.txt
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1651/1651639.png" group-title="KYO GI ZONE",😂 รายการตลก & บันเทิง (Comedy & Variety)
+https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_comedy_kyogi.txt
