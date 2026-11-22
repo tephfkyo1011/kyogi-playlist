@@ -6,7 +6,7 @@
   "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/main.txt",
   "groups": [
     {
-      "name": "กดก่อนทุกครั้ง  ",
+      "name": "กดก่อนทุกครั้ง",
       "image": "https://www.dropbox.com/scl/fi/njmir0w6ayxapkd0y7xt0/.gif?rlkey=5rvfy20xre15qbgsdjgalu7t7&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
       "import": false
@@ -20,7 +20,8 @@
     {
       "name": "รวมกีฬา",
       "image": "https://www.dropbox.com/scl/fi/apdnpdz9pj2rlyla7i06d/.gif?rlkey=bltkcd9p9rleh0vzutxfkufu7&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue"
+      "url": "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue",
+      "import": false
     },
     {
       "name": "หนัง HD",
@@ -91,14 +92,14 @@
       "import": false
     },
     {
-      "name": "คอนเสิร์ต รวม  ",
+      "name": "คอนเสิร์ต รวม",
       "author": "Yantech",
       "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
       "import": false
     },
     {
-      "name": "บันเทิง ",
+      "name": "บันเทิง",
       "author": "Yantech",
       "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1rWIH5vxOfzuQbBaoUV24rlLSdYqWIaTY",
@@ -140,7 +141,7 @@
       "import": "true"
     },
     {
-      "name": "ดูกล้องวงจรปิด ",
+      "name": "ดูกล้องวงจรปิด",
       "author": "Yantech",
       "image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
@@ -168,7 +169,7 @@
       "import": false
     },
     {
-      "name": "ติดต่อ Admin  ",
+      "name": "ติดต่อ Admin",
       "author": "ช่องดับติดปัญหาแจ้งได้",
       "image": "https://www.dropbox.com/scl/fi/lhtimtfkxi4t61xb6gio2/1.JPG?rlkey=k886o9v3h2w5nr95r0qllop0z&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1rbps4IQ50MKBpDVfVMQ7_YKmR4w824kg",
