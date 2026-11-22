@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="The Batman (2022) เดอะ แบทแมน [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/04/The-Batman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",The Batman (2022) เดอะ แบทแมน [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/4845909eb0a1dc1fbb8a1cb0d4e55556/4845909eb0a1dc1fbb8a1cb0d4e55556.m3u8
+#EXTINF:-1 tvg-name="Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-V-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน-แสงอรุณแห่งยุติธรรม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [พากย์ไทย]
+https://main.24playerhd.com/newplaylist/7cfa2c727bdac06d61d76058/7cfa2c727bdac06d61d76058438.m3u8
+#EXTINF:-1 tvg-name="Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-V-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน-แสงอรุณแห่งยุติธรรม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/0a0b2008f143e79ac40006d7b36cac43/0a0b2008f143e79ac40006d7b36cac43.m3u8
+#EXTINF:-1 tvg-name="Batman 3 The Dark Knight Rises [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 3 The Dark Knight Rises [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/3ca17ec5f77dac19d3cd1652e05b0764/3ca17ec5f77dac19d3cd1652e05b0764.m3u8
+#EXTINF:-1 tvg-name="Batman 3 The Dark Knight Rises [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 3 The Dark Knight Rises [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/2c9c53c362373780a225f34372c888cb/2c9c53c362373780a225f34372c888cb.m3u8
+#EXTINF:-1 tvg-name="Batman 2 The Dark Knight [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 2 The Dark Knight [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/01377ad2e11c7d656a3a98c203f2502d/01377ad2e11c7d656a3a98c203f2502d.m3u8
+#EXTINF:-1 tvg-name="Batman 2 The Dark Knight [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 2 The Dark Knight [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/6eb422f799b9440076c479a7b0d1146d/6eb422f799b9440076c479a7b0d1146d.m3u8
+#EXTINF:-1 tvg-name="Batman Begins [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Begins-2005-แบทแมน-บีกินส์-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Begins [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/2eb9e2b6e8df2707e169aa4625b32658/2eb9e2b6e8df2707e169aa4625b32658.m3u8
+#EXTINF:-1 tvg-name="Batman Begins [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Begins-2005-แบทแมน-บีกินส์-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Begins [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/82b526152e559f673c5b4de38de9a50c/82b526152e559f673c5b4de38de9a50c.m3u8
+#EXTINF:-1 tvg-name="Batman and Robin (1997) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-and-Robin-1997-แบทแมน-โรบิน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman and Robin (1997) [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/bf15dff94a58b7adf93f9796f7b6ef68/bf15dff94a58b7adf93f9796f7b6ef68.m3u8
+#EXTINF:-1 tvg-name="Batman and Robin (1997) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-and-Robin-1997-แบทแมน-โรบิน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman and Robin (1997) [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/7c03676aa61ee6715063d17f67427a41/7c03676aa61ee6715063d17f67427a41.m3u8
+#EXTINF:-1 tvg-name="Batman Forever (1995) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Forever-1995-แบทแมน-ฟอร์เอฟเวอร์-ศึกจอมโจรอมตะ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Forever (1995) [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/559f9a65b80e53eb957e4c5598f734ae/559f9a65b80e53eb957e4c5598f734ae.m3u8
+#EXTINF:-1 tvg-name="Batman Forever (1995) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Forever-1995-แบทแมน-ฟอร์เอฟเวอร์-ศึกจอมโจรอมตะ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Forever (1995) [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/064b40dacc2146ae3b3ed325fdba153e/064b40dacc2146ae3b3ed325fdba153e.m3u8
+#EXTINF:-1 tvg-name="Batman Returns (1992) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Returns-1992-แบทแมน-รีเทิร์นส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Returns (1992) [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/19098560089318b78a3d07e2676803b8/19098560089318b78a3d07e2676803b8.m3u8
+#EXTINF:-1 tvg-name="Batman Returns (1992) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Returns-1992-แบทแมน-รีเทิร์นส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Returns (1992) [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/1465ed853582befae29967bb66369857/1465ed853582befae29967bb66369857.m3u8
+#EXTINF:-1 tvg-name="Batman (1989) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-1989-แบทแมน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman (1989) [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/b43a39199e7c2598ae651015071ab8dd/b43a39199e7c2598ae651015071ab8dd.m3u8
+#EXTINF:-1 tvg-name="Batman (1989) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-1989-แบทแมน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman (1989) [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/8cd3f4726ea9628fa03db4949ec50b54/8cd3f4726ea9628fa03db4949ec50b54.m3u8
