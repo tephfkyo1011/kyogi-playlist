@@ -1,0 +1,14 @@
+{
+  "name": "🍿 ช่องหนัง ออนไลน์",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/brq3rl8en04uinpiywvks/.gif?rlkey=hn4yqqy2tlg8pwhdg2r6sh7ll&st=n8ob61cf&dl=1",
+  "groups": [
+    {
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://www.dropbox.com/scl/fi/brq3rl8en04uinpiywvks/.gif?rlkey=hn4yqqy2tlg8pwhdg2r6sh7ll&st=n8ob61cf&dl=1",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_live_sub1_p1.txt",
+      "import": false
+    }
+  ]
+}
