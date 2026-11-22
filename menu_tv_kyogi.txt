@@ -4,17 +4,10 @@
   "image": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
   "groups": [
     {
-      "name": "📂 ฟรีทีวีดิจิทัล (หน้า 1)",
-      "info": "50 ช่อง",
+      "name": "📂 ฟรีทีวีดิจิทัล",
+      "info": "32 ช่อง",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/tv_kyogi_sub1_p1.txt",
-      "import": false
-    },
-    {
-      "name": "📂 ฟรีทีวีดิจิทัล (หน้า 2)",
-      "info": "1 ช่อง",
-      "image": "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/197_y_EVPjZHiuMN3X8OIxTpnDz2y4raCLv7lw.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/tv_kyogi_sub1_p2.txt",
       "import": false
     }
   ]
