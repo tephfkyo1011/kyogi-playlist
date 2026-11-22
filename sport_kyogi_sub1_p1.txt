@@ -1,0 +1,6 @@
+{
+  "name": "⚽ รวมกีฬา - รวมทั้งหมด",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/apdnpdz9pj2rlyla7i06d/.gif?rlkey=bltkcd9p9rleh0vzutxfkufu7&dl=1",
+  "stations": []
+}
