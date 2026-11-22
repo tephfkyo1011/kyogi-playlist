@@ -6,7 +6,7 @@
     {
       "name": "🎬 หนังคัดพิเศษ BY KYO GI",
       "author": "KYO GI",
-      "image": "https://www.dropbox.com/scl/fi/belvnekq5pfbw795tjujz/.gif?rlkey=oh7a0eze34bl6f4m0vairk46w&dl=1",
+      "image": "https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/480153642_1081260957350522_6395844530371764405_n.jpg?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KaMmAbZeSgwQ7kNvwH1t28w&_nc_oc=AdomFrFeVUXZj4hRMcbwoqKLaGwdazZfll1DJ52FJjRmbA43mbcs2F3rdxqPbekWNTQVdsP4Sw2s1NJOwwOAV1Hl&_nc_zt=23&_nc_ht=scontent.fbkk12-1.fna&_nc_gid=9JuDH_brsPFy4jVAdyRyCw&_nc_ss=7b289&oh=00_AQTbEOpPVo_wdAmjp4nQvlH2MkYrULNbFHHLcHxjC4a4sw&oe=6B086056",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_movie_kyogi.txt",
       "import": false
     },
