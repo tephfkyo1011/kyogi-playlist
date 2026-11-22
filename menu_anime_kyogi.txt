@@ -1,14 +1,63 @@
 {
-  "name": "🐉 การ์ตูนอนิเมชั่น",
+  "name": "การ์ตูน ANIMETION",
   "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/d2jyj6vrchrriaqtr5ybq/.gif?rlkey=k6dwmznxmovr8gla7tvak9msu&dl=1",
+  "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
   "groups": [
     {
-      "name": "📂 รวมทั้งหมด",
-      "info": "ว่าง",
-      "image": "https://www.dropbox.com/scl/fi/d2jyj6vrchrriaqtr5ybq/.gif?rlkey=k6dwmznxmovr8gla7tvak9msu&dl=1",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/anime_kyogi_sub1_p1.txt",
+      "name": "🍀ANIME🍀",
+      "author": "PL4YOU",
+      "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
+      "url": "https://drive.google.com/uc?id=1q5u14HY9-RHUJmrn4tRT3hJpo6RJ1yDZ",
       "import": false
+    },
+    {
+      "name": "ANIME",
+      "image": "https://image.pngaaa.com/352/1697352-middle.png",
+      "url": "https://drive.google.com/uc?id=1CscY02BNXo680GYvRKNXdLbRq6n-quC2",
+      "info": "GO GO TV",
+      "import": false
+    },
+    {
+      "name": "Anime-Indy",
+      "image": "https://img2.pic.in.th/pic/An.webp",
+      "url": "https://drive.google.com/uc?id=13RFqRGSOZBSTOwq-YvFeE9818hnuY0he",
+      "import": true
+    },
+    {
+      "name": "Anime Moji",
+      "image": "https://img2.pic.in.th/pic/AM.jpg",
+      "url": "https://drive.google.com/uc?id=196x0N2t-khH8pxP8dmY24RwVizc_VB5w",
+      "import": "true"
+    },
+    {
+      "name": "หนังการ์ตูน Movie 18",
+      "image": "https://i.ibb.co/FYjfWQ0/Untitled-3.png",
+      "url": "https://docs.google.com/uc?export=download&id=1lp7xAcJA4vM0lEXOikt-DxtDEM7TiDML",
+      "import": false
+    },
+    {
+      "name": "M Anime",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9xodP0xAY7d_YvxvfmJ6b4SicrJDk_TTEUw&usqp=CAU",
+      "url": "https://docs.google.com/uc?export=download&id=1Uo0W5OLvIkWbnqVvaTLXggRJ5pD2g2sR",
+      "import": false
+    },
+    {
+      "name": "AnimeHDzero",
+      "image": "https://img.shirokami.me/images/2024/06/01/c2ed894641bef0f2c0d8178dc42a9a83.webp",
+      "url": "https://drive.google.com/uc?id=1D-YsBHsO2uyc-HXpj3PN_6Ccf6svjC_B",
+      "import": false
+    },
+    {
+      "name": "Anime-Forever",
+      "image": "https://drive.google.com/uc?id=1EsRfEL97-WPi1ifjcx3wmlZ5efgUs_wT",
+      "url": "https://docs.google.com/uc?export=download&id=1tHZp5sFKJnbztSamVugbYkX9Muu-ZA-E",
+      "import": "true"
+    },
+    {
+      "name": "Anime-Zone",
+      "image": "https://freepngimg.com/thumb/dragon_ball/23389-6-dragon-ball-goku-image-thumb.png",
+      "url": "https://docs.google.com/uc?export=download&id=1gHZ5sqJtbsizSVKuowQZjuJx4eE99W4i",
+      "import": "true"
     }
   ]
 }
