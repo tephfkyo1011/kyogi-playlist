@@ -1,0 +1,14 @@
+{
+  "name": "🎵 ช่องเพลง",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
+  "groups": [
+    {
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/music_kyogi_sub1_p1.txt",
+      "import": false
+    }
+  ]
+}
