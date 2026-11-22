@@ -3,14 +3,6 @@
   "author": "KYO GI",
   "image": "https://cdn-icons-png.flaticon.com/512/1651/1651639.png",
   "groups": [
-    {
-"name"              :     "รายการตลก",
-"author"            :     "",
-"image"             :     "",
-"url":"",
-"groups"          : 
-[
-
 {
 "name": "ตลกคาเฟ",
 "author": "",
