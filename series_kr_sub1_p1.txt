@@ -212,7 +212,7 @@
     },
     {
       "name": "100 Days of Deception (2026) 100 วันปฏิบัติการลวง",
-      "info": "EP 13",
+      "info": "EP 14",
       "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
       "stations": [
         {
@@ -292,6 +292,12 @@
           "info": "ซับไทย",
           "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
           "url": "https://main.24playerhd.com/m3u8/ad9b587c98e1276b2656944c/ad9b587c98e1276b2656944c438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/m3u8/3a903fbfc2fa0cbc1204deb6/3a903fbfc2fa0cbc1204deb6438.m3u8"
         }
       ]
     },
