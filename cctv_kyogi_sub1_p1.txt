@@ -1,0 +1,6 @@
+{
+  "name": "📹 ดูกล้องวงจรปิด - รวมทั้งหมด",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
+  "stations": []
+}
