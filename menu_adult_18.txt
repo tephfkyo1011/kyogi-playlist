@@ -30,13 +30,6 @@
           "import": "true"
         },
         {
-          "name": "ญี่ปุ่น+จีน+ฝรั่ง",
-          "author": "",
-          "image": "https://f.ptcdn.info/962/003/000/1365423053-devonaokiw-o.jpg",
-          "url": "https://docs.google.com/uc?id=1cAOEIVwkJJ4BhYKrfzOCkbElN_61OGFK",
-          "import": "true"
-        },
-        {
           "name": "4สิงหา",
           "author": "",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZMj4AVIXq0zvXEffdTD4vaLgOgCNSoASv3-V-0VFuch_aykl1o6aHw5I&s=10",
@@ -164,14 +157,6 @@
           "image": "https://img2.pic.in.th/pic/Design-Studio-2024-05-11-2.png",
           "url": "https://docs.google.com/uc?export=download&id=1EdbAF2HVg75d5HN9i-eZAaa07SNU6Jdl",
           "import": false
-        },
-        {
-          "name": "All",
-          "image": "https://img2.pic.in.th/pic/Design-Studio-2024-05-11-1.png",
-          "url": "https://docs.google.com/uc?export=download&id=KZ4Q7gf3Im5HWwagdKL9xbPR4K1UAZ6",
-          "import": false
-        }
-      ]
     },
     {
       "name": "หนัง AV",
