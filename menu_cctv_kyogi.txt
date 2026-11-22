@@ -9,6 +9,13 @@
       "image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
       "import": false
+    },
+    {
+      "name": "📂 ประเมินน้ำท่วม",
+      "info": "1 ช่อง",
+      "image": "https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/cctv_kyogi_sub1_p1.txt",
+      "import": false
     }
   ]
 }
