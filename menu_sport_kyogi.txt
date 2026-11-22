@@ -6,7 +6,7 @@
     {
       "name": "📂 รวมทั้งหมด",
       "info": "ว่าง",
-      "image": "https://www.dropbox.com/scl/fi/apdnpdz9pj2rlyla7i06d/.gif?rlkey=bltkcd9p9rleh0vzutxfkufu7&dl=1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZmB6PLYqXWFVqQ1Xs-5mh2j93fa-BHCK0PM-6NBeKA&s=10",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/sport_kyogi_sub1_p1.txt",
       "import": false
     }
