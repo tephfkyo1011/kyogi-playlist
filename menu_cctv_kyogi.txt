@@ -12,7 +12,7 @@
     },
     {
       "name": "📂 ประเมินน้ำท่วม",
-      "info": "1 ช่อง",
+      "info": "2 ช่อง",
       "image": "https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/cctv_kyogi_sub1_p1.txt",
       "import": false
