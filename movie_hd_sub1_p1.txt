@@ -1,1 +1,167 @@
-#EXTM3U
+{
+  "name": "หนังภาคต่อ",
+  "author": "KYO GI",
+  "image": "https://toppng.com/uploads/preview/free-png-banned-stamp-png-images-transparent-banned-png-transparent-11563802224vxu9watip4.png",
+  "groups": [
+    {
+      "name": "(จบแล้ว) 28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",
+      "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
+      "info": "จบแล้ว",
+      "author": ":หนังภาคต่อ",
+      "stations": [
+        {
+          "name": "EP1",
+          "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
+          "url": "https://main.24playerhd.com/newplaylist/70827cbc9b08be34c5917b47/70827cbc9b08be34c5917b47.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP2",
+          "image": "https://www.123hdtv.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-มหันตภัยเชื้อนรกถล่มเมือง.png",
+          "url": "https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "EP3",
+          "image": "https://www.123hdtv.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png",
+          "url": "https://main.24playerhd.com/newplaylist/0a6daaa712ea887b975b0d96/0a6daaa712ea887b975b0d96.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "The Fast And Furious",
+      "image": "https://22-hd.com/wp-content/uploads/2022/11/The-Fast-and-the-Furious-1.jpg",
+      "info": "",
+      "author": "หนังภาคต่อ",
+      "stations": [
+        {
+          "name": "The Fast And Furious ภาค 1",
+          "image": "https://22-hd.com/wp-content/uploads/2022/11/The-Fast-and-the-Furious-1.jpg",
+          "url": "https://m5-txt-2.xdomovie247.com/playlist2/detail/8cf8abf2FUOCx/1080/hls/index.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 2",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/2-Fast-2-Furious-2003-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%84%E0%B8%B9%E0%B8%93-2-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-250x350.png",
+          "url": "https://main.24playerhd.com/newplaylist/87f09250cd50def42ab2ac83/87f09250cd50def42ab2ac83.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 3",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Fast-and-the-Furious-Tokyo-Drift-2006-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7-250x350.png",
+          "url": "https://main.24playerhd.com/newplaylist/88319a12b3ab3c1b9da87267/88319a12b3ab3c1b9da87267.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 4",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-4-2009-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-4-%E0%B8%A2%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C-250x350.png",
+          "url": "https://main.24playerhd.com/newplaylist/994720fbbbaf904467ad5ba6/994720fbbbaf904467ad5ba6.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 5",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-5-2011-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-5-250x350.png",
+          "url": "https://main.24playerhd.com/newplaylist/b97c4e7865fd93d8e498f9d0/b97c4e7865fd93d8e498f9d0.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 6",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-6-2013-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-6-250x350.png",
+          "url": "https://main.24playerhd.com/newplaylist/82cabad80e4997a31cbd4c28/82cabad80e4997a31cbd4c28.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 7",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-And-Furious-7-2015-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-7-250x350.png",
+          "url": "https://main.24playerhd.com/newplaylist/3a78910939a204d9cae78d62/3a78910939a204d9cae78d62.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-And-Furious-8-2017-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-8-250x350.png",
+          "url": "https://main.24playerhd.com/newplaylist/0a791aeae4ba21a53a0d7278/0a791aeae4ba21a53a0d7278.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 9",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/07/Fast-Furious-9-2021-300x450.png",
+          "url": "https://m1-txt-2.xdomovie247.com/playlist2/detail/61785124442955Za/720/hls/index.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious ภาค 10",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Fast-X-2023-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-10-300x450.jpg",
+          "url": "https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgOToxNDo1NiBBTSZoYXNoX3ZhbHVlPXh1dWdwd1pkTEs5N2tQRGtmcWxDVkE9PSZ2YWxpZG1pbnV0ZXM9NQ==",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "The Fast And Furious Fast & Furious Hobbs & Shaw (2019) เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์",
+          "image": "https://img.inwiptv.net/postor/20191113070713fast--furious-presents-hobbs--shaw-5d08dc7011654.jpg",
+          "url": "https://m1free.inwstream.com:1936/movie3/Fast_And_Furious_Presents_Hobbs_And_Shaw_2019/Fast_and_Furious_Presents_Hobbs_and_Shaw_2019_TH_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgOTowNjo1NyBBTSZoYXNoX3ZhbHVlPWVDSlhEYXdPcHpwWlUyY2hCOURqaWc9PSZ2YWxpZG1pbnV0ZXM9NQ==",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Deadpool",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-300x450.jpg",
+      "info": "",
+      "author": "หนังภาคต่อ",
+      "stations": [
+        {
+          "name": "Deadpool ภาค 1",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Deadpool ภาค 2",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2-2018-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-2-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/9af3fa0d3b2aaedc72adbf68/9af3fa0d3b2aaedc72adbf68.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "Deadpool ภาค 3",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Deadpool-Wolverine-2024-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-%E0%B8%A7%E0%B8%B9%E0%B8%A5%E0%B9%8C%E0%B8%9F%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B8%99-1-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2f41c01ce5601b8bd579b62a/2f41c01ce5601b8bd579b62a.m3u8",
+          "referer": "",
+          "info": "Gojek TV ห้ามขาย",
+          "playInNatPlayer": "true"
+        }
+      ]
+    }
+  ]
+}
