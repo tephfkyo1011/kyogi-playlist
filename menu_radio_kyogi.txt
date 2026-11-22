@@ -7,7 +7,7 @@
       "name": "📂 รวมทั้งหมด",
       "info": "ว่าง",
       "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/radio_kyogi_sub1_p1.txt",
+      "url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
       "import": false
     }
   ]
