@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Avengers- Endgame อเวนเจอร์ส- เผด็จศึก (2019) [พากย์ไทย]" tvg-logo="https://24-hd.tv/wp-content/uploads/2023/06/MV5BMTc5MDE2ODcw_-e1687675343282.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avengers",Avengers- Endgame อเวนเจอร์ส- เผด็จศึก (2019) [พากย์ไทย]
+https://hengku666.com/avengers-endgame-2019-%e0%b8%ad%e0%b9%80%e0%b8%a7%e0%b8%99%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%aa-%e0%b9%80%e0%b8%9c%e0%b8%94%e0%b9%87%e0%b8%88%e0%b8%a8%e0%b8%b6%e0%b8%81.html
+#EXTINF:-1 tvg-name="Avengers 3 Infinity War [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Avengers-3-Infinity-War-2018-มหาสงครามล้างจักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avengers",Avengers 3 Infinity War [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/63e60eacc24aadf33db9be58b93db30e/63e60eacc24aadf33db9be58b93db30e.m3u8
+#EXTINF:-1 tvg-name="Avengers 3 Infinity War [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Avengers-3-Infinity-War-2018-มหาสงครามล้างจักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avengers",Avengers 3 Infinity War [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/8531b313a73514857506fb5479b3c605/8531b313a73514857506fb5479b3c605.m3u8
+#EXTINF:-1 tvg-name="Avengers 2 Age of Ultron [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Avengers-2-Age-of-Ultron-2015-มหาศึกอัลตรอนถล่มโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avengers",Avengers 2 Age of Ultron [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/ee0fd59027700a688ee6bfb6da17948d/ee0fd59027700a688ee6bfb6da17948d.m3u8
+#EXTINF:-1 tvg-name="Avengers 2 Age of Ultron [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Avengers-2-Age-of-Ultron-2015-มหาศึกอัลตรอนถล่มโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avengers",Avengers 2 Age of Ultron [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/4716a0d99d4e8677d3c3a624b616f840/4716a0d99d4e8677d3c3a624b616f840.m3u8
+#EXTINF:-1 tvg-name="The Avengers [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/The-Avengers-2012-ดิ-เอเวนเจอร์ส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avengers",The Avengers [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/8db933ef98f59ee7358078df892378a6/8db933ef98f59ee7358078df892378a6.m3u8
+#EXTINF:-1 tvg-name="The Avengers [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/The-Avengers-2012-ดิ-เอเวนเจอร์ส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avengers",The Avengers [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/87c14bd12eb2d90c7037e18acfd67c40/87c14bd12eb2d90c7037e18acfd67c40.m3u8
