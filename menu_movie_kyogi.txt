@@ -5,7 +5,7 @@
   "groups": [
     {
       "name": "📂 หนังปี 2026",
-      "info": "7 เรื่อง",
+      "info": "8 เรื่อง",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Overacting-2026-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub1_p1.txt",
       "import": false
