@@ -1,0 +1,6 @@
+{
+  "name": "🎵 ช่องเพลง - รวมทั้งหมด",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/k8izoyljhbvmq35mqpcvj/.gif?rlkey=jmzvgfqq9h0d1ckek03rc8d3t&dl=1",
+  "stations": []
+}
