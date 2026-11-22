@@ -149,6 +149,13 @@
       "image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_dhamma_kyogi.txt",
       "import": false
+    },
+    {
+      "name": "🔞 หนัง ผู้ใหญ่",
+      "author": "KYO GI",
+      "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_adult_18.txt",
+      "import": false
     }
   ]
 }
