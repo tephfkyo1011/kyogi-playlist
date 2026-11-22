@@ -3,12 +3,71 @@
   "author": "KYO GI",
   "image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
   "groups": [
+{
+      "name": "GBN",
+      "image": "https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png",
+      "url": "https://live1.gbnus.com/live/dhamma_high/playlist.m3u8"
+    },  
+
+{
+      "name": "ZOOM072.Net",
+      "image": "https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",
+      "url": "https://live.zoom072.com/ch5/ch5.m3u8"
+    },
+    {
+      "name": "หลวงพ่อทัตตชีโว",
+      "image": "https://apitv.dmc.tv/uploads/t02_41535e4e06.jpeg",
+      "url": "https://live.zoom072.com/ch6/ch6.m3u8"
+    },
+    {
+      "name": "สมาธิ 24 น.",
+      "image": "https://apitv.dmc.tv/uploads/med_0965d3b20b.png",
+      "url": "https://live.zoom072.com/ch7/ch7.m3u8"
+    },
+  {
+      "name": "TV MUSLIM",
+      "image": "https://www.tvjaa.com/storage/tv-channels/tvmuslim.png",
+      "url": "https://tvjaa.com/tvmuslim.html"
+    },
+     {
+      "name": "YATEEM TV MUSLIM",
+      "image": "https://www.tvjaa.com/storage/tv-channels/yateem.png",
+      "url": "https://tvjaa.com/yateemtv.html"
+    },
+
+ {
+      "name": "กฏแห่งกรรม",
+      "image": "https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg",
+      "url": "https://live.zoom072.com/ch10/ch10.m3u8"
+    },
+    {
+      "name": "SBT TV หลวงตามหาบัว",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtvaqbwLEUgy16aCLYxT7Rkcu8A28qU-lsQ&usqp=CAU",
+      "url": "http://122.155.12.107/desktop/sbt_tv_hls.html"
+    },
+    {
+      "name": "SBB TV",
+      "image": "https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947",
+      "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1652960849.m3u8"
+    },
+ 
+    {
+      "name": "New TM",
+      "image": "https://yt3.ggpht.com/ytc/AKedOLTt8VVfoszudkVXM3r2wUDmw90jdQgVA2p3N4H5=s900-c-k-c0x00ffffff-no-rj",
+      "url": "https://vdo.plathong.net/wowza/flash7253/flash7253/chunklist_w167764757.m3u8"
+    },
+    {
+      "name": "Ashkara morning",
+      "image": "https://www.vhv.rs/dpng/d/432-4326154_akshara-agarwatti-hello-kitty-hd-png-download.png",
+      "url": "https://outin-e8979f3c3c3711eabb5500163e000677.oss-ap-southeast-1.aliyuncs.com/83fbfd854806446488254656f79d318a/513a32684b1e4691899863721fd1f0c9-e151b4bb73cfe525d0ea2ebfa097673c-hd.m3u8"
+    },
     {
       "name": "📂 ธรรมมะ",
       "info": "6 เรื่อง",
       "image": "https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/dhamma_kyogi_sub1_p1.txt",
       "import": false
+
     }
   ]
 }
