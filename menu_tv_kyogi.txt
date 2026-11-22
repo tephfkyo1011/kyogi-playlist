@@ -4,6 +4,13 @@
   "image": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
   "groups": [
     {
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
+      "url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
+      "import": false
+    },
+    {
       "name": "📂 ฟรีทีวีดิจิทัล",
       "info": "32 ช่อง",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
