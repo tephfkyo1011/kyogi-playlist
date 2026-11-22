@@ -1280,3 +1280,5 @@ https://main.24playerhd.com/m3u8/bc9728af23de57cf20251829/bc9728af23de57cf202518
 https://main.24playerhd.com/m3u8/1a2d29099942bbcd2456e542/1a2d29099942bbcd2456e542438.m3u8
 #EXTINF:-1 tvg-name="Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)" tvg-logo="https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)
 https://www.thaiclouderp.com/video/pakkret-river.m3u8
+#EXTINF:-1 tvg-name="ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)" tvg-logo="https://cctv-nont.firsttech.co.th/img/nakorn_nont_logo.6f152aad.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)
+https://stream-engine.enixma.net/live/nakornnont.stream/playlist.m3u8
