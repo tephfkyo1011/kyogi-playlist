@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Predator ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/08/Predator-1987-%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%99-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Predator",Predator ภาค 1 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/c1c7b79b5d634df4a666e93b/c1c7b79b5d634df4a666e93b.m3u8
+#EXTINF:-1 tvg-name="Predator ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/08/Predator-2-1990-%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%99-2-%E0%B8%9A%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Predator",Predator ภาค 2 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/c465dbaabe343da8389dd051/c465dbaabe343da8389dd051.m3u8
+#EXTINF:-1 tvg-name="Predator ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/08/Predators-2010-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Predator",Predator ภาค 3 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/dce0e781a4678fbdf35010aa/dce0e781a4678fbdf35010aa.m3u8
+#EXTINF:-1 tvg-name="Predator ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/08/The-Predator-2018-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Predator",Predator ภาค 4 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/d3ec9d9e0363b3fa52fa62c7/d3ec9d9e0363b3fa52fa62c7.m3u8
+#EXTINF:-1 tvg-name="Predator ภาค 5 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/08/Prey-2022-%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%A2%E0%B9%8C-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Predator",Predator ภาค 5 [Gojek TV ห้ามขาย]
+https://hot.24playerhd.com/autoplaylist/4bceb0e14716b6f36459f71c7818ee07/4bceb0e14716b6f36459f71c7818ee07.m3u8
