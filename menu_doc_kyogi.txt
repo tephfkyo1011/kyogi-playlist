@@ -1,0 +1,14 @@
+{
+  "name": "🌍 สารคดี",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/d3gevzanax9jbcj0rcelq/.gif?rlkey=m0b6wv8svpf0knelqoih3g1gl&dl=1",
+  "groups": [
+    {
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://www.dropbox.com/scl/fi/d3gevzanax9jbcj0rcelq/.gif?rlkey=m0b6wv8svpf0knelqoih3g1gl&dl=1",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/doc_kyogi_sub1_p1.txt",
+      "import": false
+    }
+  ]
+}
