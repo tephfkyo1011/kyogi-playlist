@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png" group-title="🎬 หนังคัดพิเศษ - รวมทั้งหมด",Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]
-https://main.24playerhd.com/m3u8/6ffa800421ef0671a9dff6b6/6ffa800421ef0671a9dff6b6438.m3u8
+#EXTINF:-1 tvg-name="EP1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - (จบแล้ว) 28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",EP1 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/70827cbc9b08be34c5917b47/70827cbc9b08be34c5917b47.m3u8
+#EXTINF:-1 tvg-name="EP2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-มหันตภัยเชื้อนรกถล่มเมือง.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - (จบแล้ว) 28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",EP2 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8
+#EXTINF:-1 tvg-name="EP3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - (จบแล้ว) 28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",EP3 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/0a6daaa712ea887b975b0d96/0a6daaa712ea887b975b0d96.m3u8
