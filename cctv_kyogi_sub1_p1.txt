@@ -8,6 +8,12 @@
       "image": "https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png",
       "url": "https://www.thaiclouderp.com/video/pakkret-river.m3u8",
       "playInNatPlayer": "true"
+    },
+    {
+      "name": "ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)",
+      "image": "https://cctv-nont.firsttech.co.th/img/nakorn_nont_logo.6f152aad.png",
+      "url": "https://stream-engine.enixma.net/live/nakornnont.stream/playlist.m3u8",
+      "playInNatPlayer": "true"
     }
   ]
 }
