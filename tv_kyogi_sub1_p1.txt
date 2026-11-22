@@ -1,7 +1,7 @@
 {
   "name": "📺 Digital TV - ฟรีทีวีดิจิทัล",
   "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/ex4q5yhmyoicotlddury4/.gif?rlkey=c5vrjtakupp6utdfibclfsezb&dl=1",
+  "image": "https://cdn.shopify.com/s/files/1/0608/6996/8004/files/What_is_Digital_TV.jpg?v=1763530210",
   "stations": [
     {
       "name": "CH5",
