@@ -7,7 +7,7 @@
       "name": "📂 รวมทั้งหมด",
       "info": "ว่าง",
       "image": "https://www.dropbox.com/scl/fi/q34hf26tmy2o9lxrh30ll/.gif?rlkey=2sgaow2bxct0tc83tneseautc&dl=1",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/world_tv_sub1_p1.txt",
+      "url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
       "import": false
     }
   ]
