@@ -4,6 +4,13 @@
   "image": "https://toppng.com/uploads/preview/free-png-banned-stamp-png-images-transparent-banned-png-transparent-11563802224vxu9watip4.png",
   "groups": [
     {
+      "name": "หนังภาคต่อ",
+      "author": "KYO GI",
+      "image": "https://play-lh.googleusercontent.com/nWONduhsjBKXMsVdRCvJH2OLxBqrWzATe80EkMl9uj0Id8hEJtzYoyrQQI98KYl6Di66Me-844UqkmnvtW-_2Q",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_movie_hd.txt",
+      "import": false
+    },
+    {
       "name": "📂 รวมทั้งหมด",
       "info": "ว่าง",
       "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
