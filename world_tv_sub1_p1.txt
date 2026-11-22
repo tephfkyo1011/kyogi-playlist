@@ -1,0 +1,6 @@
+{
+  "name": "🌐 ช่อง TV ทั่วโลก - รวมทั้งหมด",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/q34hf26tmy2o9lxrh30ll/.gif?rlkey=2sgaow2bxct0tc83tneseautc&dl=1",
+  "stations": []
+}
