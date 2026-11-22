@@ -1,6 +1,6 @@
 {
   "name": "🍿 ช่องหนัง ออนไลน์ - รวมทั้งหมด",
   "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/brq3rl8en04uinpiywvks/.gif?rlkey=hn4yqqy2tlg8pwhdg2r6sh7ll&st=n8ob61cf&dl=1",
+  "image": "https://image.bangkokbiznews.com/uploads/images/md/2023/02/MYnQQKZBlYaSBkPEaQSs.webp",
   "stations": []
 }
