@@ -1,6 +1,13 @@
 {
-  "name": "📹 ดูกล้องวงจรปิด - รวมทั้งหมด",
+  "name": "📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",
   "author": "KYO GI",
   "image": "https://www.dropbox.com/scl/fi/f1syiljnd7e43jzoqc672/.gif?rlkey=62zerl5so0icd8pwpowndnmil&dl=1",
-  "stations": []
+  "stations": [
+    {
+      "name": "Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)",
+      "image": "https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png",
+      "url": "https://www.thaiclouderp.com/video/pakkret-river.m3u8",
+      "playInNatPlayer": "true"
+    }
+  ]
 }
