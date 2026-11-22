@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Scream ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/06/Scream-1996-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%B5%E0%B8%94-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Scream",Scream ภาค 1 [Gojek TV ห้ามขาย]
+https://hot.24playerhd.com/autoplaylist/54f2485e6bd4eca70e7a5000fba85fa2/54f2485e6bd4eca70e7a5000fba85fa2.m3u8
+#EXTINF:-1 tvg-name="Scream ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/06/Scream-2-1997-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%B5%E0%B8%94-2-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Scream",Scream ภาค 2 [Gojek TV ห้ามขาย]
+https://hot.24playerhd.com/autoplaylist/379997e8f130a1db39adaa50a48bfafe/379997e8f130a1db39adaa50a48bfafe.m3u8
+#EXTINF:-1 tvg-name="Scream ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/06/Scream-3-2000-%E0%B8%AA%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1-3-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2..%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B8%99-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Scream",Scream ภาค 3 [Gojek TV ห้ามขาย]
+https://hot.24playerhd.com/autoplaylist/2f901e5783895b0775b61ed32c2659dc/2f901e5783895b0775b61ed32c2659dc.m3u8
+#EXTINF:-1 tvg-name="Scream ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/06/Scream-4-2011-%E0%B8%AA%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%A1-4-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E2%80%A6%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%81%E0%B8%8F-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Scream",Scream ภาค 4 [Gojek TV ห้ามขาย]
+https://hot.24playerhd.com/autoplaylist/7a8dee6b1cc76aded2404cc9eaa8f3c7/7a8dee6b1cc76aded2404cc9eaa8f3c7.m3u8
