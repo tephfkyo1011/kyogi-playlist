@@ -1,14 +1,99 @@
 {
-  "name": "🎞️ หนัง HD",
+  "name": "หนังใหม่",
   "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/belvnekq5pfbw795tjujz/.gif?rlkey=oh7a0eze34bl6f4m0vairk46w&dl=1",
+  "image": "https://toppng.com/uploads/preview/free-png-banned-stamp-png-images-transparent-banned-png-transparent-11563802224vxu9watip4.png",
   "groups": [
     {
-      "name": "📂 รวมทั้งหมด",
-      "info": "ว่าง",
-      "image": "https://play-lh.googleusercontent.com/nWONduhsjBKXMsVdRCvJH2OLxBqrWzATe80EkMl9uj0Id8hEJtzYoyrQQI98KYl6Di66Me-844UqkmnvtW-_2Q",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_hd_sub1_p1.txt",
+      "name": "ลูกจะดู",
+      "image": "https://www.dropbox.com/scl/fi/o0qkk00nbrfdnkwnvtrg6/bany.png?rlkey=b9hpbt6at70u8229812gngyla&st=ml4ttqhj&dl=1",
+      "url": "https://docs.google.com/uc?export=download&id=10LO9qsxg8s7QNfvlHRjHkTD3RMSmpyrU",
+      "import": "false"
+    },
+    {
+      "name": "sample123-hdx_หนังใหม่-2026",
+      "image": "https://static.thairath.co.th/media/00_A5B2768342C3E480.webp",
+      "url": "https://docs.google.com/uc?export=download&id=1dWadgR3Ll6iZK1ULOizR7PV2ZnvH4lbc",
       "import": false
+    },
+    {
+      "name": "🍀MOVIES NEW_TEST_7hd🍀",
+      "author": "🍁PL4YOU🍁",
+      "image": "https://i.postimg.cc/8kjKfBwT/PL4U-re.jpg",
+      "url": "https://drive.google.com/uc?id=1ll5kOipLf7lcTCUixbcdPQJNC4udohF-",
+      "import": false
+    },
+    {
+      "name": "24 HD",
+      "image": "https://play-lh.googleusercontent.com/IgqLMRznTbaS9pjXqnrZc3QE0Ns-cU95HxpBtSrqEW1vC8Ui6HOmRiRcenxkuEYkItkkQyIrxgmS-4PnHOFqrQ",
+      "url": "https://docs.google.com/uc?export=download&id=1-P92kFeoDYy-zakodI2feZCJhnJI9W6O",
+      "import": false
+    },
+    {
+      "name": "WANN CINEMA TV",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Rbqc4O1055YikHZvxpbhOXf_MOemldFK9RbbFL3pcw&s=10",
+      "url": "https://docs.google.com/uc?export=download&id=1cxsY7iHgz2KYXrB906FE1KD8IXrtQ1eV",
+      "info": "Pangton's : ลอกงานชาวบ้าน",
+      "import": false
+    },
+    {
+      "name": "🍀MOVIES_2026_2025🍀",
+      "author": "🍁PL4YOU🍁",
+      "image": "https://images.esquiremag.ph/esquiremagph/images/2023/05/03/10-movies-may-2023-main.jpg",
+      "url": "https://drive.google.com/uc?id=17kqEgpuFowoiJjxV3MBF0s9aU_1yGLBM",
+      "import": false
+    },
+    {
+      "name": "หนัง_:ซีรี่ต่างประเทศ",
+      "image": "https://www.thestreetratchada.com/upload/contents/1701319268TSR%20-%20Nov%20%209%20(%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87)-06.jpg",
+      "url": "https://docs.google.com/uc?export=download&id=1g5CanrJ47FVHSxBPWwNopXMIWSNThkC9",
+      "import": false
+    },
+    {
+      "name": "Movie Online",
+      "author": "Gojek TV ห้ามขาย!",
+      "url": "https://drive.google.com/uc?id=1X-uQAHe9DwuC_MUVuB9OvcDxdCBf9LiG",
+      "image": "https://img2.pic.in.th/pic/MovieOnline142d7e09029265a9.png",
+      "stations": []
+    },
+    {
+      "name": "123-hd",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmhkbW92aWVzLndhdGNoZnJlZS50dnNob3cucHJlbWl1bV9zY3JlZW5fMF8xNjQzNjE0MjgyXzAwNA/screen-0.jpg?fakeurl=1&type=.jpg",
+      "url": "http://tiny.cc/Free123HDD",
+      "import": "true"
+    },
+    {
+      "name": "037 ฝรั่ง",
+      "author": "บันเทิงส่วนตัว",
+      "info": "Update 16/12/68",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3cfQIPteRur1ptzCxuePuf6t9xTNJGFWow&s",
+      "url": "https://www.dropbox.com/scl/fi/gsutyxep4sul1mam10wgp/037hddmovie_.w3u?rlkey=74yiymjd97iu3njimhoyco7xo&st=e4c618b2&dl=1",
+      "import": "true"
+    },
+    {
+      "name": "🍀MOVIES_2024🍀",
+      "author": "🍁PL4YOU🍁",
+      "image": "https://images.esquiremag.ph/esquiremagph/images/2023/05/03/10-movies-may-2023-main.jpg",
+      "url": "https://drive.google.com/uc?id=11K1WselN_CWDWq2HcTorlzOFaVOFWx_U",
+      "import": false
+    },
+    {
+      "name": "New.M1(moviesdoofree)",
+      "image": "https://imgdownload.juxia.com/upload/202410/05/0ca544hXRP7GtYe.jpg",
+      "url": "https://shorturl.asia/z4Mxv",
+      "import": "true"
+    },
+    {
+      "name": "New.M2(moviesdoofree)",
+      "image": "https://imgdownload.juxia.com/upload/202410/05/0ca544hXRP7GtYe.jpg",
+      "url": "https://drive.google.com/uc?id=1qj_lTHgEQvLerFbvNhUKUJN79SX5T6fX",
+      "import": "true"
+    },
+    {
+      "name": "NETFLIX",
+      "author": "",
+      "url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
+      "image": "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
+      "import": "true"
     }
   ]
 }
