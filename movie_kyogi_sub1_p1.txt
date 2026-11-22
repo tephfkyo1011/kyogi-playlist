@@ -11,3 +11,5 @@ https://main.24playerhd.com/m3u8/d9b22e9ea932e972fdb14886/d9b22e9ea932e972fdb148
 https://main.24playerhd.com/m3u8/6a7f536f7152cf692979f87d/6a7f536f7152cf692979f87d438.m3u8
 #EXTINF:-1 tvg-name="Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังปี 2026",Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]
 https://main.24playerhd.com/m3u8/6ffa800421ef0671a9dff6b6/6ffa800421ef0671a9dff6b6438.m3u8
+#EXTINF:-1 tvg-name="Always Lalisa (2026) [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/Always-Lalisa-2026-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังปี 2026",Always Lalisa (2026) [ซับไทย]
+https://main.24playerhd.com/m3u8/bc9728af23de57cf20251829/bc9728af23de57cf20251829438.m3u8
