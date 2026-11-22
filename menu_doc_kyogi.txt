@@ -1,13 +1,18 @@
 {
-  "name": "🌍 สารคดี",
+  "name": "สารคดี",
   "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/d3gevzanax9jbcj0rcelq/.gif?rlkey=m0b6wv8svpf0knelqoih3g1gl&dl=1",
+  "image": "https://www.i-pic.info/i/EwHh631162.jpg",
   "groups": [
     {
-      "name": "📂 รวมทั้งหมด",
-      "info": "ว่าง",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsD1V_0IIDdo3e_i0prDJ_YmqIIEFa-GF4coom0xQ2A&s",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/doc_kyogi_sub1_p1.txt",
+      "name": "สารคดี ออนไลน์",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIi6Ah0rZUGSqRP2RRA2ZBVa4Q827uQAByJ7cXzjjtYTr5Dfq7Lr-Y02F&s=10",
+      "url": "https://drive.google.com/uc?export=download&id=19bNZPN99eK79WmUeE7v2ugvMWk2E2Vli",
+      "import": "true"
+    },
+    {
+      "name": "สารคดีชุด",
+      "image": "https://anowl.co/wp-content/uploads/2018/11/IMG_0499.jpg",
+      "url": "https://drive.google.com/uc?export=download&id=1EmByi-DuZxh-nC6LBaYitVFDH1KJeUZP",
       "import": false
     }
   ]
