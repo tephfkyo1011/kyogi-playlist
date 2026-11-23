@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="The Guardians of the Galaxy Holiday Special (2022) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/11/The-Guardians-of-the-Galaxy-Holiday-Special-2022-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",The Guardians of the Galaxy Holiday Special (2022) [พากย์ไทย]
+#EXTINF:-1 tvg-name="Ant-Man and the Wasp Quantumania (2023) แอนท์‑แมน และ เดอะ วอสพ์ ตะลุยมิติควอนตัม [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/02/Ant-Man-and-the-Wasp-Quantumania-2023-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C%E2%80%91%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C-%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A1-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ant-Man",Ant-Man and the Wasp Quantumania (2023) แอนท์‑แมน และ เดอะ วอสพ์ ตะลุยมิติควอนตัม [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/cdac564491477dbe263ef8ab/cdac564491477dbe263ef8ab.m3u8
-#EXTINF:-1 tvg-name="Guardians of the Galaxy 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 3 [พากย์ไทย]
+https://main.24playerhd.com/newplaylist/c9d94073ab63f3645325f0d5/c9d94073ab63f3645325f0d5.m3u8
+#EXTINF:-1 tvg-name="Ant-Man ภาค 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Ant-Man-and-the-Wasp-2018-แอนท์แมน-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ant-Man",Ant-Man ภาค 2 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/2d3dd64597a7d2e50c6bbb78/2d3dd64597a7d2e50c6bbb78.m3u8
-#EXTINF:-1 tvg-name="Guardians of the Galaxy 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 3 [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/30c8edd7637fcb5d608b866e7129fe1f/30c8edd7637fcb5d608b866e7129fe1f.m3u8
+#EXTINF:-1 tvg-name="Ant-Man ภาค 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Ant-Man-and-the-Wasp-2018-แอนท์แมน-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ant-Man",Ant-Man ภาค 2 [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/m3u8/7d95e5ee896674f6a75370e3/7d95e5ee896674f6a75370e3438.m3u8
-#EXTINF:-1 tvg-name="Guardians of the Galaxy 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 2 [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/a525dd100ce0b73fd1c75535e5a2a206/a525dd100ce0b73fd1c75535e5a2a206.m3u8
+#EXTINF:-1 tvg-name="Ant-Man ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Ant-Man-2015-มนุษย์มดมหากาฬ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ant-Man",Ant-Man ภาค 1 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/a4e912974bb6c5014a40630a937a862a/a4e912974bb6c5014a40630a937a862a.m3u8
-#EXTINF:-1 tvg-name="Guardians of the Galaxy 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 2 [ซับไทย]
+https://main.24playerhd.com/newplaylist/bfb576de5063c1359d76357f/bfb576de5063c1359d76357f438.m3u8
+#EXTINF:-1 tvg-name="Ant-Man ภาค 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Ant-Man-2015-มนุษย์มดมหากาฬ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ant-Man",Ant-Man ภาค 1 [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/0be510b940728823c48653b756c3cc20/0be510b940728823c48653b756c3cc20.m3u8
-#EXTINF:-1 tvg-name="Guardians of the Galaxy 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 1 [พากย์ไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/be56c3f616835977b4e1f3ba/be56c3f616835977b4e1f3ba438.m3u8
-#EXTINF:-1 tvg-name="Guardians of the Galaxy 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 1 [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/ce72a469b334ce6598e24dff/ce72a469b334ce6598e24dff438.m3u8
+https://main.24playerhd.com/newplaylist/da71db1603665036ecbd7071/da71db1603665036ecbd7071438.m3u8
