@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jaws ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-1975-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 1 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/3e74e2cf1f3a119059d0db0a/3e74e2cf1f3a119059d0db0a.m3u8
-#EXTINF:-1 tvg-name="Jaws ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-2-1978-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-2-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 2 [Gojek TV ห้ามขาย]
-https://hot.24playerhd.com/autoplaylist/15c8a68c11cb42e4df98bad1ab39dd8d/15c8a68c11cb42e4df98bad1ab39dd8d.m3u8
-#EXTINF:-1 tvg-name="Jaws ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-3-D-1983-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 3 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/b05900ad17bf0f02e850d251/b05900ad17bf0f02e850d251.m3u8
-#EXTINF:-1 tvg-name="Jaws ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-The-Revenge-1987-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-4-%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E2%80%A6%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 4 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/bb652271a2a18c89b8445331/bb652271a2a18c89b8445331.m3u8
+#EXTINF:-1 tvg-name="Deep Blue Sea ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Deep-Blue-Sea-1999-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Deep Blue Sea",Deep Blue Sea ภาค 1 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/3f4dc1785c639eb8dcff3a7e/3f4dc1785c639eb8dcff3a7e.m3u8
+#EXTINF:-1 tvg-name="Deep Blue Sea ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Deep-Blue-Sea-2-2018-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3-2-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Deep Blue Sea",Deep Blue Sea ภาค 2 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/af146acde86c46c539ba07ee/af146acde86c46c539ba07ee.m3u8
+#EXTINF:-1 tvg-name="Deep Blue Sea ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Deep-Blue-Sea-3-2020-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Deep Blue Sea",Deep Blue Sea ภาค 3 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/d2fa9dc224ba409ea6ed2d6b/d2fa9dc224ba409ea6ed2d6b.m3u8
