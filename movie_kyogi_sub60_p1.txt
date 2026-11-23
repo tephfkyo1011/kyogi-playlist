@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="The Bourne Legacy (2012) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Bourne Legacy",The Bourne Legacy (2012) [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/f46f50facaaf4f6433d4b401cfa49d40/f46f50facaaf4f6433d4b401cfa49d40.m3u8
 #EXTINF:-1 tvg-name="The Bourne Ultimatum ปิดเกมล่าจารชน คนอันตราย [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Ultimatum-2007-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Bourne Legacy",The Bourne Ultimatum ปิดเกมล่าจารชน คนอันตราย [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/7ad404be97d38f4881000b36/7ad404be97d38f4881000b36.m3u8
 #EXTINF:-1 tvg-name="The Bourne Supremacy (2004) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Supremacy-2004-สุดยอดเกมล่าจารชน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Bourne Legacy",The Bourne Supremacy (2004) [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/d2b88ce10e9816363b6a636146c5b0b5/d2b88ce10e9816363b6a636146c5b0b5.m3u8
 #EXTINF:-1 tvg-name="The Bourne Identity ล่าจารชน ยอดคนอันตราย [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Identity-2002-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Bourne Legacy",The Bourne Identity ล่าจารชน ยอดคนอันตราย [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/0249d3529e64f060d16b4e1d/0249d3529e64f060d16b4e1d.m3u8
