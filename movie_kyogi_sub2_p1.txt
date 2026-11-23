@@ -27,6 +27,9 @@ https://m1-txt-2.xdomovie247.com/playlist2/detail/61785124442955Za/720/hls/index
 https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgOToxNDo1NiBBTSZoYXNoX3ZhbHVlPXh1dWdwd1pkTEs5N2tQRGtmcWxDVkE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-name="The Fast And Furious" tvg-logo="https://img.inwiptv.net/postor/20191113070713fast--furious-presents-hobbs--shaw-5d08dc7011654.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious
 https://m1free.inwstream.com:1936/movie3/Fast_And_Furious_Presents_Hobbs_And_Shaw_2019/Fast_and_Furious_Presents_Hobbs_and_Shaw_2019_TH_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgOTowNjo1NyBBTSZoYXNoX3ZhbHVlPWVDSlhEYXdPcHpwWlUyY2hCOURqaWc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:-1 tvg-name="The Maze Runner วงกตมฤตยู [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-3-The-Death-Cure-2018-วงกตมฤตยู-ภาค-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Maze Runner วงกตมฤตยู [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/0bffd68970025c4aaad1fcf0ce91e89b/0bffd68970025c4aaad1fcf0ce91e89b.m3u8
 #EXTINF:-1 tvg-name="The Maze Runner วงกตมฤตยู [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Maze Runner วงกตมฤตยู [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/5da8ed9cea1e524bc3b7dde4e2ccc191/5da8ed9cea1e524bc3b7dde4e2ccc191.m3u8
