@@ -1,21 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Terminator 6 Dark Fate (2019) คนเหล็ก 6 วิกฤตชะตาโลก [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-6-Dark-Fate-2019-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-6-%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",Terminator 6 Dark Fate (2019) คนเหล็ก 6 วิกฤตชะตาโลก [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/d21766ebde71a53d07154f52e27d5998/d21766ebde71a53d07154f52e27d5998.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 5 มหาวิบัติจักรกลยึดโลก [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-5-Genisys-2015-คนเหล็ก-5-มหาวิบัติจักรกลยึดโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 5 มหาวิบัติจักรกลยึดโลก [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/1c4bd09daa7cb0420ac33ee28025c5c2/1c4bd09daa7cb0420ac33ee28025c5c2.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 5 มหาวิบัติจักรกลยึดโลก [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-5-Genisys-2015-คนเหล็ก-5-มหาวิบัติจักรกลยึดโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 5 มหาวิบัติจักรกลยึดโลก [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/341d13568442a93cf38fca960d03ebdc/341d13568442a93cf38fca960d03ebdc.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 4 มหาสงครามจักรกลล้างโลก [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-4-Salvation-2009-คนเหล็ก-4-มหาสงครามจักรกลล้างโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 4 มหาสงครามจักรกลล้างโลก [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/04d360da48c1b078886f72ce749c9350/04d360da48c1b078886f72ce749c9350.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 4 มหาสงครามจักรกลล้างโลก [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-4-Salvation-2009-คนเหล็ก-4-มหาสงครามจักรกลล้างโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 4 มหาสงครามจักรกลล้างโลก [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/52b4529f2fbc19654d0d0356ee81b8d2/52b4529f2fbc19654d0d0356ee81b8d2.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-3-Rise-Of-The-Machines-2003-คนเหล็ก-3-กำเนิดใหม่เครื่องจักรสังหาร-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/9ed4bfef37e5d4546c9c6cc941ea1d4e/9ed4bfef37e5d4546c9c6cc941ea1d4e.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-3-Rise-Of-The-Machines-2003-คนเหล็ก-3-กำเนิดใหม่เครื่องจักรสังหาร-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/9c25f9e7ab99569d35a0733750fb6ab5/9c25f9e7ab99569d35a0733750fb6ab5.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 2 วันพิพากษา [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-2-Judgment-Day-1991-คนเหล็ก-2-วันพิพากษา-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 2 วันพิพากษา [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/135d2542fb4e2cc2133e4275e8468970/135d2542fb4e2cc2133e4275e8468970.m3u8
 #EXTINF:-1 tvg-name="คนเหล็ก ภาค 2 วันพิพากษา [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-2-Judgment-Day-1991-คนเหล็ก-2-วันพิพากษา-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",คนเหล็ก ภาค 2 วันพิพากษา [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/1f146bbbb1627ee8b2563e13e9c63908/1f146bbbb1627ee8b2563e13e9c63908.m3u8
 #EXTINF:-1 tvg-name="The Terminator 1 คนเหล็ก 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Terminator-1-1984-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Terminator",The Terminator 1 คนเหล็ก 1 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/09a81067633dc7068cde742b235e019e/09a81067633dc7068cde742b235e019e.m3u8
