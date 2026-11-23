@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Taxi  ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-1998-%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Taxi",Taxi  ภาค 1 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/e5e055b0d11fcb650d893d34/e5e055b0d11fcb650d893d34.m3u8
-#EXTINF:-1 tvg-name="Taxi  ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-2-2000-%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94-2-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Taxi",Taxi  ภาค 2 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/776d76b10943894acc7ff7a5/776d76b10943894acc7ff7a5.m3u8
-#EXTINF:-1 tvg-name="Taxi  ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-3-2003-%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Taxi",Taxi  ภาค 3 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/ffac09794fb04cc63a832915/ffac09794fb04cc63a832915.m3u8
-#EXTINF:-1 tvg-name="Taxi  ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-4-2007-%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Taxi",Taxi  ภาค 4 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/31ec0bf690b1817c58b17d9f/31ec0bf690b1817c58b17d9f.m3u8
+#EXTINF:-1 tvg-name="Ong Bak ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Ong-Bak-2003-%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9A%E0%B8%B2%E0%B8%81-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ong Bak",Ong Bak ภาค 1 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/7c0ac184e1d3e13828f9fa87/7c0ac184e1d3e13828f9fa87.m3u8
+#EXTINF:-1 tvg-name="Ong Bak ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Ong-Bak-2-2008-%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9A%E0%B8%B2%E0%B8%81-2-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ong Bak",Ong Bak ภาค 2 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/e73ed9cd433dacdff005d770/e73ed9cd433dacdff005d770.m3u8
+#EXTINF:-1 tvg-name="Ong Bak ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Ong-Bak-3-2010-%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9A%E0%B8%B2%E0%B8%81-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Ong Bak",Ong Bak ภาค 3 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/451e5c051d789ee9f6d735b1/451e5c051d789ee9f6d735b1.m3u8
