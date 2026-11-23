@@ -12,7 +12,7 @@
     },
     {
       "name": "📂 หนังภาคต่อ",
-      "info": "17 เรื่อง",
+      "info": "18 เรื่อง",
       "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_p1.txt",
       "import": false
@@ -460,7 +460,7 @@
     },
     {
       "name": "📂 Maze Runner",
-      "info": "2 เรื่อง",
+      "info": "1 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-3-The-Death-Cure-2018-วงกตมฤตยู-ภาค-3-250x350.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub66_p1.txt",
       "import": false
