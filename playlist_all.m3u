@@ -135,139 +135,41 @@ https://main.24playerhd.com/newplaylist/2a3eb68b530ae5494ebcacab/2a3eb68b530ae54
 https://main.24playerhd.com/newplaylist/3f128067130108024b887f30/3f128067130108024b887f30438.m3u8
 #EXTINF:-1 tvg-name="The Rules (2026) กฎหลังเที่ยงคืน - ตอนที่ 5 [พากย์ไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg" group-title="🇹🇭 ซีรีส์ไทย - ปี 2026",The Rules (2026) กฎหลังเที่ยงคืน - ตอนที่ 5 [พากย์ไทย]
 https://main.24playerhd.com/newplaylist/4e016c6bd162d0ab828b6243/4e016c6bd162d0ab828b6243438.m3u8
-#EXTINF:-1 tvg-name="CH5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH5
-https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8
-#EXTINF:-1 tvg-name="McotHD" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",McotHD
-#EXTVLCOPT:http-referrer=https://www.mcot.net/
-https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Mono29" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Mono29
-#EXTVLCOPT:http-referrer=https://kicksball.com/tv/mono29-%E0%B9%82%E0%B8%A1%E0%B9%82%E0%B8%99-29-279
-https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
-#EXTINF:-1 tvg-name="NBT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8
-#EXTINF:-1 tvg-name="NBT-ภาคกลาง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคกลาง
-https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8
-#EXTINF:-1 tvg-name="NBT-ภาคเหนือ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคเหนือ
-https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8
-#EXTINF:-1 tvg-name="NBT-ภาคอีสาน" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคอีสาน
-https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8
-#EXTINF:-1 tvg-name="NBT-ภาคใต้" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคใต้
-https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8
-#EXTINF:-1 tvg-name="Thai PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Thai PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-name="PPTV" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",PPTV
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
-#EXTINF:-1 tvg-name="Amarin TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Amarin TV
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
-#EXTINF:-1 tvg-name="GMM25" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",GMM25
-#EXTVLCOPT:http-referrer=https://kicksball.com/tv/tnn-516
-https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
-#EXTINF:-1 tvg-name="ONE31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",ONE31
-#EXTVLCOPT:http-referrer=https://www.oned.net/live-tv/one31
-https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
-#EXTINF:-1 tvg-name="TopNews" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",TopNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
-#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Workpoint
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
-#EXTINF:-1 tvg-name="TNN16" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",TNN16
-#EXTVLCOPT:http-referrer=https://www.tnnthailand.com/live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://live-us1.thaimomo.com/live-as/chtnn24-2/chunklist_w1680535099.m3u8
-#EXTINF:-1 tvg-name="Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Nation
-#EXTVLCOPT:http-referrer=https://www.adintrend.tv/hd/ch37?t=live
-https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
-#EXTINF:-1 tvg-name="True4U" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",True4U
-#EXTVLCOPT:http-referrer=https://madoball.com
-https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
-#EXTINF:-1 tvg-name="NEWS 1" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NEWS 1
-http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-name="Cable 37" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Cable 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 tvg-name="สุวรรณภูมิ TV" tvg-logo="https://i.postimg.cc/y8ZtfvK6/IMG-2509.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",สุวรรณภูมิ TV
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-name="Cool Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Cool Channel
-#EXTVLCOPT:http-referrer=https://live-iptv.cool-channel.com/
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 tvg-name="Thainews" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Thainews
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 tvg-name="Siamnewstv" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Siamnewstv
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 tvg-name="Gochannel" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Gochannel
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live2.thaitvstream.com/play/gochannel/index.m3u8
-#EXTINF:-1 tvg-name="Chiangrai" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Chiangrai
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-1 tvg-name="Mounchon TV" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Mounchon TV
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 tvg-name="Medianews" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Medianews
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live1.thaitvstream.com/play/medianews/index.m3u8
-#EXTINF:-1 tvg-name="Channel8thailand" tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Channel8thailand
-https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-name="Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังปี 2026",Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]
 https://main.24playerhd.com/m3u8/6ffa800421ef0671a9dff6b6/6ffa800421ef0671a9dff6b6438.m3u8
-#EXTINF:-1 tvg-name="3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",3HD
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://ch3-33-web.cdn.byteark.com/live/720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787913302&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=Rm7a7fJhCSOK8cl-X7ygdw
-#EXTINF:-1 tvg-name="7HD" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",7HD
-https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-#EXTINF:-1 tvg-name="CH8" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://www.thaich8.com/live?var_link=720p
 #EXTINF:-1 tvg-name="Good Partner 2 (2026) คู่หูทนายตัวแม่ 2 - ตอนที่ 1 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",Good Partner 2 (2026) คู่หูทนายตัวแม่ 2 - ตอนที่ 1 [ซับไทย]
 https://main.24playerhd.com/m3u8/24477895702d9faf8948f888/24477895702d9faf8948f888438.m3u8
-#EXTINF:-1 tvg-name="GBN" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",GBN
-https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
-#EXTINF:-1 tvg-name="ZOOM072.Net" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",ZOOM072.Net
-https://live.zoom072.com/ch5/ch5.m3u8
-#EXTINF:-1 tvg-name="หลวงพ่อทัตตชีโว" tvg-logo="https://apitv.dmc.tv/uploads/t02_41535e4e06.jpeg" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",หลวงพ่อทัตตชีโว
-https://live.zoom072.com/ch6/ch6.m3u8
-#EXTINF:-1 tvg-name="สมาธิ 24 น." tvg-logo="https://apitv.dmc.tv/uploads/med_0965d3b20b.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",สมาธิ 24 น.
-https://live.zoom072.com/ch7/ch7.m3u8
-#EXTINF:-1 tvg-name="กฏแห่งกรรม" tvg-logo="https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",กฏแห่งกรรม
-https://live.zoom072.com/ch10/ch10.m3u8
-#EXTINF:-1 tvg-name="SBB TV" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",SBB TV
-https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1652960849.m3u8
 #EXTINF:-1 tvg-name="Good Partner 2 (2026) คู่หูทนายตัวแม่ 2 - ตอนที่ 2 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",Good Partner 2 (2026) คู่หูทนายตัวแม่ 2 - ตอนที่ 2 [ซับไทย]
 https://main.24playerhd.com/m3u8/aafcd19b560a66cab577a34c/aafcd19b560a66cab577a34c438.m3u8
 #EXTINF:-1 tvg-name="100 Days of Deception (2026) 100 วันปฏิบัติการลวง - ตอนที่ 13 [ซับไทย]" tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",100 Days of Deception (2026) 100 วันปฏิบัติการลวง - ตอนที่ 13 [ซับไทย]
 https://main.24playerhd.com/m3u8/ad9b587c98e1276b2656944c/ad9b587c98e1276b2656944c438.m3u8
-#EXTINF:-1 tvg-name="EP1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",EP1 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="28 Days Later 28 วันให้หลัง เชื้อเขมือบคน - 28 Days Later 28 วันให้หลัง เชื้อเขมือบคน ภาค 1" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",28 Days Later 28 วันให้หลัง เชื้อเขมือบคน - 28 Days Later 28 วันให้หลัง เชื้อเขมือบคน ภาค 1
 https://main.24playerhd.com/newplaylist/70827cbc9b08be34c5917b47/70827cbc9b08be34c5917b47.m3u8
-#EXTINF:-1 tvg-name="EP2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-มหันตภัยเชื้อนรกถล่มเมือง.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",EP2 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="28 Days Later 28 วันให้หลัง เชื้อเขมือบคน - 28 Days Later 28 วันให้หลัง เชื้อเขมือบคน ภาค 2" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2022/01/28-Weeks-Later-2007-มหันตภัยเชื้อนรกถล่มเมือง.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",28 Days Later 28 วันให้หลัง เชื้อเขมือบคน - 28 Days Later 28 วันให้หลัง เชื้อเขมือบคน ภาค 2
 https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8
-#EXTINF:-1 tvg-name="EP3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",EP3 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="28 Days Later 28 วันให้หลัง เชื้อเขมือบคน - 28 Days Later 28 วันให้หลัง เชื้อเขมือบคน ภาค 3" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",28 Days Later 28 วันให้หลัง เชื้อเขมือบคน - 28 Days Later 28 วันให้หลัง เชื้อเขมือบคน ภาค 3
 https://main.24playerhd.com/newplaylist/0a6daaa712ea887b975b0d96/0a6daaa712ea887b975b0d96.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://22-hd.com/wp-content/uploads/2022/11/The-Fast-and-the-Furious-1.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 1 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 1" tvg-logo="https://22-hd.com/wp-content/uploads/2022/11/The-Fast-and-the-Furious-1.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 1
 https://m5-txt-2.xdomovie247.com/playlist2/detail/8cf8abf2FUOCx/1080/hls/index.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/2-Fast-2-Furious-2003-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%84%E0%B8%B9%E0%B8%93-2-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 2 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 2" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/2-Fast-2-Furious-2003-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%84%E0%B8%B9%E0%B8%93-2-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 2
 https://main.24playerhd.com/newplaylist/87f09250cd50def42ab2ac83/87f09250cd50def42ab2ac83.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/The-Fast-and-the-Furious-Tokyo-Drift-2006-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 3 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 3" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/The-Fast-and-the-Furious-Tokyo-Drift-2006-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 3
 https://main.24playerhd.com/newplaylist/88319a12b3ab3c1b9da87267/88319a12b3ab3c1b9da87267.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-4-2009-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-4-%E0%B8%A2%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 4 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 4" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-4-2009-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-4-%E0%B8%A2%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B9%84%E0%B8%A1%E0%B8%A5%E0%B9%8C-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 4
 https://main.24playerhd.com/newplaylist/994720fbbbaf904467ad5ba6/994720fbbbaf904467ad5ba6.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 5 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-5-2011-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-5-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 5 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 5" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-5-2011-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-5-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 5
 https://main.24playerhd.com/newplaylist/b97c4e7865fd93d8e498f9d0/b97c4e7865fd93d8e498f9d0.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 6 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-6-2013-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-6-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 6 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 6" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-6-2013-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-6-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 6
 https://main.24playerhd.com/newplaylist/82cabad80e4997a31cbd4c28/82cabad80e4997a31cbd4c28.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 7 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-And-Furious-7-2015-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-7-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 7 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 7" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-And-Furious-7-2015-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-7-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 7
 https://main.24playerhd.com/newplaylist/3a78910939a204d9cae78d62/3a78910939a204d9cae78d62.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 8 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-And-Furious-8-2017-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-8-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 8 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 8" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Fast-And-Furious-8-2017-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-8-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 8
 https://main.24playerhd.com/newplaylist/0a791aeae4ba21a53a0d7278/0a791aeae4ba21a53a0d7278.m3u8
-#EXTINF:-1 tvg-name="The Fast And Furious ภาค 9 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2021/07/Fast-Furious-9-2021-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious ภาค 9 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 9" tvg-logo="https://www.123-hd.com/wp-content/uploads/2021/07/Fast-Furious-9-2021-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 9
 https://m1-txt-2.xdomovie247.com/playlist2/detail/61785124442955Za/720/hls/index.m3u8
-#EXTINF:-1 tvg-name="ภาค 10 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Fast-X-2023-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-10-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",ภาค 10 [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious ภาค 10" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Fast-X-2023-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7..%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81-10-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious ภาค 10
 https://m1free.inwstream.com:1936/movie3/Fast_X_2023/Fast_X_2023_th_1080.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgOToxNDo1NiBBTSZoYXNoX3ZhbHVlPXh1dWdwd1pkTEs5N2tQRGtmcWxDVkE9PSZ2YWxpZG1pbnV0ZXM9NQ==
-#EXTINF:-1 tvg-name="The Fast And Furious Fast & Furious Hobbs & Shaw (2019) เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์ [Gojek TV ห้ามขาย]" tvg-logo="https://img.inwiptv.net/postor/20191113070713fast--furious-presents-hobbs--shaw-5d08dc7011654.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Fast And Furious",The Fast And Furious Fast & Furious Hobbs & Shaw (2019) เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์ [Gojek TV ห้ามขาย]
+#EXTINF:-1 tvg-name="The Fast And Furious - The Fast And Furious Fast & Furious Hobbs & Shaw (2019) เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์" tvg-logo="https://img.inwiptv.net/postor/20191113070713fast--furious-presents-hobbs--shaw-5d08dc7011654.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Fast And Furious - The Fast And Furious Fast & Furious Hobbs & Shaw (2019) เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์
 https://m1free.inwstream.com:1936/movie3/Fast_And_Furious_Presents_Hobbs_And_Shaw_2019/Fast_and_Furious_Presents_Hobbs_and_Shaw_2019_TH_1080p.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgOTowNjo1NyBBTSZoYXNoX3ZhbHVlPWVDSlhEYXdPcHpwWlUyY2hCOURqaWc9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-1 tvg-name="Deadpool ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Deadpool",Deadpool ภาค 1 [Gojek TV ห้ามขาย]
 https://main.24playerhd.com/newplaylist/78acd4bc47cfeda97b09c244/78acd4bc47cfeda97b09c244.m3u8
@@ -1260,7 +1162,7 @@ https://hot.24playerhd.com/autoplaylist/5da8ed9cea1e524bc3b7dde4e2ccc191/5da8ed9
 #EXTINF:-1 tvg-name="Maze Runner ภาค 2 The Scorch Trials [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Maze Runner",Maze Runner ภาค 2 The Scorch Trials [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/a050c6d9a0b097261741e4626eb148fd/a050c6d9a0b097261741e4626eb148fd.m3u8
-#EXTINF:-1 tvg-name="The Maze Runner (2014) วงกตมฤตยู ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%95%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Maze Runner",The Maze Runner (2014) วงกตมฤตยู ภาค 1 [พากย์ไทย]
+#EXTINF:-1 tvg-name="The Maze Runner วงกตมฤตยู [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%95%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Maze Runner วงกตมฤตยู [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/bbaa55ae94a48f8e567e1dace38c7124/bbaa55ae94a48f8e567e1dace38c7124.m3u8
 #EXTINF:-1 tvg-name="100 Days of Deception (2026) 100 วันปฏิบัติการลวง - ตอนที่ 14 [ซับไทย]" tvg-logo="https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",100 Days of Deception (2026) 100 วันปฏิบัติการลวง - ตอนที่ 14 [ซับไทย]
@@ -1273,10 +1175,6 @@ https://main.24playerhd.com/m3u8/397425ead3e92377a069c718/397425ead3e92377a069c7
 https://main.24playerhd.com/m3u8/bc9728af23de57cf20251829/bc9728af23de57cf20251829438.m3u8
 #EXTINF:-1 tvg-name="Steps (2026) พี่น้องรองเท้าแก้ว [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/Steps-2026-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังปี 2026",Steps (2026) พี่น้องรองเท้าแก้ว [ซับไทย]
 https://main.24playerhd.com/m3u8/1a2d29099942bbcd2456e542/1a2d29099942bbcd2456e542438.m3u8
-#EXTINF:-1 tvg-name="Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)" tvg-logo="https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)
-https://www.thaiclouderp.com/video/pakkret-river.m3u8
-#EXTINF:-1 tvg-name="ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)" tvg-logo="https://cctv-nont.firsttech.co.th/img/nakorn_nont_logo.6f152aad.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)
-https://stream-engine.enixma.net/live/nakornnont.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="The Perfect Lie (2026) รักซ่อนลวง - ตอนที่ 1 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",The Perfect Lie (2026) รักซ่อนลวง - ตอนที่ 1 [ซับไทย]
 https://main.24playerhd.com/m3u8/274d0723155d36cca14895cb/274d0723155d36cca14895cb438.m3u8
 #EXTINF:-1 tvg-name="The Perfect Lie (2026) รักซ่อนลวง - ตอนที่ 2 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",The Perfect Lie (2026) รักซ่อนลวง - ตอนที่ 2 [ซับไทย]
@@ -1301,3 +1199,105 @@ https://main.24playerhd.com/m3u8/eea647d9db61d7b7c5465e13/eea647d9db61d7b7c5465e
 https://main.24playerhd.com/m3u8/49bc47817c349db2401b0dc9/49bc47817c349db2401b0dc9438.m3u8
 #EXTINF:-1 tvg-name="Sword & Silence (2026) คมดาบพลิกแผ่นดิน - ตอนที่ 4 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",Sword & Silence (2026) คมดาบพลิกแผ่นดิน - ตอนที่ 4 [ซับไทย]
 https://main.24playerhd.com/m3u8/32444a44f7b9d75335dbf94a/32444a44f7b9d75335dbf94a438.m3u8
+#EXTINF:-1 tvg-name="CH5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH5
+https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8
+#EXTINF:-1 tvg-name="McotHD" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",McotHD
+#EXTVLCOPT:http-referrer=https://www.mcot.net/
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mono29" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Mono29
+#EXTVLCOPT:http-referrer=https://kicksball.com/tv/mono29-%E0%B9%82%E0%B8%A1%E0%B9%82%E0%B8%99-29-279
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+#EXTINF:-1 tvg-name="NBT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8
+#EXTINF:-1 tvg-name="NBT-ภาคกลาง" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคกลาง
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8
+#EXTINF:-1 tvg-name="NBT-ภาคเหนือ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคเหนือ
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8
+#EXTINF:-1 tvg-name="NBT-ภาคอีสาน" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคอีสาน
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8
+#EXTINF:-1 tvg-name="NBT-ภาคใต้" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NBT-ภาคใต้
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8
+#EXTINF:-1 tvg-name="Thai PBS" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-name="PPTV" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",PPTV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Amarin TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Amarin TV
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
+#EXTINF:-1 tvg-name="GMM25" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",GMM25
+#EXTVLCOPT:http-referrer=https://kicksball.com/tv/tnn-516
+https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
+#EXTINF:-1 tvg-name="ONE31" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",ONE31
+#EXTVLCOPT:http-referrer=https://www.oned.net/live-tv/one31
+https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
+#EXTINF:-1 tvg-name="TopNews" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",TopNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
+#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Workpoint
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
+#EXTINF:-1 tvg-name="TNN16" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",TNN16
+#EXTVLCOPT:http-referrer=https://www.tnnthailand.com/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live-us1.thaimomo.com/live-as/chtnn24-2/chunklist_w1680535099.m3u8
+#EXTINF:-1 tvg-name="Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Nation
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/hd/ch37?t=live
+https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
+#EXTINF:-1 tvg-name="True4U" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",True4U
+#EXTVLCOPT:http-referrer=https://madoball.com
+https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
+#EXTINF:-1 tvg-name="NEWS 1" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",NEWS 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-name="Cable 37" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Cable 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-name="สุวรรณภูมิ TV" tvg-logo="https://i.postimg.cc/y8ZtfvK6/IMG-2509.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",สุวรรณภูมิ TV
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-name="Cool Channel" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Cool Channel
+#EXTVLCOPT:http-referrer=https://live-iptv.cool-channel.com/
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-name="Thainews" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Thainews
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-name="Siamnewstv" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Siamnewstv
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-name="Gochannel" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Gochannel
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
+https://live2.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1 tvg-name="Chiangrai" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Chiangrai
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1 tvg-name="Mounchon TV" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Mounchon TV
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-name="Medianews" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Medianews
+#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1 tvg-name="Channel8thailand" tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Channel8thailand
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
+#EXTINF:-1 tvg-name="3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",3HD
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://ch3-33-web.cdn.byteark.com/live/720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787913302&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=Rm7a7fJhCSOK8cl-X7ygdw
+#EXTINF:-1 tvg-name="7HD" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",7HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://www.thaich8.com/live?var_link=720p
+#EXTINF:-1 tvg-name="GBN" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",GBN
+https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
+#EXTINF:-1 tvg-name="ZOOM072.Net" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",ZOOM072.Net
+https://live.zoom072.com/ch5/ch5.m3u8
+#EXTINF:-1 tvg-name="หลวงพ่อทัตตชีโว" tvg-logo="https://apitv.dmc.tv/uploads/t02_41535e4e06.jpeg" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",หลวงพ่อทัตตชีโว
+https://live.zoom072.com/ch6/ch6.m3u8
+#EXTINF:-1 tvg-name="สมาธิ 24 น." tvg-logo="https://apitv.dmc.tv/uploads/med_0965d3b20b.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",สมาธิ 24 น.
+https://live.zoom072.com/ch7/ch7.m3u8
+#EXTINF:-1 tvg-name="กฏแห่งกรรม" tvg-logo="https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",กฏแห่งกรรม
+https://live.zoom072.com/ch10/ch10.m3u8
+#EXTINF:-1 tvg-name="SBB TV" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1652960849.m3u8
+#EXTINF:-1 tvg-name="Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)" tvg-logo="https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)
+https://www.thaiclouderp.com/video/pakkret-river.m3u8
+#EXTINF:-1 tvg-name="ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)" tvg-logo="https://cctv-nont.firsttech.co.th/img/nakorn_nont_logo.6f152aad.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)
+https://stream-engine.enixma.net/live/nakornnont.stream/playlist.m3u8
