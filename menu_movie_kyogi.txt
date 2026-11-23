@@ -12,7 +12,7 @@
     },
     {
       "name": "📂 หนังภาคต่อ",
-      "info": "3 เรื่อง",
+      "info": "4 เรื่อง",
       "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_p1.txt",
       "import": false
@@ -229,7 +229,7 @@
     },
     {
       "name": "📂 Scary Movie",
-      "info": "5 เรื่อง",
+      "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Scary-Movie-1-2000-%E0%B8%A2%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B9%89-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2-300x450.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub33_p1.txt",
       "import": false
@@ -369,8 +369,8 @@
     },
     {
       "name": "📂 Avengers",
-      "info": "7 เรื่อง",
-      "image": "https://24-hd.tv/wp-content/uploads/2023/06/MV5BMTc5MDE2ODcw_-e1687675343282.jpg",
+      "info": "6 เรื่อง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Avengers-3-Infinity-War-2018-มหาสงครามล้างจักรวาล-250x350.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub53_p1.txt",
       "import": false
     },
@@ -467,7 +467,7 @@
     },
     {
       "name": "📂 Maze Runner",
-      "info": "5 เรื่อง",
+      "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-3-The-Death-Cure-2018-วงกตมฤตยู-ภาค-3-250x350.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub67_p1.txt",
       "import": false
