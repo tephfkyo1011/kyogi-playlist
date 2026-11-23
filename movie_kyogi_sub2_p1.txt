@@ -30,6 +30,9 @@ https://m1free.inwstream.com:1936/movie3/Fast_And_Furious_Presents_Hobbs_And_Sha
 #EXTINF:-1 tvg-name="Maze Runner [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",Maze Runner [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/5da8ed9cea1e524bc3b7dde4e2ccc191/5da8ed9cea1e524bc3b7dde4e2ccc191.m3u8
+#EXTINF:-1 tvg-name="The Maze Runner วงกตมฤตยู [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Maze Runner วงกตมฤตยู [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/a050c6d9a0b097261741e4626eb148fd/a050c6d9a0b097261741e4626eb148fd.m3u8
 #EXTINF:-1 tvg-name="The Maze Runner วงกตมฤตยู [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%95%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",The Maze Runner วงกตมฤตยู [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/bbaa55ae94a48f8e567e1dace38c7124/bbaa55ae94a48f8e567e1dace38c7124.m3u8
