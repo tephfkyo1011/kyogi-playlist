@@ -12,464 +12,457 @@
     },
     {
       "name": "📂 หนังภาคต่อ",
-      "info": "4 เรื่อง",
+      "info": "16 เรื่อง",
       "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_p1.txt",
-      "import": false
-    },
-    {
-      "name": "📂 The Fast And Furious",
-      "info": "11 เรื่อง",
-      "image": "https://22-hd.com/wp-content/uploads/2022/11/The-Fast-and-the-Furious-1.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub3_p1.txt",
       "import": false
     },
     {
       "name": "📂 Deadpool",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Deadpool-2016-%E0%B9%80%E0%B8%94%E0%B8%94%E0%B8%9E%E0%B8%B9%E0%B8%A5-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub4_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub3_p1.txt",
       "import": false
     },
     {
       "name": "📂 Final Destination",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Final-Destination-2000-7-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B9%82%E0%B8%81%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub5_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub4_p1.txt",
       "import": false
     },
     {
       "name": "📂 Predator",
       "info": "5 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Predator-1987-%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%84%E0%B8%99-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub6_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub5_p1.txt",
       "import": false
     },
     {
       "name": "📂 Men In Black",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Men-In-Black-1997-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%84%E0%B8%AD%E0%B8%9A%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub7_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub6_p1.txt",
       "import": false
     },
     {
       "name": "📂 John Wick",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/03/John-Wick-2014-%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%84-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub8_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub7_p1.txt",
       "import": false
     },
     {
       "name": "📂 The Expendables โครตคนทีมมหากาฬ",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2010-%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%95%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub9_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub8_p1.txt",
       "import": false
     },
     {
       "name": "📂 Harry Potter",
       "info": "8 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-1-And-The-Sorcerer-s-Stone-2001-%E0%B9%81%E0%B8%AE%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%9E%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-1-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%96%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B9%8C-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub10_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub9_p1.txt",
       "import": false
     },
     {
       "name": "📂 Sin City",
       "info": "2 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Sin-City-2005-%E0%B8%8B%E0%B8%B4%E0%B8%99-%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81-1-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub11_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub10_p1.txt",
       "import": false
     },
     {
       "name": "📂 Rebel Moon",
       "info": "2 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Rebel-Moon-Part-One-A-Child-of-Fire-2023-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A7%E0%B9%84%E0%B8%9F-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub12_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub11_p1.txt",
       "import": false
     },
     {
       "name": "📂 Blade",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Blade-1998-%E0%B9%80%E0%B8%9A%E0%B8%A5%E0%B8%94-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B0-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub13_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub12_p1.txt",
       "import": false
     },
     {
       "name": "📂 Sniper",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Sniper-1993-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub14_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub13_p1.txt",
       "import": false
     },
     {
       "name": "📂 After",
       "info": "5 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/01/After-2019-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub15_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub14_p1.txt",
       "import": false
     },
     {
       "name": "📂 Death Race",
       "info": "5 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Death-Race-2008-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub16_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub15_p1.txt",
       "import": false
     },
     {
       "name": "📂 Home Alone",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-%E0%B9%82%E0%B8%94%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub17_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub16_p1.txt",
       "import": false
     },
     {
       "name": "📂 Planet of the Apes",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Planet-of-the-Apes-1968-%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub18_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub17_p1.txt",
       "import": false
     },
     {
       "name": "📂 Hotel Transylvania",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2012-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%9C%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B9%84%E0%B8%9B%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub19_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub18_p1.txt",
       "import": false
     },
     {
       "name": "📂 Speed",
       "info": "2 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Speed-%E0%B8%AA%E0%B8%9B%E0%B8%B5%E0%B8%94-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-1994-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub20_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub19_p1.txt",
       "import": false
     },
     {
       "name": "📂 Death Note",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%99%E0%B9%8A%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub21_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub20_p1.txt",
       "import": false
     },
     {
       "name": "📂 Taxi",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-1998-%E0%B9%81%E0%B8%97%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub22_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub21_p1.txt",
       "import": false
     },
     {
       "name": "📂 Ong Bak",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Ong-Bak-2003-%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9A%E0%B8%B2%E0%B8%81-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub23_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub22_p1.txt",
       "import": false
     },
     {
       "name": "📂 Jeepers Creepers",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Jeepers-Creepers-%E0%B9%82%E0%B8%89%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%B1%E0%B8%A7-2001-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub24_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub23_p1.txt",
       "import": false
     },
     {
       "name": "📂 Jaws",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-1975-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub25_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub24_p1.txt",
       "import": false
     },
     {
       "name": "📂 Deep Blue Sea",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Deep-Blue-Sea-1999-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub26_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub25_p1.txt",
       "import": false
     },
     {
       "name": "📂 Indiana Jones",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-1981-%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9F%E0%B9%89%E0%B8%B2-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub27_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub26_p1.txt",
       "import": false
     },
     {
       "name": "📂 Johnny English",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Johnny-English-2003-%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub28_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub27_p1.txt",
       "import": false
     },
     {
       "name": "📂 Avatar",
       "info": "2 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/09/Avatar-2009-%E0%B8%AD%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A3-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub29_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub28_p1.txt",
       "import": false
     },
     {
       "name": "📂 Rush Hour",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Rush-Hour-1998-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%9F%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%AA%E0%B8%9B%E0%B8%B5%E0%B8%94-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub30_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub29_p1.txt",
       "import": false
     },
     {
       "name": "📂 Star Trek",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-2009-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%84-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub31_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub30_p1.txt",
       "import": false
     },
     {
       "name": "📂 Crows Zero",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Crows-Zero-2007-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%B2-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub32_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub31_p1.txt",
       "import": false
     },
     {
       "name": "📂 Scary Movie",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Scary-Movie-1-2000-%E0%B8%A2%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B5%E0%B9%89-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub33_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub32_p1.txt",
       "import": false
     },
     {
       "name": "📂 Child’s Play",
       "info": "7 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Childs-Play-1988-%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub34_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub33_p1.txt",
       "import": false
     },
     {
       "name": "📂 Paranormal Activity",
       "info": "7 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Paranormal-Activity-2007-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%82%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B8%E0%B8%81-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub35_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub34_p1.txt",
       "import": false
     },
     {
       "name": "📂 Resident Evil",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Resident-Evil-2002-%E0%B8%9C%E0%B8%B5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub36_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub35_p1.txt",
       "import": false
     },
     {
       "name": "📂 xXx",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/xXx-2002-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%94%E0%B8%B8-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub37_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub36_p1.txt",
       "import": false
     },
     {
       "name": "📂 Divergent",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Divergent-2014-%E0%B8%84%E0%B8%99%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub38_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub37_p1.txt",
       "import": false
     },
     {
       "name": "📂 Scream",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Scream-1996-%E0%B8%AB%E0%B8%A7%E0%B8%B5%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%B5%E0%B8%94-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub39_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub38_p1.txt",
       "import": false
     },
     {
       "name": "📂 American Pie",
       "info": "9 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/05/American-Pie-1999-%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%A2-%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A1-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub40_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub39_p1.txt",
       "import": false
     },
     {
       "name": "📂 The Godfather",
       "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub41_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub40_p1.txt",
       "import": false
     },
     {
       "name": "📂 Die Hard",
       "info": "5 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Die-Hard-1988-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9F%E0%B9%89%E0%B8%B2-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub42_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub41_p1.txt",
       "import": false
     },
     {
       "name": "📂 Bad Boys",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2020/01/Bad-Boys-1-1995-%E0%B9%81%E0%B8%9A%E0%B8%94%E0%B8%9A%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B9%8C-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub43_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub42_p1.txt",
       "import": false
     },
     {
       "name": "📂 Iron Man",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-3-2013-มหาประลัยคนเกราะเหล็ก-3-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub44_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub43_p1.txt",
       "import": false
     },
     {
       "name": "📂 Thor-เทพเจ้าสายฟ้า",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Thor-3-Ragnarok-2017-ศึกอวสานเทพเจ้า-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub45_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub44_p1.txt",
       "import": false
     },
     {
       "name": "📂 The Incredible Hulk",
       "info": "2 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Incredible-Hulk-2008-เดอะฮัค-มนุษย์ตัวเขียวจอมพลัง-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub46_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub45_p1.txt",
       "import": false
     },
     {
       "name": "📂 Captain America",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-Civil-War-2016-กัปตันอเมริกา-3-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub47_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub46_p1.txt",
       "import": false
     },
     {
       "name": "📂 Guardians of the Galaxy",
       "info": "7 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/11/The-Guardians-of-the-Galaxy-Holiday-Special-2022-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub48_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub47_p1.txt",
       "import": false
     },
     {
       "name": "📂 Ant-Man",
       "info": "5 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Ant-Man-and-the-Wasp-Quantumania-2023-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B9%8C%E2%80%91%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A7%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B9%8C-%E0%B8%95%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%A7%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A1-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub49_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub48_p1.txt",
       "import": false
     },
     {
       "name": "📂 Doctor Strange",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/05/Doctor-Strange-in-the-Multiverse-of-Madness-2022-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub50_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub49_p1.txt",
       "import": false
     },
     {
       "name": "📂 Black Panther",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub51_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub50_p1.txt",
       "import": false
     },
     {
       "name": "📂 Spider Man",
       "info": "13 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Spider-Man-Into-the-Spider-Verse-2018-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub52_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub51_p1.txt",
       "import": false
     },
     {
       "name": "📂 Avengers",
       "info": "6 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Avengers-3-Infinity-War-2018-มหาสงครามล้างจักรวาล-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub53_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub52_p1.txt",
       "import": false
     },
     {
       "name": "📂 Star-Wars-Saga",
       "info": "22 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-9-The-Rise-of-Skywalker-2019-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-9-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub54_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub53_p1.txt",
       "import": false
     },
     {
       "name": "📂 Batman",
       "info": "17 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/04/The-Batman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub55_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub54_p1.txt",
       "import": false
     },
     {
       "name": "📂 X-Men",
       "info": "19 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2020/09/The-New-Mutants-2020-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub56_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub55_p1.txt",
       "import": false
     },
     {
       "name": "📂 The Lord of the Rings",
       "info": "9 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-3-2014-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%AD%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97-3-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-5-%E0%B8%97%E0%B8%B1%E0%B8%9E-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub57_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub56_p1.txt",
       "import": false
     },
     {
       "name": "📂 Venom",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-2024-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub58_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub57_p1.txt",
       "import": false
     },
     {
       "name": "📂 Mission Impossible",
       "info": "19 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Mission-Impossible-7-Dead-Reckoning-Part-One-2023-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub59_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub58_p1.txt",
       "import": false
     },
     {
       "name": "📂 The Bourne Legacy",
       "info": "4 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub60_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub59_p1.txt",
       "import": false
     },
     {
       "name": "📂 Jurassic Park",
       "info": "11 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Jurassic-World-Dominion-2022-%E0%B8%88%E0%B8%B9%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84-%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C-%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3-300x450.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub61_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub60_p1.txt",
       "import": false
     },
     {
       "name": "📂 Vampire Twilight",
       "info": "8 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Vampire-Twilight-5-Saga-Breaking-Dawn-Part-2-2012-%E0%B9%81%E0%B8%A7%E0%B8%A1%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B9%8C-%E0%B8%97%E0%B9%84%E0%B8%A7%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%84-5-%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%84%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%94%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%99-%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-2-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub62_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub61_p1.txt",
       "import": false
     },
     {
       "name": "📂 Transformers",
       "info": "12 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-2023-%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub63_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub62_p1.txt",
       "import": false
     },
     {
       "name": "📂 Pirates of the Caribbean",
       "info": "10 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-5-Dead-Men-Tell-No-Tales-2017-สงครามแค้นโจรสลัดไร้ชีพ-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub64_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub63_p1.txt",
       "import": false
     },
     {
       "name": "📂 Hunger Games",
       "info": "8 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A1-300x450.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub65_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub64_p1.txt",
       "import": false
     },
     {
       "name": "📂 Terminator",
       "info": "10 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-6-Dark-Fate-2019-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81-6-%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%8A%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub66_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub65_p1.txt",
       "import": false
     },
     {
       "name": "📂 Maze Runner",
-      "info": "4 เรื่อง",
+      "info": "3 เรื่อง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-3-The-Death-Cure-2018-วงกตมฤตยู-ภาค-3-250x350.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub67_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub66_p1.txt",
       "import": false
     }
   ]
