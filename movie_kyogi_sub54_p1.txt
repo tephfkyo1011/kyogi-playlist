@@ -1,67 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Star Wars 9 The Rise of Skywalker (2019) สตาร์ วอร์ส 9 กำเนิดใหม่สกายวอล์คเกอร์ [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-9-The-Rise-of-Skywalker-2019-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-9-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 9 The Rise of Skywalker (2019) สตาร์ วอร์ส 9 กำเนิดใหม่สกายวอล์คเกอร์ [พากย์ไทย]
+#EXTINF:-1 tvg-name="The Batman (2022) เดอะ แบทแมน [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/04/The-Batman-2022-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%81%E0%B8%9A%E0%B8%97%E0%B9%81%E0%B8%A1%E0%B8%99-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",The Batman (2022) เดอะ แบทแมน [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/64c27826f89d4e252706add74dbe4f92/64c27826f89d4e252706add74dbe4f92.m3u8
-#EXTINF:-1 tvg-name="Star Wars 9 The Rise of Skywalker (2019) สตาร์ วอร์ส 9 กำเนิดใหม่สกายวอล์คเกอร์ [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-9-The-Rise-of-Skywalker-2019-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-9-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%8C%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 9 The Rise of Skywalker (2019) สตาร์ วอร์ส 9 กำเนิดใหม่สกายวอล์คเกอร์ [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/4845909eb0a1dc1fbb8a1cb0d4e55556/4845909eb0a1dc1fbb8a1cb0d4e55556.m3u8
+#EXTINF:-1 tvg-name="Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-V-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน-แสงอรุณแห่งยุติธรรม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/ioshls/13be4b7d7c14a776f02250a0f4ba0e26/13be4b7d7c14a776f02250a0f4ba0e26.m3u8
-#EXTINF:-1 tvg-name="Han Solo A Star Wars Story [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Han-Solo-A-Star-Wars-Story-2018-ฮาน-โซโล-ตำนาน-สตาร์วอร์ส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Han Solo A Star Wars Story [พากย์ไทย]
+https://main.24playerhd.com/newplaylist/7cfa2c727bdac06d61d76058/7cfa2c727bdac06d61d76058438.m3u8
+#EXTINF:-1 tvg-name="Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-V-Superman-Dawn-of-Justice-2016-แบทแมน-ปะทะ-ซูเปอร์แมน-แสงอรุณแห่งยุติธรรม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman V Superman Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/be4ae44965d77d0294dd1121c92ee256/be4ae44965d77d0294dd1121c92ee256.m3u8
-#EXTINF:-1 tvg-name="Han Solo A Star Wars Story [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Han-Solo-A-Star-Wars-Story-2018-ฮาน-โซโล-ตำนาน-สตาร์วอร์ส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Han Solo A Star Wars Story [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/0a0b2008f143e79ac40006d7b36cac43/0a0b2008f143e79ac40006d7b36cac43.m3u8
+#EXTINF:-1 tvg-name="Batman 3 The Dark Knight Rises [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 3 The Dark Knight Rises [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/af2f90afda5e01cf6ad9e5786587eb33/af2f90afda5e01cf6ad9e5786587eb33.m3u8
-#EXTINF:-1 tvg-name="Star Wars 8 The Last Jedi [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-8-The-Last-Jedi-2017-สตาร์-วอร์ส-8-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 8 The Last Jedi [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/3ca17ec5f77dac19d3cd1652e05b0764/3ca17ec5f77dac19d3cd1652e05b0764.m3u8
+#EXTINF:-1 tvg-name="Batman 3 The Dark Knight Rises [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-Rises-2012-แบทแมน-อัศวินรัตติกาลผงาด-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 3 The Dark Knight Rises [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/f5dc83ed58056521cec811fae4c6f05d/f5dc83ed58056521cec811fae4c6f05d.m3u8
-#EXTINF:-1 tvg-name="Star Wars 8 The Last Jedi [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-8-The-Last-Jedi-2017-สตาร์-วอร์ส-8-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 8 The Last Jedi [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/2c9c53c362373780a225f34372c888cb/2c9c53c362373780a225f34372c888cb.m3u8
+#EXTINF:-1 tvg-name="Batman 2 The Dark Knight [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 2 The Dark Knight [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/f5dc83ed58056521cec811fae4c6f05d/f5dc83ed58056521cec811fae4c6f05d.m3u8
-#EXTINF:-1 tvg-name="Rogue One A Star Wars Story [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Rogue-One-A-Star-Wars-Story-2016-โร้ค-วัน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Rogue One A Star Wars Story [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/01377ad2e11c7d656a3a98c203f2502d/01377ad2e11c7d656a3a98c203f2502d.m3u8
+#EXTINF:-1 tvg-name="Batman 2 The Dark Knight [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-The-Dark-Knight-2008-แบทแมน-อัศวินรัตติกาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman 2 The Dark Knight [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/8a2369da643508b8e179762657bb0e41/8a2369da643508b8e179762657bb0e41.m3u8
-#EXTINF:-1 tvg-name="Rogue One A Star Wars Story [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Rogue-One-A-Star-Wars-Story-2016-โร้ค-วัน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Rogue One A Star Wars Story [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/6eb422f799b9440076c479a7b0d1146d/6eb422f799b9440076c479a7b0d1146d.m3u8
+#EXTINF:-1 tvg-name="Batman Begins [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Begins-2005-แบทแมน-บีกินส์-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Begins [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/3244b835c165be1eb4564b8b6d6ddfce/3244b835c165be1eb4564b8b6d6ddfce.m3u8
-#EXTINF:-1 tvg-name="Star Wars 7 The Force Awakens [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-7-The-Force-Awakens-2015-สตาร์-วอร์ส-7-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 7 The Force Awakens [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/2eb9e2b6e8df2707e169aa4625b32658/2eb9e2b6e8df2707e169aa4625b32658.m3u8
+#EXTINF:-1 tvg-name="Batman Begins [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Begins-2005-แบทแมน-บีกินส์-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Begins [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/fd876e547946d9e0b8b9fcb3dad17dbe/fd876e547946d9e0b8b9fcb3dad17dbe.m3u8
-#EXTINF:-1 tvg-name="Star Wars 7 The Force Awakens [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-7-The-Force-Awakens-2015-สตาร์-วอร์ส-7-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 7 The Force Awakens [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/82b526152e559f673c5b4de38de9a50c/82b526152e559f673c5b4de38de9a50c.m3u8
+#EXTINF:-1 tvg-name="Batman and Robin (1997) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-and-Robin-1997-แบทแมน-โรบิน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman and Robin (1997) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/a697609bc50dd419f50809c88783fc10/a697609bc50dd419f50809c88783fc10.m3u8
-#EXTINF:-1 tvg-name="Star Wars 6 Return of the Jedi [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-6-Return-of-the-Jedi-1983-สตาร์-วอร์ส-ภาค-6-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 6 Return of the Jedi [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/bf15dff94a58b7adf93f9796f7b6ef68/bf15dff94a58b7adf93f9796f7b6ef68.m3u8
+#EXTINF:-1 tvg-name="Batman and Robin (1997) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-and-Robin-1997-แบทแมน-โรบิน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman and Robin (1997) [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/c49dd1f45719d037a016ff37d9358e5d/c49dd1f45719d037a016ff37d9358e5d.m3u8
-#EXTINF:-1 tvg-name="Star Wars 6 Return of the Jedi [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-6-Return-of-the-Jedi-1983-สตาร์-วอร์ส-ภาค-6-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 6 Return of the Jedi [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/7c03676aa61ee6715063d17f67427a41/7c03676aa61ee6715063d17f67427a41.m3u8
+#EXTINF:-1 tvg-name="Batman Forever (1995) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Forever-1995-แบทแมน-ฟอร์เอฟเวอร์-ศึกจอมโจรอมตะ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Forever (1995) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/06cbaebf25be35190378139f89b47eb5/06cbaebf25be35190378139f89b47eb5.m3u8
-#EXTINF:-1 tvg-name="Star Wars 5 The Empire Strikes Back Z [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-5-The-Empire-Strikes-Back-1980-สตาร์-วอร์ส-ภาค-5-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 5 The Empire Strikes Back Z [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/559f9a65b80e53eb957e4c5598f734ae/559f9a65b80e53eb957e4c5598f734ae.m3u8
+#EXTINF:-1 tvg-name="Batman Forever (1995) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Forever-1995-แบทแมน-ฟอร์เอฟเวอร์-ศึกจอมโจรอมตะ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Forever (1995) [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/3acbba17ad214f301350981ec6be2c8f/3acbba17ad214f301350981ec6be2c8f.m3u8
-#EXTINF:-1 tvg-name="Star Wars 5 The Empire Strikes Back Z [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-5-The-Empire-Strikes-Back-1980-สตาร์-วอร์ส-ภาค-5-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 5 The Empire Strikes Back Z [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/064b40dacc2146ae3b3ed325fdba153e/064b40dacc2146ae3b3ed325fdba153e.m3u8
+#EXTINF:-1 tvg-name="Batman Returns (1992) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Returns-1992-แบทแมน-รีเทิร์นส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Returns (1992) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/ab726160e4aa572c650bdd4106711347/ab726160e4aa572c650bdd4106711347.m3u8
-#EXTINF:-1 tvg-name="Star Wars 4 A New Hope [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-4-A-New-Hope-1977-สตาร์วอร์ส-ภาค-4-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 4 A New Hope [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/19098560089318b78a3d07e2676803b8/19098560089318b78a3d07e2676803b8.m3u8
+#EXTINF:-1 tvg-name="Batman Returns (1992) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-Returns-1992-แบทแมน-รีเทิร์นส-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman Returns (1992) [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/015ab74e59ebcc7b2551dd0a0a18d06c/015ab74e59ebcc7b2551dd0a0a18d06c.m3u8
-#EXTINF:-1 tvg-name="Star Wars 4 A New Hope [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-4-A-New-Hope-1977-สตาร์วอร์ส-ภาค-4-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars 4 A New Hope [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/1465ed853582befae29967bb66369857/1465ed853582befae29967bb66369857.m3u8
+#EXTINF:-1 tvg-name="Batman (1989) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-1989-แบทแมน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman (1989) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/ce9bf4ca220b48ddc6064ec2aff931df/ce9bf4ca220b48ddc6064ec2aff931df.m3u8
-#EXTINF:-1 tvg-name="Star Wars ภาค 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-Episode-III-2005-สตาร์วอร์ส-ภาค-3-ซิธชำระแค้น-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars ภาค 3 [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/b43a39199e7c2598ae651015071ab8dd/b43a39199e7c2598ae651015071ab8dd.m3u8
+#EXTINF:-1 tvg-name="Batman (1989) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Batman-1989-แบทแมน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Batman",Batman (1989) [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/06c51100b5cb39dfb8bac82b5bfd3a0d/06c51100b5cb39dfb8bac82b5bfd3a0d.m3u8
-#EXTINF:-1 tvg-name="Star Wars ภาค 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Star-Wars-Episode-III-2005-สตาร์วอร์ส-ภาค-3-ซิธชำระแค้น-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars ภาค 3 [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/363010eafde8a9ffc7f6870f8bf14122/363010eafde8a9ffc7f6870f8bf14122.m3u8
-#EXTINF:-1 tvg-name="Star Wars ภาค 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Star-Wars-Episode-II-2002-สตาร์วอร์ส-ภาค-2-กองทัพโคลนจู่โจม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars ภาค 2 [พากย์ไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/f6bbdf9cae9ed0e97220b10017af3e21/f6bbdf9cae9ed0e97220b10017af3e21.m3u8
-#EXTINF:-1 tvg-name="Star Wars ภาค 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Star-Wars-Episode-II-2002-สตาร์วอร์ส-ภาค-2-กองทัพโคลนจู่โจม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars ภาค 2 [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/e0633b81a7a042e6ba4a044eef668c23/e0633b81a7a042e6ba4a044eef668c23.m3u8
-#EXTINF:-1 tvg-name="Star Wars ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Star-Wars-Episode-I-1999-สตาร์วอร์ส-ภาค-1-ภัยซ่อนเร้น-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars ภาค 1 [พากย์ไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/513c6965db953cd32b67dc84ff29013a/513c6965db953cd32b67dc84ff29013a.m3u8
-#EXTINF:-1 tvg-name="Star Wars ภาค 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Star-Wars-Episode-I-1999-สตาร์วอร์ส-ภาค-1-ภัยซ่อนเร้น-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Star-Wars-Saga",Star Wars ภาค 1 [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/caef04c665764094c9d7f7cfc0ed6dfb/caef04c665764094c9d7f7cfc0ed6dfb.m3u8
+https://hot.24playerhd.com/autoplaylist/8cd3f4726ea9628fa03db4949ec50b54/8cd3f4726ea9628fa03db4949ec50b54.m3u8
