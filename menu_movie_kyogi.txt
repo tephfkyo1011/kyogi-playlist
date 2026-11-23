@@ -11,7 +11,7 @@
       "import": false
     },
     {
-      "name": "📂 (จบแล้ว) 28 Days Later (2002) 28 วันให้หลัง เชื้อเขมือบคน",
+      "name": "📂 หนังภาคต่อ",
       "info": "3 เรื่อง",
       "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_p1.txt",
