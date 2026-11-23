@@ -444,7 +444,7 @@
     },
     {
       "name": "The Perfect Lie (2026) รักซ่อนลวง",
-      "info": "EP 5",
+      "info": "EP 6",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
       "stations": [
         {
@@ -476,6 +476,12 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/14c884bdaf0ba92ae11de8a0/14c884bdaf0ba92ae11de8a0438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1afd46a8453e262da1fe4926/1afd46a8453e262da1fe4926438.m3u8"
         }
       ]
     }
