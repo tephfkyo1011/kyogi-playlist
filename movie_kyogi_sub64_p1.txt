@@ -1,31 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 5 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-5-Dead-Men-Tell-No-Tales-2017-สงครามแค้นโจรสลัดไร้ชีพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 5 [พากย์ไทย]
+#EXTINF:-1 tvg-name="The Hunger Games The Ballad of Songbirds & Snakes (2023) เดอะ ฮังเกอร์เกมส์ ปฐมบทเกมล่าเกม [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%81%E0%B8%A1-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",The Hunger Games The Ballad of Songbirds & Snakes (2023) เดอะ ฮังเกอร์เกมส์ ปฐมบทเกมล่าเกม [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/d8674b8f77219228241b8d8c31be5d28/d8674b8f77219228241b8d8c31be5d28.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 5 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-5-Dead-Men-Tell-No-Tales-2017-สงครามแค้นโจรสลัดไร้ชีพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 5 [ซับไทย]
+https://main.24playerhd.com/newplaylist/1ae729097633ed79a1dd1193/1ae729097633ed79a1dd1193.m3u8
+#EXTINF:-1 tvg-name="Hunger Games 3 Mockingjay Part 2 (2015) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Hunger-Games-3-Part-2-2015-เกมล่าเกม-ม็อกกิ้งเจย์-พาร์ท-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",Hunger Games 3 Mockingjay Part 2 (2015) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/c2ce815e515e18e3246d836c5effb082/c2ce815e515e18e3246d836c5effb082.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 4 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-4-On-Stranger-Tides-2011-ผจญภัยล่าสายน้ำอมฤต-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 4 [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/0ac87fdc82f109272269d1f4d1b2f414/0ac87fdc82f109272269d1f4d1b2f414.m3u8
+#EXTINF:-1 tvg-name="Hunger Games 3 Mockingjay Part 2 (2015) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Hunger-Games-3-Part-2-2015-เกมล่าเกม-ม็อกกิ้งเจย์-พาร์ท-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",Hunger Games 3 Mockingjay Part 2 (2015) [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/0aaad499b377ca8eb74badd24aee4001/0aaad499b377ca8eb74badd24aee4001.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 4 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-4-On-Stranger-Tides-2011-ผจญภัยล่าสายน้ำอมฤต-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 4 [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/a03a89f25a497637b6f8415979cefb8e/a03a89f25a497637b6f8415979cefb8e.m3u8
+#EXTINF:-1 tvg-name="Hunger Games 3 Mockingjay Part 1 (2014) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Hunger-Games-3-Part-1-2014-เกมล่าเกม-ม็อกกิ้งเจย์-พาร์ท1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",Hunger Games 3 Mockingjay Part 1 (2014) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/d8e273c3b69d7dcdc4a712f77a655a21/d8e273c3b69d7dcdc4a712f77a655a21.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-3-At-World-End-2007-ผจญภัยล่าโจรสลัดสุดขอบโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 3 [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/2c8257d937e86365e05731dfc56c3824/2c8257d937e86365e05731dfc56c3824.m3u8
+#EXTINF:-1 tvg-name="Hunger Games 3 Mockingjay Part 1 (2014) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Hunger-Games-3-Part-1-2014-เกมล่าเกม-ม็อกกิ้งเจย์-พาร์ท1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",Hunger Games 3 Mockingjay Part 1 (2014) [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/5e0cf1e4c9091e0ea32d20ac34a08b0f/5e0cf1e4c9091e0ea32d20ac34a08b0f.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-3-At-World-End-2007-ผจญภัยล่าโจรสลัดสุดขอบโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 3 [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/95add6eedf009a109d0603bf5c7675f5/95add6eedf009a109d0603bf5c7675f5.m3u8
+#EXTINF:-1 tvg-name="The Hunger Games ภาค 2 Catching Fire [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Hunger-Games-2-Catching-Fire-2013-ฮังเกอร์เกมส์-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",The Hunger Games ภาค 2 Catching Fire [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/5fdbb2b280870e4fc8c5f3a169f253b7/5fdbb2b280870e4fc8c5f3a169f253b7.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-2-Dead-Man-Chest-2006-สงครามปีศาจโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 2 [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/027a1d8f22e7d166b72adc45eb46e372/027a1d8f22e7d166b72adc45eb46e372.m3u8
+#EXTINF:-1 tvg-name="The Hunger Games ภาค 2 Catching Fire [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Hunger-Games-2-Catching-Fire-2013-ฮังเกอร์เกมส์-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",The Hunger Games ภาค 2 Catching Fire [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/0df2e32d8cd79423b3814007f7e9cd7e/0df2e32d8cd79423b3814007f7e9cd7e.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-2-Dead-Man-Chest-2006-สงครามปีศาจโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 2 [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/4d319c934fe3fd508cd5e2ee503e8a85/4d319c934fe3fd508cd5e2ee503e8a85.m3u8
+#EXTINF:-1 tvg-name="The Hunger Games (2012) ฮังเกอร์เกมส์ ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Hunger-Games-2012-%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AA%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Hunger Games",The Hunger Games (2012) ฮังเกอร์เกมส์ ภาค 1 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/8f63b2d7aac35217bfbbc6c35e4e2f89/8f63b2d7aac35217bfbbc6c35e4e2f89.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 1 [พากย์ไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/bab136a0b215310049cf93eeb4c028af/bab136a0b215310049cf93eeb4c028af.m3u8
-#EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 1 [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/9d9e97d91854d163843506478d9a6613/9d9e97d91854d163843506478d9a6613.m3u8
+https://hot.24playerhd.com/autoplaylist/7f0d105c628bf97d4d827703217da1a4/7f0d105c628bf97d4d827703217da1a4.m3u8
