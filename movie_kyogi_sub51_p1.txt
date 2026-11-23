@@ -1,13 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Black Panther",Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ [พากย์ไทย]
+#EXTINF:-1 tvg-name="Spider Man Into the Spider-Verse (2018) สไปเดอร์แมน ผงาดสู่จักรวาล-แมงมุม [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/03/Spider-Man-Into-the-Spider-Verse-2018-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider Man Into the Spider-Verse (2018) สไปเดอร์แมน ผงาดสู่จักรวาล-แมงมุม [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/7bf546f9339e0e6915fc5df4/7bf546f9339e0e6915fc5df4.m3u8
-#EXTINF:-1 tvg-name="Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Black Panther",Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ [ซับไทย]
+https://main.24playerhd.com/newplaylist/84ae151231cb46774c5fc9e4/84ae151231cb46774c5fc9e4.m3u8
+#EXTINF:-1 tvg-name="Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2021/12/Spider-Man-No-Way-Home-2021-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%82%E0%B8%99-%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C-%E0%B9%82%E0%B8%AE%E0%B8%A1-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider Man No Way Home (2021) สไปเดอร์แมน โน เวย์ โฮม [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/m3u8/b5de121f49e6e93608b82037/b5de121f49e6e93608b82037168.m3u8
-#EXTINF:-1 tvg-name="Black Panther (2018) แบล็ค แพนเธอร์ [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Black-Panther-2018-แบล็ค-แพนเธอร์-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Black Panther",Black Panther (2018) แบล็ค แพนเธอร์ [พากย์ไทย]
+https://main.24playerhd.com/newplaylist/7cc6e7cbe9e4ddbf258b68e5/7cc6e7cbe9e4ddbf258b68e5.m3u8
+#EXTINF:-1 tvg-name="Spider Man Far From Home [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Spider-Man-Far-From-Home-2019-สไปเดอร์แมน-ฟาร์-ฟรอม-โฮม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider Man Far From Home [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/1f8a0ae6cf59e1feed2c902f639a153c/1f8a0ae6cf59e1feed2c902f639a153c.m3u8
-#EXTINF:-1 tvg-name="Black Panther (2018) แบล็ค แพนเธอร์ [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Black-Panther-2018-แบล็ค-แพนเธอร์-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Black Panther",Black Panther (2018) แบล็ค แพนเธอร์ [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/c1eee1aadafc38666e3ed2fdeb6c4d9a/c1eee1aadafc38666e3ed2fdeb6c4d9a.m3u8
+#EXTINF:-1 tvg-name="Spider Man Far From Home [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Spider-Man-Far-From-Home-2019-สไปเดอร์แมน-ฟาร์-ฟรอม-โฮม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider Man Far From Home [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/b5f51e9528347906ced88f4a5edbdcea/b5f51e9528347906ced88f4a5edbdcea.m3u8
+https://hot.24playerhd.com/autoplaylist/b7615d70d316e7cc8c228d644e597d96/b7615d70d316e7cc8c228d644e597d96.m3u8
+#EXTINF:-1 tvg-name="Spider-Man Homecoming [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider-Man Homecoming [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/a910c85e4d5c272256259a721ecf9955/a910c85e4d5c272256259a721ecf9955.m3u8
+#EXTINF:-1 tvg-name="Spider-Man Homecoming [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Spider-Man-Homecoming-2017-สไปเดอร์แมน-โฮมคัมมิ่ง-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider-Man Homecoming [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/057cc830ad8bdf6c30dee4b9d66a8f95/057cc830ad8bdf6c30dee4b9d66a8f95.m3u8
+#EXTINF:-1 tvg-name="The Amazing Spider Man 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Amazing-Spider-Man-2-2014-ดิ-อะเมซิ่ง-สไปเดอร์แมน-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",The Amazing Spider Man 2 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/2d98e2b3f010fa06d92083e5e395fea7/2d98e2b3f010fa06d92083e5e395fea7.m3u8
+#EXTINF:-1 tvg-name="The Amazing Spider Man 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Amazing-Spider-Man-2-2014-ดิ-อะเมซิ่ง-สไปเดอร์แมน-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",The Amazing Spider Man 2 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/e0a72d085c7219ca94762e0c152c85b0/e0a72d085c7219ca94762e0c152c85b0.m3u8
+#EXTINF:-1 tvg-name="The Amazing Spider Man 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Amazing-Spider-Man-2012-ดิ-อะเมซิ่ง-สไปเดอร์แมน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",The Amazing Spider Man 1 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/4b8b629d0cb96f4e3c25967d58664cf6/4b8b629d0cb96f4e3c25967d58664cf6.m3u8
+#EXTINF:-1 tvg-name="The Amazing Spider Man 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Amazing-Spider-Man-2012-ดิ-อะเมซิ่ง-สไปเดอร์แมน-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",The Amazing Spider Man 1 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/d45995a2590265d1f23d11825ae28346/d45995a2590265d1f23d11825ae28346.m3u8
+#EXTINF:-1 tvg-name="Spider Man 3 ไอ้แมงมุม สไปเดอร์แมน 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-3-2007-%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider Man 3 ไอ้แมงมุม สไปเดอร์แมน 3 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/5c8f63bfe67e439498bcbeca92facf7c/5c8f63bfe67e439498bcbeca92facf7c.m3u8
+#EXTINF:-1 tvg-name="Spider Man 2 ไอ้แมงมุม สไปเดอร์แมน 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-2-2004-%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider Man 2 ไอ้แมงมุม สไปเดอร์แมน 2 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/5fa7d3db1bb67abd9e3b6157c318792e/5fa7d3db1bb67abd9e3b6157c318792e.m3u8
+#EXTINF:-1 tvg-name="Spider Man ไอ้แมงมุม สไปเดอร์แมน [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-2002-%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Spider Man",Spider Man ไอ้แมงมุม สไปเดอร์แมน [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/dbc29bcd63c36c93d080729156dd8eff/dbc29bcd63c36c93d080729156dd8eff.m3u8
