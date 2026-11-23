@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Iron Man ภาค 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-3-2013-มหาประลัยคนเกราะเหล็ก-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Iron Man",Iron Man ภาค 3 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/21a26fd15269c1071550837bbcc79bc2/21a26fd15269c1071550837bbcc79bc2.m3u8
 #EXTINF:-1 tvg-name="Iron Man ภาค 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-3-2013-มหาประลัยคนเกราะเหล็ก-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Iron Man",Iron Man ภาค 3 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/86ca70933d5c2c74de0c74a044ab58b6/86ca70933d5c2c74de0c74a044ab58b6.m3u8
 #EXTINF:-1 tvg-name="Iron Man ภาค 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2-2010-มหาประลัยคนเกราะเหล็ก-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Iron Man",Iron Man ภาค 2 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/d69cd8882635b2ae983c0865818b39f8/d69cd8882635b2ae983c0865818b39f8.m3u8
 #EXTINF:-1 tvg-name="Iron Man ภาค 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2-2010-มหาประลัยคนเกราะเหล็ก-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Iron Man",Iron Man ภาค 2 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/9fa3c8ad3e033feaef1679d29d910990/9fa3c8ad3e033feaef1679d29d910990.m3u8
 #EXTINF:-1 tvg-name="Iron Man ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Iron Man",Iron Man ภาค 1 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/34949ad37412b7a3a2332e33ef305471/34949ad37412b7a3a2332e33ef305471.m3u8
 #EXTINF:-1 tvg-name="Iron Man ภาค 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Iron-Man-2008-มหาประลัยคนเกราะเหล็ก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Iron Man",Iron Man ภาค 1 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/18881a1ee2013182cc867f7090e4a33d/18881a1ee2013182cc867f7090e4a33d.m3u8
