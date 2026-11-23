@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Jeepers Creepers ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/07/Jeepers-Creepers-%E0%B9%82%E0%B8%89%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%B1%E0%B8%A7-2001-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jeepers Creepers",Jeepers Creepers ภาค 1 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/e2a394494ba3870abbcbcc81/e2a394494ba3870abbcbcc81.m3u8
-#EXTINF:-1 tvg-name="Jeepers Creepers ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/07/Jeepers-Creepers-2-2003-%E0%B9%82%E0%B8%89%E0%B8%9A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%B1%E0%B8%A7-2-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jeepers Creepers",Jeepers Creepers ภาค 2 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/31284cc04722dcede6fc7a43/31284cc04722dcede6fc7a43.m3u8
-#EXTINF:-1 tvg-name="Jeepers Creepers ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/07/Jeepers-Creepers-3-2017-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B9%82%E0%B8%89%E0%B8%9A%E0%B8%AB%E0%B8%B1%E0%B8%A7-3-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jeepers Creepers",Jeepers Creepers ภาค 3 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/b8ccd73a99d35c9f6ccf8c6b/b8ccd73a99d35c9f6ccf8c6b.m3u8
-#EXTINF:-1 tvg-name="Jeepers Creepers ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/11/Jeepers-Creepers-Reborn-2022-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jeepers Creepers",Jeepers Creepers ภาค 4 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/065efad6eb3ff670ff5ee0c7/065efad6eb3ff670ff5ee0c7.m3u8
+#EXTINF:-1 tvg-name="Jaws ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-1975-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 1 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/3e74e2cf1f3a119059d0db0a/3e74e2cf1f3a119059d0db0a.m3u8
+#EXTINF:-1 tvg-name="Jaws ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-2-1978-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-2-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 2 [Gojek TV ห้ามขาย]
+https://hot.24playerhd.com/autoplaylist/15c8a68c11cb42e4df98bad1ab39dd8d/15c8a68c11cb42e4df98bad1ab39dd8d.m3u8
+#EXTINF:-1 tvg-name="Jaws ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-3-D-1983-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 3 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/b05900ad17bf0f02e850d251/b05900ad17bf0f02e850d251.m3u8
+#EXTINF:-1 tvg-name="Jaws ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-The-Revenge-1987-%E0%B8%88%E0%B8%AD%E0%B8%A7%E0%B9%8C%E0%B8%AA-4-%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E2%80%A6%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Jaws",Jaws ภาค 4 [Gojek TV ห้ามขาย]
+https://main.24playerhd.com/newplaylist/bb652271a2a18c89b8445331/bb652271a2a18c89b8445331.m3u8
