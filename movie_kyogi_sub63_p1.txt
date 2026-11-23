@@ -1,25 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Transformers Rise of the Beasts (2023) ทรานส์ฟอร์เมอร์ส กำเนิดจักรกลอสูร [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-2023-%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers Rise of the Beasts (2023) ทรานส์ฟอร์เมอร์ส กำเนิดจักรกลอสูร [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/43537fb1818b211fb53df524/43537fb1818b211fb53df524.m3u8
 #EXTINF:-1 tvg-name="Bumblebee (2018) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Bumblebee-2018-บัมเบิ้ลบี-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Bumblebee (2018) [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/447e9c045a4d3d86f41308bd/447e9c045a4d3d86f41308bd438.m3u8
 #EXTINF:-1 tvg-name="Bumblebee (2018) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Bumblebee-2018-บัมเบิ้ลบี-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Bumblebee (2018) [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/fce3ba1df0b1b967b7c7d6cc/fce3ba1df0b1b967b7c7d6cc438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 5 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-5-2017-ทรานฟอร์เมอร์-5-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 5 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/a5a26624f70fa92306b7169d/a5a26624f70fa92306b7169d438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 5 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-5-2017-ทรานฟอร์เมอร์-5-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 5 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/359a21694c3e7ca7ba039750/359a21694c3e7ca7ba039750438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 4 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-4-2014-ทรานฟอร์เมอร์-4-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 4 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/147f455231fb66268496893f/147f455231fb66268496893f438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 4 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-4-2014-ทรานฟอร์เมอร์-4-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 4 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/1772c2ec3fc7dd37f71fc9d5/1772c2ec3fc7dd37f71fc9d5438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-3-2011-ทรานฟอร์เมอร์-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 3 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/bfd60e3ee9c05c3301ad2648/bfd60e3ee9c05c3301ad2648438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-3-2011-ทรานฟอร์เมอร์-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 3 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/e94429de8aa01d26e00cf7f0/e94429de8aa01d26e00cf7f0438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-2-2009-ทรานฟอร์เมอร์-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 2 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/c710ac20919ac00136d78eca/c710ac20919ac00136d78eca438.m3u8
 #EXTINF:-1 tvg-name="Transformers ภาค 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-2-2009-ทรานฟอร์เมอร์-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers ภาค 2 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/ef1dea5733b05c01d942376d/ef1dea5733b05c01d942376d438.m3u8
 #EXTINF:-1 tvg-name="Transformers 1 ทรานฟอร์เมอร์ 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-1-2007-%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Transformers",Transformers 1 ทรานฟอร์เมอร์ 1 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/9a6d65f6f0eb0dec395a77f1/9a6d65f6f0eb0dec395a77f1.m3u8
