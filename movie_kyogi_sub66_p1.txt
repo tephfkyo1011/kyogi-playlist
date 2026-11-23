@@ -2,6 +2,3 @@
 #EXTINF:-1 tvg-name="Maze Runner [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-3-The-Death-Cure-2018-วงกตมฤตยู-ภาค-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Maze Runner",Maze Runner [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/1c144b34bec282f579b8015ee2a67563/1c144b34bec282f579b8015ee2a67563.m3u8
-#EXTINF:-1 tvg-name="Maze Runner [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-3-The-Death-Cure-2018-วงกตมฤตยู-ภาค-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Maze Runner",Maze Runner [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/0bffd68970025c4aaad1fcf0ce91e89b/0bffd68970025c4aaad1fcf0ce91e89b.m3u8
