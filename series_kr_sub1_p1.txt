@@ -499,7 +499,7 @@
     },
     {
       "name": "Sword & Silence (2026) คมดาบพลิกแผ่นดิน",
-      "info": "EP 3",
+      "info": "EP 4",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
       "stations": [
         {
@@ -519,6 +519,12 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/49bc47817c349db2401b0dc9/49bc47817c349db2401b0dc9438.m3u8"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/32444a44f7b9d75335dbf94a/32444a44f7b9d75335dbf94a438.m3u8"
         }
       ]
     }
