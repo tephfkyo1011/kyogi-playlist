@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Doctor Strange in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/Doctor-Strange-in-the-Multiverse-of-Madness-2022-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Doctor Strange",Doctor Strange in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://main.24playerhd.com/newplaylist/d275688ea9e49cc2ff0c883f/d275688ea9e49cc2ff0c883f.m3u8
 #EXTINF:-1 tvg-name="Doctor Strange in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/Doctor-Strange-in-the-Multiverse-of-Madness-2022-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Doctor Strange",Doctor Strange in the Multiverse of Madness (2022) จอมเวทย์มหากาฬ ในมัลติเวิร์สมหาภัย [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/ioshls/e71a5226fbce296c0aaa20bb730fb284/e71a5226fbce296c0aaa20bb730fb284.m3u8
 #EXTINF:-1 tvg-name="Doctor Strange (2016) ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Doctor-Strange-2016-ด็อกเตอร์-สเตรนจ์-จอมเวทย์มหากาฬ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Doctor Strange",Doctor Strange (2016) ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/19b13c960a6d6f661c16d891370ee67a/19b13c960a6d6f661c16d891370ee67a.m3u8
 #EXTINF:-1 tvg-name="Doctor Strange (2016) ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Doctor-Strange-2016-ด็อกเตอร์-สเตรนจ์-จอมเวทย์มหากาฬ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Doctor Strange",Doctor Strange (2016) ด็อกเตอร์ สเตรนจ์ จอมเวทย์มหากาฬ [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/8be00d2313824e9064cb75cd1b76f7c3/8be00d2313824e9064cb75cd1b76f7c3.m3u8
