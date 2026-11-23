@@ -5,3 +5,6 @@ https://main.24playerhd.com/newplaylist/70827cbc9b08be34c5917b47/70827cbc9b08be3
 https://main.24playerhd.com/newplaylist/7623d290b7d2d49e69f4667b/7623d290b7d2d49e69f4667b.m3u8
 #EXTINF:-1 tvg-name="EP3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/28-Years-Later-2025-28-ปีให้หลัง-เชื้อเขมือบคน.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",EP3 [Gojek TV ห้ามขาย]
 https://main.24playerhd.com/newplaylist/0a6daaa712ea887b975b0d96/0a6daaa712ea887b975b0d96.m3u8
+#EXTINF:-1 tvg-name="Maze Runner [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",Maze Runner [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://hot.24playerhd.com/autoplaylist/5da8ed9cea1e524bc3b7dde4e2ccc191/5da8ed9cea1e524bc3b7dde4e2ccc191.m3u8
