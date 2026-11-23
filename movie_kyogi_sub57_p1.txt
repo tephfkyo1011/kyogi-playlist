@@ -1,28 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="The Hobbit 3 (2014) เดอะ ฮอบบิท 3 สงคราม 5 ทัพ [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-3-2014-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AE%E0%B8%AD%E0%B8%9A%E0%B8%9A%E0%B8%B4%E0%B8%97-3-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1-5-%E0%B8%97%E0%B8%B1%E0%B8%9E-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Hobbit 3 (2014) เดอะ ฮอบบิท 3 สงคราม 5 ทัพ [พากย์ไทย]
+#EXTINF:-1 tvg-name="Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/Venom-The-Last-Dance-%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-2024-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Venom",Venom The Last Dance เวน่อม มหาศึกอสูรอหังการ (2024) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/ccb486443aa0b9d399f08e3b/ccb486443aa0b9d399f08e3b.m3u8
-#EXTINF:-1 tvg-name="The Hobbit: The Desolation of Smaug (2013) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-2-2013-เดอะ-ฮอบบิท-2-ดินแดนเปลี่ยวร้างของสม็อค-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Hobbit: The Desolation of Smaug (2013) [พากย์ไทย]
+https://main.24playerhd.com/newplaylist/579fd0d64f81b8a296b29641/579fd0d64f81b8a296b29641.m3u8
+#EXTINF:-1 tvg-name="Venom 2 Let There Be Carnage (2021) เวน่อม 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2021/11/Venom-2-Let-There-Be-Carnage-2021-%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A1-2-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Venom",Venom 2 Let There Be Carnage (2021) เวน่อม 2 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/74b9904bbd397541e53438ba/74b9904bbd397541e53438ba438.m3u8
-#EXTINF:-1 tvg-name="The Hobbit: The Desolation of Smaug (2013) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-2-2013-เดอะ-ฮอบบิท-2-ดินแดนเปลี่ยวร้างของสม็อค-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Hobbit: The Desolation of Smaug (2013) [ซับไทย]
+https://main.24playerhd.com/newplaylist/a75d48868b53f7572dd63b23/a75d48868b53f7572dd63b23.m3u8
+#EXTINF:-1 tvg-name="Venom 2018 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Venom-2018-เวน่อม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Venom",Venom 2018 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/a51cd5e589197cd9b2576c50b3f5b10a/a51cd5e589197cd9b2576c50b3f5b10a.m3u8
-#EXTINF:-1 tvg-name="The Lord of the Rings: The Return of the King (2003) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-The-Rings-3-The-Return-of-The-King-2003-มหาสงครามชิงพิภพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Lord of the Rings: The Return of the King (2003) [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/e9270d72e8d2edc71f2889e9b564c245/e9270d72e8d2edc71f2889e9b564c245.m3u8
+#EXTINF:-1 tvg-name="Venom 2018 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Venom-2018-เวน่อม-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Venom",Venom 2018 [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/b9fc8ac71d0858115e0ac132/b9fc8ac71d0858115e0ac132438.m3u8
-#EXTINF:-1 tvg-name="The Lord of the Rings: The Return of the King (2003) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-The-Rings-3-The-Return-of-The-King-2003-มหาสงครามชิงพิภพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Lord of the Rings: The Return of the King (2003) [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/9763a170c1bf622a5c505f57e09a1fa9/9763a170c1bf622a5c505f57e09a1fa9.m3u8
-#EXTINF:-1 tvg-name="The Lord of the Rings: The Two Towers (2002) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-The-Rings-2-The-Two-Towers-2002-ศึกหอคอยคู่กู้พิภพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Lord of the Rings: The Two Towers (2002) [พากย์ไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/3ecc60898df9e5299332ebd6/3ecc60898df9e5299332ebd6438.m3u8
-#EXTINF:-1 tvg-name="The Lord of the Rings: The Two Towers (2002) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-The-Rings-2-The-Two-Towers-2002-ศึกหอคอยคู่กู้พิภพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Lord of the Rings: The Two Towers (2002) [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/5097994399d012652fe86efd4ce743fe/5097994399d012652fe86efd4ce743fe.m3u8
-#EXTINF:-1 tvg-name="The Lord of the Rings: The Fellowship of the Ring (2001) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Lord of the Rings: The Fellowship of the Ring (2001) [พากย์ไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://main.24playerhd.com/newplaylist/fc2509468e07e3bd01cf42f6/fc2509468e07e3bd01cf42f6438.m3u8
-#EXTINF:-1 tvg-name="The Lord of the Rings: The Fellowship of the Ring (2001) [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/The-Lord-of-the-Rings-1-2001-อภินิหารแหวนครองพิภพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Lord of the Rings",The Lord of the Rings: The Fellowship of the Ring (2001) [ซับไทย]
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/41f8dc1ef64f26311ff71a97e2b8ecd8/41f8dc1ef64f26311ff71a97e2b8ecd8.m3u8
+https://hot.24playerhd.com/autoplaylist/c080a1035d80a6ff5e6c934726a3a70f/c080a1035d80a6ff5e6c934726a3a70f.m3u8
