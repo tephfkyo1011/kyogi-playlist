@@ -1,21 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 5 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-5-Dead-Men-Tell-No-Tales-2017-สงครามแค้นโจรสลัดไร้ชีพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 5 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/d8674b8f77219228241b8d8c31be5d28/d8674b8f77219228241b8d8c31be5d28.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 5 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-5-Dead-Men-Tell-No-Tales-2017-สงครามแค้นโจรสลัดไร้ชีพ-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 5 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/c2ce815e515e18e3246d836c5effb082/c2ce815e515e18e3246d836c5effb082.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 4 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-4-On-Stranger-Tides-2011-ผจญภัยล่าสายน้ำอมฤต-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 4 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/0aaad499b377ca8eb74badd24aee4001/0aaad499b377ca8eb74badd24aee4001.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 4 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-4-On-Stranger-Tides-2011-ผจญภัยล่าสายน้ำอมฤต-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 4 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/d8e273c3b69d7dcdc4a712f77a655a21/d8e273c3b69d7dcdc4a712f77a655a21.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-3-At-World-End-2007-ผจญภัยล่าโจรสลัดสุดขอบโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 3 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/5e0cf1e4c9091e0ea32d20ac34a08b0f/5e0cf1e4c9091e0ea32d20ac34a08b0f.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-3-At-World-End-2007-ผจญภัยล่าโจรสลัดสุดขอบโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 3 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/5fdbb2b280870e4fc8c5f3a169f253b7/5fdbb2b280870e4fc8c5f3a169f253b7.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-2-Dead-Man-Chest-2006-สงครามปีศาจโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 2 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/0df2e32d8cd79423b3814007f7e9cd7e/0df2e32d8cd79423b3814007f7e9cd7e.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-2-Dead-Man-Chest-2006-สงครามปีศาจโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 2 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/8f63b2d7aac35217bfbbc6c35e4e2f89/8f63b2d7aac35217bfbbc6c35e4e2f89.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 1 [พากย์ไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/bab136a0b215310049cf93eeb4c028af/bab136a0b215310049cf93eeb4c028af.m3u8
 #EXTINF:-1 tvg-name="Pirates of the Caribbean ภาค 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/Pirates-of-the-Caribbean-1-The-Curse-of-The-Black-Pearl-2003-คืนชีพกองทัพโจรสลัดสยองโลก-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Pirates of the Caribbean",Pirates of the Caribbean ภาค 1 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
 https://hot.24playerhd.com/autoplaylist/9d9e97d91854d163843506478d9a6613/9d9e97d91854d163843506478d9a6613.m3u8
