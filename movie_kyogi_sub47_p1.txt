@@ -1,19 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Captain America ภาค 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-Civil-War-2016-กัปตันอเมริกา-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Captain America",Captain America ภาค 3 [พากย์ไทย]
+#EXTINF:-1 tvg-name="The Guardians of the Galaxy Holiday Special (2022) [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/11/The-Guardians-of-the-Galaxy-Holiday-Special-2022-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",The Guardians of the Galaxy Holiday Special (2022) [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/b53db7bae7295b00e8eab7cab26a62b1/b53db7bae7295b00e8eab7cab26a62b1.m3u8
-#EXTINF:-1 tvg-name="Captain America ภาค 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-Civil-War-2016-กัปตันอเมริกา-3-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Captain America",Captain America ภาค 3 [ซับไทย]
+https://main.24playerhd.com/newplaylist/cdac564491477dbe263ef8ab/cdac564491477dbe263ef8ab.m3u8
+#EXTINF:-1 tvg-name="Guardians of the Galaxy 3 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 3 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/3b936920115c0845070c895fa90e174e/3b936920115c0845070c895fa90e174e.m3u8
-#EXTINF:-1 tvg-name="Captain America ภาค 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2-2014-กัปตันอเมริกา-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Captain America",Captain America ภาค 2 [พากย์ไทย]
+https://main.24playerhd.com/newplaylist/2d3dd64597a7d2e50c6bbb78/2d3dd64597a7d2e50c6bbb78.m3u8
+#EXTINF:-1 tvg-name="Guardians of the Galaxy 3 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-3-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 3 [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/395fa9d2ee7c39fbc14390679264aeb3/395fa9d2ee7c39fbc14390679264aeb3.m3u8
-#EXTINF:-1 tvg-name="Captain America ภาค 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2-2014-กัปตันอเมริกา-ภาค-2-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Captain America",Captain America ภาค 2 [ซับไทย]
+https://main.24playerhd.com/m3u8/7d95e5ee896674f6a75370e3/7d95e5ee896674f6a75370e3438.m3u8
+#EXTINF:-1 tvg-name="Guardians of the Galaxy 2 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 2 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/4f55fdb611c1a6dcb5bedd12c814eabd/4f55fdb611c1a6dcb5bedd12c814eabd.m3u8
-#EXTINF:-1 tvg-name="Captain America ภาค 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2011-%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Captain America",Captain America ภาค 1 [พากย์ไทย]
+https://hot.24playerhd.com/autoplaylist/a4e912974bb6c5014a40630a937a862a/a4e912974bb6c5014a40630a937a862a.m3u8
+#EXTINF:-1 tvg-name="Guardians of the Galaxy 2 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-2-2017-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 2 [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/autoplaylist/42b06a055139dc648ceb0ee7595cb0a3/42b06a055139dc648ceb0ee7595cb0a3.m3u8
-#EXTINF:-1 tvg-name="Captain America ภาค 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2011-%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-1-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Captain America",Captain America ภาค 1 [ซับไทย]
+https://hot.24playerhd.com/autoplaylist/0be510b940728823c48653b756c3cc20/0be510b940728823c48653b756c3cc20.m3u8
+#EXTINF:-1 tvg-name="Guardians of the Galaxy 1 [พากย์ไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 1 [พากย์ไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hd.com/
-https://hot.24playerhd.com/ioshls/87c14bd12eb2d90c7037e18acfd67c40/87c14bd12eb2d90c7037e18acfd67c40.m3u8
+https://main.24playerhd.com/newplaylist/be56c3f616835977b4e1f3ba/be56c3f616835977b4e1f3ba438.m3u8
+#EXTINF:-1 tvg-name="Guardians of the Galaxy 1 [ซับไทย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/11/Guardians-of-the-Galaxy-1-2014-รวมพันธุ์นักสู้พิทักษ์จักรวาล-250x350.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Guardians of the Galaxy",Guardians of the Galaxy 1 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+https://main.24playerhd.com/newplaylist/ce72a469b334ce6598e24dff/ce72a469b334ce6598e24dff438.m3u8
