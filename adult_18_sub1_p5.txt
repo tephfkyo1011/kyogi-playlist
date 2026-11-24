@@ -1,481 +1,707 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="SSNI-030 ยูอะ..ขอบคุณแฟนคลับ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni030pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-030 ยูอะ..ขอบคุณแฟนคลับ
-https://3ird.samorn-team.workers.dev/?id=4040&type=video
-#EXTINF:-1 tvg-name="S2MBD-007 ยูอิ..อาบอบนวด สวรรค์อยู๋ไม่ไกล" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/2tl_b.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",S2MBD-007 ยูอิ..อาบอบนวด สวรรค์อยู๋ไม่ไกล
-https://3ird.samorn-team.workers.dev/?id=4041&type=video
-#EXTINF:-1 tvg-name="WANZ-225 อาจารย์สาวปะทะแก๊งเด็กโข่ง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/3wanz225pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",WANZ-225 อาจารย์สาวปะทะแก๊งเด็กโข่ง
-https://3ird.samorn-team.workers.dev/?id=4042&type=video
-#EXTINF:-1 tvg-name="PPPD-531 เสียแฟน ให้พี่สาวนมใหญ่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/3.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PPPD-531 เสียแฟน ให้พี่สาวนมใหญ่
-https://3ird.samorn-team.workers.dev/?id=4043&type=video
-#EXTINF:-1 tvg-name="DASD-409 พ่อผัวตัวเดิม จากเรื่องรสจูบทาเครุ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/dasd409pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DASD-409 พ่อผัวตัวเดิม จากเรื่องรสจูบทาเครุ
-https://3ird.samorn-team.workers.dev/?id=4044&type=video
-#EXTINF:-1 tvg-name="STAR-447 คาปาก ไม่คาใจ ไม่ใส่ถุง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star447pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-447 คาปาก ไม่คาใจ ไม่ใส่ถุง
-https://3ird.samorn-team.workers.dev/?id=4045&type=video
-#EXTINF:-1 tvg-name="ABS-091 เรียนไม่ยุ่งมุ่งขึ้นครู" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/118abs091pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ABS-091 เรียนไม่ยุ่งมุ่งขึ้นครู
-https://3ird.samorn-team.workers.dev/?id=4046&type=video
-#EXTINF:-1 tvg-name="IPZ-891 หัวหน้าห้องงานเข้า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz891pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-891 หัวหน้าห้องงานเข้า
-https://3ird.samorn-team.workers.dev/?id=4047&type=video
-#EXTINF:-1 tvg-name="MEYD-454 น้ำหมดแท้งค์ แยงไม่ยั้ง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/2.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MEYD-454 น้ำหมดแท้งค์ แยงไม่ยั้ง
-https://3ird.samorn-team.workers.dev/?id=4048&type=video
-#EXTINF:-1 tvg-name="JUX-388 แม่บ้านร้อนรัก สวย จนอดใจไม่ไหว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jux388pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUX-388 แม่บ้านร้อนรัก สวย จนอดใจไม่ไหว
-https://3ird.samorn-team.workers.dev/?id=4049&type=video
-#EXTINF:-1 tvg-name="MIMK-056 แค่มาเทคแคร์โดนเย็ดได้ไง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIMK-056 แค่มาเทคแคร์โดนเย็ดได้ไง
-https://3ird.samorn-team.workers.dev/?id=4050&type=video
-#EXTINF:-1 tvg-name="ABP-108 กรรมของกางเกง แค่นี้ก็เย็ดได้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/118abp108pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ABP-108 กรรมของกางเกง แค่นี้ก็เย็ดได้
-https://3ird.samorn-team.workers.dev/?id=4051&type=video
-#EXTINF:-1 tvg-name="STAR-743 ก่อนเรียนจบพบครูมืด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star743pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-743 ก่อนเรียนจบพบครูมืด
-https://3ird.samorn-team.workers.dev/?id=4052&type=video
-#EXTINF:-1 tvg-name="MIAE-055 เมียใหม่พ่อ ผมขอด้วย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/miae055pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIAE-055 เมียใหม่พ่อ ผมขอด้วย
-https://3ird.samorn-team.workers.dev/?id=4053&type=video
-#EXTINF:-1 tvg-name="DASD-461 ลุงข้างบ้านหื่น ขืนใจสาวรุ่นลูก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/461.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DASD-461 ลุงข้างบ้านหื่น ขืนใจสาวรุ่นลูก
-https://3ird.samorn-team.workers.dev/?id=4054&type=video
-#EXTINF:-1 tvg-name="RBD-867 แบล็คเมล์ อาจารย์สาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd867pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-867 แบล็คเมล์ อาจารย์สาว
-https://3ird.samorn-team.workers.dev/?id=4055&type=video
-#EXTINF:-1 tvg-name="MEYD-283 แอบสอย คุณนายจอมคุ้ย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/meyd283pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MEYD-283 แอบสอย คุณนายจอมคุ้ย
-https://3ird.samorn-team.workers.dev/?id=4056&type=video
-#EXTINF:-1 tvg-name="SSNI-405 เมดสาว ลีลาเด็ด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni405pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-405 เมดสาว ลีลาเด็ด
-https://3ird.samorn-team.workers.dev/?id=4057&type=video
-#EXTINF:-1 tvg-name="RBD-833 โรงเรียนโลกันตร์ นักเรียนจ้องแต่จะฟันครู" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd833pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-833 โรงเรียนโลกันตร์ นักเรียนจ้องแต่จะฟันครู
-https://3ird.samorn-team.workers.dev/?id=4058&type=video
-#EXTINF:-1 tvg-name="SSNI-310 สาววัยใส ควบรุ่นใหญ่ 2 คน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni310pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-310 สาววัยใส ควบรุ่นใหญ่ 2 คน
-https://3ird.samorn-team.workers.dev/?id=4059&type=video
-#EXTINF:-1 tvg-name="TEK-092 แล้วนางฟ้าก็ปรากฏ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/9tek092pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",TEK-092 แล้วนางฟ้าก็ปรากฏ
-https://3ird.samorn-team.workers.dev/?id=4060&type=video
-#EXTINF:-1 tvg-name="ABP-650 สาวน้อยไอริ กับ 6 หนุ่มผู้โชคดี" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/118abp650pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ABP-650 สาวน้อยไอริ กับ 6 หนุ่มผู้โชคดี
-https://3ird.samorn-team.workers.dev/?id=4061&type=video
-#EXTINF:-1 tvg-name="STAR-833 เจ๊จอมจิ้นขอฟินเฟ่อร์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star833pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-833 เจ๊จอมจิ้นขอฟินเฟ่อร์
-https://3ird.samorn-team.workers.dev/?id=4062&type=video
-#EXTINF:-1 tvg-name="ADN-072 รถบัสพาเพลิน เดินทางพร้อมความเสียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn072pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-072 รถบัสพาเพลิน เดินทางพร้อมความเสียว
-https://3ird.samorn-team.workers.dev/?id=4063&type=video
-#EXTINF:-1 tvg-name="ADN-162 พิศวาสค่าเช่าบ้าน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn162pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-162 พิศวาสค่าเช่าบ้าน
-https://3ird.samorn-team.workers.dev/?id=4064&type=video
-#EXTINF:-1 tvg-name="SNIS-854 เมทสาวประจำบ้านสะท้านทรวง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis854pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-854 เมทสาวประจำบ้านสะท้านทรวง
-https://3ird.samorn-team.workers.dev/?id=4065&type=video
-#EXTINF:-1 tvg-name="ABP-446 น้องพี่ ที่รัก ได้ทั้งพี่ทั้งน้อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/118abp446pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ABP-446 น้องพี่ ที่รัก ได้ทั้งพี่ทั้งน้อง
-https://3ird.samorn-team.workers.dev/?id=4066&type=video
-#EXTINF:-1 tvg-name="IPX-177 Cheeky Sister น้องสาวถุงเท้ายาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx177pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-177 Cheeky Sister น้องสาวถุงเท้ายาว
-https://3ird.samorn-team.workers.dev/?id=4067&type=video
-#EXTINF:-1 tvg-name="IPX-091 มีนามิ เอวีสามบาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx091pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-091 มีนามิ เอวีสามบาท
-https://3ird.samorn-team.workers.dev/?id=4068&type=video
-#EXTINF:-1 tvg-name="SOE-454 โซระ อาโออิ ครูอ้อยร้อยรัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1-3.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SOE-454 โซระ อาโออิ ครูอ้อยร้อยรัก
-https://3ird.samorn-team.workers.dev/?id=4069&type=video
-#EXTINF:-1 tvg-name="SSNI-276 ผู้ช่วยสาวนมใหญ่ ใจเกินร้อย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni276pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-276 ผู้ช่วยสาวนมใหญ่ ใจเกินร้อย
-https://3ird.samorn-team.workers.dev/?id=4070&type=video
-#EXTINF:-1 tvg-name="IPZ-391 พายุกาม ซึบาสะ อามามิ โดน 6-7 คนจัดหนัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz391pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-391 พายุกาม ซึบาสะ อามามิ โดน 6-7 คนจัดหนัก
-https://3ird.samorn-team.workers.dev/?id=4071&type=video
-#EXTINF:-1 tvg-name="DASD-373 พ่อแฟนทำแทนได้ หรือจะดีกว่าที่แฟนตัวเองทำเสียด้วย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/dasd373pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DASD-373 พ่อแฟนทำแทนได้ หรือจะดีกว่าที่แฟนตัวเองทำเสียด้วย
-https://3ird.samorn-team.workers.dev/?id=4072&type=video
-#EXTINF:-1 tvg-name="MDYD-960 ทาสราคะ ฮิโตมิ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mdyd960pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MDYD-960 ทาสราคะ ฮิโตมิ
-https://3ird.samorn-team.workers.dev/?id=4073&type=video
-#EXTINF:-1 tvg-name="IPX-193 น่าอับอายกลายเป็นทาส" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx193pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-193 น่าอับอายกลายเป็นทาส
-https://3ird.samorn-team.workers.dev/?id=4074&type=video
-#EXTINF:-1 tvg-name="EYAN-001 เปิดตัว คุณนายสายแซ่บ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/eyan001pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",EYAN-001 เปิดตัว คุณนายสายแซ่บ
-https://3ird.samorn-team.workers.dev/?id=4075&type=video
-#EXTINF:-1 tvg-name="PPPD-402 ไม่สดแล้วไซร้ เมื่อไหร่จะโตเล่า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/pppd402pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PPPD-402 ไม่สดแล้วไซร้ เมื่อไหร่จะโตเล่า
-https://3ird.samorn-team.workers.dev/?id=4076&type=video
-#EXTINF:-1 tvg-name="WANZ-359 คุณครูใหม่ น่าใส่จุงเบย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/wanz359pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",WANZ-359 คุณครูใหม่ น่าใส่จุงเบย
-https://3ird.samorn-team.workers.dev/?id=4077&type=video
-#EXTINF:-1 tvg-name="IPZ-505 กามาวายะ ช่างแอร์ญี่ปุ่นก็เสียวนะเออ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz505pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-505 กามาวายะ ช่างแอร์ญี่ปุ่นก็เสียวนะเออ
-https://3ird.samorn-team.workers.dev/?id=4078&type=video
-#EXTINF:-1 tvg-name="MIMK-031 สาวร้านสะดวกซื้อ โดนสะกดจิตมาให้เย็ดถึงบ้าน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mimk031pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIMK-031 สาวร้านสะดวกซื้อ โดนสะกดจิตมาให้เย็ดถึงบ้าน
-https://3ird.samorn-team.workers.dev/?id=4079&type=video
-#EXTINF:-1 tvg-name="GVG-286 Only Son ทาเคชิของฉัน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/13gvg286pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",GVG-286 Only Son ทาเคชิของฉัน
-https://3ird.samorn-team.workers.dev/?id=4080&type=video
-#EXTINF:-1 tvg-name="MIFD-062 อีหนูปากกล้า โซโล่กีตาร์ขาสั่น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mifd062pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIFD-062 อีหนูปากกล้า โซโล่กีตาร์ขาสั่น
-https://3ird.samorn-team.workers.dev/?id=4081&type=video
-#EXTINF:-1 tvg-name="IPX-273 คบซ้อนร่อนเอวพริ้ว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx273pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-273 คบซ้อนร่อนเอวพริ้ว
-https://3ird.samorn-team.workers.dev/?id=4082&type=video
-#EXTINF:-1 tvg-name="IPX-104 รถไฟโศกสวาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx104pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-104 รถไฟโศกสวาท
-https://3ird.samorn-team.workers.dev/?id=4083&type=video
-#EXTINF:-1 tvg-name="SNIS-693 เรื่องทำนองนี้ เดี๋ยวพี่เทรนให้นะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis693pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-693 เรื่องทำนองนี้ เดี๋ยวพี่เทรนให้นะ
-https://3ird.samorn-team.workers.dev/?id=4084&type=video
-#EXTINF:-1 tvg-name="IPX-258 ครูแซ่บ..เปิดหวอรอรัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx258pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-258 ครูแซ่บ..เปิดหวอรอรัก
-https://3ird.samorn-team.workers.dev/?id=4085&type=video
-#EXTINF:-1 tvg-name="MIDE-508 เซ็กส์เมท ทุกที่ทุกเวลา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide508pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-508 เซ็กส์เมท ทุกที่ทุกเวลา
-https://3ird.samorn-team.workers.dev/?id=4086&type=video
-#EXTINF:-1 tvg-name="IPX-034 บาปรักรำพัน พ่อเลี้ยงฉันเอามันส์ดี" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx034pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-034 บาปรักรำพัน พ่อเลี้ยงฉันเอามันส์ดี
-https://3ird.samorn-team.workers.dev/?id=4087&type=video
-#EXTINF:-1 tvg-name="RBD-728 เสี้ยนหนาม ขวางทางรัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd728pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-728 เสี้ยนหนาม ขวางทางรัก
-https://3ird.samorn-team.workers.dev/?id=4088&type=video
-#EXTINF:-1 tvg-name="SHKD-739 ปล้นสวาท สาวธนาคาร" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/shkd739pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SHKD-739 ปล้นสวาท สาวธนาคาร
-https://3ird.samorn-team.workers.dev/?id=4089&type=video
-#EXTINF:-1 tvg-name="SNIS-058 ดูแลเอ็นเป็นพิเศษ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis058pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-058 ดูแลเอ็นเป็นพิเศษ
-https://3ird.samorn-team.workers.dev/?id=4090&type=video
-#EXTINF:-1 tvg-name="SNIS-313 น้องออยกับเพื่อนร่วมห้อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis313pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-313 น้องออยกับเพื่อนร่วมห้อง
-https://3ird.samorn-team.workers.dev/?id=4091&type=video
-#EXTINF:-1 tvg-name="JUX-491 น้ำพุร้อนซ่อนสวาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jux491pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUX-491 น้ำพุร้อนซ่อนสวาท
-https://3ird.samorn-team.workers.dev/?id=4092&type=video
-#EXTINF:-1 tvg-name="DVDES-891 คุณน้านมใหญ่ จัดให้หลานรัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1dvdes891pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DVDES-891 คุณน้านมใหญ่ จัดให้หลานรัก
-https://3ird.samorn-team.workers.dev/?id=4093&type=video
-#EXTINF:-1 tvg-name="MEYD-183 ความลับ คุณนายข้างห้อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/meyd183pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MEYD-183 ความลับ คุณนายข้างห้อง
-https://3ird.samorn-team.workers.dev/?id=4094&type=video
-#EXTINF:-1 tvg-name="MIAD-788 Aika แฟนผมเป็นของทุกคน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/miad788pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIAD-788 Aika แฟนผมเป็นของทุกคน
-https://3ird.samorn-team.workers.dev/?id=4095&type=video
-#EXTINF:-1 tvg-name="JUFD-715 สองสาวนักเลีย ในคืนเหงา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jufd715pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUFD-715 สองสาวนักเลีย ในคืนเหงา
-https://3ird.samorn-team.workers.dev/?id=4096&type=video
-#EXTINF:-1 tvg-name="KAWD-819 ดาวมหาลัย กู่ร้องให้ก้องโลก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/kawd819pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",KAWD-819 ดาวมหาลัย กู่ร้องให้ก้องโลก
-https://3ird.samorn-team.workers.dev/?id=4097&type=video
-#EXTINF:-1 tvg-name="JUY-133 รักแรกของผมคือเพื่อนแม่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/juy133pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUY-133 รักแรกของผมคือเพื่อนแม่
-https://3ird.samorn-team.workers.dev/?id=4098&type=video
-#EXTINF:-1 tvg-name="NDRA-030 ชู้รักกับหนุ่มน้อยโอตาคุ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ndra030pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NDRA-030 ชู้รักกับหนุ่มน้อยโอตาคุ
-https://3ird.samorn-team.workers.dev/?id=4099&type=video
-#EXTINF:-1 tvg-name="PPPD-351 แม่แฟนยังสาว บางคราวก็ต้องเอาอกเอาใจ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/pppd351pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PPPD-351 แม่แฟนยังสาว บางคราวก็ต้องเอาอกเอาใจ
-https://3ird.samorn-team.workers.dev/?id=4100&type=video
-#EXTINF:-1 tvg-name="MIDE-232 หรรษาในวันหยุดของซึโบมิ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide232pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-232 หรรษาในวันหยุดของซึโบมิ
-https://3ird.samorn-team.workers.dev/?id=4101&type=video
-#EXTINF:-1 tvg-name="ADN-030 Shame My Husband สังวาสศาสตรา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn030pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-030 Shame My Husband สังวาสศาสตรา
-https://3ird.samorn-team.workers.dev/?id=4102&type=video
-#EXTINF:-1 tvg-name="MIAE-003 ราคะสลับคู่ อยู่ๆก็อยากสวิงกิ้ง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/miae003pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIAE-003 ราคะสลับคู่ อยู่ๆก็อยากสวิงกิ้ง
-https://3ird.samorn-team.workers.dev/?id=4103&type=video
-#EXTINF:-1 tvg-name="ADN-057 ที่ฉันเสียตัวก็เพื่อสามี" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn057pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-057 ที่ฉันเสียตัวก็เพื่อสามี
-https://3ird.samorn-team.workers.dev/?id=4104&type=video
-#EXTINF:-1 tvg-name="ADN-102 แอบรักเมียเพื่อน ต้องมีวางแผนเย็ดให้ได้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn102pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-102 แอบรักเมียเพื่อน ต้องมีวางแผนเย็ดให้ได้
-https://3ird.samorn-team.workers.dev/?id=4105&type=video
-#EXTINF:-1 tvg-name="Friday The 13th Parody ศุกร์ 13 ฝันเปียก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1-22.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",Friday The 13th Parody ศุกร์ 13 ฝันเปียก
-https://3ird.samorn-team.workers.dev/?id=4106&type=video
-#EXTINF:-1 tvg-name="RBD-557 เล่นประตูหลัง ผู้ประกาศข่าวสาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd557pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-557 เล่นประตูหลัง ผู้ประกาศข่าวสาว
-https://3ird.samorn-team.workers.dev/?id=4107&type=video
-#EXTINF:-1 tvg-name="SOE-259 ความสวย พาความเสียวมาเยือน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/soe259pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SOE-259 ความสวย พาความเสียวมาเยือน
-https://3ird.samorn-team.workers.dev/?id=4108&type=video
-#EXTINF:-1 tvg-name="EBOD-405 ลูกสะใภ้อารมณ์เปลี่ยว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ebod405pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",EBOD-405 ลูกสะใภ้อารมณ์เปลี่ยว
-https://3ird.samorn-team.workers.dev/?id=4109&type=video
-#EXTINF:-1 tvg-name="IPZ-580 นักสืบสาวจอมเฟี้ยว เสียวยันจบเรื่อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz580pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-580 นักสืบสาวจอมเฟี้ยว เสียวยันจบเรื่อง
-https://3ird.samorn-team.workers.dev/?id=4110&type=video
-#EXTINF:-1 tvg-name="RBD-445 เมียสาวกับตาลุงที่เสียความทรงจำ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd445pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-445 เมียสาวกับตาลุงที่เสียความทรงจำ
-https://3ird.samorn-team.workers.dev/?id=4111&type=video
-#EXTINF:-1 tvg-name="RBD-291 นางแบบสาว คาวสวาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd291pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-291 นางแบบสาว คาวสวาท
-https://3ird.samorn-team.workers.dev/?id=4112&type=video
-#EXTINF:-1 tvg-name="RBD-288 ยกโทษให้ฉันนะคะ ที่รัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd288pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-288 ยกโทษให้ฉันนะคะ ที่รัก
-https://3ird.samorn-team.workers.dev/?id=4113&type=video
-#EXTINF:-1 tvg-name="PPPD-320 Julia ฤดูร้อนนี้ ที่ฉันโคตรเหงา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/pppd320pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PPPD-320 Julia ฤดูร้อนนี้ ที่ฉันโคตรเหงา
-https://3ird.samorn-team.workers.dev/?id=4114&type=video
-#EXTINF:-1 tvg-name="WANZ-332 รถไฟสายสวาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/wanz332pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",WANZ-332 รถไฟสายสวาท
-https://3ird.samorn-team.workers.dev/?id=4115&type=video
-#EXTINF:-1 tvg-name="SNIS-191 รถไฟฟ้ามาหาความเสียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis191pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-191 รถไฟฟ้ามาหาความเสียว
-https://3ird.samorn-team.workers.dev/?id=4116&type=video
-#EXTINF:-1 tvg-name="SOE-339 โซระ อาโออิ หญิงสาวผู้โชคร้าย โดนข่มขืนและถ่ายรูปแบล็คเมล์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/soe339pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SOE-339 โซระ อาโออิ หญิงสาวผู้โชคร้าย โดนข่มขืนและถ่ายรูปแบล็คเมล์
-https://3ird.samorn-team.workers.dev/?id=4117&type=video
-#EXTINF:-1 tvg-name="SHKD-546 ข้อห้ามของตัณหา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/shkd546pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SHKD-546 ข้อห้ามของตัณหา
-https://3ird.samorn-team.workers.dev/?id=4118&type=video
-#EXTINF:-1 tvg-name="SHKD-471 ผัวไปเที่ยว เมียเปลี่ยวโดนภารโรงเย็ด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/shkd471pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SHKD-471 ผัวไปเที่ยว เมียเปลี่ยวโดนภารโรงเย็ด
-https://3ird.samorn-team.workers.dev/?id=4119&type=video
-#EXTINF:-1 tvg-name="SNIS-420 สาวประกันเธอขายหมอน พ่วงความเสียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis420pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-420 สาวประกันเธอขายหมอน พ่วงความเสียว
-https://3ird.samorn-team.workers.dev/?id=4120&type=video
-#EXTINF:-1 tvg-name="TEK-077 เดบิวสะท้านโลกา เปิดเรือนร่างนางเอกAV หน้าใหม่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/tek077pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",TEK-077 เดบิวสะท้านโลกา เปิดเรือนร่างนางเอกAV หน้าใหม่
-https://3ird.samorn-team.workers.dev/?id=4121&type=video
-#EXTINF:-1 tvg-name="SNIS-511 Aoi หมอสาว ตกเป็นหนูลองยา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis511pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-511 Aoi หมอสาว ตกเป็นหนูลองยา
-https://3ird.samorn-team.workers.dev/?id=4122&type=video
-#EXTINF:-1 tvg-name="RBD-410 สามีจ๋า ยกโทษให้ฉันด้วย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd410pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-410 สามีจ๋า ยกโทษให้ฉันด้วย
-https://3ird.samorn-team.workers.dev/?id=4123&type=video
-#EXTINF:-1 tvg-name="PPPD-354 เคลมสวาทลูกสะใภ้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/pppd354pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PPPD-354 เคลมสวาทลูกสะใภ้
-https://3ird.samorn-team.workers.dev/?id=4124&type=video
-#EXTINF:-1 tvg-name="STAR-497 Risa Tachibana อดีตไอดอลสาวของวง AKB48" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star497pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-497 Risa Tachibana อดีตไอดอลสาวของวง AKB48
-https://3ird.samorn-team.workers.dev/?id=4125&type=video
-#EXTINF:-1 tvg-name="MIAD-542 พยาบาลสุดสวยกับคนไข้ผู้หื่นกาม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/miad542pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIAD-542 พยาบาลสุดสวยกับคนไข้ผู้หื่นกาม
-https://3ird.samorn-team.workers.dev/?id=4126&type=video
-#EXTINF:-1 tvg-name="STARS-019 แผนสุดทราม ขยี้กามเน็ตไอดอลญี่ปุ่น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1stars019pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STARS-019 แผนสุดทราม ขยี้กามเน็ตไอดอลญี่ปุ่น
-https://3ird.samorn-team.workers.dev/?id=4127&type=video
-#EXTINF:-1 tvg-name="SSNI-135 ตะลุมรักคุณครูฝึกสอน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/SSNI-135.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-135 ตะลุมรักคุณครูฝึกสอน
-https://3ird.samorn-team.workers.dev/?id=4128&type=video
-#EXTINF:-1 tvg-name="OKSN-197 คุณแม่สอนเซ็กส์ แม่นี้มีบุณคุณใหญ่หลวง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/oksn197pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",OKSN-197 คุณแม่สอนเซ็กส์ แม่นี้มีบุณคุณใหญ่หลวง
-https://3ird.samorn-team.workers.dev/?id=4129&type=video
-#EXTINF:-1 tvg-name="IPZ-587 สาวออฟฟิศอย่างฉันต้องกลายเป็น นางแบบนู๊ดจำเป็น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz587pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-587 สาวออฟฟิศอย่างฉันต้องกลายเป็น นางแบบนู๊ดจำเป็น
-https://3ird.samorn-team.workers.dev/?id=4130&type=video
-#EXTINF:-1 tvg-name="MDYD-951 แม่บ้านนมใหญ่ ต้องการไข่ดุ้นยักษ์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mdyd951pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MDYD-951 แม่บ้านนมใหญ่ ต้องการไข่ดุ้นยักษ์
-https://3ird.samorn-team.workers.dev/?id=4131&type=video
-#EXTINF:-1 tvg-name="STAR-775 สลับร่างสร้างเสียว หวานมันส์ฉันคือเธอ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star775pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-775 สลับร่างสร้างเสียว หวานมันส์ฉันคือเธอ
-https://3ird.samorn-team.workers.dev/?id=4132&type=video
-#EXTINF:-1 tvg-name="STAR-677 น้องสาวผู้บำเรอกามอารมณ์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star677pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-677 น้องสาวผู้บำเรอกามอารมณ์
-https://3ird.samorn-team.workers.dev/?id=4133&type=video
-#EXTINF:-1 tvg-name="SSNI-075 เดบิวต์ครานี้ไม่มีการสัมภาษณ์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni075pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-075 เดบิวต์ครานี้ไม่มีการสัมภาษณ์
-https://3ird.samorn-team.workers.dev/?id=4134&type=video
-#EXTINF:-1 tvg-name="SSNI-360 ทะเลสวาทหาดสวรรค์สุดหรรษา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni360pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-360 ทะเลสวาทหาดสวรรค์สุดหรรษา
-https://3ird.samorn-team.workers.dev/?id=4135&type=video
-#EXTINF:-1 tvg-name="SSNI-166 สามีหนูหลับ พ่อสามีเลยจับทำเมีย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni166pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-166 สามีหนูหลับ พ่อสามีเลยจับทำเมีย
-https://3ird.samorn-team.workers.dev/?id=4136&type=video
-#EXTINF:-1 tvg-name="SSNI-014 แพ้กลิ่นน้องสาวแฟน กลิ่นหอมของสาวแรกรุ่น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni014pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-014 แพ้กลิ่นน้องสาวแฟน กลิ่นหอมของสาวแรกรุ่น
-https://3ird.samorn-team.workers.dev/?id=4137&type=video
-#EXTINF:-1 tvg-name="MIDE-402 ชิวหาพาสยิว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide402pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-402 ชิวหาพาสยิว
-https://3ird.samorn-team.workers.dev/?id=4138&type=video
-#EXTINF:-1 tvg-name="DASD-426 อ้วนร้อนสอนเชิงรัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/dasd426pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DASD-426 อ้วนร้อนสอนเชิงรัก
-https://3ird.samorn-team.workers.dev/?id=4139&type=video
-#EXTINF:-1 tvg-name="IPZ-530 อาสาสมัครตรวจเซ็กส์ มีปัญหาปรีกษาทดลองเย็ดได้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz530pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-530 อาสาสมัครตรวจเซ็กส์ มีปัญหาปรีกษาทดลองเย็ดได้
-https://3ird.samorn-team.workers.dev/?id=4140&type=video
-#EXTINF:-1 tvg-name="STAR-660 เซลล์ตรวจห้องต้องเอามาขี่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star660pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-660 เซลล์ตรวจห้องต้องเอามาขี่
-https://3ird.samorn-team.workers.dev/?id=4141&type=video
-#EXTINF:-1 tvg-name="STAR-653 คุณครูที่รัก ผมขอ fuck ครูได้ไหม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star653pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-653 คุณครูที่รัก ผมขอ fuck ครูได้ไหม
-https://3ird.samorn-team.workers.dev/?id=4142&type=video
-#EXTINF:-1 tvg-name="STAR-645 ศิลปกามะ เรือนร่างสร้างความสุข" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star645pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-645 ศิลปกามะ เรือนร่างสร้างความสุข
-https://3ird.samorn-team.workers.dev/?id=4143&type=video
-#EXTINF:-1 tvg-name="SSNI-424 พี่แฟนแจ่มเกิน เพลินกันจนน้ำแตก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni424pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-424 พี่แฟนแจ่มเกิน เพลินกันจนน้ำแตก
-https://3ird.samorn-team.workers.dev/?id=4144&type=video
-#EXTINF:-1 tvg-name="SSNI-305 แกงค์ลุงหื่นแอบชื่นมื่นกับประธานนักเรียน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ssni305pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSNI-305 แกงค์ลุงหื่นแอบชื่นมื่นกับประธานนักเรียน
-https://3ird.samorn-team.workers.dev/?id=4145&type=video
-#EXTINF:-1 tvg-name="RBD-551 ความลับสุดยอดของคุณนายสาวญี่ปุ่น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd551pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-551 ความลับสุดยอดของคุณนายสาวญี่ปุ่น
-https://3ird.samorn-team.workers.dev/?id=4146&type=video
-#EXTINF:-1 tvg-name="STAR-396 สาวหน้าใส กับไหฉ่ำๆ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star0396pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-396 สาวหน้าใส กับไหฉ่ำๆ
-https://3ird.samorn-team.workers.dev/?id=4147&type=video
-#EXTINF:-1 tvg-name="SNIS-289 สาวน้อยน่ารัก ผู้ตกเป็นเหยื่อ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/SNIS-289.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-289 สาวน้อยน่ารัก ผู้ตกเป็นเหยื่อ
-https://3ird.samorn-team.workers.dev/?id=4148&type=video
-#EXTINF:-1 tvg-name="SNIS-208 ดาราสาวหน้าใส ขอแตกใส่หน้าสักน้ำ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis208pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-208 ดาราสาวหน้าใส ขอแตกใส่หน้าสักน้ำ
-https://3ird.samorn-team.workers.dev/?id=4149&type=video
-#EXTINF:-1 tvg-name="MIDE-579 นารีขี่เพื่อนน้อง ชินามิ ผู้ชอบกินเด็ก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/MIDE-579.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-579 นารีขี่เพื่อนน้อง ชินามิ ผู้ชอบกินเด็ก
-https://3ird.samorn-team.workers.dev/?id=4150&type=video
-#EXTINF:-1 tvg-name="Carib-082713-417 กะทิเวอร์จิ้น สูญสิ้นให้กับท่านประธาน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1-1.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",Carib-082713-417 กะทิเวอร์จิ้น สูญสิ้นให้กับท่านประธาน
-https://3ird.samorn-team.workers.dev/?id=4151&type=video
-#EXTINF:-1 tvg-name="SOE-273 เรื่องลับๆภายในครอบครัวของ อากิโฮะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/soe273pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SOE-273 เรื่องลับๆภายในครอบครัวของ อากิโฮะ
-https://3ird.samorn-team.workers.dev/?id=4152&type=video
-#EXTINF:-1 tvg-name="SIRO-3171 ความลับคาวๆ ของสาวออฟฟิศ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1-3.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SIRO-3171 ความลับคาวๆ ของสาวออฟฟิศ
-https://3ird.samorn-team.workers.dev/?id=4153&type=video
-#EXTINF:-1 tvg-name="PRED-044 มอมเมียเพื่อนให้เมาแล้วเอาควยยัด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/pred044pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PRED-044 มอมเมียเพื่อนให้เมาแล้วเอาควยยัด
-https://3ird.samorn-team.workers.dev/?id=4154&type=video
-#EXTINF:-1 tvg-name="NGOD-051 ภรรยาตัวร้าย กับนายช่างไม้จอมยโส" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ngod051pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NGOD-051 ภรรยาตัวร้าย กับนายช่างไม้จอมยโส
-https://3ird.samorn-team.workers.dev/?id=4155&type=video
-#EXTINF:-1 tvg-name="NGOD-020 ตกหลุมรัก ไอ้หนุ่มนักถ้ำมอง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ngod020pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NGOD-020 ตกหลุมรัก ไอ้หนุ่มนักถ้ำมอง
-https://3ird.samorn-team.workers.dev/?id=4156&type=video
-#EXTINF:-1 tvg-name="MXGS-705 สาวนมโตอายุ 18 มาแคสหนังโป๊" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/h_068mxgs705pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MXGS-705 สาวนมโตอายุ 18 มาแคสหนังโป๊
-https://3ird.samorn-team.workers.dev/?id=4157&type=video
-#EXTINF:-1 tvg-name="MIDE-460 พี่น้องท้องชนกัน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide460pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-460 พี่น้องท้องชนกัน
-https://3ird.samorn-team.workers.dev/?id=4158&type=video
-#EXTINF:-1 tvg-name="MIDE-411 หลังจากนี้ เราจะใช้ชีวิตร่วมกัน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide411pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-411 หลังจากนี้ เราจะใช้ชีวิตร่วมกัน
-https://3ird.samorn-team.workers.dev/?id=4159&type=video
-#EXTINF:-1 tvg-name="MIDE-370 โคโนมิ นางเอกสายแบ๊ว Debut" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide370pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-370 โคโนมิ นางเอกสายแบ๊ว Debut
-https://3ird.samorn-team.workers.dev/?id=4160&type=video
-#EXTINF:-1 tvg-name="SNIS-154 แสดงสดกลางออฟฟิศบริษัทใหญ่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis154pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-154 แสดงสดกลางออฟฟิศบริษัทใหญ่
-https://3ird.samorn-team.workers.dev/?id=4161&type=video
-#EXTINF:-1 tvg-name="SNIS-129 รักกลางแจ้ง ที่ไหนก็ได้แค่มีแค่เรา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis129pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-129 รักกลางแจ้ง ที่ไหนก็ได้แค่มีแค่เรา
-https://3ird.samorn-team.workers.dev/?id=4162&type=video
-#EXTINF:-1 tvg-name="MIDE-468 เสื้อน้องตัวใหญ่ เลยห้ามใจไว้ไม่อยู่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide468pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-468 เสื้อน้องตัวใหญ่ เลยห้ามใจไว้ไม่อยู่
-https://3ird.samorn-team.workers.dev/?id=4163&type=video
-#EXTINF:-1 tvg-name="MIDE-443 คุณครูสายรุก สนุกล่ะงานนี้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/MIDE-443.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-443 คุณครูสายรุก สนุกล่ะงานนี้
-https://3ird.samorn-team.workers.dev/?id=4164&type=video
-#EXTINF:-1 tvg-name="MIDE-371 บาปสวาทคืนสนอง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide371pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-371 บาปสวาทคืนสนอง
-https://3ird.samorn-team.workers.dev/?id=4165&type=video
-#EXTINF:-1 tvg-name="MEYD-479 ผัวไม่มีน้ำยา ป๊ะป๋าเลยจัดให้เต็มอิ่ม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/meyd479pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MEYD-479 ผัวไม่มีน้ำยา ป๊ะป๋าเลยจัดให้เต็มอิ่ม
-https://3ird.samorn-team.workers.dev/?id=4166&type=video
-#EXTINF:-1 tvg-name="KAWD-731 โนบราเสื้อเปียก เรียกอารมณ์อยาก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/kawd731pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",KAWD-731 โนบราเสื้อเปียก เรียกอารมณ์อยาก
-https://3ird.samorn-team.workers.dev/?id=4167&type=video
-#EXTINF:-1 tvg-name="IPX-243 น้องแฟนนมโต หนองโพเรียกพี่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipx243pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPX-243 น้องแฟนนมโต หนองโพเรียกพี่
-https://3ird.samorn-team.workers.dev/?id=4168&type=video
-#EXTINF:-1 tvg-name="AVOP-126 สาวสวยจากจังหวัดคุมาโมโต AVDebut" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1avop126sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",AVOP-126 สาวสวยจากจังหวัดคุมาโมโต AVDebut
-https://3ird.samorn-team.workers.dev/?id=4169&type=video
-#EXTINF:-1 tvg-name="DVDMS-277 ชวนสาวสวยวงโย ไปโล้สำเภา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/dvdms277sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DVDMS-277 ชวนสาวสวยวงโย ไปโล้สำเภา
-https://3ird.samorn-team.workers.dev/?id=4170&type=video
-#EXTINF:-1 tvg-name="DGL-018 ติวเตอร์ขี้ร้อน กับห้องนอนที่แอร์เสีย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ติวเตอร์ส่วนตัว-DGL-018-หนังเอวีซับไทย-696x466.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DGL-018 ติวเตอร์ขี้ร้อน กับห้องนอนที่แอร์เสีย
-https://3ird.samorn-team.workers.dev/?id=4171&type=video
-#EXTINF:-1 tvg-name="ADN-135 คนขับรถ แอบซดหอยเมียนาย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn135pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-135 คนขับรถ แอบซดหอยเมียนาย
-https://3ird.samorn-team.workers.dev/?id=4172&type=video
-#EXTINF:-1 tvg-name="ATID-341 กดแนบกระจก พุ่งฉกพันครั้ง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/atid341pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ATID-341 กดแนบกระจก พุ่งฉกพันครั้ง
-https://3ird.samorn-team.workers.dev/?id=4173&type=video
-#EXTINF:-1 tvg-name="ABP-647 สี่สถาณการณ์แห่งความเสียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/118abp647pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ABP-647 สี่สถาณการณ์แห่งความเสียว
-https://3ird.samorn-team.workers.dev/?id=4174&type=video
-#EXTINF:-1 tvg-name="ABP-119 เวลาหนึ่งวันของผม กับนางเอกชุปเปอร์สตาร์ AV" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/118abp119pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ABP-119 เวลาหนึ่งวันของผม กับนางเอกชุปเปอร์สตาร์ AV
-https://3ird.samorn-team.workers.dev/?id=4175&type=video
-#EXTINF:-1 tvg-name="PPPD-335 รุมโทรมคุณครูสาวนมสะบึ้ม จูเลียคนสวย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/pppd335pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PPPD-335 รุมโทรมคุณครูสาวนมสะบึ้ม จูเลียคนสวย
-https://3ird.samorn-team.workers.dev/?id=4176&type=video
-#EXTINF:-1 tvg-name="IPZ-406 นางทาสสาวในชุดนักเรียนญี่ปุ่น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/IPZ-406.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-406 นางทาสสาวในชุดนักเรียนญี่ปุ่น
-https://3ird.samorn-team.workers.dev/?id=4177&type=video
-#EXTINF:-1 tvg-name="ADN-041 ชีวิตฉันเปลี่ยนไป เพราะแจกันใบเดียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn041pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-041 ชีวิตฉันเปลี่ยนไป เพราะแจกันใบเดียว
-https://3ird.samorn-team.workers.dev/?id=4178&type=video
-#EXTINF:-1 tvg-name="IPZ-637 เจาะลึกไอดอลสาวญี่ปุ่น นักกิน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz637pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-637 เจาะลึกไอดอลสาวญี่ปุ่น นักกิน
-https://3ird.samorn-team.workers.dev/?id=4179&type=video
-#EXTINF:-1 tvg-name="IPZ-339 ปุ๊บปั๊บจับเสียบ โรล่า ทากิซาว่า มาเอง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz339pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-339 ปุ๊บปั๊บจับเสียบ โรล่า ทากิซาว่า มาเอง
-https://3ird.samorn-team.workers.dev/?id=4180&type=video
-#EXTINF:-1 tvg-name="AVOP-002 พ่ายเพลิงสวาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/avop002pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",AVOP-002 พ่ายเพลิงสวาท
-https://3ird.samorn-team.workers.dev/?id=4181&type=video
-#EXTINF:-1 tvg-name="SBNR-305 พ่อผัวคั่วกับลูกสะใภ้ผู้ร่านสวาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/h_102sbnr00305pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SBNR-305 พ่อผัวคั่วกับลูกสะใภ้ผู้ร่านสวาท
-https://3ird.samorn-team.workers.dev/?id=4182&type=video
-#EXTINF:-1 tvg-name="RBD-632 วิบากกาม ทนายสาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd632pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-632 วิบากกาม ทนายสาว
-https://3ird.samorn-team.workers.dev/?id=4183&type=video
-#EXTINF:-1 tvg-name="JUFD-369 พี่เมียแอบเลียผัวน้อง เมียก็ท้องน้องเลยโดนพี่แย่งผัว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jufd369pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUFD-369 พี่เมียแอบเลียผัวน้อง เมียก็ท้องน้องเลยโดนพี่แย่งผัว
-https://3ird.samorn-team.workers.dev/?id=4184&type=video
-#EXTINF:-1 tvg-name="JUX-174 ฤดูร้อน แต่แม่เลี้ยงเราเร่าร้อนยิ่งกว่า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jux174pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUX-174 ฤดูร้อน แต่แม่เลี้ยงเราเร่าร้อนยิ่งกว่า
-https://3ird.samorn-team.workers.dev/?id=4185&type=video
-#EXTINF:-1 tvg-name="JUX-500 เมียก็เด็ดลูกไม่เย็ดได้ยังไง ให้พ่อละกันนะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jux500pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUX-500 เมียก็เด็ดลูกไม่เย็ดได้ยังไง ให้พ่อละกันนะ
-https://3ird.samorn-team.workers.dev/?id=4186&type=video
-#EXTINF:-1 tvg-name="STAR-471 แอบสามีเล่นหนัง AV หาเงินจุนเจือครอบครัว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star471pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-471 แอบสามีเล่นหนัง AV หาเงินจุนเจือครอบครัว
-https://3ird.samorn-team.workers.dev/?id=4187&type=video
-#EXTINF:-1 tvg-name="TEK-089 นางเอกใหม่หัวใจจิ้มลิ้ม เบาๆหน่อยนะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/tek089pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",TEK-089 นางเอกใหม่หัวใจจิ้มลิ้ม เบาๆหน่อยนะ
-https://3ird.samorn-team.workers.dev/?id=4188&type=video
-#EXTINF:-1 tvg-name="ADN-115 หนุ่มน้อยข้างบ้าน กับคุณนายที่หายไป" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn115pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-115 หนุ่มน้อยข้างบ้าน กับคุณนายที่หายไป
-https://3ird.samorn-team.workers.dev/?id=4189&type=video
-#EXTINF:-1 tvg-name="IPZ-573 ซ่อมฝักบัวไม่คิดเงิน แถมน้ำกามให้อีกด้วย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz573pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-573 ซ่อมฝักบัวไม่คิดเงิน แถมน้ำกามให้อีกด้วย
-https://3ird.samorn-team.workers.dev/?id=4190&type=video
-#EXTINF:-1 tvg-name="MIAE-068 ทาสน้ำกามตามที่ผัวต้องการ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/miae068pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIAE-068 ทาสน้ำกามตามที่ผัวต้องการ
-https://3ird.samorn-team.workers.dev/?id=4191&type=video
-#EXTINF:-1 tvg-name="SNIS-778 กรรมการนักเรียนเงี่ยนในห้องสมุด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis778pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-778 กรรมการนักเรียนเงี่ยนในห้องสมุด
-https://3ird.samorn-team.workers.dev/?id=4192&type=video
-#EXTINF:-1 tvg-name="TEK-071 ได้เอาไอดอลสาวญี่ปุ่น สุดแสนประทับใจ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/tek071pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",TEK-071 ได้เอาไอดอลสาวญี่ปุ่น สุดแสนประทับใจ
-https://3ird.samorn-team.workers.dev/?id=4193&type=video
-#EXTINF:-1 tvg-name="MIDD-717 ภารกิจนางเอก AV เยี่ยมหนุ่มโสดถึงบ้าน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/midd717pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDD-717 ภารกิจนางเอก AV เยี่ยมหนุ่มโสดถึงบ้าน
-https://3ird.samorn-team.workers.dev/?id=4194&type=video
-#EXTINF:-1 tvg-name="BBI-168 เลขาผู้ล่าแต้ม แอ้มหนุ่มทั้งบริษัท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/bbi168pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",BBI-168 เลขาผู้ล่าแต้ม แอ้มหนุ่มทั้งบริษัท
-https://3ird.samorn-team.workers.dev/?id=4195&type=video
-#EXTINF:-1 tvg-name="MEYD-018 เพื่อนลูกกี่คนแม่เหมาหมดนะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/MEYD-018.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MEYD-018 เพื่อนลูกกี่คนแม่เหมาหมดนะ
-https://3ird.samorn-team.workers.dev/?id=4196&type=video
-#EXTINF:-1 tvg-name="NTR-007 พ่อผัวเด็ดเกินจะทนไหว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1ntr007pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NTR-007 พ่อผัวเด็ดเกินจะทนไหว
-https://3ird.samorn-team.workers.dev/?id=4197&type=video
-#EXTINF:-1 tvg-name="ADN-110 เผลอใจให้หมอนวด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn110pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-110 เผลอใจให้หมอนวด
-https://3ird.samorn-team.workers.dev/?id=4198&type=video
-#EXTINF:-1 tvg-name="JUX-977 พยาบาลสุดสวยกับคนป่วยโรคจิต" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jux977pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUX-977 พยาบาลสุดสวยกับคนป่วยโรคจิต
-https://3ird.samorn-team.workers.dev/?id=4199&type=video
-#EXTINF:-1 tvg-name="SDMU-209 พ่อรักหนูมากกว่าแม่ได้ไหมค่ะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1sdmu209pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SDMU-209 พ่อรักหนูมากกว่าแม่ได้ไหมค่ะ
-https://3ird.samorn-team.workers.dev/?id=4200&type=video
-#EXTINF:-1 tvg-name="MIDE-002 พี่สาวผู้ทำผมเงี่ยนได้ทุกวัน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mide002pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-002 พี่สาวผู้ทำผมเงี่ยนได้ทุกวัน
-https://3ird.samorn-team.workers.dev/?id=4201&type=video
-#EXTINF:-1 tvg-name="OGPP-011 ลูกสะใภ้ผู้เหงาหอย พ่อตาเลยต้องลงมือเอง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/18ogpp011pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",OGPP-011 ลูกสะใภ้ผู้เหงาหอย พ่อตาเลยต้องลงมือเอง
-https://3ird.samorn-team.workers.dev/?id=4202&type=video
-#EXTINF:-1 tvg-name="DVDES-808 เพื่อนรัก fuck แม่ผมซะแล้ว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1dvdes808pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DVDES-808 เพื่อนรัก fuck แม่ผมซะแล้ว
-https://3ird.samorn-team.workers.dev/?id=4203&type=video
-#EXTINF:-1 tvg-name="IPZ-405 คุณครูสอนเรื่องเสียว รุมเย็ดครู โรล่า ทากิซาว่า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/ipz405pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-405 คุณครูสอนเรื่องเสียว รุมเย็ดครู โรล่า ทากิซาว่า
-https://3ird.samorn-team.workers.dev/?id=4204&type=video
-#EXTINF:-1 tvg-name="NSPS-537 ฉันเผลอตัวไปกับหัวหน้าสามี ยกโทษให้ฉันด้วย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/nsps537sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NSPS-537 ฉันเผลอตัวไปกับหัวหน้าสามี ยกโทษให้ฉันด้วย
-https://3ird.samorn-team.workers.dev/?id=4205&type=video
-#EXTINF:-1 tvg-name="URE-037 ยูมิกับพ่อผัวตัวแสบ แอบล่อไม่เว้นวัน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ure037pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",URE-037 ยูมิกับพ่อผัวตัวแสบ แอบล่อไม่เว้นวัน
-https://3ird.samorn-team.workers.dev/?id=4206&type=video
-#EXTINF:-1 tvg-name="BNSPS-318 ความลับของสองเรา พ่อผัวลูกสะใภ้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/3-1.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",BNSPS-318 ความลับของสองเรา พ่อผัวลูกสะใภ้
-https://3ird.samorn-team.workers.dev/?id=4207&type=video
-#EXTINF:-1 tvg-name="STAR-561 แม่เลี้ยงจอมเงี่ยน โดนลูกพาเพื่อนมารุม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1star561pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STAR-561 แม่เลี้ยงจอมเงี่ยน โดนลูกพาเพื่อนมารุม
-https://3ird.samorn-team.workers.dev/?id=4208&type=video
-#EXTINF:-1 tvg-name="HBAD-260 แม่หม้ายสาว พราวเสน่ห์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1hbad260pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HBAD-260 แม่หม้ายสาว พราวเสน่ห์
-https://3ird.samorn-team.workers.dev/?id=4209&type=video
-#EXTINF:-1 tvg-name="EYAN-024 แม่บ้านสาวนวดสวาท" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/eyan024pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",EYAN-024 แม่บ้านสาวนวดสวาท
-https://3ird.samorn-team.workers.dev/?id=4210&type=video
-#EXTINF:-1 tvg-name="ADN-021 ฝืนไม่ไหวเมื่อใจปราถนา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/adn021pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ADN-021 ฝืนไม่ไหวเมื่อใจปราถนา
-https://3ird.samorn-team.workers.dev/?id=4211&type=video
-#EXTINF:-1 tvg-name="MUM-256 สาวโนอา พาติวเตอร์ขึ้นสวรรค์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/mum256pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MUM-256 สาวโนอา พาติวเตอร์ขึ้นสวรรค์
-https://3ird.samorn-team.workers.dev/?id=4212&type=video
-#EXTINF:-1 tvg-name="WANZ-429 แฟนลูกสาว…ขอแม่เถอะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/wanz429pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",WANZ-429 แฟนลูกสาว…ขอแม่เถอะ
-https://3ird.samorn-team.workers.dev/?id=4213&type=video
-#EXTINF:-1 tvg-name="JUX-922 รสสวาทพ่อผัว : รักหมดใจ…พ่อผัวที่รัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/jux922pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUX-922 รสสวาทพ่อผัว : รักหมดใจ…พ่อผัวที่รัก
-https://3ird.samorn-team.workers.dev/?id=4214&type=video
-#EXTINF:-1 tvg-name="NGOD-032 คุณครูสอนพิเศษ เป็นชู้กับเมียผม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ngod032pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NGOD-032 คุณครูสอนพิเศษ เป็นชู้กับเมียผม
-https://3ird.samorn-team.workers.dev/?id=4215&type=video
-#EXTINF:-1 tvg-name="HAVD-875 ฉันติดใจลีลาผู้ชายห้องข้างๆ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/1havd875pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HAVD-875 ฉันติดใจลีลาผู้ชายห้องข้างๆ
-https://3ird.samorn-team.workers.dev/?id=4216&type=video
-#EXTINF:-1 tvg-name="WANZ-518 คารูมิ ในชุดชั้นในเมทสุดแซ่บ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/wanz518pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",WANZ-518 คารูมิ ในชุดชั้นในเมทสุดแซ่บ
-https://3ird.samorn-team.workers.dev/?id=4217&type=video
-#EXTINF:-1 tvg-name="IPZ-689 เมื่อแฟนผมเธอเป็นนางแบบ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz689pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-689 เมื่อแฟนผมเธอเป็นนางแบบ
-https://3ird.samorn-team.workers.dev/?id=4218&type=video
-#EXTINF:-1 tvg-name="IPZ-473 พี่สาวข้างห้อง อารมณ์เปลี่ยว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/ipz473pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-473 พี่สาวข้างห้อง อารมณ์เปลี่ยว
-https://3ird.samorn-team.workers.dev/?id=4219&type=video
-#EXTINF:-1 tvg-name="SOE-556 โซระ อาโออิ แอบ4 โชว์ 1" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/soe556pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SOE-556 โซระ อาโออิ แอบ4 โชว์ 1
-https://3ird.samorn-team.workers.dev/?id=4220&type=video
-#EXTINF:-1 tvg-name="RBD-794 นางแบบญี่ปุ่นคนดัง ชีวิตพังในร้านสะดวกซื้อ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/rbd794pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",RBD-794 นางแบบญี่ปุ่นคนดัง ชีวิตพังในร้านสะดวกซื้อ
-https://3ird.samorn-team.workers.dev/?id=4221&type=video
-#EXTINF:-1 tvg-name="PPPD-340 เมื่อฉันต้องเป็นกิ๊กกับแฟนของน้องสาวตัวเอง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/pppd340pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PPPD-340 เมื่อฉันต้องเป็นกิ๊กกับแฟนของน้องสาวตัวเอง
-https://3ird.samorn-team.workers.dev/?id=4222&type=video
-#EXTINF:-1 tvg-name="SNIS-397 ฉันถูกข่มขืน น้องสาวโดนพี่ชายบังคับขืนใจ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/snis397pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SNIS-397 ฉันถูกข่มขืน น้องสาวโดนพี่ชายบังคับขืนใจ
-https://3ird.samorn-team.workers.dev/?id=4223&type=video
-#EXTINF:-1 tvg-name="DVDES-730 เด็กข้างบ้านตัวแสบ แต่เย็ดเก่งจังเลย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/1dvdes730pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DVDES-730 เด็กข้างบ้านตัวแสบ แต่เย็ดเก่งจังเลย
-https://3ird.samorn-team.workers.dev/?id=4224&type=video
-#EXTINF:-1 tvg-name="DVDES-786 ฉันไม่ใช่แม่อีกต่อไปแล้ว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/1dvdes786pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DVDES-786 ฉันไม่ใช่แม่อีกต่อไปแล้ว
-https://3ird.samorn-team.workers.dev/?id=4225&type=video
-#EXTINF:-1 tvg-name="ABP-171 ได้ขึ้นพี่ได้ขี่น้อง บ้านนี้ขี้เงี่ยนกันจริง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/118abp171pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ABP-171 ได้ขึ้นพี่ได้ขี่น้อง บ้านนี้ขี้เงี่ยนกันจริง
-https://3ird.samorn-team.workers.dev/?id=4226&type=video
-#EXTINF:-1 tvg-name="เอวีซับไทย หลานชายผู้ไร้เดียงสา กับน้าสาวนมใหญ่ หลานชายอยากดูดนมน้า พอน้าเสียวขี้นมาก็ยาวเลยคราวนี้ MIMK-052 Haruna Hana [ซับไทย]" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/MIMK-052-My-Aunts-Body-Is-Too-Pleasant-หลานไร้เดียงสากับน้าสุดอึ๋ม-ซับไทย.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",เอวีซับไทย หลานชายผู้ไร้เดียงสา กับน้าสาวนมใหญ่ หลานชายอยากดูดนมน้า พอน้าเสียวขี้นมาก็ยาวเลยคราวนี้ MIMK-052 Haruna Hana [ซับไทย]
-https://3ird.samorn-team.workers.dev/?id=4227&type=video
-#EXTINF:-1 tvg-name="SHKD-739 โจรปล้นสวาท ระหว่างรอเงิน เย็ดตัวประกันฆ่าเวลาไป" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/shkd739pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SHKD-739 โจรปล้นสวาท ระหว่างรอเงิน เย็ดตัวประกันฆ่าเวลาไป
-https://3ird.samorn-team.workers.dev/?id=4228&type=video
-#EXTINF:-1 tvg-name="MIDE-382 ร้านสปาพาเสียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/mide382pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDE-382 ร้านสปาพาเสียว
-https://3ird.samorn-team.workers.dev/?id=4229&type=video
-#EXTINF:-1 tvg-name="IPZ-074 สามีเซ็กส์เสื่อม เพื่อนสามีเลยช่วยเหลือ ติดใจเลย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/ipz074pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-074 สามีเซ็กส์เสื่อม เพื่อนสามีเลยช่วยเหลือ ติดใจเลย
-https://3ird.samorn-team.workers.dev/?id=4230&type=video
-#EXTINF:-1 tvg-name="JUX-273 เพื่อนข้างห้องมาสอนเสียวจนติดใจ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/jux273pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",JUX-273 เพื่อนข้างห้องมาสอนเสียวจนติดใจ
-https://3ird.samorn-team.workers.dev/?id=4231&type=video
-#EXTINF:-1 tvg-name="IPZ-476 วิธีการรักษาของคุณหมอจอมเงี่ยน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/ipz476pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-476 วิธีการรักษาของคุณหมอจอมเงี่ยน
-https://3ird.samorn-team.workers.dev/?id=4232&type=video
-#EXTINF:-1 tvg-name="IPZ-146 จอมโจรยอดนักเย็ด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/ipz146pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-146 จอมโจรยอดนักเย็ด
-https://3ird.samorn-team.workers.dev/?id=4233&type=video
-#EXTINF:-1 tvg-name="NSPS-208 แม่บ้านจอมจุ้น กับพ่อหนุ่มนักเย็ด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/164nsps208pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NSPS-208 แม่บ้านจอมจุ้น กับพ่อหนุ่มนักเย็ด
-https://3ird.samorn-team.workers.dev/?id=4234&type=video
-#EXTINF:-1 tvg-name="หนังโป๊ซับไทย PGD-711 เรื่องวุ่นวายของพี่ชาย พี่สะใภ้ และตัวฉัน หนังโป๊แนวครอบครัว Sakurai Ayu [ซับไทย]" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/PGD-711-Temptation-Sakurai-Ayus-Sister-in-law-Of-Your-Pies-ซับไทย.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",หนังโป๊ซับไทย PGD-711 เรื่องวุ่นวายของพี่ชาย พี่สะใภ้ และตัวฉัน หนังโป๊แนวครอบครัว Sakurai Ayu [ซับไทย]
-https://3ird.samorn-team.workers.dev/?id=4235&type=video
-#EXTINF:-1 tvg-name="หนังโป๊ AV ซับไทย เมียใหม่ของพ่อผมขอได้ไหมครับ JUX-634 Honda Misaki [ซับไทย]" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/06/JUX-634-Father-Of-The-Woman-Honda-Cape-ซับไทย.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",หนังโป๊ AV ซับไทย เมียใหม่ของพ่อผมขอได้ไหมครับ JUX-634 Honda Misaki [ซับไทย]
-https://3ird.samorn-team.workers.dev/?id=4236&type=video
-#EXTINF:-1 tvg-name="IPZ-274 พี่แฟนลีลาเด็ด ขอเย็ดทีได้ไหม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/07/ipz274pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZ-274 พี่แฟนลีลาเด็ด ขอเย็ดทีได้ไหม
-https://3ird.samorn-team.workers.dev/?id=4237&type=video
-#EXTINF:-1 tvg-name="SSIS-135 President’s Secretary แลกหนี้ด้วยกาย ถวายให้ประธาน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/ssis135pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSIS-135 President’s Secretary แลกหนี้ด้วยกาย ถวายให้ประธาน
-https://3ird.samorn-team.workers.dev/?id=1&type=video
-#EXTINF:-1 tvg-name="STARS-533 Practicing Cowgirl เปิดม่านยั่วเย็ด ทีเด็ดคู่ฝึก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1stars533pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",STARS-533 Practicing Cowgirl เปิดม่านยั่วเย็ด ทีเด็ดคู่ฝึก
-https://3ird.samorn-team.workers.dev/?id=2&type=video
-#EXTINF:-1 tvg-name="PBD-488 Orgasmic โดนเย็ดแบบกะทันหัน เสียวกระสันถึงมดลูก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/pbd488pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PBD-488 Orgasmic โดนเย็ดแบบกะทันหัน เสียวกระสันถึงมดลูก
-https://3ird.samorn-team.workers.dev/?id=3&type=video
-#EXTINF:-1 tvg-name="DAZD-265 Gonna Break ครูศิษย์คิดลองของ ร้องระงมสมใจอยาก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/dazd265pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DAZD-265 Gonna Break ครูศิษย์คิดลองของ ร้องระงมสมใจอยาก
-https://3ird.samorn-team.workers.dev/?id=4&type=video
-#EXTINF:-1 tvg-name="MKCK-373 The Swaying ร่องฟิตโดนบด ยอมให้สดมิดด้าม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/mkck373pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MKCK-373 The Swaying ร่องฟิตโดนบด ยอมให้สดมิดด้าม
-https://3ird.samorn-team.workers.dev/?id=5&type=video
-#EXTINF:-1 tvg-name="FSDSS-778 Congratulations ห้องเรียนเร่าร้อน ครูสอนถึงจุด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1fsdss778pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",FSDSS-778 Congratulations ห้องเรียนเร่าร้อน ครูสอนถึงจุด
-https://3ird.samorn-team.workers.dev/?id=6&type=video
-#EXTINF:-1 tvg-name="MUDR-334 School Stranger ครูหื่นตัณหากลับ จับศิษย์สาวล้างท่อ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/mudr334pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MUDR-334 School Stranger ครูหื่นตัณหากลับ จับศิษย์สาวล้างท่อ
-https://3ird.samorn-team.workers.dev/?id=7&type=video
-#EXTINF:-1 tvg-name="DASS-425 Sex-crazed Sister น้องชายซึมเศร้า พี่สาวเด้าเยียวยา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/dass425pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DASS-425 Sex-crazed Sister น้องชายซึมเศร้า พี่สาวเด้าเยียวยา
-https://3ird.samorn-team.workers.dev/?id=8&type=video
-#EXTINF:-1 tvg-name="BLK-424 The Friend’s Dad จำนนต่อหลักฐาน ยอมเป็นทาสกามเพื่อนลูกสาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/blk424pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",BLK-424 The Friend’s Dad จำนนต่อหลักฐาน ยอมเป็นทาสกามเพื่อนลูกสาว
-https://3ird.samorn-team.workers.dev/?id=9&type=video
-#EXTINF:-1 tvg-name="FNS-114 Car Sex หนีฝนเข้าโรงแรม เพื่อนแถมความเสียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/FNS-114.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",FNS-114 Car Sex หนีฝนเข้าโรงแรม เพื่อนแถมความเสียว
-https://3ird.samorn-team.workers.dev/?id=10&type=video
-#EXTINF:-1 tvg-name="FNS-110 Domination NTR ผัวพักสองวัน เพื่อนมันส์แทนที่" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1fns110pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",FNS-110 Domination NTR ผัวพักสองวัน เพื่อนมันส์แทนที่
-https://3ird.samorn-team.workers.dev/?id=11&type=video
-#EXTINF:-1 tvg-name="UMD-713 Night Crawling ราตรีมืดมิด พิชิตกายสาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/125umd713pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",UMD-713 Night Crawling ราตรีมืดมิด พิชิตกายสาว
-https://3ird.samorn-team.workers.dev/?id=12&type=video
-#EXTINF:-1 tvg-name="MIDV-574 100 Million Yen นวดน้ำมันถูไถร่องนม ลื่นภิรมย์สมใจวัยเก๋า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2026/01/midv574pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MIDV-574 100 Million Yen นวดน้ำมันถูไถร่องนม ลื่นภิรมย์สมใจวัยเก๋า
-https://3ird.samorn-team.workers.dev/?id=13&type=video
-#EXTINF:-1 tvg-name="IENF-040 Big Tits Sister ปิดตำนาน บ้านหลังเก่า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1ienf040pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IENF-040 Big Tits Sister ปิดตำนาน บ้านหลังเก่า
-https://3ird.samorn-team.workers.dev/?id=14&type=video
-#EXTINF:-1 tvg-name="HND-902 Best Friend เมียเผลอเจอกันหน่อย เพื่อนอ่อยแรงแซงทางโค้ง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/hnd902pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HND-902 Best Friend เมียเผลอเจอกันหน่อย เพื่อนอ่อยแรงแซงทางโค้ง
-https://3ird.samorn-team.workers.dev/?id=15&type=video
-#EXTINF:-1 tvg-name="FSET-674 NTR Voice คุยสายเสียงใส ข้างในโดนกระทุ้ง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1fset674pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",FSET-674 NTR Voice คุยสายเสียงใส ข้างในโดนกระทุ้ง
-https://3ird.samorn-team.workers.dev/?id=16&type=video
-#EXTINF:-1 tvg-name="NHDTB-159 My Cousin’s Nipples หลานล่ำงานดี ย่ำยีน้าสาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1nhdtb159pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NHDTB-159 My Cousin’s Nipples หลานล่ำงานดี ย่ำยีน้าสาว
-https://3ird.samorn-team.workers.dev/?id=17&type=video
-#EXTINF:-1 tvg-name="HUNTA-830 My Boss’s Wife ผัวเมาหลับไม่ตื่น แอบหื่นเมียบอส" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/hunta830pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HUNTA-830 My Boss’s Wife ผัวเมาหลับไม่ตื่น แอบหื่นเมียบอส
-https://3ird.samorn-team.workers.dev/?id=18&type=video
-#EXTINF:-1 tvg-name="NHDTB-457 Kiss And Close ตกหลุมความขาว หลานสาวรุกฆาต" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1nhdtb457pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NHDTB-457 Kiss And Close ตกหลุมความขาว หลานสาวรุกฆาต
-https://3ird.samorn-team.workers.dev/?id=19&type=video
-#EXTINF:-1 tvg-name="DLDSS-141 Married Woman ผัวไร้น้ำยา พ่อตาจัดหนัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1dldss141pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DLDSS-141 Married Woman ผัวไร้น้ำยา พ่อตาจัดหนัก
-https://3ird.samorn-team.workers.dev/?id=20&type=video
-#EXTINF:-1 tvg-name="SCOP-738 Close Friend มาให้ปลอบใจ จัดไปหนึ่งดอก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/scop738sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SCOP-738 Close Friend มาให้ปลอบใจ จัดไปหนึ่งดอก
-https://3ird.samorn-team.workers.dev/?id=21&type=video
-#EXTINF:-1 tvg-name="Ippondo 082825_001 Real Orgasmic ลื่นหัวแตก แดกนมอมน้ำลาย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/082825_001-1pon.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",Ippondo 082825_001 Real Orgasmic ลื่นหัวแตก แดกนมอมน้ำลาย
-https://3ird.samorn-team.workers.dev/?id=22&type=video
-#EXTINF:-1 tvg-name="KBR-023 Race Queen งานดีไม่มีแผ่ว เอวเด้งดึ๋งถึงสวรรค์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/h_1712kbr023pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",KBR-023 Race Queen งานดีไม่มีแผ่ว เอวเด้งดึ๋งถึงสวรรค์
-https://3ird.samorn-team.workers.dev/?id=23&type=video
-#EXTINF:-1 tvg-name="DASD-973 Took A Bath บำบัดเด็กเกรียน ด้วยบทเรียนกระแทกร่อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/dasd973pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",DASD-973 Took A Bath บำบัดเด็กเกรียน ด้วยบทเรียนกระแทกร่อง
-https://3ird.samorn-team.workers.dev/?id=24&type=video
-#EXTINF:-1 tvg-name="FSDSS-083 Piston SEX ไม่ทันตั้งตัว โดนรัวจนขาอ่อน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1fsdss083pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",FSDSS-083 Piston SEX ไม่ทันตั้งตัว โดนรัวจนขาอ่อน
-https://3ird.samorn-team.workers.dev/?id=25&type=video
-#EXTINF:-1 tvg-name="HUNTA-916 College Friends เบียดเพื่อนหลับ กระชับร่อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/hunta916pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HUNTA-916 College Friends เบียดเพื่อนหลับ กระชับร่อง
-https://3ird.samorn-team.workers.dev/?id=26&type=video
-#EXTINF:-1 tvg-name="FNS-009 National Treasure โค้ชสาวเช็คของลองจับลำ รุ่นพี่ขยำจนน้ำทะลัก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1fns009pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",FNS-009 National Treasure โค้ชสาวเช็คของลองจับลำ รุ่นพี่ขยำจนน้ำทะลัก
-https://3ird.samorn-team.workers.dev/?id=27&type=video
-#EXTINF:-1 tvg-name="NNPJ-577 Matching App แอบผัวนัดยิ้มกลางวันแสก แหกขาเยสดหมดแม็กซ์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/nnpj577pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",NNPJ-577 Matching App แอบผัวนัดยิ้มกลางวันแสก แหกขาเยสดหมดแม็กซ์
-https://3ird.samorn-team.workers.dev/?id=28&type=video
-#EXTINF:-1 tvg-name="HMRK-025 Date in Asakusa ยูคาตะแหวก กระแทกใจ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/HMRK-025.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HMRK-025 Date in Asakusa ยูคาตะแหวก กระแทกใจ
-https://3ird.samorn-team.workers.dev/?id=29&type=video
-#EXTINF:-1 tvg-name="ZMEN-077 Yankee Sister-in-law เมาอ่อยถึงที่ จัดพี่ให้หายซ่า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/h_1371zmen077pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ZMEN-077 Yankee Sister-in-law เมาอ่อยถึงที่ จัดพี่ให้หายซ่า
-https://3ird.samorn-team.workers.dev/?id=30&type=video
-#EXTINF:-1 tvg-name="ROYD-011 Her Best Friend ปาร์ตี้เมาปลิ้น แอบกินแฟนเพื่อน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/royd011pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",ROYD-011 Her Best Friend ปาร์ตี้เมาปลิ้น แอบกินแฟนเพื่อน
-https://3ird.samorn-team.workers.dev/?id=31&type=video
-#EXTINF:-1 tvg-name="XRW-880 Got Drunk ลักหลับ ให้ดับดิ้น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/84xrw880pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",XRW-880 Got Drunk ลักหลับ ให้ดับดิ้น
-https://3ird.samorn-team.workers.dev/?id=32&type=video
-#EXTINF:-1 tvg-name="FSDSS-550 Own Maid สดไม่ต้องล้าง น้องนางอมดุ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/1fsdss550pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",FSDSS-550 Own Maid สดไม่ต้องล้าง น้องนางอมดุ
-https://3ird.samorn-team.workers.dev/?id=33&type=video
-#EXTINF:-1 tvg-name="AVOP-303 Gravure Idol รอยยิ้มหวานเจี๊ยบ โดนเสียบมิดด้าม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/avop303pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",AVOP-303 Gravure Idol รอยยิ้มหวานเจี๊ยบ โดนเสียบมิดด้าม
-https://3ird.samorn-team.workers.dev/?id=34&type=video
-#EXTINF:-1 tvg-name="SSIS-030 The Countryside หน้าร้อนนอนเหงา เมียเขาโคตรเด็ด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/ssis030pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",SSIS-030 The Countryside หน้าร้อนนอนเหงา เมียเขาโคตรเด็ด
-https://3ird.samorn-team.workers.dev/?id=35&type=video
-#EXTINF:-1 tvg-name="IPZZ-709 Idol TO ตัวท็อปวง ทรงอย่างเด็ด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/IPZZ-709.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",IPZZ-709 Idol TO ตัวท็อปวง ทรงอย่างเด็ด
-https://3ird.samorn-team.workers.dev/?id=36&type=video
-#EXTINF:-1 tvg-name="MAAN-1122 Charming Denim Girl ตัวแม่สายแฟ แค่ลองชุดก็หลุดคราง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/MAAN-1122.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",MAAN-1122 Charming Denim Girl ตัวแม่สายแฟ แค่ลองชุดก็หลุดคราง
-https://3ird.samorn-team.workers.dev/?id=37&type=video
-#EXTINF:-1 tvg-name="HIBR-016 Kana พอเหล้าเข้าปาก น้องก็อยากโดนกระแทก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/HIBR-016.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HIBR-016 Kana พอเหล้าเข้าปาก น้องก็อยากโดนกระแทก
-https://3ird.samorn-team.workers.dev/?id=38&type=video
-#EXTINF:-1 tvg-name="OREC-692 Mio หมอตาหน้าหวาน บริการถึงใจ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/OREC-692.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",OREC-692 Mio หมอตาหน้าหวาน บริการถึงใจ
-https://3ird.samorn-team.workers.dev/?id=39&type=video
-#EXTINF:-1 tvg-name="HGOT-047 New Female Teacher ขู่ครูแลกเสียว เดี๋ยวเดียวโดนยกห้อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/84hgot047pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",HGOT-047 New Female Teacher ขู่ครูแลกเสียว เดี๋ยวเดียวโดนยกห้อง
-https://3ird.samorn-team.workers.dev/?id=4527&type=video
-#EXTINF:-1 tvg-name="PBD-450 Pistoned From Behind ทะลวงประตูหลัง ฝังมิดด้าม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/pbd450pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PBD-450 Pistoned From Behind ทะลวงประตูหลัง ฝังมิดด้าม
-https://3ird.samorn-team.workers.dev/?id=4528&type=video
-#EXTINF:-1 tvg-name="PRED-497 Boss Harem เลื่อนขั้นแลกเย็ด เจ๊เด็ดเผ็ดทุกท่า" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2025/11/pred497pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",PRED-497 Boss Harem เลื่อนขั้นแลกเย็ด เจ๊เด็ดเผ็ดทุกท่า
-https://3ird.samorn-team.workers.dev/?id=4529&type=video
+{
+  "name": "🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 5)",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
+  "groups": [
+    {
+      "name": "PRED-768 Female Boss ลูกน้องชำระแค้น จัดหนักแทนคำด่า พลิกบทบาทเจ้านาย มาเป็นทาสบำเรอควย",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/pred768pl.webp",
+      "stations": [
+        {
+          "name": "PRED-768 Female Boss ลูกน้องชำระแค้น จัดหนักแทนคำด่า พลิกบทบาทเจ้านาย มาเป็นทาสบำเรอควย",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/pred768pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=240&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "DVDMS-213 Monitoring AV ภารกิจลับยั่วพ่อ แลกเงินล้าน พ่อเลยซ่านล่อลูกสาว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dvdms213sopl.webp",
+      "stations": [
+        {
+          "name": "DVDMS-213 Monitoring AV ภารกิจลับยั่วพ่อ แลกเงินล้าน พ่อเลยซ่านล่อลูกสาว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dvdms213sopl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=241&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "DVDMS-039 Monitoring ทริปออนเซ็นทำพ่อใจแตก เลยแหกกฎฟ้าคว้าลูกเย็ด",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dvdms039sopl.webp",
+      "stations": [
+        {
+          "name": "DVDMS-039 Monitoring ทริปออนเซ็นทำพ่อใจแตก เลยแหกกฎฟ้าคว้าลูกเย็ด",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dvdms039sopl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=242&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "CKCK-008 Practice Swimming เป้าตุงจัดขึ้นจากน้ำไม่ไหว น้าเลยถามจะให้ช่วยไหมน้อง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ckck008pl.webp",
+      "stations": [
+        {
+          "name": "CKCK-008 Practice Swimming เป้าตุงจัดขึ้นจากน้ำไม่ไหว น้าเลยถามจะให้ช่วยไหมน้อง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ckck008pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=243&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "DASD-788 Ghost Aiming รังรักสยิวติดผี เลยต้องมี 3P กัน",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dasd788pl.webp",
+      "stations": [
+        {
+          "name": "DASD-788 Ghost Aiming รังรักสยิวติดผี เลยต้องมี 3P กัน",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dasd788pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=244&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "CAWD-885 Academically หนูเบื่อๆ เลยแวะมาอ่อย ขอลองของอร่อยในออฟฟิศ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/cawd885pl.webp",
+      "stations": [
+        {
+          "name": "CAWD-885 Academically หนูเบื่อๆ เลยแวะมาอ่อย ขอลองของอร่อยในออฟฟิศ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/cawd885pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=245&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MFYD-048 Best Lover เมียคนอื่นแสนยั่ว ต้องลากตัวมามั่วคาห้อง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/mfyd048pl.webp",
+      "stations": [
+        {
+          "name": "MFYD-048 Best Lover เมียคนอื่นแสนยั่ว ต้องลากตัวมามั่วคาห้อง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/mfyd048pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=246&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "CKCK-025 Gangbang แค่หมายปองน้องนักกีฬา เลยจับมาขยี้หีให้พัง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ckck025pl.webp",
+      "stations": [
+        {
+          "name": "CKCK-025 Gangbang แค่หมายปองน้องนักกีฬา เลยจับมาขยี้หีให้พัง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ckck025pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=247&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "DASS-720 Female Doctor แลกร่างบำเรอคุณหมอ ขอแค่พอให้แฟนฉันรอด",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dass720pl.webp",
+      "stations": [
+        {
+          "name": "DASS-720 Female Doctor แลกร่างบำเรอคุณหมอ ขอแค่พอให้แฟนฉันรอด",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dass720pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=248&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MUDR-340 Female Ninja คาถาลวงตาพาใจให้หลงใหล จนต้องยอมให้มันกระแทกหี",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/mudr340pl.webp",
+      "stations": [
+        {
+          "name": "MUDR-340 Female Ninja คาถาลวงตาพาใจให้หลงใหล จนต้องยอมให้มันกระแทกหี",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/mudr340pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=249&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "DASS-722 Visit Home พี่สาวสุดสวยนอนอยู่ตรงหน้า น้องชายเลยคว้ามาขึ้นสวรรค์",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dass722pl.webp",
+      "stations": [
+        {
+          "name": "DASS-722 Visit Home พี่สาวสุดสวยนอนอยู่ตรงหน้า น้องชายเลยคว้ามาขึ้นสวรรค์",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/dass722pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=250&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "PPPE-356 My Step-sister พี่มีแฟนน้องแสนหึง เลยจับขึงเย็ดสั่งสอน",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/pppe356pl.webp",
+      "stations": [
+        {
+          "name": "PPPE-356 My Step-sister พี่มีแฟนน้องแสนหึง เลยจับขึงเย็ดสั่งสอน",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/pppe356pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=251&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ROYD-262 Gal Office เห็นหน้าซื่อเหมือนไม่มีพิษ กลับต้องพิชิตหีด้วยควยเหล็ก",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/royd262pl.webp",
+      "stations": [
+        {
+          "name": "ROYD-262 Gal Office เห็นหน้าซื่อเหมือนไม่มีพิษ กลับต้องพิชิตหีด้วยควยเหล็ก",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/royd262pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=252&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SONE-870 Child Actor เปิดซิงติวเตอร์เก็บอาการ โดนรุมยับจนหีบานสะท้านใจ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/sone870pl.webp",
+      "stations": [
+        {
+          "name": "SONE-870 Child Actor เปิดซิงติวเตอร์เก็บอาการ โดนรุมยับจนหีบานสะท้านใจ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/sone870pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=253&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SPSB-033 Sailor นักรบเซเลอร์พลาดท่า อสูรราครุมขยี้",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_173spsb33pl.webp",
+      "stations": [
+        {
+          "name": "SPSB-033 Sailor นักรบเซเลอร์พลาดท่า อสูรราครุมขยี้",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_173spsb33pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=254&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SONE-917 Earnest Nurse เทพธิดาผ้าขาว กับเรื่องฉาวในโรงพยาบาล",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/sone917pl.webp",
+      "stations": [
+        {
+          "name": "SONE-917 Earnest Nurse เทพธิดาผ้าขาว กับเรื่องฉาวในโรงพยาบาล",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/sone917pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=255&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSNI-891 Sister-in-law พี่เขยสุดหล่อตบะแตก แอบแทรกควยสดเย็ดน้องเมีย",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ssni891pl.webp",
+      "stations": [
+        {
+          "name": "SSNI-891 Sister-in-law พี่เขยสุดหล่อตบะแตก แอบแทรกควยสดเย็ดน้องเมีย",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ssni891pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=256&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "TNI-053 Beautiful Ninja มนตราสาปอสูร สุขสมบููรณ์ด้วยน้ำกามปีศาจ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_173tni53pl.webp",
+      "stations": [
+        {
+          "name": "TNI-053 Beautiful Ninja มนตราสาปอสูร สุขสมบููรณ์ด้วยน้ำกามปีศาจ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_173tni53pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=257&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SONE-942 Drugs หลานรักกลับมาบ้านนอก คุณลุงขอหยอกซอกหี",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/sone942pl.webp",
+      "stations": [
+        {
+          "name": "SONE-942 Drugs หลานรักกลับมาบ้านนอก คุณลุงขอหยอกซอกหี",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/sone942pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=258&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "YSAD-055 Naughty Play หนูเสียวควยพ่อเหลือเกิน ต้องแอบเพลินตอนแม่เผลอ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/540ysad55pl.webp",
+      "stations": [
+        {
+          "name": "YSAD-055 Naughty Play หนูเสียวควยพ่อเหลือเกิน ต้องแอบเพลินตอนแม่เผลอ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/540ysad55pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=259&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HSODA-056 My Best Friend เรื่องมันเศร้าขอเหล้าขวด เจอหมอนวดเป็นแฟนเพื่อน",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/hsoda056pl.webp",
+      "stations": [
+        {
+          "name": "HSODA-056 My Best Friend เรื่องมันเศร้าขอเหล้าขวด เจอหมอนวดเป็นแฟนเพื่อน",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/hsoda056pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=260&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SILK-014 ONE NIGHT เมื่อรักแท้ทำเจ็บ ขอหลุดคอนเซ็ปต์กับคนแปลกหน้า",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1silk014pl.webp",
+      "stations": [
+        {
+          "name": "SILK-014 ONE NIGHT เมื่อรักแท้ทำเจ็บ ขอหลุดคอนเซ็ปต์กับคนแปลกหน้า",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1silk014pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=261&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ZIZG-030 The Knights เชลยปากแข็งต้องเจอดี โดนอสูรย่ำยีจนน้ำไหล",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_826zizg030pl.webp",
+      "stations": [
+        {
+          "name": "ZIZG-030 The Knights เชลยปากแข็งต้องเจอดี โดนอสูรย่ำยีจนน้ำไหล",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_826zizg030pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=262&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HSODA-061 NTR Massage คอร์สเจ้าสาวเสริมความงาม บทรักลามปามจนผัวช้ำใจ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/hsoda061pl.webp",
+      "stations": [
+        {
+          "name": "HSODA-061 NTR Massage คอร์สเจ้าสาวเสริมความงาม บทรักลามปามจนผัวช้ำใจ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/hsoda061pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=263&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SILK-015 Long-distance ศิษย์รักหวนคืนมา ขอทวงท่ารักอาจารย์",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/12/1silk015pl.webp",
+      "stations": [
+        {
+          "name": "SILK-015 Long-distance ศิษย์รักหวนคืนมา ขอทวงท่ารักอาจารย์",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/12/1silk015pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=264&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "IPZZ-646 Shy Girl นัดสาวแอปอยากจัดหนักซักที ดันเจอดีตัวตึงคะนองควย",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ipzz646pl.webp",
+      "stations": [
+        {
+          "name": "IPZZ-646 Shy Girl นัดสาวแอปอยากจัดหนักซักที ดันเจอดีตัวตึงคะนองควย",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ipzz646pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=265&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ID-029 SPECIAL น้องสองแข่งเย็ดเด็ดถึงใจ จัดให้พี่ชายจนหมดแรง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/5525id029pl.webp",
+      "stations": [
+        {
+          "name": "ID-029 SPECIAL น้องสองแข่งเย็ดเด็ดถึงใจ จัดให้พี่ชายจนหมดแรง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/5525id029pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=266&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MFCW-057 ผัวดีแต่จู๋ไม่เด็ด เลยต้องมาเสร็จกับแฟนเก่า",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/MFCW-057.webp",
+      "stations": [
+        {
+          "name": "MFCW-057 ผัวดีแต่จู๋ไม่เด็ด เลยต้องมาเสร็จกับแฟนเก่า",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/MFCW-057.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=267&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "IPZZ-652 Childhood Friend ฉันยอมอดทน เพื่อคนที่แอบหวัง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ipzz652pl.webp",
+      "stations": [
+        {
+          "name": "IPZZ-652 Childhood Friend ฉันยอมอดทน เพื่อคนที่แอบหวัง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ipzz652pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=268&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "IPZZ-651 Lazy Sister-in-law หาว่ากูมันกาก เลยลากมาแตกในหี",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ipzz651pl.webp",
+      "stations": [
+        {
+          "name": "IPZZ-651 Lazy Sister-in-law หาว่ากูมันกาก เลยลากมาแตกในหี",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ipzz651pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=269&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SILK-025 Face To Face แค่เปิดปากคุยกันก็มันส์ได้พี่จะจัดให้ตามใจที่เธอขอ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1silk025pl.webp",
+      "stations": [
+        {
+          "name": "SILK-025 Face To Face แค่เปิดปากคุยกันก็มันส์ได้พี่จะจัดให้ตามใจที่เธอขอ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1silk025pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=270&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ADN-637 Photo Shoot ผัวนั่งดูข้างโซฟา น้ำตารินคาแก้ม",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/adn637pl.webp",
+      "stations": [
+        {
+          "name": "ADN-637 Photo Shoot ผัวนั่งดูข้างโซฟา น้ำตารินคาแก้ม",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/adn637pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=271&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "WANZ-582 Oil Massage คลายเส้นครั้งแรก โดนกระแทกจนร่างพัง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/wanz582pl.webp",
+      "stations": [
+        {
+          "name": "WANZ-582 Oil Massage คลายเส้นครั้งแรก โดนกระแทกจนร่างพัง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/wanz582pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=272&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "TMCY-094 Strawberry Milk น้องใหม่ใจแตก ขอแหกทุกบทบาท",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_452tmcy094pl.webp",
+      "stations": [
+        {
+          "name": "TMCY-094 Strawberry Milk น้องใหม่ใจแตก ขอแหกทุกบทบาท",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_452tmcy094pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=273&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MUDR-226 Beloved Sister คำถามมารัว ครอบครัววิปริต",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/mudr226pl.webp",
+      "stations": [
+        {
+          "name": "MUDR-226 Beloved Sister คำถามมารัว ครอบครัววิปริต",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/mudr226pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=274&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSIS-081 Manipulative ปวดกว่าเดิม หมอเจิมข้างแม่",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ssis081pl.webp",
+      "stations": [
+        {
+          "name": "SSIS-081 Manipulative ปวดกว่าเดิม หมอเจิมข้างแม่",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/ssis081pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=275&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "RKI-441 Lolita อาการมันกำเริบ ต้องโดนคุณครูเสิร์ฟถึงเตียงพยาบาล",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/rki441pl.webp",
+      "stations": [
+        {
+          "name": "RKI-441 Lolita อาการมันกำเริบ ต้องโดนคุณครูเสิร์ฟถึงเตียงพยาบาล",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/rki441pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=276&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "WANZ-561 Pink Nipple หนูแค่รับใช้ทำไมต้องลงทัณฑ์ โดนอัดทั้งวันจนหีพัง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/wanz561pl.webp",
+      "stations": [
+        {
+          "name": "WANZ-561 Pink Nipple หนูแค่รับใช้ทำไมต้องลงทัณฑ์ โดนอัดทั้งวันจนหีพัง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/wanz561pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=277&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIAE-007 Ejaculation เมื่อหลานอยากลองของ อาสนองความต้องการ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/miae007pl.webp",
+      "stations": [
+        {
+          "name": "MIAE-007 Ejaculation เมื่อหลานอยากลองของ อาสนองความต้องการ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/miae007pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=278&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIAD-954 Slender สาวอกเล็กเด็กตัวตึง โดนรุมจนน่าทึ่งแต่ก็ยังไหว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/miad954pl.webp",
+      "stations": [
+        {
+          "name": "MIAD-954 Slender สาวอกเล็กเด็กตัวตึง โดนรุมจนน่าทึ่งแต่ก็ยังไหว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/miad954pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=279&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "KTDS-967 A Cup บทเรียนแรกของเด็กใจแตก โดนลุงแหกจนร้องเสียงหลง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_094ktds967pl.webp",
+      "stations": [
+        {
+          "name": "KTDS-967 A Cup บทเรียนแรกของเด็กใจแตก โดนลุงแหกจนร้องเสียงหลง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_094ktds967pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=280&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "KAWD-742 18-year-old ปากบอกยังเวอร์จิ้น แต่แอ่นหีให้กินแบบโคตรร่าน",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/kawd742pl.webp",
+      "stations": [
+        {
+          "name": "KAWD-742 18-year-old ปากบอกยังเวอร์จิ้น แต่แอ่นหีให้กินแบบโคตรร่าน",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/kawd742pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=281&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIAD-990 School Girls พี่ท่านจัดจ้าน สอนให้ร่านจนลืมทาง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/miad990pl.webp",
+      "stations": [
+        {
+          "name": "MIAD-990 School Girls พี่ท่านจัดจ้าน สอนให้ร่านจนลืมทาง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/miad990pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=282&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "KTDS-934 Compliant DOLL สูตรคูณสยิว ติวรักจัดหนัก",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_094ktds934pl.webp",
+      "stations": [
+        {
+          "name": "KTDS-934 Compliant DOLL สูตรคูณสยิว ติวรักจัดหนัก",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/h_094ktds934pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=283&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HND-373 JK Assistance นัดลุงมาเดทฟีลแฟน โดนช็อตด้วยแผนแอบถ่ายคลิปตอนเสียว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/hnd373pl.webp",
+      "stations": [
+        {
+          "name": "HND-373 JK Assistance นัดลุงมาเดทฟีลแฟน โดนช็อตด้วยแผนแอบถ่ายคลิปตอนเสียว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/hnd373pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=284&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "WWF-002 Licking คุณชายสายซกมกโคตรเพลีย เรียกเมดมาเลียแล้วเย็ดนัว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/2wwf002pl.webp",
+      "stations": [
+        {
+          "name": "WWF-002 Licking คุณชายสายซกมกโคตรเพลีย เรียกเมดมาเลียแล้วเย็ดนัว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/2wwf002pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=285&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIDV-089 Hot Spring Travel หนีเมียมาฟิน บินไปออนเซ็น",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/midv089pl.webp",
+      "stations": [
+        {
+          "name": "MIDV-089 Hot Spring Travel หนีเมียมาฟิน บินไปออนเซ็น",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/midv089pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=286&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "START-402 Drinking Party เพื่อนร่วมงานตัวแสบ ปากแซ่บเกินเบอร์",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1start402pl.webp",
+      "stations": [
+        {
+          "name": "START-402 Drinking Party เพื่อนร่วมงานตัวแสบ ปากแซ่บเกินเบอร์",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1start402pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=287&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SVDVD-587 Crucifixion Prison อยากเป็นตัวแม่ผดุงความยุติธรรม เลยโดนรุมกระทำจนน้ำเดิน",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1svdvd587pl.webp",
+      "stations": [
+        {
+          "name": "SVDVD-587 Crucifixion Prison อยากเป็นตัวแม่ผดุงความยุติธรรม เลยโดนรุมกระทำจนน้ำเดิน",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/1svdvd587pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=288&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SILK-1961 Who I am? ปัดขวาแก้เงี่ยน ดันได้เซียนเป็นรุ่นน้อง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/SILK-1961.webp",
+      "stations": [
+        {
+          "name": "SILK-1961 Who I am? ปัดขวาแก้เงี่ยน ดันได้เซียนเป็นรุ่นน้อง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/SILK-1961.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=289&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    }
+  ]
+}
