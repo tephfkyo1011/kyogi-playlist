@@ -6,7 +6,7 @@
   "info": "KYOGI",
   "groups": [
     {
-      "name": "🍀SERIES_รวมเดิม KYO GI🍀",
+      "name": "🍀SERIES By KYO GI🍀",
       "author": "KYO GI",
       "image": "https://i.okcdn.ru/i?r=CFtAm_VFBkioSGBqh1Ia6QeyowpIB8Lwus50YlD2WPvS370ZJrxEl--7LT0zxff8yaxpVXyatLr3qPI8-gHs8Jpjg6sfRsh6RpruNISxl0mARYmG2mRZeBaMg7wAAAAp&dpr=2",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/menu_series_classic.txt",
