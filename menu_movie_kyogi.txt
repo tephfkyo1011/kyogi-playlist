@@ -5,16 +5,23 @@
   "groups": [
     {
       "name": "📂 หนังปี 2026",
-      "info": "8 เรื่อง",
+      "info": "7 เรื่อง",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Overacting-2026-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub1_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 หนังปี 2026, หนังภาคต่อ",
+      "info": "1 เรื่อง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-2026-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A7-%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-300x450.png",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_p1.txt",
       "import": false
     },
     {
       "name": "📂 หนังภาคต่อ",
       "info": "68 เรื่อง (2 หน้า)",
       "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_menu.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub3_menu.txt",
       "import": false
     }
   ]
