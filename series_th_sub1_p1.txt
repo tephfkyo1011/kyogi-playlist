@@ -4,8 +4,8 @@
   "image": "https://flagcdn.com/w320/th.png",
   "groups": [
     {
-      "name": "ตอนที่ 1",
-      "info": "EP 1",
+      "name": "The Rules (2026) กฎหลังเที่ยงคืน",
+      "info": "EP 5",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
       "stations": [
         {
@@ -14,56 +14,28 @@
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/31cf307d75a2fcbba8093e5a/31cf307d75a2fcbba8093e5a438.m3u8",
           "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 2",
-      "info": "EP 1",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
-      "stations": [
+        },
         {
           "name": "ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/0e097274b6d2817f8a6bcd2a/0e097274b6d2817f8a6bcd2a438.m3u8",
           "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 3",
-      "info": "EP 1",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
-      "stations": [
+        },
         {
           "name": "ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/2a3eb68b530ae5494ebcacab/2a3eb68b530ae5494ebcacab438.m3u8",
           "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 4",
-      "info": "EP 1",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
-      "stations": [
+        },
         {
           "name": "ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/3f128067130108024b887f30/3f128067130108024b887f30438.m3u8",
           "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 5",
-      "info": "EP 1",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Rules-2026-%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B7%E0%B8%99-300x450.jpg",
-      "stations": [
+        },
         {
           "name": "ตอนที่ 5",
           "info": "พากย์ไทย",
