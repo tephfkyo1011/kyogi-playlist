@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Avatar ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/09/Avatar-2009-%E0%B8%AD%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A3-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avatar",Avatar ภาค 1 [Gojek TV ห้ามขาย]
-https://hot.24playerhd.com/autoplaylist/7368b0e6d4f6458d77f31d509eceeb75/7368b0e6d4f6458d77f31d509eceeb75.m3u8
-#EXTINF:-1 tvg-name="Avatar ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/12/Avatar-The-Way-of-Water-2022-%E0%B8%A7%E0%B8%B4%E0%B8%96%E0%B8%B5%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Avatar",Avatar ภาค 2 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/404fc5ebf93942807a542100/404fc5ebf93942807a542100.m3u8
