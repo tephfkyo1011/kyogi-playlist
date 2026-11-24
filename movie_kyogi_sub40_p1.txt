@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="The Godfather ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-1972-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Godfather",The Godfather ภาค 1 [Gojek TV ห้ามขาย]
-https://hot.24playerhd.com/autoplaylist/469dfceb684ab1142faf71de8bde0761/469dfceb684ab1142faf71de8bde0761.m3u8
-#EXTINF:-1 tvg-name="The Godfather ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-2-1974-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-2-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Godfather",The Godfather ภาค 2 [Gojek TV ห้ามขาย]
-https://hot.24playerhd.com/autoplaylist/750eb756054b93ac223c1225cb07d0e0/750eb756054b93ac223c1225cb07d0e0.m3u8
-#EXTINF:-1 tvg-name="The Godfather ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/05/The-Godfather-3-1990-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%94%E0%B8%9F%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-3-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - The Godfather",The Godfather ภาค 3 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/425e35c00399e4e189589260/425e35c00399e4e189589260.m3u8
