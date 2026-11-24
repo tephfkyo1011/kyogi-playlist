@@ -1,101 +1,707 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="MIAA-092 ปราบบอสจอมเฮี้ยบ ขอเสียบสิบน้ำ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/12/miaa092pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MIAA-092 ปราบบอสจอมเฮี้ยบ ขอเสียบสิบน้ำ
-https://3ird.samorn-team.workers.dev/?id=3690&type=video
-#EXTINF:-1 tvg-name="MEYD-524 จัดสดหยดใน แพ้ภัยนิโคติน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/12/meyd524pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MEYD-524 จัดสดหยดใน แพ้ภัยนิโคติน
-https://3ird.samorn-team.workers.dev/?id=3691&type=video
-#EXTINF:-1 tvg-name="ABP-906 หน่วยพิเศษ สุดเขตคุมหลั่ง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/12/118abp906pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",ABP-906 หน่วยพิเศษ สุดเขตคุมหลั่ง
-https://3ird.samorn-team.workers.dev/?id=3692&type=video
-#EXTINF:-1 tvg-name="BKD-194 ไทจิเด็กเวร ประเคนบุพการี" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/12/bkd194sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",BKD-194 ไทจิเด็กเวร ประเคนบุพการี
-https://3ird.samorn-team.workers.dev/?id=3693&type=video
-#EXTINF:-1 tvg-name="SSNI-620 ขอเยห้วนๆ พี่อ้วนแท็คทีม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/12/ssni620pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SSNI-620 ขอเยห้วนๆ พี่อ้วนแท็คทีม
-https://3ird.samorn-team.workers.dev/?id=3694&type=video
-#EXTINF:-1 tvg-name="JUL-045 ไหนแค่ค้าง เล่นง้างตั้งสามดอก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/12/jul045pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",JUL-045 ไหนแค่ค้าง เล่นง้างตั้งสามดอก
-https://3ird.samorn-team.workers.dev/?id=3695&type=video
-#EXTINF:-1 tvg-name="AVOP-072 แก๊งราคี ทวงปี้นอกระบบ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/12/avop072pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",AVOP-072 แก๊งราคี ทวงปี้นอกระบบ
-https://3ird.samorn-team.workers.dev/?id=3696&type=video
-#EXTINF:-1 tvg-name="JUX-241 ยอมขึ้นเขียง หาเลี้ยงสามี" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/jux241pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",JUX-241 ยอมขึ้นเขียง หาเลี้ยงสามี
-https://3ird.samorn-team.workers.dev/?id=3697&type=video
-#EXTINF:-1 tvg-name="SSPD-124 บวกแต้มโลด พ่อโค้ชเทนนิส" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/sspd00124bodpl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SSPD-124 บวกแต้มโลด พ่อโค้ชเทนนิส
-https://3ird.samorn-team.workers.dev/?id=3698&type=video
-#EXTINF:-1 tvg-name="HEYZO 2137 ออกเดท พร้อมจัดชุดใหญ่พิเศษกับแฟนสาว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/heyzo_hd_2137pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",HEYZO 2137 ออกเดท พร้อมจัดชุดใหญ่พิเศษกับแฟนสาว
-https://3ird.samorn-team.workers.dev/?id=3699&type=video
-#EXTINF:-1 tvg-name="SNIS-405 ช็อตนมโผล่ โอ้โหน้ำแตก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/snis405pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SNIS-405 ช็อตนมโผล่ โอ้โหน้ำแตก
-https://3ird.samorn-team.workers.dev/?id=3700&type=video
-#EXTINF:-1 tvg-name="HEYZO-1363 ขยันลงไข่ ขอใส่วิชาเสริม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/gyUKAg.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",HEYZO-1363 ขยันลงไข่ ขอใส่วิชาเสริม
-https://3ird.samorn-team.workers.dev/?id=3701&type=video
-#EXTINF:-1 tvg-name="SHKD-875 อ่อยไม่หยุด ขอสุดที่หรรม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/shkd875pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SHKD-875 อ่อยไม่หยุด ขอสุดที่หรรม
-https://3ird.samorn-team.workers.dev/?id=3702&type=video
-#EXTINF:-1 tvg-name="MIMK-054 น้าทนทาน กับคุณหลานขี้ปี้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/mimk054pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MIMK-054 น้าทนทาน กับคุณหลานขี้ปี้
-https://3ird.samorn-team.workers.dev/?id=3703&type=video
-#EXTINF:-1 tvg-name="ATID-380 กาแฟมันเข้ม จัดเต็มคุณเลขา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/atid380pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",ATID-380 กาแฟมันเข้ม จัดเต็มคุณเลขา
-https://3ird.samorn-team.workers.dev/?id=3704&type=video
-#EXTINF:-1 tvg-name="R Korean Good Girl" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/Untitled-1.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",R Korean Good Girl
-https://3ird.samorn-team.workers.dev/?id=3705&type=video
-#EXTINF:-1 tvg-name="PPPD-313 ส่งถึงที่ปี้ถึงใจ เด็ดมาก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/pppd313pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",PPPD-313 ส่งถึงที่ปี้ถึงใจ เด็ดมาก
-https://3ird.samorn-team.workers.dev/?id=3706&type=video
-#EXTINF:-1 tvg-name="ATID-379 กาแฟลุงหงอก สองดอกลักหลับ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/atid379pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",ATID-379 กาแฟลุงหงอก สองดอกลักหลับ
-https://3ird.samorn-team.workers.dev/?id=3707&type=video
-#EXTINF:-1 tvg-name="AVOP-269 ชะตาจิ๋มขาด ประมาทลุงเตะปี๊บ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/avop269sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",AVOP-269 ชะตาจิ๋มขาด ประมาทลุงเตะปี๊บ
-https://3ird.samorn-team.workers.dev/?id=3708&type=video
-#EXTINF:-1 tvg-name="SSPD-149 บ่แค่แอบฮัก สักพักเฮ็ด" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/sspd149pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SSPD-149 บ่แค่แอบฮัก สักพักเฮ็ด
-https://3ird.samorn-team.workers.dev/?id=3709&type=video
-#EXTINF:-1 tvg-name="ATID-372 แอพผัวผวา เมียแอบปัดขวารัวๆ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/atid372pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",ATID-372 แอพผัวผวา เมียแอบปัดขวารัวๆ
-https://3ird.samorn-team.workers.dev/?id=3710&type=video
-#EXTINF:-1 tvg-name="DASD-539 โฮมสเตย์เทมิดด้าม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/dasd539pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",DASD-539 โฮมสเตย์เทมิดด้าม
-https://3ird.samorn-team.workers.dev/?id=3711&type=video
-#EXTINF:-1 tvg-name="JUY-846 หลบหลัวนัวผู้ อยู่บาร์ลับ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/juy846pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",JUY-846 หลบหลัวนัวผู้ อยู่บาร์ลับ
-https://3ird.samorn-team.workers.dev/?id=3712&type=video
-#EXTINF:-1 tvg-name="SSNI-496 อดีตปิดไม่มิด สมคบคิดสะใภ้อึ๋ม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/ssni496pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SSNI-496 อดีตปิดไม่มิด สมคบคิดสะใภ้อึ๋ม
-https://3ird.samorn-team.workers.dev/?id=3713&type=video
-#EXTINF:-1 tvg-name="SMBD-115 S Model คุณครูประจัญบาน" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/SMBD-115.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SMBD-115 S Model คุณครูประจัญบาน
-https://3ird.samorn-team.workers.dev/?id=3714&type=video
-#EXTINF:-1 tvg-name="MIDE-440 แอบกินหนุบหนับ เดทลับดารา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/mide440pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MIDE-440 แอบกินหนุบหนับ เดทลับดารา
-https://3ird.samorn-team.workers.dev/?id=3715&type=video
-#EXTINF:-1 tvg-name="MIMK-067 นึกว่าใส ที่แท้ใจขาวขุ่น" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/mimk067pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MIMK-067 นึกว่าใส ที่แท้ใจขาวขุ่น
-https://3ird.samorn-team.workers.dev/?id=3716&type=video
-#EXTINF:-1 tvg-name="SSPD-147 ทริปติดบ่วง ถอนยวงพี่สะใภ้" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/9sspd147pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SSPD-147 ทริปติดบ่วง ถอนยวงพี่สะใภ้
-https://3ird.samorn-team.workers.dev/?id=3717&type=video
-#EXTINF:-1 tvg-name="HEYZO-0532 จับที่หัวเดี๋ยวพี่รัวซัตเตอร์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/HEYZO-0532.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",HEYZO-0532 จับที่หัวเดี๋ยวพี่รัวซัตเตอร์
-https://3ird.samorn-team.workers.dev/?id=3718&type=video
-#EXTINF:-1 tvg-name="Caribbeancom 030315-819 น้องมิกุ กับวันสบายๆของเธอ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/Caribbeancom-030315-819-01.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",Caribbeancom 030315-819 น้องมิกุ กับวันสบายๆของเธอ
-https://3ird.samorn-team.workers.dev/?id=3719&type=video
-#EXTINF:-1 tvg-name="MIAE-291 หยุดเวลาพาเสียว โคตรเฟี้ยวนาฬิกา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/miae291pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MIAE-291 หยุดเวลาพาเสียว โคตรเฟี้ยวนาฬิกา
-https://3ird.samorn-team.workers.dev/?id=3720&type=video
-#EXTINF:-1 tvg-name="CAWD-027 ให้เด็กสอน สไลด์หนอนลุงซิง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/cawd027pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",CAWD-027 ให้เด็กสอน สไลด์หนอนลุงซิง
-https://3ird.samorn-team.workers.dev/?id=3721&type=video
-#EXTINF:-1 tvg-name="IPX-380 ศีลขาดกระเด็น เอ็นหนุ่มเข้าร่อง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/ipx380pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",IPX-380 ศีลขาดกระเด็น เอ็นหนุ่มเข้าร่อง
-https://3ird.samorn-team.workers.dev/?id=3722&type=video
-#EXTINF:-1 tvg-name="IPX-312 แมงโม้คอแป๊ป โดนแย็บท้ายครัว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/ipx312pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",IPX-312 แมงโม้คอแป๊ป โดนแย็บท้ายครัว
-https://3ird.samorn-team.workers.dev/?id=3723&type=video
-#EXTINF:-1 tvg-name="SSNI-444 สกัดจุดคลายหนาว ผู้สาวขาเมื่อย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/11/ssni444pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SSNI-444 สกัดจุดคลายหนาว ผู้สาวขาเมื่อย
-https://3ird.samorn-team.workers.dev/?id=3724&type=video
-#EXTINF:-1 tvg-name="HEYZO-0613 ล่อน้องเพื่อนสะเทือนน้องชาย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/0.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",HEYZO-0613 ล่อน้องเพื่อนสะเทือนน้องชาย
-https://3ird.samorn-team.workers.dev/?id=3725&type=video
-#EXTINF:-1 tvg-name="ADN-092 เสียวยกร่อง ห้องแห่งราคะ" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/adn00092bodpl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",ADN-092 เสียวยกร่อง ห้องแห่งราคะ
-https://3ird.samorn-team.workers.dev/?id=3726&type=video
-#EXTINF:-1 tvg-name="Carib-083119-997 สองทีรวด พี่นวดเบอร์ตอง" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/gzvHTQ.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",Carib-083119-997 สองทีรวด พี่นวดเบอร์ตอง
-https://3ird.samorn-team.workers.dev/?id=3727&type=video
-#EXTINF:-1 tvg-name="RBD-780 ของขึ้นที่โรงหมอ ข้าขอแค่สืบพันธุ์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/rbd780pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",RBD-780 ของขึ้นที่โรงหมอ ข้าขอแค่สืบพันธุ์
-https://3ird.samorn-team.workers.dev/?id=3728&type=video
-#EXTINF:-1 tvg-name="AVOP-353 เชลยศึกสุดฉาว ลูกสาวท่านทูต" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/1avop353sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",AVOP-353 เชลยศึกสุดฉาว ลูกสาวท่านทูต
-https://3ird.samorn-team.workers.dev/?id=3729&type=video
-#EXTINF:-1 tvg-name="MIMK-070 ถึงขั้นบาน จารย์โล้นปราบผี" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/mimk070pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MIMK-070 ถึงขั้นบาน จารย์โล้นปราบผี
-https://3ird.samorn-team.workers.dev/?id=3730&type=video
-#EXTINF:-1 tvg-name="JUY-510 รับผิดชอบชีวี แถมฟรีบ้องข้าวหลาม" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/juy510pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",JUY-510 รับผิดชอบชีวี แถมฟรีบ้องข้าวหลาม
-https://3ird.samorn-team.workers.dev/?id=3731&type=video
-#EXTINF:-1 tvg-name="ADN-228 ผู้เฒ่าเด้าตะบัน เฮ้ยนั่นเมียลูก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/adn228pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",ADN-228 ผู้เฒ่าเด้าตะบัน เฮ้ยนั่นเมียลูก
-https://3ird.samorn-team.workers.dev/?id=3732&type=video
-#EXTINF:-1 tvg-name="SSNI-455 มินิมาร์ทไม่ขาดปี้ หงี่เมื่อไรก็แวะมา" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/ssni455pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",SSNI-455 มินิมาร์ทไม่ขาดปี้ หงี่เมื่อไรก็แวะมา
-https://3ird.samorn-team.workers.dev/?id=3733&type=video
-#EXTINF:-1 tvg-name="ADN-127 โปรดให้อภัยฉัน…ความเห็นใจพาเสียว" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/adn127pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",ADN-127 โปรดให้อภัยฉัน…ความเห็นใจพาเสียว
-https://3ird.samorn-team.workers.dev/?id=3734&type=video
-#EXTINF:-1 tvg-name="HEYZO-0291 เซลล์น้ำบาน บริการสุดเรียล" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/cmTaDR.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",HEYZO-0291 เซลล์น้ำบาน บริการสุดเรียล
-https://3ird.samorn-team.workers.dev/?id=3735&type=video
-#EXTINF:-1 tvg-name="HND-695 บางทะลุเสื้อ หมดเยื่อพรหมจารี" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/hnd695pl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",HND-695 บางทะลุเสื้อ หมดเยื่อพรหมจารี
-https://3ird.samorn-team.workers.dev/?id=3736&type=video
-#EXTINF:-1 tvg-name="MEYD-271 แม่เลี้ยงเสี่ยงทาย" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-1-2.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",MEYD-271 แม่เลี้ยงเสี่ยงทาย
-https://3ird.samorn-team.workers.dev/?id=3737&type=video
-#EXTINF:-1 tvg-name="WANZ-747 เผลอเป็นเด้า เฒ่าซกมก" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/avop155sopl-1.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",WANZ-747 เผลอเป็นเด้า เฒ่าซกมก
-https://3ird.samorn-team.workers.dev/?id=3738&type=video
-#EXTINF:-1 tvg-name="AVOP-155 รักนี้ชั่วนิรันดร์" tvg-logo="https://ww.avsubthai.men/wp-content/uploads/2019/10/avop155sopl.webp" group-title="🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น+จีน+ฝรั่ง (หน้า 74)",AVOP-155 รักนี้ชั่วนิรันดร์
-https://3ird.samorn-team.workers.dev/?id=3739&type=video
+{
+  "name": "🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 74)",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
+  "groups": [
+    {
+      "name": "SSPD-124 บวกแต้มโลด พ่อโค้ชเทนนิส",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/sspd00124bodpl.webp",
+      "stations": [
+        {
+          "name": "SSPD-124 บวกแต้มโลด พ่อโค้ชเทนนิส",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/sspd00124bodpl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3698&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HEYZO 2137 ออกเดท พร้อมจัดชุดใหญ่พิเศษกับแฟนสาว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/heyzo_hd_2137pl.webp",
+      "stations": [
+        {
+          "name": "HEYZO 2137 ออกเดท พร้อมจัดชุดใหญ่พิเศษกับแฟนสาว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/heyzo_hd_2137pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3699&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SNIS-405 ช็อตนมโผล่ โอ้โหน้ำแตก",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/snis405pl.webp",
+      "stations": [
+        {
+          "name": "SNIS-405 ช็อตนมโผล่ โอ้โหน้ำแตก",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/snis405pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3700&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HEYZO-1363 ขยันลงไข่ ขอใส่วิชาเสริม",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/gyUKAg.webp",
+      "stations": [
+        {
+          "name": "HEYZO-1363 ขยันลงไข่ ขอใส่วิชาเสริม",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/gyUKAg.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3701&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SHKD-875 อ่อยไม่หยุด ขอสุดที่หรรม",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/shkd875pl.webp",
+      "stations": [
+        {
+          "name": "SHKD-875 อ่อยไม่หยุด ขอสุดที่หรรม",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/shkd875pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3702&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIMK-054 น้าทนทาน กับคุณหลานขี้ปี้",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/mimk054pl.webp",
+      "stations": [
+        {
+          "name": "MIMK-054 น้าทนทาน กับคุณหลานขี้ปี้",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/mimk054pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3703&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ATID-380 กาแฟมันเข้ม จัดเต็มคุณเลขา",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/atid380pl.webp",
+      "stations": [
+        {
+          "name": "ATID-380 กาแฟมันเข้ม จัดเต็มคุณเลขา",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/atid380pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3704&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "R Korean Good Girl",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/Untitled-1.webp",
+      "stations": [
+        {
+          "name": "R Korean Good Girl",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/Untitled-1.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3705&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "PPPD-313 ส่งถึงที่ปี้ถึงใจ เด็ดมาก",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/pppd313pl.webp",
+      "stations": [
+        {
+          "name": "PPPD-313 ส่งถึงที่ปี้ถึงใจ เด็ดมาก",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/pppd313pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3706&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ATID-379 กาแฟลุงหงอก สองดอกลักหลับ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/atid379pl.webp",
+      "stations": [
+        {
+          "name": "ATID-379 กาแฟลุงหงอก สองดอกลักหลับ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/atid379pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3707&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "AVOP-269 ชะตาจิ๋มขาด ประมาทลุงเตะปี๊บ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/avop269sopl.webp",
+      "stations": [
+        {
+          "name": "AVOP-269 ชะตาจิ๋มขาด ประมาทลุงเตะปี๊บ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/avop269sopl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3708&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSPD-149 บ่แค่แอบฮัก สักพักเฮ็ด",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/sspd149pl.webp",
+      "stations": [
+        {
+          "name": "SSPD-149 บ่แค่แอบฮัก สักพักเฮ็ด",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/sspd149pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3709&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ATID-372 แอพผัวผวา เมียแอบปัดขวารัวๆ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/atid372pl.webp",
+      "stations": [
+        {
+          "name": "ATID-372 แอพผัวผวา เมียแอบปัดขวารัวๆ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/atid372pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3710&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "DASD-539 โฮมสเตย์เทมิดด้าม",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/dasd539pl.webp",
+      "stations": [
+        {
+          "name": "DASD-539 โฮมสเตย์เทมิดด้าม",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/dasd539pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3711&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "JUY-846 หลบหลัวนัวผู้ อยู่บาร์ลับ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/juy846pl.webp",
+      "stations": [
+        {
+          "name": "JUY-846 หลบหลัวนัวผู้ อยู่บาร์ลับ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/juy846pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3712&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSNI-496 อดีตปิดไม่มิด สมคบคิดสะใภ้อึ๋ม",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ssni496pl.webp",
+      "stations": [
+        {
+          "name": "SSNI-496 อดีตปิดไม่มิด สมคบคิดสะใภ้อึ๋ม",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ssni496pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3713&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SMBD-115 S Model คุณครูประจัญบาน",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/SMBD-115.webp",
+      "stations": [
+        {
+          "name": "SMBD-115 S Model คุณครูประจัญบาน",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/SMBD-115.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3714&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIDE-440 แอบกินหนุบหนับ เดทลับดารา",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/mide440pl.webp",
+      "stations": [
+        {
+          "name": "MIDE-440 แอบกินหนุบหนับ เดทลับดารา",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/mide440pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3715&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIMK-067 นึกว่าใส ที่แท้ใจขาวขุ่น",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/mimk067pl.webp",
+      "stations": [
+        {
+          "name": "MIMK-067 นึกว่าใส ที่แท้ใจขาวขุ่น",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/mimk067pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3716&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSPD-147 ทริปติดบ่วง ถอนยวงพี่สะใภ้",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/9sspd147pl.webp",
+      "stations": [
+        {
+          "name": "SSPD-147 ทริปติดบ่วง ถอนยวงพี่สะใภ้",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/9sspd147pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3717&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HEYZO-0532 จับที่หัวเดี๋ยวพี่รัวซัตเตอร์",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/HEYZO-0532.webp",
+      "stations": [
+        {
+          "name": "HEYZO-0532 จับที่หัวเดี๋ยวพี่รัวซัตเตอร์",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/HEYZO-0532.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3718&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Caribbeancom 030315-819 น้องมิกุ กับวันสบายๆของเธอ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/Caribbeancom-030315-819-01.webp",
+      "stations": [
+        {
+          "name": "Caribbeancom 030315-819 น้องมิกุ กับวันสบายๆของเธอ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/Caribbeancom-030315-819-01.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3719&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIAE-291 หยุดเวลาพาเสียว โคตรเฟี้ยวนาฬิกา",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/miae291pl.webp",
+      "stations": [
+        {
+          "name": "MIAE-291 หยุดเวลาพาเสียว โคตรเฟี้ยวนาฬิกา",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/miae291pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3720&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "CAWD-027 ให้เด็กสอน สไลด์หนอนลุงซิง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/cawd027pl.webp",
+      "stations": [
+        {
+          "name": "CAWD-027 ให้เด็กสอน สไลด์หนอนลุงซิง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/cawd027pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3721&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "IPX-380 ศีลขาดกระเด็น เอ็นหนุ่มเข้าร่อง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ipx380pl.webp",
+      "stations": [
+        {
+          "name": "IPX-380 ศีลขาดกระเด็น เอ็นหนุ่มเข้าร่อง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ipx380pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3722&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "IPX-312 แมงโม้คอแป๊ป โดนแย็บท้ายครัว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ipx312pl.webp",
+      "stations": [
+        {
+          "name": "IPX-312 แมงโม้คอแป๊ป โดนแย็บท้ายครัว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ipx312pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3723&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSNI-444 สกัดจุดคลายหนาว ผู้สาวขาเมื่อย",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ssni444pl.webp",
+      "stations": [
+        {
+          "name": "SSNI-444 สกัดจุดคลายหนาว ผู้สาวขาเมื่อย",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/11/ssni444pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3724&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HEYZO-0613 ล่อน้องเพื่อนสะเทือนน้องชาย",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/0.webp",
+      "stations": [
+        {
+          "name": "HEYZO-0613 ล่อน้องเพื่อนสะเทือนน้องชาย",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/0.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3725&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ADN-092 เสียวยกร่อง ห้องแห่งราคะ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/adn00092bodpl.webp",
+      "stations": [
+        {
+          "name": "ADN-092 เสียวยกร่อง ห้องแห่งราคะ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/adn00092bodpl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3726&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Carib-083119-997 สองทีรวด พี่นวดเบอร์ตอง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/gzvHTQ.webp",
+      "stations": [
+        {
+          "name": "Carib-083119-997 สองทีรวด พี่นวดเบอร์ตอง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/gzvHTQ.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3727&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "RBD-780 ของขึ้นที่โรงหมอ ข้าขอแค่สืบพันธุ์",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/rbd780pl.webp",
+      "stations": [
+        {
+          "name": "RBD-780 ของขึ้นที่โรงหมอ ข้าขอแค่สืบพันธุ์",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/rbd780pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3728&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "AVOP-353 เชลยศึกสุดฉาว ลูกสาวท่านทูต",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/1avop353sopl.webp",
+      "stations": [
+        {
+          "name": "AVOP-353 เชลยศึกสุดฉาว ลูกสาวท่านทูต",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/1avop353sopl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3729&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MIMK-070 ถึงขั้นบาน จารย์โล้นปราบผี",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/mimk070pl.webp",
+      "stations": [
+        {
+          "name": "MIMK-070 ถึงขั้นบาน จารย์โล้นปราบผี",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/mimk070pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3730&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "JUY-510 รับผิดชอบชีวี แถมฟรีบ้องข้าวหลาม",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/juy510pl.webp",
+      "stations": [
+        {
+          "name": "JUY-510 รับผิดชอบชีวี แถมฟรีบ้องข้าวหลาม",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/juy510pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3731&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ADN-228 ผู้เฒ่าเด้าตะบัน เฮ้ยนั่นเมียลูก",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/adn228pl.webp",
+      "stations": [
+        {
+          "name": "ADN-228 ผู้เฒ่าเด้าตะบัน เฮ้ยนั่นเมียลูก",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/adn228pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3732&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSNI-455 มินิมาร์ทไม่ขาดปี้ หงี่เมื่อไรก็แวะมา",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/ssni455pl.webp",
+      "stations": [
+        {
+          "name": "SSNI-455 มินิมาร์ทไม่ขาดปี้ หงี่เมื่อไรก็แวะมา",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/ssni455pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3733&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ADN-127 โปรดให้อภัยฉัน…ความเห็นใจพาเสียว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/adn127pl.webp",
+      "stations": [
+        {
+          "name": "ADN-127 โปรดให้อภัยฉัน…ความเห็นใจพาเสียว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/adn127pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3734&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HEYZO-0291 เซลล์น้ำบาน บริการสุดเรียล",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/cmTaDR.webp",
+      "stations": [
+        {
+          "name": "HEYZO-0291 เซลล์น้ำบาน บริการสุดเรียล",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/cmTaDR.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3735&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "HND-695 บางทะลุเสื้อ หมดเยื่อพรหมจารี",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/hnd695pl.webp",
+      "stations": [
+        {
+          "name": "HND-695 บางทะลุเสื้อ หมดเยื่อพรหมจารี",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/hnd695pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3736&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MEYD-271 แม่เลี้ยงเสี่ยงทาย",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-1-2.webp",
+      "stations": [
+        {
+          "name": "MEYD-271 แม่เลี้ยงเสี่ยงทาย",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-1-2.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3737&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "WANZ-747 เผลอเป็นเด้า เฒ่าซกมก",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/avop155sopl-1.webp",
+      "stations": [
+        {
+          "name": "WANZ-747 เผลอเป็นเด้า เฒ่าซกมก",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/avop155sopl-1.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3738&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "AVOP-155 รักนี้ชั่วนิรันดร์",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/avop155sopl.webp",
+      "stations": [
+        {
+          "name": "AVOP-155 รักนี้ชั่วนิรันดร์",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/avop155sopl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3739&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "JUY-975 ตราบาปมั่วนิ่ม ทิ่มเมียลูกน้อง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/juy975pl.webp",
+      "stations": [
+        {
+          "name": "JUY-975 ตราบาปมั่วนิ่ม ทิ่มเมียลูกน้อง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/juy975pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3740&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "JUY-974 เสื้อเปียก สำเหนียกความใคร่",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-1-1.webp",
+      "stations": [
+        {
+          "name": "JUY-974 เสื้อเปียก สำเหนียกความใคร่",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-1-1.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3741&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "JUX-566 พ่อผัวรุกราน สะท้านจิ๋ม",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-2.webp",
+      "stations": [
+        {
+          "name": "JUX-566 พ่อผัวรุกราน สะท้านจิ๋ม",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-2.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3742&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MEYD-523 ทริปแปดเปื้อน สะเทือนต้นงิ้ว",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-5.webp",
+      "stations": [
+        {
+          "name": "MEYD-523 ทริปแปดเปื้อน สะเทือนต้นงิ้ว",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-5.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3743&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "RCTD-250 ขึ้นสุดแคม แวมไพร์กระหายน้ำ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-4.webp",
+      "stations": [
+        {
+          "name": "RCTD-250 ขึ้นสุดแคม แวมไพร์กระหายน้ำ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-4.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3744&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "RBD-684 ลงทัณฑ์สวาท..งบขาดดุล",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-3.webp",
+      "stations": [
+        {
+          "name": "RBD-684 ลงทัณฑ์สวาท..งบขาดดุล",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-3.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3745&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SNIS-517 ปั่นดอรอเข้า สองเต้าระดับโลก",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-1.webp",
+      "stations": [
+        {
+          "name": "SNIS-517 ปั่นดอรอเข้า สองเต้าระดับโลก",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/Untitled-1.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3746&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ABP-875 คิดดีทำดี แถมฟรีอ๊อกๆ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/118abp875pl.webp",
+      "stations": [
+        {
+          "name": "ABP-875 คิดดีทำดี แถมฟรีอ๊อกๆ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/10/118abp875pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=3748&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    }
+  ]
+}
