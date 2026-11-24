@@ -1,6 +1,0 @@
-{
-  "name": "📚 ช่องการศึกษา - รวมทั้งหมด",
-  "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/xwtan5qi6ch4in5ok9lse/.gif?rlkey=0q7vl42pryt2d3ilsfk33r8t4&dl=1",
-  "stations": []
-}
