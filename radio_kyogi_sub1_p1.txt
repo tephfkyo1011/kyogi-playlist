@@ -1,6 +1,0 @@
-{
-  "name": "📻 วิทยุออนไลน์ - รวมทั้งหมด",
-  "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
-  "stations": []
-}
