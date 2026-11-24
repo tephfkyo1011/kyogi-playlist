@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Death Note ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%99%E0%B9%8A%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Death Note",Death Note ภาค 1 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/e8821e5c1ad6930210bcf455/e8821e5c1ad6930210bcf455.m3u8
-#EXTINF:-1 tvg-name="Death Note ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2-The-Last-Name-2006-%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Death Note",Death Note ภาค 2 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/7885833747e0d90202a40fb7/7885833747e0d90202a40fb7.m3u8
-#EXTINF:-1 tvg-name="Death Note ภาค 3 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-3-L-Change-the-World-2008-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%99%E0%B9%89%E0%B8%95%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Death Note",Death Note ภาค 3 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/408d934eb42ec5c2aee80b6e/408d934eb42ec5c2aee80b6e.m3u8
-#EXTINF:-1 tvg-name="Death Note ภาค 4 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-4-Light-Up-the-New-World-2016-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Death Note",Death Note ภาค 4 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/7808b82ad84b9d208b99b94d/7808b82ad84b9d208b99b94d.m3u8
