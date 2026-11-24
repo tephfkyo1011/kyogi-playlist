@@ -1,0 +1,21 @@
+{
+  "name": "🔞 หนัง ผู้ใหญ่ - จีน",
+  "author": "KYO GI",
+  "image": "https://ww.avsubthai.men/wp-content/uploads/2026/01/XSJ-155.webp",
+  "groups": [
+    {
+      "name": "📄 จีน (หน้า 1)",
+      "info": "50 เรื่อง",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2026/01/XSJ-155.webp",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub2_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📄 จีน (หน้า 2)",
+      "info": "19 เรื่อง",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/01/Peach-Video-Media-PMU002-Multiplayer-Melee-Bad-Girls-Conquer-the-Principal-with-Their-Body.webp",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub2_p2.txt",
+      "import": false
+    }
+  ]
+}
