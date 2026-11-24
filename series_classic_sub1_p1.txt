@@ -1,5 +1,0 @@
-{
-  "name": "🍀SERIES_รวมเดิม KYO GI🍀 - รวมทั้งหมด",
-  "author": "KYO GI",
-  "groups": []
-}
