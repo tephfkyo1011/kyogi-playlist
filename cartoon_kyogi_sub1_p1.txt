@@ -1,5 +1,0 @@
-{
-  "name": "🧸 Cartoons - รวมทั้งหมด",
-  "author": "KYO GI",
-  "groups": []
-}
