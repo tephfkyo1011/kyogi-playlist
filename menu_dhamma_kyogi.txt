@@ -3,13 +3,19 @@
   "author": "KYO GI",
   "image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
   "groups": [
-{
+    {
       "name": "📂 รวมทั้งหมด",
       "info": "ว่าง",
       "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1WhBud7rahVPGKRH7ng4kRwlrzE4prwC8",
       "import": false
+    },
+    {
+      "name": "📂 รวมทั้งหมด",
+      "info": "ว่าง",
+      "image": "https://www.dropbox.com/scl/fi/mo1fii9ktkzw883xeg0uk/.gif?rlkey=2viya5m48c29rsor7csg2o9rz&dl=1",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/dhamma_kyogi_sub1_p1.txt",
+      "import": false
     }
   ]
 }
-
