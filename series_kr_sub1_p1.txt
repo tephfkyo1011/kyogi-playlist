@@ -4,8 +4,8 @@
   "image": "https://flagcdn.com/w320/kr.png",
   "groups": [
     {
-      "name": "ตอนที่ 1",
-      "info": "EP 10",
+      "name": "The Remarried Empress (2026) การแต่งงานครั้งใหม่ของจักรพรรดินี",
+      "info": "EP 8",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
       "stations": [
         {
@@ -16,152 +16,12 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/bb4d4fbcfdf70f18ead6add5/bb4d4fbcfdf70f18ead6add5438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/d749d88aeba30a81b491b725/d749d88aeba30a81b491b725.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/592a2b4373113de8f2361d88/592a2b4373113de8f2361d88438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/82e02e1450323a7c02110d16/82e02e1450323a7c02110d16.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/8b7d4ddd8bbe63f8a0655dae/8b7d4ddd8bbe63f8a0655dae438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6b126fbaed6042494df55195/6b126fbaed6042494df55195.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/24477895702d9faf8948f888/24477895702d9faf8948f888438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/274d0723155d36cca14895cb/274d0723155d36cca14895cb438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/7dbce1654cb5f461f61135f5/7dbce1654cb5f461f61135f5438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 2",
-      "info": "EP 10",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-      "stations": [
-        {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/0234b18bb35aba69257ad095/0234b18bb35aba69257ad095438.m3u8",
           "playInNatPlayer": "true"
         },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/8f16f59f3f26448844715fcb/8f16f59f3f26448844715fcb438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/d506e274ebb29d50d4411822/d506e274ebb29d50d4411822.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/37077a355444521c7afa9ab4/37077a355444521c7afa9ab4438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/00337cff6fd7f2ff6bc15ad2/00337cff6fd7f2ff6bc15ad2.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/0d4dca0513d2a9507da9fc3b/0d4dca0513d2a9507da9fc3b438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/26c357d1837362190fb2eb24/26c357d1837362190fb2eb24.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/aafcd19b560a66cab577a34c/aafcd19b560a66cab577a34c438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/9077d5c3d2a64669fb5dccbd/9077d5c3d2a64669fb5dccbd438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/eea647d9db61d7b7c5465e13/eea647d9db61d7b7c5465e13438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 3",
-      "info": "EP 9",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-      "stations": [
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
@@ -170,52 +30,59 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 4",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/10b9bc9907f04f28b806b63a/10b9bc9907f04f28b806b63a.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/2d4ee7588b1d0144ef193832/2d4ee7588b1d0144ef193832438.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 5",
           "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/5e2711bb82b88ff0fd2e7714/5e2711bb82b88ff0fd2e7714438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/829bcfa82101c3c7d10e3e03/829bcfa82101c3c7d10e3e03438.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/db1d31875fc4e063a0fce71a/db1d31875fc4e063a0fce71a.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e771b9d694d5bfaad8fb1d76/e771b9d694d5bfaad8fb1d76438.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/44c8cb83e243cdba1a32d7cc/44c8cb83e243cdba1a32d7cc438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6114eeab7953bc3ab6eb8503/6114eeab7953bc3ab6eb8503438.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 8",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/039fd54339b133b8df6d0bd6/039fd54339b133b8df6d0bd6.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1b5c86e2e9962af856019d7c/1b5c86e2e9962af856019d7c.m3u8",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Crash 2 Fury Road (2026) หน่วยจราจรปราบทรชน 2",
+      "info": "EP 3",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bb4d4fbcfdf70f18ead6add5/bb4d4fbcfdf70f18ead6add5438.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/8f549894188d10f56451ac61/8f549894188d10f56451ac61438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/49bc47817c349db2401b0dc9/49bc47817c349db2401b0dc9438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8f16f59f3f26448844715fcb/8f16f59f3f26448844715fcb438.m3u8",
           "playInNatPlayer": "true"
         },
         {
@@ -228,15 +95,29 @@
       ]
     },
     {
-      "name": "ตอนที่ 4",
-      "info": "EP 8",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
+      "name": "Doctor X: Mafia in White (2026) ด็อกเตอร์เอ็กซ์",
+      "info": "EP 12 END",
+      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 4",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/2d4ee7588b1d0144ef193832/2d4ee7588b1d0144ef193832438.m3u8",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d749d88aeba30a81b491b725/d749d88aeba30a81b491b725.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/d506e274ebb29d50d4411822/d506e274ebb29d50d4411822.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/10b9bc9907f04f28b806b63a/10b9bc9907f04f28b806b63a.m3u8",
           "playInNatPlayer": "true"
         },
         {
@@ -247,108 +128,10 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/f81032da9c3b72e3475a1f4c/f81032da9c3b72e3475a1f4c438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/8eec5f503c7df2e7d15de642/8eec5f503c7df2e7d15de642.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/09f0c61deceb28ea622e37fc/09f0c61deceb28ea622e37fc438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7e8c02c4178f398fab6424a4/7e8c02c4178f398fab6424a4.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/0ac7995d88e799b137b07295/0ac7995d88e799b137b07295168.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/32444a44f7b9d75335dbf94a/32444a44f7b9d75335dbf94a438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 5",
-      "info": "EP 6",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/829bcfa82101c3c7d10e3e03/829bcfa82101c3c7d10e3e03438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
           "url": "https://main.24playerhd.com/newplaylist/af41175d0ffad9e673842cf4/af41175d0ffad9e673842cf4.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/ca61eebf3654a67b5e61f79a/ca61eebf3654a67b5e61f79a438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6e746c40448ce1f7aeaf7fa4/6e746c40448ce1f7aeaf7fa4.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/b7ca0f916691351ad909267c/b7ca0f916691351ad909267c.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/14c884bdaf0ba92ae11de8a0/14c884bdaf0ba92ae11de8a0438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 6",
-      "info": "EP 6",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e771b9d694d5bfaad8fb1d76/e771b9d694d5bfaad8fb1d76438.m3u8",
           "playInNatPlayer": "true"
         },
         {
@@ -359,52 +142,94 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 6",
+          "name": "ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/aff9e23bfea266846939dfad/aff9e23bfea266846939dfad438.m3u8",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0546363fe1a737fff0254448/0546363fe1a737fff0254448.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 6",
+          "name": "ตอนที่ 8",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/33f199a36751419798e5e9fd/33f199a36751419798e5e9fd.m3u8",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/1b5c86e2e9962af856019d7c/1b5c86e2e9962af856019d7c.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 6",
+          "name": "ตอนที่ 9",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/52939884baae88a9860952af/52939884baae88a9860952af.m3u8",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/11a3d0304534f6c6aa955523/11a3d0304534f6c6aa955523.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 6",
+          "name": "ตอนที่ 10",
           "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/1afd46a8453e262da1fe4926/1afd46a8453e262da1fe4926438.m3u8",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/50377e0c41f130526153714b/50377e0c41f130526153714b438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6a9d1a5f50a93e2eb333d17e/6a9d1a5f50a93e2eb333d17e438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 12 END",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7c96b75a6f147a6e7712cce5/7c96b75a6f147a6e7712cce5438.m3u8",
           "playInNatPlayer": "true"
         }
       ]
     },
     {
-      "name": "ตอนที่ 7",
-      "info": "EP 6",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
+      "name": "Final Table (2026) สงครามนักปรุง",
+      "info": "EP 10",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 7",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6114eeab7953bc3ab6eb8503/6114eeab7953bc3ab6eb8503438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/592a2b4373113de8f2361d88/592a2b4373113de8f2361d88438.m3u8",
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 7",
+          "name": "ตอนที่ 2",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/0546363fe1a737fff0254448/0546363fe1a737fff0254448.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/37077a355444521c7afa9ab4/37077a355444521c7afa9ab4438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/5e2711bb82b88ff0fd2e7714/5e2711bb82b88ff0fd2e7714438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/f81032da9c3b72e3475a1f4c/f81032da9c3b72e3475a1f4c438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ca61eebf3654a67b5e61f79a/ca61eebf3654a67b5e61f79a438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/aff9e23bfea266846939dfad/aff9e23bfea266846939dfad438.m3u8",
           "playInNatPlayer": "true"
         },
         {
@@ -415,48 +240,6 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/dde80b14bd23f0255f286766/dde80b14bd23f0255f286766.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/ddc63e424fd7d5f51b9eaf7f/ddc63e424fd7d5f51b9eaf7f.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/e652b2834014af06ca6c3396/e652b2834014af06ca6c3396438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 8",
-      "info": "EP 6",
-      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/1b5c86e2e9962af856019d7c/1b5c86e2e9962af856019d7c.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/1b5c86e2e9962af856019d7c/1b5c86e2e9962af856019d7c.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
@@ -464,87 +247,10 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/ae3289838d7fe972bab6328b/ae3289838d7fe972bab6328b.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/bbc4b8bd490f6a2b9c92dff5/bbc4b8bd490f6a2b9c92dff5.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
-          "url": "https://main.24playerhd.com/m3u8/bf58dd219a29fdf19ee7d7f7/bf58dd219a29fdf19ee7d7f7438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 9",
-      "info": "EP 4",
-      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/11a3d0304534f6c6aa955523/11a3d0304534f6c6aa955523.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/e31573c5e716182ce4fd8ed0/e31573c5e716182ce4fd8ed0438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/31132c9c78258f068ab884d1/31132c9c78258f068ab884d1.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/592a2b4373113de8f2361d88/592a2b4373113de8f2361d88438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ตอนที่ 10",
-      "info": "EP 4",
-      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/50377e0c41f130526153714b/50377e0c41f130526153714b438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6de60ea3e7f9505053ac18c4/6de60ea3e7f9505053ac18c4438.m3u8",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/941f50e1d5b65d13f5685dc5/941f50e1d5b65d13f5685dc5.m3u8",
           "playInNatPlayer": "true"
         },
         {
@@ -557,15 +263,78 @@
       ]
     },
     {
-      "name": "ตอนที่ 11",
-      "info": "EP 3",
-      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+      "name": "100 Days of Deception (2026) 100 วันปฏิบัติการลวง",
+      "info": "EP 14",
+      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 11",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/6a9d1a5f50a93e2eb333d17e/6a9d1a5f50a93e2eb333d17e438.m3u8",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/82e02e1450323a7c02110d16/82e02e1450323a7c02110d16.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/00337cff6fd7f2ff6bc15ad2/00337cff6fd7f2ff6bc15ad2.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/db1d31875fc4e063a0fce71a/db1d31875fc4e063a0fce71a.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8eec5f503c7df2e7d15de642/8eec5f503c7df2e7d15de642.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6e746c40448ce1f7aeaf7fa4/6e746c40448ce1f7aeaf7fa4.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/33f199a36751419798e5e9fd/33f199a36751419798e5e9fd.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/dde80b14bd23f0255f286766/dde80b14bd23f0255f286766.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ae3289838d7fe972bab6328b/ae3289838d7fe972bab6328b.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/e31573c5e716182ce4fd8ed0/e31573c5e716182ce4fd8ed0438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6de60ea3e7f9505053ac18c4/6de60ea3e7f9505053ac18c4438.m3u8",
           "playInNatPlayer": "true"
         },
         {
@@ -576,24 +345,143 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "ตอนที่ 11",
+          "name": "ตอนที่ 12",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/948b6a28053f1ac3392d3683/948b6a28053f1ac3392d3683438.m3u8",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/34a7f6aee4e10b3223870d3f/34a7f6aee4e10b3223870d3f438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ad9b587c98e1276b2656944c/ad9b587c98e1276b2656944c438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/m3u8/3a903fbfc2fa0cbc1204deb6/3a903fbfc2fa0cbc1204deb6438.m3u8",
           "playInNatPlayer": "true"
         }
       ]
     },
     {
-      "name": "ตอนที่ 12 END",
-      "info": "EP 2 END",
-      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
+      "name": "What a Boss Wants (2026)",
+      "info": "EP 4",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 12 END",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-ด็อกเตอร์เอ็กซ์-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/7c96b75a6f147a6e7712cce5/7c96b75a6f147a6e7712cce5438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/8b7d4ddd8bbe63f8a0655dae/8b7d4ddd8bbe63f8a0655dae438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/0d4dca0513d2a9507da9fc3b/0d4dca0513d2a9507da9fc3b438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/44c8cb83e243cdba1a32d7cc/44c8cb83e243cdba1a32d7cc438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/09f0c61deceb28ea622e37fc/09f0c61deceb28ea622e37fc438.m3u8",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "Between Steps (2026) ก้าวรักทีละนิด",
+      "info": "EP 12 END",
+      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/6b126fbaed6042494df55195/6b126fbaed6042494df55195.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/26c357d1837362190fb2eb24/26c357d1837362190fb2eb24.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/039fd54339b133b8df6d0bd6/039fd54339b133b8df6d0bd6.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/7e8c02c4178f398fab6424a4/7e8c02c4178f398fab6424a4.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/b7ca0f916691351ad909267c/b7ca0f916691351ad909267c.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/52939884baae88a9860952af/52939884baae88a9860952af.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/ddc63e424fd7d5f51b9eaf7f/ddc63e424fd7d5f51b9eaf7f.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/bbc4b8bd490f6a2b9c92dff5/bbc4b8bd490f6a2b9c92dff5.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/31132c9c78258f068ab884d1/31132c9c78258f068ab884d1.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/941f50e1d5b65d13f5685dc5/941f50e1d5b65d13f5685dc5.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/Between-Steps-2026-187x269.jpg",
+          "url": "https://main.24playerhd.com/newplaylist/948b6a28053f1ac3392d3683/948b6a28053f1ac3392d3683438.m3u8",
           "playInNatPlayer": "true"
         },
         {
@@ -606,43 +494,120 @@
       ]
     },
     {
-      "name": "ตอนที่ 12",
-      "info": "EP 1",
-      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+      "name": "Good Partner 2 (2026) คู่หูทนายตัวแม่ 2",
+      "info": "EP 2",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 12",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/34a7f6aee4e10b3223870d3f/34a7f6aee4e10b3223870d3f438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/24477895702d9faf8948f888/24477895702d9faf8948f888438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/aafcd19b560a66cab577a34c/aafcd19b560a66cab577a34c438.m3u8",
           "playInNatPlayer": "true"
         }
       ]
     },
     {
-      "name": "ตอนที่ 13",
-      "info": "EP 1",
-      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+      "name": "The Perfect Lie (2026) รักซ่อนลวง",
+      "info": "EP 8",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 13",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/m3u8/ad9b587c98e1276b2656944c/ad9b587c98e1276b2656944c438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/274d0723155d36cca14895cb/274d0723155d36cca14895cb438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9077d5c3d2a64669fb5dccbd/9077d5c3d2a64669fb5dccbd438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8f549894188d10f56451ac61/8f549894188d10f56451ac61438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0ac7995d88e799b137b07295/0ac7995d88e799b137b07295168.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/14c884bdaf0ba92ae11de8a0/14c884bdaf0ba92ae11de8a0438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1afd46a8453e262da1fe4926/1afd46a8453e262da1fe4926438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/e652b2834014af06ca6c3396/e652b2834014af06ca6c3396438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/bf58dd219a29fdf19ee7d7f7/bf58dd219a29fdf19ee7d7f7438.m3u8",
           "playInNatPlayer": "true"
         }
       ]
     },
     {
-      "name": "ตอนที่ 14",
-      "info": "EP 1",
-      "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
+      "name": "Sword & Silence (2026) คมดาบพลิกแผ่นดิน",
+      "info": "EP 4",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 14",
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
-          "image": "https://www.serieday-z.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-187x269.jpg",
-          "url": "https://main.24playerhd.com/m3u8/3a903fbfc2fa0cbc1204deb6/3a903fbfc2fa0cbc1204deb6438.m3u8",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/7dbce1654cb5f461f61135f5/7dbce1654cb5f461f61135f5438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/eea647d9db61d7b7c5465e13/eea647d9db61d7b7c5465e13438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/49bc47817c349db2401b0dc9/49bc47817c349db2401b0dc9438.m3u8",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/32444a44f7b9d75335dbf94a/32444a44f7b9d75335dbf94a438.m3u8",
           "playInNatPlayer": "true"
         }
       ]
