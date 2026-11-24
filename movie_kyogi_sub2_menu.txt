@@ -1,19 +1,19 @@
 {
   "name": "🎬 หนังคัดพิเศษ BY KYO GI - หนังภาคต่อ",
   "author": "KYO GI",
-  "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
+  "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-2026-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A7-%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-300x450.png",
   "groups": [
     {
       "name": "📄 หนังภาคต่อ (หน้า 1)",
       "info": "50 เรื่อง",
-      "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-2026-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A7-%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-300x450.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_p1.txt",
       "import": false
     },
     {
       "name": "📄 หนังภาคต่อ (หน้า 2)",
       "info": "18 เรื่อง",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/03/Spider-Man-Into-the-Spider-Verse-2018-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1-300x450.png",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022-%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D-300x450.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_p2.txt",
       "import": false
     }
