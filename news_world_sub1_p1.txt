@@ -1,6 +1,0 @@
-{
-  "name": "📰 News ข่าวทั่วโลก - รวมทั้งหมด",
-  "author": "KYO GI",
-  "image": "https://www.dropbox.com/scl/fi/29v9hv1ik64dil139r9y9/news.gif?rlkey=nh45bh26ccsxezsycnb7712af&dl=1",
-  "stations": []
-}
