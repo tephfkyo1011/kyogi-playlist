@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Speed ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/01/Speed-%E0%B8%AA%E0%B8%9B%E0%B8%B5%E0%B8%94-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-1994-300x450.png" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Speed",Speed ภาค 1 [Gojek TV ห้ามขาย]
-https://hot.24playerhd.com/autoplaylist/8d16bc7ad7a83303583fe5c5f544da30/8d16bc7ad7a83303583fe5c5f544da30.m3u8
-#EXTINF:-1 tvg-name="Speed ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/10/Speed-2-Cruise-Control-1997-%E0%B8%AA%E0%B8%9B%E0%B8%B5%E0%B8%94-2-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Speed",Speed ภาค 2 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/71efa1ef991552e62a423555/71efa1ef991552e62a423555.m3u8
