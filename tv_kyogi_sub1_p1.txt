@@ -215,6 +215,7 @@
       "image": "https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
       "url": "https://www.thaich8.com/live?var_link=720p",
       "playInNatPlayer": "true",
+      "referer": "https://www.adintrend.tv/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
     }
   ]
