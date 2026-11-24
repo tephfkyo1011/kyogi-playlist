@@ -4,15 +4,14 @@
   "image": "https://toppng.com/uploads/preview/free-png-banned-stamp-png-images-transparent-banned-png-transparent-11563802224vxu9watip4.png",
   "groups": [
     {
-      "name": "หนังภาคต่อ",
-      "author": "KYO GI",
-      "image": "https://play-lh.googleusercontent.com/nWONduhsjBKXMsVdRCvJH2OLxBqrWzATe80EkMl9uj0Id8hEJtzYoyrQQI98KYl6Di66Me-844UqkmnvtW-_2Q",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_hd_sub1_p1.txt",
+      "name": "📂 หนังภาคต่อ",
+      "info": "68 เรื่อง (2 หน้า)",
+      "image": "https://www.123hdtv.com/wp-content/uploads/2020/01/28-Days-Later-2002-28-วันให้หลัง-เชื้อเขมือบคน.png",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/movie_kyogi_sub2_menu.txt",
       "import": false
     },
     {
       "name": "📂 รวมทั้งหมด",
-      "info": "ว่าง",
       "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1EakmaeXSVU4HL23HsSb41cyXjlJ7oB9_",
       "import": false
