@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Sin City ภาค 1 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Sin-City-2005-%E0%B8%8B%E0%B8%B4%E0%B8%99-%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%81-1-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Sin City",Sin City ภาค 1 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/302762611598ac5c91e200b4/302762611598ac5c91e200b4.m3u8
-#EXTINF:-1 tvg-name="Sin City ภาค 2 [Gojek TV ห้ามขาย]" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Sin-City-A-Dame-to-Kill-For-2014-%E0%B8%8B%E0%B8%B4%E0%B8%99%E0%B8%8B%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89-2-%E0%B8%82%E0%B8%9A%E0%B8%A7%E0%B8%99%E0%B9%82%E0%B8%AB%E0%B8%94-%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B9%82%E0%B8%89%E0%B8%94-1-300x450.jpg" group-title="🎬 หนังคัดพิเศษ BY KYO GI - Sin City",Sin City ภาค 2 [Gojek TV ห้ามขาย]
-https://main.24playerhd.com/newplaylist/22df47e0739c35c11d1066ad/22df47e0739c35c11d1066ad.m3u8
