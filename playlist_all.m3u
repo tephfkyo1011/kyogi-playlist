@@ -1265,23 +1265,17 @@ https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 tvg-name="Siamnewstv" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Siamnewstv
 #EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 tvg-name="Gochannel" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Gochannel
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live2.thaitvstream.com/play/gochannel/index.m3u8
 #EXTINF:-1 tvg-name="Chiangrai" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Chiangrai
 #EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
 https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTINF:-1 tvg-name="Mounchon TV" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Mounchon TV
 #EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 tvg-name="Medianews" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Medianews
-#EXTVLCOPT:http-referrer=https://live1.thaitvstream.com/
-https://live1.thaitvstream.com/play/medianews/index.m3u8
 #EXTINF:-1 tvg-name="Channel8thailand" tvg-logo="https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",Channel8thailand
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTINF:-1 tvg-name="3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",3HD
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://ch3-33-web.cdn.byteark.com/live/720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787913302&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=Rm7a7fJhCSOK8cl-X7ygdw
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5x88f6b51571bf357b6b063435f3ca3f4ec564bc0314b61b32
 #EXTINF:-1 tvg-name="7HD" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",7HD
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH8
