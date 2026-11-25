@@ -1277,7 +1277,7 @@ https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8
 #EXTVLCOPT:http-referrer=https://www.adintrend.tv/
 https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5x88f6b51571bf357b6b063435f3ca3f4ec564bc0314b61b32
 #EXTINF:-1 tvg-name="7HD" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",7HD
-#EXTVLCOPT:http-referrer=https://live-cdn.ch7.com
+#EXTVLCOPT:http-referrer=https://www.ch7.com/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH8
 #EXTVLCOPT:http-referrer=https://www.adintrend.tv/
