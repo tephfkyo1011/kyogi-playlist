@@ -1281,7 +1281,7 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH8
 #EXTVLCOPT:http-referrer=https://www.adintrend.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://www.thaich8.com/live?var_link=720p
+https://p0.cdn.vet/live/ch33/i/ch33i.m3u8?sid=b5xca0a9cbb9694cdd76b06356bbefef1822f6e98ef515eb6dd
 #EXTINF:-1 tvg-name="GBN" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",GBN
 https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
 #EXTINF:-1 tvg-name="ZOOM072.Net" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",ZOOM072.Net
