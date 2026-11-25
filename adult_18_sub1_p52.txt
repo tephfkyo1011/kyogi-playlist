@@ -4,69 +4,6 @@
   "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
   "groups": [
     {
-      "name": "IPX-939 จำใจให้ขยี้กลบหนี้สิบล้าน",
-      "info": "EP 1",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/ipx939pl.webp",
-      "stations": [
-        {
-          "name": "IPX-939 จำใจให้ขยี้กลบหนี้สิบล้าน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/ipx939pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=2592&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "IPX-846 ลับลวงล่อคุณพ่อจัดให้",
-      "info": "EP 1",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/ipx846pl.webp",
-      "stations": [
-        {
-          "name": "IPX-846 ลับลวงล่อคุณพ่อจัดให้",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/ipx846pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=2593&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "FSDSS-206 แอบชอบมานาน ลุงสันดานแอบวางยา",
-      "info": "EP 2",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/1fsdss206pl.webp",
-      "stations": [
-        {
-          "name": "FSDSS-206 แอบชอบมานาน ลุงสันดานแอบวางยา",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/1fsdss206pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=2594&type=video",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "FSDSS-206 แอบชอบมานาน ลุงสันดานแอบวางยา",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/01/1fsdss206pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=2934&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "GVG-517 ซ่าสุดกะโหลกเด็กโปกเมื่อวานซืน",
-      "info": "EP 1",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/13gvg517pl.webp",
-      "stations": [
-        {
-          "name": "GVG-517 ซ่าสุดกะโหลกเด็กโปกเมื่อวานซืน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/13gvg517pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=2595&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "The Love Rangers ขบวนการรักทะลุโลก  เลิฟ แรงเจอร์",
       "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/09/The-Love-Rangers.webp",
@@ -706,6 +643,62 @@
           "info": "ปกติ",
           "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/dvaj552sopl.webp",
           "url": "https://3ird.samorn-team.workers.dev/?id=2642&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "STARS-228 ดีลงานเพลินโคกเนินกระตุ้นยา",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/1stars228pl.webp",
+      "stations": [
+        {
+          "name": "STARS-228 ดีลงานเพลินโคกเนินกระตุ้นยา",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/1stars228pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=2643&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "JUL-926 สายนวดสั่งมาต่อเวลาฟ้าเหลือง",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/jul926pl.webp",
+      "stations": [
+        {
+          "name": "JUL-926 สายนวดสั่งมาต่อเวลาฟ้าเหลือง",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/jul926pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=2644&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSNI-529 Bijin Boss เลยตามเลยลงเอยที่บอส",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/ssni529pl.webp",
+      "stations": [
+        {
+          "name": "SSNI-529 Bijin Boss เลยตามเลยลงเอยที่บอส",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/ssni529pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=2645&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "SSIS-434 Super Gorgeous VVVIP สนองการแตกสิบแขกวีไอพี",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/ssis434pl.webp",
+      "stations": [
+        {
+          "name": "SSIS-434 Super Gorgeous VVVIP สนองการแตกสิบแขกวีไอพี",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/07/ssis434pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=2646&type=video",
           "playInNatPlayer": "true"
         }
       ]
