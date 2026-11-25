@@ -68,8 +68,8 @@
           "name": "รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙ [พากย์ไทย]",
           "info": "พากย์ไทย",
           "image": "https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jP24LwKtSg0",
-          "userAgent": "Mozilla/5.0"
+          "url": "https://yt-stream.phiphatprojects.workers.dev/?v=jP24LwKtSg0",
+          "playInNatPlayer": "true"
         }
       ]
     },
