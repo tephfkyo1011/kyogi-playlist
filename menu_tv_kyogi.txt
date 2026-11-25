@@ -12,7 +12,7 @@
     },
     {
       "name": "📂 ฟรีทีวีดิจิทัล",
-      "info": "32 ช่อง",
+      "info": "30 ช่อง",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/tv_kyogi_sub1_p1.txt",
       "import": false
