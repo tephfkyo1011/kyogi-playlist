@@ -72,6 +72,20 @@
           "userAgent": "Mozilla/5.0"
         }
       ]
+    },
+    {
+      "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ",
+      "info": "EP 1",
+      "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
+      "stations": [
+        {
+          "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ [พากย์ไทย]",
+          "info": "พากย์ไทย",
+          "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kGXoyrS9tm4",
+          "userAgent": "Mozilla/5.0"
+        }
+      ]
     }
   ]
 }
