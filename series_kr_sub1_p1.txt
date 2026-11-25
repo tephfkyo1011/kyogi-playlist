@@ -660,7 +660,7 @@
     },
     {
       "name": "Oh My Guard (2026) นี่ฉันอยากมีบอดี้การ์ดหรือนี่",
-      "info": "EP 4",
+      "info": "EP 5",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Oh-My-Guard-2026-300x450.jpg",
       "stations": [
         {
@@ -692,6 +692,14 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Oh-My-Guard-2026-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/bd2948a6d443758857e9cc1f/bd2948a6d443758857e9cc1f438.m3u8",
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Oh-My-Guard-2026-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1c535c5be3528cf024ad3c1a/1c535c5be3528cf024ad3c1a438.m3u8",
           "playInNatPlayer": "true",
           "referer": "https://www.123-hdc.com"
         }
