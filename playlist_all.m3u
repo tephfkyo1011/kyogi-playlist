@@ -1296,6 +1296,7 @@ https://live.zoom072.com/ch10/ch10.m3u8
 #EXTINF:-1 tvg-name="SBB TV" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",SBB TV
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1652960849.m3u8
 #EXTINF:-1 tvg-name="Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)" tvg-logo="https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)
+#EXTVLCOPT:http-referrer=https://www.thaiclouderp.com
 https://www.thaiclouderp.com/video/pakkret-river.m3u8
 #EXTINF:-1 tvg-name="ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)" tvg-logo="https://cctv-nont.firsttech.co.th/img/nakorn_nont_logo.6f152aad.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)
 https://stream-engine.enixma.net/live/nakornnont.stream/playlist.m3u8
