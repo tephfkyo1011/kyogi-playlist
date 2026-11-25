@@ -1,0 +1,21 @@
+{
+  "name": "😂 รายการตลก - คุณพระช่วย",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+  "groups": [
+    {
+      "name": "รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย",
+      "info": "EP 1",
+      "image": "https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg",
+      "stations": [
+        {
+          "name": "รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย [พากย์ไทย]",
+          "info": "พากย์ไทย",
+          "image": "https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=PI9uXtHmhDE",
+          "userAgent": "Mozilla/5.0"
+        }
+      ]
+    }
+  ]
+}
