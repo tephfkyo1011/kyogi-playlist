@@ -5,7 +5,7 @@
   "groups": [
     {
       "name": "📂 ปี 2026",
-      "info": "10 เรื่อง",
+      "info": "11 เรื่อง",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/series_kr_sub1_p1.txt",
       "import": false
