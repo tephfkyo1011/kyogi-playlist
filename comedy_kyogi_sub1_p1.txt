@@ -18,20 +18,6 @@
       ]
     },
     {
-      "name": "รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย",
-      "info": "EP 1",
-      "image": "https://i.ytimg.com/vi/oGjHkhW48n4/hqdefault.jpg",
-      "stations": [
-        {
-          "name": "รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย [พากย์ไทย]",
-          "info": "พากย์ไทย",
-          "image": "https://i.ytimg.com/vi/oGjHkhW48n4/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=oGjHkhW48n4",
-          "userAgent": "Mozilla/5.0"
-        }
-      ]
-    },
-    {
       "name": "รวมฉ่อยหน้าม่านสามน้า \"ฮาไม่หยุด ในวันหยุดยาว\" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12",
       "info": "EP 1",
       "image": "https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg",
