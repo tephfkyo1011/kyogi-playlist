@@ -4,20 +4,6 @@
   "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
   "groups": [
     {
-      "name": "MIAB-370 Investigator อดีตมือสืบ ร่องหลืบแห่งตัณหา",
-      "info": "EP 1",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/MIAB-370.webp",
-      "stations": [
-        {
-          "name": "MIAB-370 Investigator อดีตมือสืบ ร่องหลืบแห่งตัณหา",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/MIAB-370.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1140&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "SONE-293 My Stepfather’s เป้าหมายพ่อเลี้ยงร้าย คือเรือนกายลูกเลี้ยงสาว",
       "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/sone293pl.webp",
@@ -699,6 +685,20 @@
           "info": "ปกติ",
           "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/h_701ap075pl.webp",
           "url": "https://3ird.samorn-team.workers.dev/?id=1189&type=video",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "MILK-236 Love You Daddy แม่ไม่อยู่ หนูเลยเสร็จคุณพ่อ",
+      "info": "EP 1",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/h_1240milk236pl.webp",
+      "stations": [
+        {
+          "name": "MILK-236 Love You Daddy แม่ไม่อยู่ หนูเลยเสร็จคุณพ่อ",
+          "info": "ปกติ",
+          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/h_1240milk236pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=1190&type=video",
           "playInNatPlayer": "true"
         }
       ]
