@@ -13,62 +13,70 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/c9a2b7b74baf917c685b03d6/c9a2b7b74baf917c685b03d6438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/0234b18bb35aba69257ad095/0234b18bb35aba69257ad095438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/8a0f651537299c10bf18d9fa/8a0f651537299c10bf18d9fa438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/2d4ee7588b1d0144ef193832/2d4ee7588b1d0144ef193832438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/829bcfa82101c3c7d10e3e03/829bcfa82101c3c7d10e3e03438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/e771b9d694d5bfaad8fb1d76/e771b9d694d5bfaad8fb1d76438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/6114eeab7953bc3ab6eb8503/6114eeab7953bc3ab6eb8503438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/The-Remarried-Empress-2026-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B5-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/1b5c86e2e9962af856019d7c/1b5c86e2e9962af856019d7c.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
     {
       "name": "Crash 2 Fury Road (2026) หน่วยจราจรปราบทรชน 2",
-      "info": "EP 3",
+      "info": "EP 4",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
       "stations": [
         {
@@ -76,14 +84,16 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/bb4d4fbcfdf70f18ead6add5/bb4d4fbcfdf70f18ead6add5438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/8f16f59f3f26448844715fcb/8f16f59f3f26448844715fcb438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 3",
@@ -91,6 +101,14 @@
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/d378b56dd718bf6e911b2da2/d378b56dd718bf6e911b2da2438.m3u8",
           "playInNatPlayer": "true"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Crash-2-Fury-Road-2026-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%88%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-2-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/0f0c1eef7703adf5b94191a3/0f0c1eef7703adf5b94191a3438.m3u8",
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -203,63 +221,72 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/37077a355444521c7afa9ab4/37077a355444521c7afa9ab4438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/5e2711bb82b88ff0fd2e7714/5e2711bb82b88ff0fd2e7714438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/f81032da9c3b72e3475a1f4c/f81032da9c3b72e3475a1f4c438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/ca61eebf3654a67b5e61f79a/ca61eebf3654a67b5e61f79a438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/aff9e23bfea266846939dfad/aff9e23bfea266846939dfad438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/4967dae1641fbd3cfaec188b/4967dae1641fbd3cfaec188b438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/d5e2839290894b1996202249/d5e2839290894b1996202249438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/592a2b4373113de8f2361d88/592a2b4373113de8f2361d88438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 10",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/397425ead3e92377a069c718/397425ead3e92377a069c718438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -378,28 +405,32 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/8b7d4ddd8bbe63f8a0655dae/8b7d4ddd8bbe63f8a0655dae438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/0d4dca0513d2a9507da9fc3b/0d4dca0513d2a9507da9fc3b438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/44c8cb83e243cdba1a32d7cc/44c8cb83e243cdba1a32d7cc438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
           "url": "https://main.24playerhd.com/newplaylist/09f0c61deceb28ea622e37fc/09f0c61deceb28ea622e37fc438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -504,14 +535,16 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/24477895702d9faf8948f888/24477895702d9faf8948f888438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Partner-2-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%B9%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B9%88-2-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/aafcd19b560a66cab577a34c/aafcd19b560a66cab577a34c438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -525,56 +558,64 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/274d0723155d36cca14895cb/274d0723155d36cca14895cb438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/9077d5c3d2a64669fb5dccbd/9077d5c3d2a64669fb5dccbd438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/8f549894188d10f56451ac61/8f549894188d10f56451ac61438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/0ac7995d88e799b137b07295/0ac7995d88e799b137b07295168.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/14c884bdaf0ba92ae11de8a0/14c884bdaf0ba92ae11de8a0438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/1afd46a8453e262da1fe4926/1afd46a8453e262da1fe4926438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/e652b2834014af06ca6c3396/e652b2834014af06ca6c3396438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/bf58dd219a29fdf19ee7d7f7/bf58dd219a29fdf19ee7d7f7438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -588,28 +629,32 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/7dbce1654cb5f461f61135f5/7dbce1654cb5f461f61135f5438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/eea647d9db61d7b7c5465e13/eea647d9db61d7b7c5465e13438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/49bc47817c349db2401b0dc9/49bc47817c349db2401b0dc9438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         },
         {
           "name": "ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Sword-Silence-2026-%E0%B8%84%E0%B8%A1%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/32444a44f7b9d75335dbf94a/32444a44f7b9d75335dbf94a438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     }
