@@ -5,7 +5,7 @@
   "groups": [
     {
       "name": "Extraordinary Attorney Minami (2026) มินามิ ทนายอัจฉริยะ",
-      "info": "EP 5",
+      "info": "EP 6",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Extraordinary-Attorney-Minami-2026-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-300x450.jpg",
       "stations": [
         {
@@ -45,6 +45,14 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Extraordinary-Attorney-Minami-2026-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/a8fcade84c45d41678c31734/a8fcade84c45d41678c31734438.m3u8",
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Extraordinary-Attorney-Minami-2026-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/f77a5e0419dc521a00a4d014/f77a5e0419dc521a00a4d014438.m3u8",
           "playInNatPlayer": "true",
           "referer": "https://www.123-hdc.com"
         }
