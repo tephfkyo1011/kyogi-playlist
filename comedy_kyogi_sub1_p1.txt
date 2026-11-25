@@ -55,8 +55,7 @@
           "info": "พากย์ไทย",
           "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
           "url": "https://yt-stream.phiphatprojects.workers.dev/?v=kGXoyrS9tm4",
-          "playInNatPlayer": "true",
-          "referer": "https://www.youtube.com/"
+          "playInNatPlayer": "true"
         }
       ]
     }
