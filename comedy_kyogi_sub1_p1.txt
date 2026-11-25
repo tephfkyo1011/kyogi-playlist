@@ -82,8 +82,9 @@
           "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ [พากย์ไทย]",
           "info": "พากย์ไทย",
           "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=kGXoyrS9tm4",
-          "userAgent": "Mozilla/5.0"
+          "url": "https://yt-stream.phiphatprojects.workers.dev/?v=kGXoyrS9tm4",
+          "playInNatPlayer": "true",
+          "referer": "https://www.youtube.com/"
         }
       ]
     }
