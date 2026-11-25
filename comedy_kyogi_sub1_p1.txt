@@ -44,6 +44,20 @@
           "userAgent": "Mozilla/5.0"
         }
       ]
+    },
+    {
+      "name": "รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย",
+      "info": "EP 1",
+      "image": "https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg",
+      "stations": [
+        {
+          "name": "รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย [พากย์ไทย]",
+          "info": "พากย์ไทย",
+          "image": "https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tr9Fcyn-xiw",
+          "userAgent": "Mozilla/5.0"
+        }
+      ]
     }
   ]
 }
