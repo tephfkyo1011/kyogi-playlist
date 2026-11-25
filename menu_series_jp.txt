@@ -4,9 +4,9 @@
   "image": "https://flagcdn.com/w320/jp.png",
   "groups": [
     {
-      "name": "📂 รวมทั้งหมด",
-      "info": "ว่าง",
-      "image": "https://flagcdn.com/w320/jp.png",
+      "name": "📂 ปี 2026",
+      "info": "1 เรื่อง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Extraordinary-Attorney-Minami-2026-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-300x450.jpg",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/series_jp_sub1_p1.txt",
       "import": false
     }
