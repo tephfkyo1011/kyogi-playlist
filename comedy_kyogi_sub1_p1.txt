@@ -6,32 +6,44 @@
     {
       "name": "รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PI9uXtHmhDE"
+      "url": "https://www.youtube.com/watch?v=PI9uXtHmhDE",
+      "embed": "true",
+      "referer": "https://www.youtube.com"
     },
     {
       "name": "รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/oGjHkhW48n4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oGjHkhW48n4"
+      "url": "https://www.youtube.com/watch?v=oGjHkhW48n4",
+      "embed": "true",
+      "referer": "https://www.youtube.com"
     },
     {
       "name": "รวมฉ่อยหน้าม่านสามน้า \"ฮาไม่หยุด ในวันหยุดยาว\" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12",
       "image": "https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LDXrt8goums"
+      "url": "https://www.youtube.com/watch?v=LDXrt8goums",
+      "embed": "true",
+      "referer": "https://www.youtube.com"
     },
     {
       "name": "รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tr9Fcyn-xiw"
+      "url": "https://www.youtube.com/watch?v=tr9Fcyn-xiw",
+      "embed": "true",
+      "referer": "https://www.youtube.com"
     },
     {
       "name": "รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙",
       "image": "https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jP24LwKtSg0"
+      "url": "https://www.youtube.com/watch?v=jP24LwKtSg0",
+      "embed": "true",
+      "referer": "https://www.youtube.com"
     },
     {
       "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ",
       "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kGXoyrS9tm4"
+      "url": "https://www.youtube.com/watch?v=kGXoyrS9tm4",
+      "embed": "true",
+      "referer": "https://www.youtube.com"
     }
   ]
 }
