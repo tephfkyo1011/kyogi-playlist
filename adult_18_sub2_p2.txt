@@ -2,272 +2,120 @@
   "name": "🔞 หนัง ผู้ใหญ่ - จีน (หน้า 2)",
   "author": "KYO GI",
   "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
-  "groups": [
+  "stations": [
     {
       "name": "PMU002 Bad Girl แสบยิ่งนัก ตัวบั๊กประจำโรงเรียน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/01/Peach-Video-Media-PMU002-Multiplayer-Melee-Bad-Girls-Conquer-the-Principal-with-Their-Body.webp",
-      "stations": [
-        {
-          "name": "PMU002 Bad Girl แสบยิ่งนัก ตัวบั๊กประจำโรงเรียน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/01/Peach-Video-Media-PMU002-Multiplayer-Melee-Bad-Girls-Conquer-the-Principal-with-Their-Body.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4288&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4288&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "HPP-0038 Fuck My Wife สระแห้งเหือดขอเดือดกับน้องผัว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2023/12/aSCpZ7.webp",
-      "stations": [
-        {
-          "name": "HPP-0038 Fuck My Wife สระแห้งเหือดขอเดือดกับน้องผัว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2023/12/aSCpZ7.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4289&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4289&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MDSJ-0002 จำลองเหตุการณ์เสียวซ่านจนได้ข่าว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2023/11/av1K0M.webp",
-      "stations": [
-        {
-          "name": "MDSJ-0002 จำลองเหตุการณ์เสียวซ่านจนได้ข่าว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2023/11/av1K0M.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4290&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4290&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "TM-0121 รักหมดรูคุณครูมีอดีต",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2023/05/TM-0121.webp",
-      "stations": [
-        {
-          "name": "TM-0121 รักหมดรูคุณครูมีอดีต",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2023/05/TM-0121.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4291&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4291&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "TMW-042 โทษฐานแอบดูมุดรูเลียจารย์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2023/05/TMW-042.webp",
-      "stations": [
-        {
-          "name": "TMW-042 โทษฐานแอบดูมุดรูเลียจารย์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2023/05/TMW-042.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4292&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4292&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MTVQ5-EP4 Madou Media Works Actress Arena Sex ศึกระทวยโคตรมวยทำทรง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2023/04/UTtrfC.webp",
-      "stations": [
-        {
-          "name": "MTVQ5-EP4 Madou Media Works Actress Arena Sex ศึกระทวยโคตรมวยทำทรง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2023/04/UTtrfC.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4293&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4293&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MD-0254 พู่กันเชื่องมือมันคือศิลปะ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/12/MD-0254.webp",
-      "stations": [
-        {
-          "name": "MD-0254 พู่กันเชื่องมือมันคือศิลปะ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/12/MD-0254.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4294&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4294&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MKY-HC-001 Rental Incident งานถอดหนูคล่องที่ห้องมีแมว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/05/MKY-HC-001.webp",
-      "stations": [
-        {
-          "name": "MKY-HC-001 Rental Incident งานถอดหนูคล่องที่ห้องมีแมว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/05/MKY-HC-001.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4295&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4295&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MDX-0197 Perverted Gift น้องผีบ้ากับผ้าล่องหน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/MDX-0197.webp",
-      "stations": [
-        {
-          "name": "MDX-0197 Perverted Gift น้องผีบ้ากับผ้าล่องหน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/MDX-0197.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4296&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4296&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MD-0202 จู๋ติดเตียงเลียบเคียงพยาบาล",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/7ebf97186af00319f810df4ef477c25a.webp",
-      "stations": [
-        {
-          "name": "MD-0202 จู๋ติดเตียงเลียบเคียงพยาบาล",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/7ebf97186af00319f810df4ef477c25a.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4297&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4297&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MMZ-023 รักเกิดเปิดหัวใจโจร",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/10t0l0j.webp",
-      "stations": [
-        {
-          "name": "MMZ-023 รักเกิดเปิดหัวใจโจร",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/10t0l0j.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4298&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4298&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "91CM-230 ทีแรกจำใจทีหลังไปจะจำไม่ลืม",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/91CM-230a102c8785b29eb91.webp",
-      "stations": [
-        {
-          "name": "91CM-230 ทีแรกจำใจทีหลังไปจะจำไม่ลืม",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/04/91CM-230a102c8785b29eb91.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4299&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4299&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MAD-031 นางสนมขมไปถึงคอ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2022/02/MAD-031.webp",
-      "stations": [
-        {
-          "name": "MAD-031 นางสนมขมไปถึงคอ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2022/02/MAD-031.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4300&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4300&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MD-0177 พยาบาลสวาท",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2021/10/MD-0177-cover.webp",
-      "stations": [
-        {
-          "name": "MD-0177 พยาบาลสวาท",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2021/10/MD-0177-cover.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4301&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4301&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "91CM-182 บุญหรรมหล่นทับคลิปลับมือถือ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2021/10/91CM-182.webp",
-      "stations": [
-        {
-          "name": "91CM-182 บุญหรรมหล่นทับคลิปลับมือถือ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2021/10/91CM-182.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4302&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4302&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MD0044 Siblings Talk เรียนจากกล้วยระทวยอาเหม่ย",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2021/08/MD0044-Cover.webp",
-      "stations": [
-        {
-          "name": "MD0044 Siblings Talk เรียนจากกล้วยระทวยอาเหม่ย",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2021/08/MD0044-Cover.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4303&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4303&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MD0025 Stewardess ดิลโด้ต้องแชร์แอร์ตกสวรรค์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2021/08/md0025.webp",
-      "stations": [
-        {
-          "name": "MD0025 Stewardess ดิลโด้ต้องแชร์แอร์ตกสวรรค์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2021/08/md0025.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4304&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4304&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Amelia Wang สาวลูกครึ่งจีน เจอดุ้นใหญ่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1.webp",
-      "stations": [
-        {
-          "name": "Amelia Wang สาวลูกครึ่งจีน เจอดุ้นใหญ่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4305&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4305&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Amelia Wang หมวยจีนอยากโดนควยใหญ่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2019/06/D28oUaf.webp",
-      "stations": [
-        {
-          "name": "Amelia Wang หมวยจีนอยากโดนควยใหญ่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2019/06/D28oUaf.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4306&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4306&type=video",
+      "playInNatPlayer": "true"
     }
   ]
 }
