@@ -5320,16 +5320,12 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="Now Rock🇬🇧" tvg-logo="https://i.imgur.com/96U6NBp.png" group-title="📺 Digital TV - Entertainment🥤🥳",Now Rock🇬🇧
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-name="Kpop TV" tvg-logo="https://i.imgur.com/erHTCPz.png" group-title="📺 Digital TV - Entertainment🥤🥳",Kpop TV
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 tvg-name="Pop world TV" tvg-logo="https://i.imgur.com/OoA25gC.png" group-title="📺 Digital TV - Entertainment🥤🥳",Pop world TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-name="CMC Music" tvg-logo="https://i.imgur.com/l1CYQTv.png" group-title="📺 Digital TV - Entertainment🥤🥳",CMC Music
 https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 #EXTINF:-1 tvg-name="V2BEAT TV" tvg-logo="https://i.imgur.com/row4aa7.png" group-title="📺 Digital TV - Entertainment🥤🥳",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-name="Tastemade" tvg-logo="https://i.imgur.com/RgvLeTB.png" group-title="📺 Digital TV - Entertainment🥤🥳",Tastemade
-https://tmint-aus-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="Superyacht TV" tvg-logo="https://i.imgur.com/3CsOND6.png" group-title="📺 Digital TV - Entertainment🥤🥳",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Drone TV" tvg-logo="https://i.imgur.com/KnzQddD.png" group-title="📺 Digital TV - Entertainment🥤🥳",Drone TV
