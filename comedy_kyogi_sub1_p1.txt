@@ -6,44 +6,38 @@
     {
       "name": "รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PI9uXtHmhDE&cc_load_policy=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com"
+      "url": "https://youtube.com/live/PI9uXtHmhDE",
+      "openInBrowser": "true"
     },
     {
       "name": "รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/oGjHkhW48n4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oGjHkhW48n4&cc_load_policy=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com"
+      "url": "https://youtube.com/live/oGjHkhW48n4",
+      "openInBrowser": "true"
     },
     {
       "name": "รวมฉ่อยหน้าม่านสามน้า \"ฮาไม่หยุด ในวันหยุดยาว\" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12",
       "image": "https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LDXrt8goums&cc_load_policy=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com"
+      "url": "https://youtube.com/live/LDXrt8goums",
+      "openInBrowser": "true"
     },
     {
       "name": "รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tr9Fcyn-xiw&cc_load_policy=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com"
+      "url": "https://youtube.com/live/tr9Fcyn-xiw",
+      "openInBrowser": "true"
     },
     {
       "name": "รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙",
       "image": "https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jP24LwKtSg0&cc_load_policy=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com"
+      "url": "https://youtube.com/live/jP24LwKtSg0",
+      "openInBrowser": "true"
     },
     {
       "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ",
       "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kGXoyrS9tm4&cc_load_policy=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com"
+      "url": "https://youtube.com/live/kGXoyrS9tm4",
+      "openInBrowser": "true"
     }
   ]
 }
