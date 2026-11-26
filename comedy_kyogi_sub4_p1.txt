@@ -1,0 +1,1501 @@
+{
+  "name": "😂 รายการตลก - ระเบิดเถิดเทิง",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+  "stations": [
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 297 | คนข้างบ้าน",
+      "image": "https://i.ytimg.com/vi/w4dg5CXfwzo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=w4dg5CXfwzo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 296 | คุณนายไร้บ้าน",
+      "image": "https://i.ytimg.com/vi/sxgUsdXwNcw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=sxgUsdXwNcw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 295 | คนหลายใจ",
+      "image": "https://i.ytimg.com/vi/U2kRYj1w1qY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=U2kRYj1w1qY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 294 | อวสาน ตำนานเซฟ",
+      "image": "https://i.ytimg.com/vi/kKgOUnuIdS4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=kKgOUnuIdS4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 293 | เป็นกิ๊กกับผี",
+      "image": "https://i.ytimg.com/vi/cfhdtyuyJkM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cfhdtyuyJkM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 292 | เปลี่ยนใจ",
+      "image": "https://i.ytimg.com/vi/Ycu-bcbvzTg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Ycu-bcbvzTg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 291 | สลับทรัพย์สลับเซฟ",
+      "image": "https://i.ytimg.com/vi/gkAaoXUJGdM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=gkAaoXUJGdM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 290 | ศพท้ายรถ",
+      "image": "https://i.ytimg.com/vi/0hL_vQ7_oqE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0hL_vQ7_oqE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 289 | บ้านผีสิง",
+      "image": "https://i.ytimg.com/vi/-7eempQf-tA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=-7eempQf-tA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 288 | ดูตัว",
+      "image": "https://i.ytimg.com/vi/g49W_e82P2c/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=g49W_e82P2c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 287 | การกลับมาของลูกเฮียซ้ง",
+      "image": "https://i.ytimg.com/vi/DHmueK4AHhE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=DHmueK4AHhE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 286 | อันเซอร์ไม่ อันไซเมอร์",
+      "image": "https://i.ytimg.com/vi/7etE7Jzctxk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7etE7Jzctxk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 285 | คู่แท้คู่เทียม",
+      "image": "https://i.ytimg.com/vi/ZNQiHbtxGsg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZNQiHbtxGsg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 284 | แค่เข้าใจ",
+      "image": "https://i.ytimg.com/vi/xqrI7L6z8V4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xqrI7L6z8V4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 283 | ยอดนักขาย",
+      "image": "https://i.ytimg.com/vi/Lj54vg4kF0o/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Lj54vg4kF0o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 282 | จักรยานคนจน",
+      "image": "https://i.ytimg.com/vi/Z7IhGCKPTtg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Z7IhGCKPTtg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 281 | ม.เหมียวหายไป",
+      "image": "https://i.ytimg.com/vi/P54RDvybfTk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=P54RDvybfTk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 280 | ลับๆลวงๆ",
+      "image": "https://i.ytimg.com/vi/5mR5a3lVycc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=5mR5a3lVycc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 279 | ถ่านไฟเก่าในเตาใหม่",
+      "image": "https://i.ytimg.com/vi/2WPBkcuT5mg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2WPBkcuT5mg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 278 | รักลวง",
+      "image": "https://i.ytimg.com/vi/53SBWLYovwA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=53SBWLYovwA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 277 | พังเพราะโพย",
+      "image": "https://i.ytimg.com/vi/n1oFvVFy3t4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=n1oFvVFy3t4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 276 | ฝึกสอน ฝึกเสี่ยง",
+      "image": "https://i.ytimg.com/vi/qUd0YjEUNno/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qUd0YjEUNno",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 275 | คู่แค้น",
+      "image": "https://i.ytimg.com/vi/7jhF_rvcrGo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7jhF_rvcrGo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 274 | เพื่อนรัก เพื่อนร้าว",
+      "image": "https://i.ytimg.com/vi/KynumWTpNjY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=KynumWTpNjY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 273 | มารหัวใจ",
+      "image": "https://i.ytimg.com/vi/L2g9NpRXvBk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=L2g9NpRXvBk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 272 | รางวัลที่5",
+      "image": "https://i.ytimg.com/vi/9eMuJAqW3F8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9eMuJAqW3F8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 271 | สอบซ่อม",
+      "image": "https://i.ytimg.com/vi/1vz_tn7QZdg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=1vz_tn7QZdg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 270 | อุบัติโหดเป็นเหตุ",
+      "image": "https://i.ytimg.com/vi/uZyNomAQaA8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=uZyNomAQaA8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 269 | เยียวยา",
+      "image": "https://i.ytimg.com/vi/0xqYwzrfnHw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0xqYwzrfnHw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 268 | เมียคนใหม่",
+      "image": "https://i.ytimg.com/vi/fu5GccYI5_Y/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=fu5GccYI5_Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 267 | รักต้องเลือก",
+      "image": "https://i.ytimg.com/vi/gobDOn5M92I/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=gobDOn5M92I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 266 | ลมพัดหวน",
+      "image": "https://i.ytimg.com/vi/-qT-bO6898g/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=-qT-bO6898g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 265 |ผลพวงเพราะดวงชง",
+      "image": "https://i.ytimg.com/vi/IBce_pJ0Ejg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=IBce_pJ0Ejg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 264 | รักแท้อยู่ที่ใจ",
+      "image": "https://i.ytimg.com/vi/6WVL79p9_hU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6WVL79p9_hU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 263 | อาจจะเป็นคนนี้",
+      "image": "https://i.ytimg.com/vi/7QYjxd0IwVo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7QYjxd0IwVo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 262 |บ้านแตกสาแหรกไม่ขาด",
+      "image": "https://i.ytimg.com/vi/m20tzMu1-PQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=m20tzMu1-PQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 261 | เอาคืน",
+      "image": "https://i.ytimg.com/vi/oSqt-ITCax8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=oSqt-ITCax8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 259 | ขอคืน",
+      "image": "https://i.ytimg.com/vi/s4rVTpsmp3I/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=s4rVTpsmp3I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 258 | ชดใช้",
+      "image": "https://i.ytimg.com/vi/QoLZs49V58Y/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=QoLZs49V58Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 257 | เพื่อพ่อ",
+      "image": "https://i.ytimg.com/vi/ZzN_hhJZUJA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZzN_hhJZUJA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 256 | หล่อต้องเลือก",
+      "image": "https://i.ytimg.com/vi/Edm7XEx_370/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Edm7XEx_370",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 255 | ได้หย่า เสียอย่าง",
+      "image": "https://i.ytimg.com/vi/tq4Jg2VOb3U/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=tq4Jg2VOb3U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 254 |ของรักของหวง",
+      "image": "https://i.ytimg.com/vi/9zY32_C4uIM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9zY32_C4uIM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 253 | กศน. รอรัก",
+      "image": "https://i.ytimg.com/vi/9LaCWuksURo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9LaCWuksURo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 252 | จบแล้ว ไปไหน",
+      "image": "https://i.ytimg.com/vi/nybUs-dOu9E/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=nybUs-dOu9E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 251 | นายหน้าค้าที่",
+      "image": "https://i.ytimg.com/vi/IQ6MaNoDsSo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=IQ6MaNoDsSo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 250 | ลื้อต้องซ่อม",
+      "image": "https://i.ytimg.com/vi/uJrXNhtZ3Wc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=uJrXNhtZ3Wc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 249 | วิกฤตรัก วิกฤตเลือด",
+      "image": "https://i.ytimg.com/vi/rT1IqVVNKVA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=rT1IqVVNKVA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 248 | วิวาห์อลวน",
+      "image": "https://i.ytimg.com/vi/BoIgHpoUjTc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BoIgHpoUjTc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 247 | มือที่สาม",
+      "image": "https://i.ytimg.com/vi/Ywk33e-mG8o/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Ywk33e-mG8o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 244 | วินผีเฮี้ยน",
+      "image": "https://i.ytimg.com/vi/klLr_xYMx3I/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=klLr_xYMx3I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 242 | คุณแม่คนใหม่",
+      "image": "https://i.ytimg.com/vi/HDHbL6RyGKE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=HDHbL6RyGKE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 241 | ลูกค้าหลง",
+      "image": "https://i.ytimg.com/vi/YERS0EHwM74/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=YERS0EHwM74",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 240 | นักเลงตัวจริง",
+      "image": "https://i.ytimg.com/vi/q5DN3Ya3oaQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=q5DN3Ya3oaQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 239 | รักต้องห้าม",
+      "image": "https://i.ytimg.com/vi/JyDb4fLyKeI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JyDb4fLyKeI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 238 | รักต้องห้าม",
+      "image": "https://i.ytimg.com/vi/TaeotXnjvfQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=TaeotXnjvfQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 237 | สู้เพื่อพ่อ",
+      "image": "https://i.ytimg.com/vi/8cpCXHa4-Gs/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=8cpCXHa4-Gs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 236| นางสาวสมองเสื่อม",
+      "image": "https://i.ytimg.com/vi/RczOrywEKbo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=RczOrywEKbo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 235 | สุดยอดเซลล์",
+      "image": "https://i.ytimg.com/vi/zfEK62v58-s/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zfEK62v58-s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 233 | ไปเมืองนอก",
+      "image": "https://i.ytimg.com/vi/Yn-fImKHRTs/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Yn-fImKHRTs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 232 | หีบสมบัติ",
+      "image": "https://i.ytimg.com/vi/zkXDjVU0x30/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zkXDjVU0x30",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 231 | คนมาหาเมีย",
+      "image": "https://i.ytimg.com/vi/tDmEgIzqwko/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=tDmEgIzqwko",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 230 | ทวงบุญคุณ",
+      "image": "https://i.ytimg.com/vi/XpaQAJlpfrw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=XpaQAJlpfrw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 229 | ฝากเลี้ยง",
+      "image": "https://i.ytimg.com/vi/7baEe6myTFQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7baEe6myTFQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 228 | แผนทำลายรัก",
+      "image": "https://i.ytimg.com/vi/qDJXVdsvNNY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qDJXVdsvNNY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 227 | คุณหนูแซ่ลี้",
+      "image": "https://i.ytimg.com/vi/7_zs2_pgvQE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7_zs2_pgvQE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 226 | คลุมถุงชน",
+      "image": "https://i.ytimg.com/vi/5aausSAXIm4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=5aausSAXIm4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 225 | รักข้ามรุ่น",
+      "image": "https://i.ytimg.com/vi/xPyUMW0-K0s/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xPyUMW0-K0s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 224 | ภารกิจ ผลิตหลาน",
+      "image": "https://i.ytimg.com/vi/05tBGUmTPwY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=05tBGUmTPwY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 223 | ความรักครั้งล่าสุด",
+      "image": "https://i.ytimg.com/vi/xWiDDAPWEqo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xWiDDAPWEqo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 222 | ผู้ต้องสงสัย",
+      "image": "https://i.ytimg.com/vi/wFr3XoMVLRw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=wFr3XoMVLRw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 221 | กฏมั่ว กฏหมาย",
+      "image": "https://i.ytimg.com/vi/_z5ZgjocvLE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=_z5ZgjocvLE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 220 | ท้องแล้วจ้า",
+      "image": "https://i.ytimg.com/vi/ARBZOrq6RYw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ARBZOrq6RYw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 219 | ยาโด๊ป",
+      "image": "https://i.ytimg.com/vi/PtsXZGudyX4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=PtsXZGudyX4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 218 | ผีไล่ที่",
+      "image": "https://i.ytimg.com/vi/qJseEkNKQso/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qJseEkNKQso",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 217 | นิยายรัก",
+      "image": "https://i.ytimg.com/vi/E96e8LP-srk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=E96e8LP-srk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 216 | นิยายรัก",
+      "image": "https://i.ytimg.com/vi/q1TpOhBAnmQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=q1TpOhBAnmQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 215 | ค่าหนังสือ",
+      "image": "https://i.ytimg.com/vi/WMGqnqrW_es/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=WMGqnqrW_es",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 214 | ม่ายสาว",
+      "image": "https://i.ytimg.com/vi/aJCjf77LCRc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=aJCjf77LCRc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 213 | หมอดูจำเป็น",
+      "image": "https://i.ytimg.com/vi/xVcfS9BpvTM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xVcfS9BpvTM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 212 | ปิดแฟ้มคดีป่วน",
+      "image": "https://i.ytimg.com/vi/ZW44u-ixq_w/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZW44u-ixq_w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 211 | รักครั้งใหม่",
+      "image": "https://i.ytimg.com/vi/uLJekqHMvIM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=uLJekqHMvIM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 210 | นางนกต่อ",
+      "image": "https://i.ytimg.com/vi/7pOJY1GRaJM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7pOJY1GRaJM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 209 | สวมรอย",
+      "image": "https://i.ytimg.com/vi/JcVMbZRFzro/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JcVMbZRFzro",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 208 | ล่อซื้อ",
+      "image": "https://i.ytimg.com/vi/xUP8v2f9QrU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xUP8v2f9QrU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 207 | มืออาชีพ",
+      "image": "https://i.ytimg.com/vi/ZwS6fYoJyzQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZwS6fYoJyzQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 206 | รักข้ามขอบฟ้า",
+      "image": "https://i.ytimg.com/vi/zYHsWCNchU4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zYHsWCNchU4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 205 | แคสติ้ง",
+      "image": "https://i.ytimg.com/vi/vH-zDKwwfLc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=vH-zDKwwfLc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 204 | ยอดมวยจากแดนสี่",
+      "image": "https://i.ytimg.com/vi/WWyhbSqd36U/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=WWyhbSqd36U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 203 | โคแก่...กับหญ้าอ่อน",
+      "image": "https://i.ytimg.com/vi/XS_L_pPpC84/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=XS_L_pPpC84",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 202 | ทายาทมาเฟีย",
+      "image": "https://i.ytimg.com/vi/1SacuRuItCE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=1SacuRuItCE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 201 | พยานปากเอก",
+      "image": "https://i.ytimg.com/vi/2BBhzxZMPS4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2BBhzxZMPS4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 200 | ถูกดีมีในโลก",
+      "image": "https://i.ytimg.com/vi/i3aWAT5QkUk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=i3aWAT5QkUk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 199 | จุดใต้ตำตอ",
+      "image": "https://i.ytimg.com/vi/2-Vt7OSOcaU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2-Vt7OSOcaU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 198 | ตำราปากพระร่วง",
+      "image": "https://i.ytimg.com/vi/tN1VzUVLLpg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=tN1VzUVLLpg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 197 | ทายาทท่านเจ้าคุณ",
+      "image": "https://i.ytimg.com/vi/CF9dNWNWYEc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=CF9dNWNWYEc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 196 | ฟุตบอลโลก",
+      "image": "https://i.ytimg.com/vi/0PezS-JeYVw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0PezS-JeYVw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 195 | คุณนายไฮโซ",
+      "image": "https://i.ytimg.com/vi/8mF3fFpwVfo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=8mF3fFpwVfo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 194 | มาตามสัญญา",
+      "image": "https://i.ytimg.com/vi/ZmyppmE2AjQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZmyppmE2AjQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 193 | วาระสุดท้าย",
+      "image": "https://i.ytimg.com/vi/k30Gqu92GsA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=k30Gqu92GsA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 192 | แฟรนไชส์",
+      "image": "https://i.ytimg.com/vi/zPAO0EUHUag/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zPAO0EUHUag",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 191 | อยากดัง",
+      "image": "https://i.ytimg.com/vi/DtWse8kwf2M/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=DtWse8kwf2M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 189 | ที่ปรึกษา",
+      "image": "https://i.ytimg.com/vi/-l4eTkPaTCE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=-l4eTkPaTCE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 188 | โชคไม่ช่วย",
+      "image": "https://i.ytimg.com/vi/cg4AkN0howk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cg4AkN0howk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 187 | บำเพ็ญประโยชน์ 2",
+      "image": "https://i.ytimg.com/vi/6eFJDmczkgs/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6eFJDmczkgs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 186 | บำเพ็ญประโยชน์",
+      "image": "https://i.ytimg.com/vi/08NkqK55G8Y/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=08NkqK55G8Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 185 | คู่แข่ง 2",
+      "image": "https://i.ytimg.com/vi/cipBQxeQ1L4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cipBQxeQ1L4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 184 | คู่แข่ง",
+      "image": "https://i.ytimg.com/vi/-p1qZndbFKo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=-p1qZndbFKo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 183 | เจาะเวลาหาอดีต",
+      "image": "https://i.ytimg.com/vi/KyxJb-dM3B0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=KyxJb-dM3B0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 182 | ศึกชิงท้ายซอย",
+      "image": "https://i.ytimg.com/vi/Tk97gfrTmAI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Tk97gfrTmAI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 181 | อดีตรัก",
+      "image": "https://i.ytimg.com/vi/qWslskgU18w/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qWslskgU18w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 180 | โจรห้าร้อย",
+      "image": "https://i.ytimg.com/vi/TGL3l9QKgR4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=TGL3l9QKgR4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 179 | พริตตี้ที่รัก 2",
+      "image": "https://i.ytimg.com/vi/6jjNV2yOgSg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6jjNV2yOgSg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 178 | พริตตี้ที่รัก",
+      "image": "https://i.ytimg.com/vi/08CZ9cCZUzQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=08CZ9cCZUzQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 177 | ซินแสกำมะลอ",
+      "image": "https://i.ytimg.com/vi/FLFcg88cciI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=FLFcg88cciI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 176 | แจกันอาถรรพณ์",
+      "image": "https://i.ytimg.com/vi/4_gqPgTYJKU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=4_gqPgTYJKU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 175 | แฟนใหม่",
+      "image": "https://i.ytimg.com/vi/C9bHoxFvAos/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=C9bHoxFvAos",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 172 | วัตถุจากฟากฟ้า",
+      "image": "https://i.ytimg.com/vi/h6zA2d7OyDw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=h6zA2d7OyDw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 174 | ผู้ชายป้ายเหลือง",
+      "image": "https://i.ytimg.com/vi/wlPVn53f51o/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=wlPVn53f51o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 173 | พิษรักแรงหึง",
+      "image": "https://i.ytimg.com/vi/dcVcJcnxcO0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=dcVcJcnxcO0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 171 | อุบัติเหตุ 2",
+      "image": "https://i.ytimg.com/vi/w6gBIvbCbU0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=w6gBIvbCbU0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 170 | อุบัติเหตุ",
+      "image": "https://i.ytimg.com/vi/sLiF9kzkDTk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=sLiF9kzkDTk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 169 | สัญญาหน้าฝน",
+      "image": "https://i.ytimg.com/vi/nvRndnlauV0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=nvRndnlauV0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 168 | ไปรษณีย์สื่อรัก",
+      "image": "https://i.ytimg.com/vi/f1tX3qlfQ1M/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=f1tX3qlfQ1M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 167 | ลูกสาวกำนัน",
+      "image": "https://i.ytimg.com/vi/xp_dqq2K4GY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xp_dqq2K4GY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 166 | คุณแม่มาแว้ว",
+      "image": "https://i.ytimg.com/vi/k5830ufYoY0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=k5830ufYoY0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 165 | สืบสะท้านซอย",
+      "image": "https://i.ytimg.com/vi/q65F6d2vMmo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=q65F6d2vMmo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 164 | ซินเดอเรลล่า",
+      "image": "https://i.ytimg.com/vi/DHyYOtu9qYA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=DHyYOtu9qYA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 163 | ผู้หญิงของยอด 2",
+      "image": "https://i.ytimg.com/vi/HuIfNgGhCVI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=HuIfNgGhCVI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 162 ผู้หญิงของยอด",
+      "image": "https://i.ytimg.com/vi/oCCx5cCeTm8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=oCCx5cCeTm8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 161 ค่าไถ่",
+      "image": "https://i.ytimg.com/vi/_UOF_1iCdjs/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=_UOF_1iCdjs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 160 สาวใช้คนใหม่",
+      "image": "https://i.ytimg.com/vi/rB4VISnK6UY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=rB4VISnK6UY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 159 ตกกระป๋อง",
+      "image": "https://i.ytimg.com/vi/0-h1-JXUXfI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0-h1-JXUXfI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 158 ไอ้ปาน",
+      "image": "https://i.ytimg.com/vi/nBGSPI0wrvo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=nBGSPI0wrvo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 157 พ่อคนใหม่",
+      "image": "https://i.ytimg.com/vi/P-q1UDHnxCI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=P-q1UDHnxCI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 156 แก้บน",
+      "image": "https://i.ytimg.com/vi/Jih23aNVd_A/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Jih23aNVd_A",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 155 ผู้ก่อการร้าย",
+      "image": "https://i.ytimg.com/vi/NLr9cN73fX8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=NLr9cN73fX8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 154 สูตรเด็ด",
+      "image": "https://i.ytimg.com/vi/11Qhd_VPfEA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=11Qhd_VPfEA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 153 จับแพะ",
+      "image": "https://i.ytimg.com/vi/TMtoNAyZa2c/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=TMtoNAyZa2c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 152 จับขโมย",
+      "image": "https://i.ytimg.com/vi/QB7encBwWgQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=QB7encBwWgQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 151 แอบจิต",
+      "image": "https://i.ytimg.com/vi/z6YohUJgPMI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=z6YohUJgPMI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 149 รักเพราะรวย",
+      "image": "https://i.ytimg.com/vi/qHLHFqJIqIY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qHLHFqJIqIY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 148 เซอร์ไพรส์จนได้เรื่อง",
+      "image": "https://i.ytimg.com/vi/60TL6bKQVtk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=60TL6bKQVtk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 147 โค้งสุดท้าย",
+      "image": "https://i.ytimg.com/vi/a9n3GbW5400/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=a9n3GbW5400",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 146 ชิงโชค",
+      "image": "https://i.ytimg.com/vi/lum1qSmtnlA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=lum1qSmtnlA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 145 หาคู่",
+      "image": "https://i.ytimg.com/vi/K24sAz3FCdk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=K24sAz3FCdk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 144 ต้องเก็บ",
+      "image": "https://i.ytimg.com/vi/h0M5wgHcKkU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=h0M5wgHcKkU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 143 มัคนายกคนใหม่",
+      "image": "https://i.ytimg.com/vi/4_QKx98-MOc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=4_QKx98-MOc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 142 ผีบ้านเช่า",
+      "image": "https://i.ytimg.com/vi/McYUmPvehGg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=McYUmPvehGg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 141 หมาหัวเน่า",
+      "image": "https://i.ytimg.com/vi/TjTQ5ORet8w/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=TjTQ5ORet8w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 140 รปภ.พันธุ์ดุ",
+      "image": "https://i.ytimg.com/vi/j7ZbdtmTRVA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=j7ZbdtmTRVA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 139 เกินหน้าเกินตา",
+      "image": "https://i.ytimg.com/vi/0bEXgv3Xdlk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0bEXgv3Xdlk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 138 อุบัติเหตุ อุบัติโหด",
+      "image": "https://i.ytimg.com/vi/rxwhmQXbd-I/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=rxwhmQXbd-I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 137 ทวงคืน",
+      "image": "https://i.ytimg.com/vi/havToZgaYHw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=havToZgaYHw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 136 แผนเซอร์ไพรส์",
+      "image": "https://i.ytimg.com/vi/zThjrV61OiM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zThjrV61OiM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 135 หย่าเอาเคล็ด",
+      "image": "https://i.ytimg.com/vi/saJyV20dbnU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=saJyV20dbnU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 134 อัลไซเมอร์",
+      "image": "https://i.ytimg.com/vi/cXzmL7QMMQI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cXzmL7QMMQI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 133 ทายาทจำแลง",
+      "image": "https://i.ytimg.com/vi/dU7jTUVaH4I/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=dU7jTUVaH4I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 132 แม่ค้าเจ้าเสน่ห์",
+      "image": "https://i.ytimg.com/vi/KavXSCwQQ9A/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=KavXSCwQQ9A",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 131 กิ๊กของใคร",
+      "image": "https://i.ytimg.com/vi/OClNbZuMmwg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OClNbZuMmwg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 130 แก้ทอมซ่อมดี้",
+      "image": "https://i.ytimg.com/vi/P32OtvqKZgM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=P32OtvqKZgM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 129 อาถรรพ์นางตานี",
+      "image": "https://i.ytimg.com/vi/Srauw4BGDMk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Srauw4BGDMk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 128 สิ่งที่หายไป",
+      "image": "https://i.ytimg.com/vi/wIECLoE_vOw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=wIECLoE_vOw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 127 สายโจร",
+      "image": "https://i.ytimg.com/vi/5kL3rSIm3k8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=5kL3rSIm3k8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 125 โอทอป",
+      "image": "https://i.ytimg.com/vi/EdS2OAv2W-4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=EdS2OAv2W-4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 124 ตู้ซุกผี",
+      "image": "https://i.ytimg.com/vi/SuknZkFGBWw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=SuknZkFGBWw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 123 เจ้าสาวของยอด",
+      "image": "https://i.ytimg.com/vi/jeS7epTchXc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=jeS7epTchXc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 122 อินจัด",
+      "image": "https://i.ytimg.com/vi/lGPAaiykgac/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=lGPAaiykgac",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 121 ย้ายซอย",
+      "image": "https://i.ytimg.com/vi/12Inctvq8xg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=12Inctvq8xg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 120 จรวดสื่อรัก",
+      "image": "https://i.ytimg.com/vi/3ssDPdeSAdI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=3ssDPdeSAdI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 119 ใครแน่กว่าใคร",
+      "image": "https://i.ytimg.com/vi/NEEfo33QIWo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=NEEfo33QIWo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 118 วางระเบิด",
+      "image": "https://i.ytimg.com/vi/y-ywRP7fPo0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=y-ywRP7fPo0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 117 สัมผัสที่ 6",
+      "image": "https://i.ytimg.com/vi/jfjDP7hl0fY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=jfjDP7hl0fY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 116 เกลียดคนสวย",
+      "image": "https://i.ytimg.com/vi/7TUHlNTyHEI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7TUHlNTyHEI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 115 บัญชีดำ",
+      "image": "https://i.ytimg.com/vi/N9uskvT1y1Q/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=N9uskvT1y1Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 114 กลับมาสะสาง",
+      "image": "https://i.ytimg.com/vi/VRK-OJuAi9c/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=VRK-OJuAi9c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 113 อยู่ดีๆเป็นหนี้2ล้าน",
+      "image": "https://i.ytimg.com/vi/qiKE2vYBKck/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qiKE2vYBKck",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 112 ถูกหวย",
+      "image": "https://i.ytimg.com/vi/IbefznLgtKw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=IbefznLgtKw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 111 ตัวจริงตัวปลอม",
+      "image": "https://i.ytimg.com/vi/kXM2vbu40p4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=kXM2vbu40p4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 110 ความรักสีม่วง",
+      "image": "https://i.ytimg.com/vi/4AK9lCNPkwY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=4AK9lCNPkwY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 109 ฝันที่เป็นจริง",
+      "image": "https://i.ytimg.com/vi/BdzRzz3TX-4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BdzRzz3TX-4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 108 ฮอร์โมนเปลี่ยนเพศ",
+      "image": "https://i.ytimg.com/vi/98SGe7_qjPA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=98SGe7_qjPA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 107 รักนี้มีแต่ให้",
+      "image": "https://i.ytimg.com/vi/h2s3ZxY2_bE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=h2s3ZxY2_bE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 106 หงส์รักคนแก่",
+      "image": "https://i.ytimg.com/vi/dYa-1WyLv6U/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=dYa-1WyLv6U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 105 ค่อมก้นซอย",
+      "image": "https://i.ytimg.com/vi/Ad6GdxZbhNg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Ad6GdxZbhNg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 104 มารผจญ",
+      "image": "https://i.ytimg.com/vi/QjxbXFgjrdo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=QjxbXFgjrdo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 103 ความรักของประสิทธิ์",
+      "image": "https://i.ytimg.com/vi/BdMO31x9GMY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BdMO31x9GMY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 101 ความฝันของลูก",
+      "image": "https://i.ytimg.com/vi/2Vbfn6LF8OE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2Vbfn6LF8OE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 100 ไม่อยากแต่งงาน",
+      "image": "https://i.ytimg.com/vi/eLPuFbhc-d8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=eLPuFbhc-d8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 99 รักต่างวัย",
+      "image": "https://i.ytimg.com/vi/JW4dkfIyY9Q/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JW4dkfIyY9Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 98 คนรักของหงส์",
+      "image": "https://i.ytimg.com/vi/-AyEtbFDdPA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=-AyEtbFDdPA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 97 อุ้มบุญ",
+      "image": "https://i.ytimg.com/vi/2QbiswhHvqg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2QbiswhHvqg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 96 แรงหึง",
+      "image": "https://i.ytimg.com/vi/nuMAYEBWsh4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=nuMAYEBWsh4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 95 มั่วนิ่ม",
+      "image": "https://i.ytimg.com/vi/L-ePjl_e2Lk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=L-ePjl_e2Lk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 94 ขอให้เหมือนเดิม",
+      "image": "https://i.ytimg.com/vi/Q5tLb8pARIk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Q5tLb8pARIk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 93 ข้าคือเห้งเจีย",
+      "image": "https://i.ytimg.com/vi/7z3ody7mXig/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7z3ody7mXig",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 92 ลมๆแล้งๆ",
+      "image": "https://i.ytimg.com/vi/t5EhovB0EWk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=t5EhovB0EWk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 91 คลั่งไคล้",
+      "image": "https://i.ytimg.com/vi/nUdRy6bLkfQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=nUdRy6bLkfQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 88 เด็กหลง",
+      "image": "https://i.ytimg.com/vi/yJjhuBaPFRU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=yJjhuBaPFRU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 87 เสียผี",
+      "image": "https://i.ytimg.com/vi/BlW6WVM1_XI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BlW6WVM1_XI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic | ตอนที่ 86 คืนรัง",
+      "image": "https://i.ytimg.com/vi/jx_I-ToYZ0M/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=jx_I-ToYZ0M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 82 คู่แข่ง-คู่ซี้",
+      "image": "https://i.ytimg.com/vi/kx6d7p46e0k/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=kx6d7p46e0k",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 81 แผนจูงใจ",
+      "image": "https://i.ytimg.com/vi/60BfpjU7I64/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=60BfpjU7I64",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 80 รักเก่าอาโก",
+      "image": "https://i.ytimg.com/vi/UbmFBi2Wvms/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=UbmFBi2Wvms",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 79 ตัวซวย",
+      "image": "https://i.ytimg.com/vi/qabBt6m2gos/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qabBt6m2gos",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 78 รักทรหด",
+      "image": "https://i.ytimg.com/vi/sSNbwTYlyUU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=sSNbwTYlyUU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 77 ศึกชิงนาง",
+      "image": "https://i.ytimg.com/vi/N-gTXiToxv4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=N-gTXiToxv4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 76 ทางใคร ทางมัน",
+      "image": "https://i.ytimg.com/vi/J_R9FIMmUbw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=J_R9FIMmUbw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 75 ความรักครั้งใหม่",
+      "image": "https://i.ytimg.com/vi/k29Jz29Aj7k/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=k29Jz29Aj7k",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 74 นอนไม่หลับ",
+      "image": "https://i.ytimg.com/vi/quScspfjvOE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=quScspfjvOE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 73 ผีหลอก",
+      "image": "https://i.ytimg.com/vi/6hy16qKWXDg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6hy16qKWXDg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 72 สายเลือดเดียวกัน",
+      "image": "https://i.ytimg.com/vi/2B88-s_ZGHs/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2B88-s_ZGHs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 71 ฆาตกรรมตามท้องเรื่อง",
+      "image": "https://i.ytimg.com/vi/0yRbg8eNuF8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0yRbg8eNuF8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 70 เดิมพันรัก",
+      "image": "https://i.ytimg.com/vi/xlyFtEaAgIc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xlyFtEaAgIc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 69 มือที่สาม",
+      "image": "https://i.ytimg.com/vi/BE3AhrFhoJs/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BE3AhrFhoJs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 68 บ่างช่างยุ",
+      "image": "https://i.ytimg.com/vi/aoNwKyot5aM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=aoNwKyot5aM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 67 พระคุณแม่",
+      "image": "https://i.ytimg.com/vi/BST-q9EIY48/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BST-q9EIY48",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 66 ตบะแตก",
+      "image": "https://i.ytimg.com/vi/fPPjBvFV43c/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=fPPjBvFV43c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 65 เท่งทำท้อง",
+      "image": "https://i.ytimg.com/vi/Sj7fWz5RuJ8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Sj7fWz5RuJ8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 64 กลับตาลปัตร",
+      "image": "https://i.ytimg.com/vi/mwQNPRKhKeM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=mwQNPRKhKeM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 63 คนขี้คุก",
+      "image": "https://i.ytimg.com/vi/jOhtbVRLASA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=jOhtbVRLASA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 62 ผู้หญิงจำเป็น",
+      "image": "https://i.ytimg.com/vi/V5JuST9kD4o/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=V5JuST9kD4o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 61 พลิกคดี",
+      "image": "https://i.ytimg.com/vi/ELQGQTaun_Y/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ELQGQTaun_Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 60 ฮีโร่",
+      "image": "https://i.ytimg.com/vi/JTfjo3YONd0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JTfjo3YONd0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 59 ลูกของเรา",
+      "image": "https://i.ytimg.com/vi/alHXn3OC9aA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=alHXn3OC9aA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 58 ความทรงจำที่เหลืออยู่...",
+      "image": "https://i.ytimg.com/vi/XUTyeGkWcXs/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=XUTyeGkWcXs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 57 ของผมหาย",
+      "image": "https://i.ytimg.com/vi/e9GdwIwBCy8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=e9GdwIwBCy8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 56 ประกันภัย",
+      "image": "https://i.ytimg.com/vi/1-IJqeubCvE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=1-IJqeubCvE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 55 ผู้ชายนะยะ",
+      "image": "https://i.ytimg.com/vi/dPd7lciH8As/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=dPd7lciH8As",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 54 คุณพ่อ...ครับ",
+      "image": "https://i.ytimg.com/vi/9i8ZOvMDXuI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9i8ZOvMDXuI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 53 สัมผัสที่6",
+      "image": "https://i.ytimg.com/vi/OktQCUSmXQc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OktQCUSmXQc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 52 ตายแล้วฟื้น",
+      "image": "https://i.ytimg.com/vi/VxkOoD2gX8E/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=VxkOoD2gX8E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 51 เซียนพนัน",
+      "image": "https://i.ytimg.com/vi/k3ZPxZBzX9o/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=k3ZPxZBzX9o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 50 แผ่นดินไหว",
+      "image": "https://i.ytimg.com/vi/7GrmCMTWwC8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7GrmCMTWwC8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 49 ดาวผู้มาจากฟ้า",
+      "image": "https://i.ytimg.com/vi/0ogOGtbxwdE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0ogOGtbxwdE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 48 พยานปากเอก",
+      "image": "https://i.ytimg.com/vi/F2YO7_J-KTw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=F2YO7_J-KTw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 47 ลูกน้องคนใหม่",
+      "image": "https://i.ytimg.com/vi/Tf3wQCbgsGA/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Tf3wQCbgsGA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 46 มะรุมมะตุ้ม รุมรักยายชา",
+      "image": "https://i.ytimg.com/vi/OMTuhfaUQ6k/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OMTuhfaUQ6k",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 45 ข้ามเวลา",
+      "image": "https://i.ytimg.com/vi/zx7hKNoqkcQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zx7hKNoqkcQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 44 พี่มากจ๋า",
+      "image": "https://i.ytimg.com/vi/_7z_Dj0sdhY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=_7z_Dj0sdhY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 43 เพื่อนตาย",
+      "image": "https://i.ytimg.com/vi/uP4uRA7Au3s/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=uP4uRA7Au3s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 42 เมียข้าใครอย่าแตะ",
+      "image": "https://i.ytimg.com/vi/IJkzXk-NJH0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=IJkzXk-NJH0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 41 ผู้บังเกิดเกล้า",
+      "image": "https://i.ytimg.com/vi/_Cv7t2NMMO8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=_Cv7t2NMMO8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 40 กองถ่ายเถิดเทิง",
+      "image": "https://i.ytimg.com/vi/KRJKRl0JYc0/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=KRJKRl0JYc0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 39 น้องสาวเจ้าพ่อ",
+      "image": "https://i.ytimg.com/vi/7a7nKPABKVM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7a7nKPABKVM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 38 โรคความจำเสื่อม",
+      "image": "https://i.ytimg.com/vi/McNBSC1qY9Q/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=McNBSC1qY9Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 37 ลูกมหา",
+      "image": "https://i.ytimg.com/vi/e6A6PfD5q3Q/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=e6A6PfD5q3Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 36 มหาคนใหม่",
+      "image": "https://i.ytimg.com/vi/glzP8_ZTFig/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=glzP8_ZTFig",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระเบิดเถิดเทิง Classic_ตอนที่ 35 รักลายคราม",
+      "image": "https://i.ytimg.com/vi/7D59l-cszug/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7D59l-cszug",
+      "openInBrowser": "true"
+    }
+  ]
+}
