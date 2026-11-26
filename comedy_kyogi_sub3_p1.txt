@@ -1,0 +1,259 @@
+{
+  "name": "😂 รายการตลก - จี้เส้นคอนเสิร์ต",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+  "stations": [
+    {
+      "name": "ตลกคณะ โน๊ต เชิญยิ้ม ชุด ฮาก็ฮาว่ะคนป่าอย่างข้าก็ฮาเป็น",
+      "image": "https://i.ytimg.com/vi/ZIe8hMYwcBo/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/ZIe8hMYwcBo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ดี๋ดอกมะดัน ชุด ดี่๋ฮามากับลาว ชุด 9 ตอน 2 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ดี๋ดอกมะดัน @โรเบิร์ตสายควัน",
+      "image": "https://i.ytimg.com/vi/IrgCPfhdYg0/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/IrgCPfhdYg0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ดี๋ดอกมะดัน ชุด ดี่๋ฮามากับลาว ชุด 9 ตอน 1 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ดี๋ดอกมะดัน @โรเบิร์ตสายควัน",
+      "image": "https://i.ytimg.com/vi/tKWPKFqEK84/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/tKWPKFqEK84",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ แฉ่ง ช่อมะดัน ชุด หมอรำซ่าฮาสูตรใหม่ ม้วน 1 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #แฉ่งช่อมะดัน",
+      "image": "https://i.ytimg.com/vi/kZ2BWCzyYwI/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/kZ2BWCzyYwI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ โย่ง เชิญยิ้ม ชุดฮาสุดโด่งโย่งเชิญยิ้ม ชุด 28 Part 2",
+      "image": "https://i.ytimg.com/vi/NMB__lX25jE/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/NMB__lX25jE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ โย่ง เชิญยิ้ม ชุดฮาสุดโด่งโย่งเชิญยิ้ม ชุด 28 Part 1",
+      "image": "https://i.ytimg.com/vi/IOG38Pv3PHc/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/IOG38Pv3PHc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะกล้วย เชิญยิ้ม ชุด เช่นกันฮามันพะยะคะ #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #กล้วยเชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/CjGFI2s2e2g/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/CjGFI2s2e2g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ ชวนชื่น ชุด มากับพระฮาสะเทือนทุ่ง #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ค่อมชวนชื่น #หลุยส์ชวนชื่น",
+      "image": "https://i.ytimg.com/vi/cVGyCVrJi8s/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/cVGyCVrJi8s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ ชูศรีเชิญยิ้ม ชุด ฮาสุดขั้วโชว์วงสตริงค์ ม้วน 2 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ชูศรีเชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/BsbR0wrB3vg/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/BsbR0wrB3vg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ ชูศรีเชิญยิ้ม ชุด ฮาสุดขั้วโชว์วงสตริงค์ ม้วน 1 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ชูศรีเชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/JgD-HMOtU9g/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/JgD-HMOtU9g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ เทพโพธิ์งาม ชุด พี่เทพมาซ่าส์สุดๆ ม้วน 2 #จี้เส้นคอนเสิร์ต #เทพโพธิ์งาม #ตลกคาเฟ่",
+      "image": "https://i.ytimg.com/vi/XkYJBZl3D90/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/XkYJBZl3D90",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โป้งเหน่งเชิญยิ้ม กับคณะ เพชรดาราฉาย ชุด มายากลปนเสียงหัวเราะ Part 2",
+      "image": "https://i.ytimg.com/vi/e2MsQfN3UR8/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/e2MsQfN3UR8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โป้งเหน่งเชิญยิ้ม กับคณะ เพชรดาราฉาย ชุด มายากลปนเสียงหัวเราะ Part 1",
+      "image": "https://i.ytimg.com/vi/AFRKELohqg0/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/AFRKELohqg0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คุยตลกยุคตลับ I EP.3 I หลวงพ่อประสิทธิ์(หม่อมเหยิน) I1ต.ค. 2567 I#จี้เส้นคอนเสิร์ต #คุยตลกยุคตลับ",
+      "image": "https://i.ytimg.com/vi/cZCL085ZmwE/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/cZCL085ZmwE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "EP156 สวัสดิการชาวคณะ #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #สีหนุ่มเชิญยิ้ม #shorts",
+      "image": "https://i.ytimg.com/vi/hPtwMZAkYEg/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/hPtwMZAkYEg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกคณะ ดี๋ ดอกมะดัน ชุด มนต์เพลงเสียงหัวเราะม้วน 1(ปี2535)",
+      "image": "https://i.ytimg.com/vi/nnUL30V9GfA/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/nnUL30V9GfA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คุยตลกยุคตลับ I EP.2 I ตลกสู้ชีวิต เตี้ยพิจิตร I1ต.ค. 2567 I#จี้เส้นคอนเสิร์ต #คุยตลกยุคตลับ",
+      "image": "https://i.ytimg.com/vi/1-RSG0Gbh7w/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/1-RSG0Gbh7w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คุยตลกยุคตลับ I EP.1 I ใครกันคือเจ้าของรายการตลกจี้เส้นคอนเสิร์ต I #ตลกคาเฟ่ #คุยตลกยุคตลับ",
+      "image": "https://i.ytimg.com/vi/CfL0rQUFq5Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/CfL0rQUFq5Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กล้วยเชิญยิ้ม ชุด ฮามันส์สนั่นคาเฟ่ ม้วน 1 Part 1",
+      "image": "https://i.ytimg.com/vi/HcAX69RvARY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=HcAX69RvARY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เด๋อดอกสะเดา ชุด ฮานิ้มๆยิ้มฟัดโลก Part2",
+      "image": "https://i.ytimg.com/vi/gIfkYX_7ZD4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=gIfkYX_7ZD4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เด๋อดอกสะเดา ชุด ฮานิ้มๆยิ้มฟัดโลก Part1",
+      "image": "https://i.ytimg.com/vi/D_-lKKhsBXU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=D_-lKKhsBXU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เต๋อเชิญยิ้ม ชุด ฮาแบเบอร์เต๋อเชิญยิ้ม ชุด 1 ม้วน 2",
+      "image": "https://i.ytimg.com/vi/CPeKoL8fzmg/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=CPeKoL8fzmg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เต๋อเชิญยิ้ม ชุด ฮาแบบเบอร์เต๋อเชิญยิ้ม ชุด 1 ม้วน 1",
+      "image": "https://i.ytimg.com/vi/wbsZejigWLI/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=wbsZejigWLI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โรเบิร์ตสายควัน กับ ตลกคณะ ดี๋ดอกมะดัน ชุด ฮายาวลาวซิ่ง ม้วน 1 part2",
+      "image": "https://i.ytimg.com/vi/liecX9eWiYc/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=liecX9eWiYc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โรเบิร์ตสายควัน กับ ตลกคณะ ดี๋ดอกมะดัน ชุด ฮายาวลาวซิ่ง ม้วน 1 part1",
+      "image": "https://i.ytimg.com/vi/Ig1Ry153QvQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Ig1Ry153QvQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 42 Part 2",
+      "image": "https://i.ytimg.com/vi/zVDPfHs-dtw/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zVDPfHs-dtw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 42 Part 1",
+      "image": "https://i.ytimg.com/vi/JfEOnv1TjZE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JfEOnv1TjZE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แดนสี่ดาว ชุด ยี่เกลาวฮาประสาทกลับ ม้วน 2",
+      "image": "https://i.ytimg.com/vi/YKVN46phrhM/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=YKVN46phrhM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แดนสี่ดาว ชุด ยี่เกลาวฮาประสาทกลับ ม้วน 1 Part 2",
+      "image": "https://i.ytimg.com/vi/E9Pwy-Jj1rY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=E9Pwy-Jj1rY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แดนสี่ดาว ชุด ยี่เกลาวฮาประสาทกลับ ม้วน 1 Part 1",
+      "image": "https://i.ytimg.com/vi/uBl3_oy1_eo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=uBl3_oy1_eo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โป้งเหน่งเชิญยิ้ม นกเชิญยิ้ม กับ ตลกคณะ เพชรดาราฉาย ชุด ฮาทีเด็ดเพชรดาราฉาย ชุด 2(ปี38) Part 2",
+      "image": "https://i.ytimg.com/vi/YOvCKplxGVo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=YOvCKplxGVo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โป้งเหน่งเชิญยิ้ม นกเชิญยิ้ม กับ ตลกคณะ เพชรดาราฉาย ชุด ฮาทีเด็ดเพชรดาราฉาย ชุด 2(ปี38) Part 1",
+      "image": "https://i.ytimg.com/vi/pHXfXX12A0g/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=pHXfXX12A0g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 2 Part 2",
+      "image": "https://i.ytimg.com/vi/ebK6IhCjqdY/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ebK6IhCjqdY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 2 Part 1",
+      "image": "https://i.ytimg.com/vi/I4lWu2dBImQ/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=I4lWu2dBImQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 1 Part 2",
+      "image": "https://i.ytimg.com/vi/SrHILr6L_K8/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=SrHILr6L_K8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 1 Part 1",
+      "image": "https://i.ytimg.com/vi/vxePJigTPIo/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=vxePJigTPIo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สีหนุ่มเชิญยิ้ม ชุด ทะลักฮามาตามนัด ม้วน 2 (ปี 2535)",
+      "image": "https://i.ytimg.com/vi/OP_KLHgZg-k/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OP_KLHgZg-k",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 41 Part 2",
+      "image": "https://i.ytimg.com/vi/DdUVTgxKSF4/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=DdUVTgxKSF4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 41 Part 1",
+      "image": "https://i.ytimg.com/vi/EaQoSIUcE20/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=EaQoSIUcE20",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โน๊ตเชิญยิ้ม ชุด ฮาล้วนๆกวนประสาท ม้วน 2 Part 2",
+      "image": "https://i.ytimg.com/vi/amq_Plfyspk/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=amq_Plfyspk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โน๊ตเชิญยิ้ม ชุด ฮาล้วนๆกวนประสาท ม้วน 2 Part 1",
+      "image": "https://i.ytimg.com/vi/TCof_KZ_deE/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=TCof_KZ_deE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โน๊ตเชิญยิ้ม ชุด ฮาล้วนๆกวนประสาท ม้วน 1 Part 2",
+      "image": "https://i.ytimg.com/vi/1cfHVkV37FU/hqdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=1cfHVkV37FU",
+      "openInBrowser": "true"
+    }
+  ]
+}
