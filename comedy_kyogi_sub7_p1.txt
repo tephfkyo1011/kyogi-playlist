@@ -1,0 +1,1435 @@
+{
+  "name": "😂 รายการตลก - ก่อนบ่ายคลายเครียด",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+  "stations": [
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สุดจัดกับนัท เลอทาน่า ตอนที่ 2 | 27 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/4VtAdIKrU7E/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/4VtAdIKrU7E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สุดจัดกับนัท เลอทาน่า | 26 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/RQhDERjUwPw/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/RQhDERjUwPw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 2 | 22 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/9ExRZfboro8/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/9ExRZfboro8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 21 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/IcaPzNFLM_M/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/IcaPzNFLM_M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เหน่งเหม่งจ๋าย ตอนที่ 2 | 20 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/EezhcRJ-5Uk/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/EezhcRJ-5Uk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เหน่งเหม่งจ๋าย | 19 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/ny_rEiDwFDM/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/ny_rEiDwFDM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เอ็มมี่ จื้อหลิง | 15 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/zNNHhAEIZ_c/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/zNNHhAEIZ_c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้มเชิญอร่อย ยูกิ ตอนที่ 2 | 13 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/JtnTzgsgm8o/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/JtnTzgsgm8o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้มเชิญอร่อย ยูกิ | 13 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/pfA96HYVo4Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/pfA96HYVo4Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้มเชิญอร่อย โอลีฟ | 12 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/gvrJ0hwDLi0/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/gvrJ0hwDLi0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ยูกิ ไหทองคำ ตอนที่ 5 | 8 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/E6CZMAlDQ18/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/E6CZMAlDQ18",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ยูกิ ไหทองคำ ตอนที่ 4 | 7 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/7Ozc6TmtFNU/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/7Ozc6TmtFNU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | แก๊งเจิดจ้า ตอนที่ 3 | 6 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/E1_NTdfJ6N4/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/E1_NTdfJ6N4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | แก๊งเจิดจ้า ตอนที่ 2 | 5 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/1B74sbdDmHY/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/1B74sbdDmHY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สวัสดีปีม้า ยิ้มลางูเล็ก ตอนที่ 4 | 1 ม.ค. 69 | Full EP",
+      "image": "https://i.ytimg.com/vi/zojNzv5UQFY/hqdefault.jpg",
+      "url": "https://www.youtube.com/live/zojNzv5UQFY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | แก๊งเจิดจ้า | 25 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/vLz-O7aZyzk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/vLz-O7aZyzk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ยูกิ ไหทองคำ ตอนที่ 3 | 24 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/xzjMtE3OUL8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/xzjMtE3OUL8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ยูกิ ไหทองคำ ตอนที่ 2 | 23 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Nntw9a4xtbs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Nntw9a4xtbs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ยูกิ ไหทองคำ | 22 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/cxZXBEN1OFA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/cxZXBEN1OFA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ติ๊ก กลิ่นสี ตอนที่ 4 | 18 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/sV8iOkS2PpU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/sV8iOkS2PpU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ติ๊ก กลิ่นสี ตอนที่ 3 | 17 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Ayq5h6uKROs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Ayq5h6uKROs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ติ๊ก กลิ่นสี ตอนที่ 2 | 16 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/nLomHCQujy8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/nLomHCQujy8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ติ๊ก กลิ่นสี | 15 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/99nHnC5j3GY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/99nHnC5j3GY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เขต ธาราเขต ตอนที่ 2 | 11 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ZUtWV21GbpU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ZUtWV21GbpU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เขต ธาราเขต | 10 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/--gIrcBgNH4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/--gIrcBgNH4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คาเฟ่ เจิดจ้า | 9 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Hc9JOrzUZJ8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Hc9JOrzUZJ8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ร้านแรดแซ่บนัวบันเทิงศิลป์ ตอนที่ 2 | 8 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/uI9lVXQGnI8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/uI9lVXQGnI8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ร้านแรดแซ่บนัวบันเทิงศิลป์ | 4 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/n18fzk9FG7c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/n18fzk9FG7c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โจอี้ เชิญยิ้ม ตอนที่ 3 | 3 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/HynQHBubv10/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/HynQHBubv10",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โจอี้ เชิญยิ้ม ตอนที่ 2 | 2 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/hTPmUVH6RIQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hTPmUVH6RIQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โจอี้ เชิญยิ้ม | 1 ธ.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/7ha8MTbfDXs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7ha8MTbfDXs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ดอกจำปา มาเด้อหล่า ตอนที่ 3 | 23 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/DV9e37WXJFM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/DV9e37WXJFM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ดอกจำปา มาเด้อหล่า ตอนที่ 2 | 22 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/WTix5QdHUrc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WTix5QdHUrc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ดอกจำปา มาเด้อหล่า | 21 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/wF1pFwV6Pp0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/wF1pFwV6Pp0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยกับสองพี่น้อง ชวนชื่น ตอนที่ 6 | 20 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/X1KqoJaypJw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/X1KqoJaypJw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ละอองฟอง ต้องมาโชว์ ตอนที่ 2| 16 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/J-cTpCUxGEI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/J-cTpCUxGEI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ละอองฟอง ต้องมาโชว์ | 15 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Ta0PL6QjmY8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Ta0PL6QjmY8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | หอยเก้าชีวิต บัวไหลก๋วยเตี๋ยวต้มยำ | 14 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/-_qtpZFKZ3o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-_qtpZFKZ3o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ หอยเก้าชีวิต | 13 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/SBO9na93t54/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SBO9na93t54",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ละอองฟอง ต้องมาคุย ตอนที่ 4 | 9 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/iE-PH4SaJZY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/iE-PH4SaJZY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ละอองฟอง ต้องมาคุย ตอนที่ 3 | 8 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/KgHDX0Lfso4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/KgHDX0Lfso4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ละอองฟอง ต้องมาคุย ตอนที่ 2 | 7 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/JwPqqhPIeVA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JwPqqhPIeVA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ละอองฟอง ต้องมาคุย | 6 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/MdK1j8jHr8E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/MdK1j8jHr8E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 2 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/WyjaLSi7ZE8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WyjaLSi7ZE8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มนต์สิทธิ์ คำสร้อย ตอนที่ 5 | 1 ต.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/YN8eeEUt1jw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/YN8eeEUt1jw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มนต์สิทธิ์ คำสร้อย ตอนที่ 4 | 30 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/_vgP1aezXPk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_vgP1aezXPk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มนต์สิทธิ์ คำสร้อย ตอนที่ 3 | 29 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/XzgmCe-Mx3U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/XzgmCe-Mx3U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยกับสองพี่น้อง ชวนชื่น ตอนที่ 5 | 26 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/GNWs4zlxtJQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/GNWs4zlxtJQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยกับสองพี่น้อง ชวนชื่น ตอนที่ 4 | 25 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/37zsu-pYpzk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/37zsu-pYpzk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยกับสองพี่น้อง ชวนชื่น ตอนที่ 3 | 24 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ZLYpqpJtp5w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ZLYpqpJtp5w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยกับสองพี่น้อง ชวนชื่น ตอนที่ 2 | 23 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/g-I4XL6lXkU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/g-I4XL6lXkU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยกับสองพี่น้อง ชวนชื่น | 22 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/RNWMl9h0zR4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/RNWMl9h0zR4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้เชิญยิ้มเชิญอร่อย เต๋า ลุยสวน ตอนที่ 2 | 19 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/LlP7tuvJ1XQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/LlP7tuvJ1XQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้เชิญยิ้มเชิญอร่อย เต๋า ลุยสวน | 18 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/UF-GMOLlC1w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UF-GMOLlC1w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มนต์สิทธิ์ คำสร้อย ตอนที่ 2| 17 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/56zrjq4WD_U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/56zrjq4WD_U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มนต์สิทธิ์ คำสร้อย | 16 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/D42SZP2rOic/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/D42SZP2rOic",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ แป้งฝุ่น ตอนที่ 5 | 15 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/t0-o5nBsFpo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/t0-o5nBsFpo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ แป้งฝุ่น ตอนที่ 4 | 12 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/pvYKsxs_ozo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pvYKsxs_ozo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ แป้งฝุ่น ตอนที่ 3 | 11 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/90-DM3-rUSE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/90-DM3-rUSE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สุเทพ ประยูรพิทักษ์ ตอนที่ 2 | 10 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/vvIdH3Gxt_E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/vvIdH3Gxt_E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สุเทพ ประยูรพิทักษ์ | 9 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/RbzOZpfLNCQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/RbzOZpfLNCQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | นักเรียน อุ๊ยเขิน ตอนที่ 2 | 8 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/PSuDE8txru8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PSuDE8txru8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | นักเรียน อุ๊ยเขิน | 5 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/PoMD46nPVzY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PoMD46nPVzY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ พ่อเอ๊ะ ต้าวหยอง ตอนที่ 3 | 4 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/D8Vzayze6xE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/D8Vzayze6xE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ พ่อเอ๊ะ ต้าวหยอง ตอนที่ 2 | 3 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/KOPDOI8UPLc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/KOPDOI8UPLc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ พ่อเอ๊ะ ต้าวหยอง | 2 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/hXhmLXVG358/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hXhmLXVG358",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ แป้งฝุ่น ตอนที่ 2 | 1 ก.ย. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/huXosBbXLkk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/huXosBbXLkk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ แป้งฝุ่น | 29 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/x5U9l4hzFT8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/x5U9l4hzFT8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | COMEDY คาเฟ่ | 28 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/U0AaPLBXXf4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/U0AaPLBXXf4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ต๊ะ บอยสเก๊าท์ ตอนที่ 5 | 27 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/tZA3krQBqM4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/tZA3krQBqM4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ต๊ะ บอยสเก๊าท์ ตอนที่ 4 | 26 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/oY_RBZ5fbgc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/oY_RBZ5fbgc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ต๊ะ บอยสเก๊าท์ ตอนที่ 3 | 25 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/WBznqHsDAqA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WBznqHsDAqA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ต๊ะ บอยสเก๊าท์ | 22 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Shu0js0CLR4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Shu0js0CLR4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ต๊ะ บอยสเก๊าท์ | 21 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/YEtK-nRmYnM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/YEtK-nRmYnM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 20 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/TbXFPkCBPSs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/TbXFPkCBPSs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โย่ง พวง ควงกันโชว์ ตอนที่ 5 | 19 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/R5LgHAbHaRM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/R5LgHAbHaRM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โย่ง พวง ควงกันโชว์ ตอนที่ 4 | 18 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/oYBeOmZwH94/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/oYBeOmZwH94",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โย่ง พวง ควงกันโชว์ ตอนที่ 3 | 15 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/330t5bzn_m0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/330t5bzn_m0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โย่ง พวง ควงกันโชว์ ตอนที่ 2 | 14 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/NE8W34ewiRU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/NE8W34ewiRU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โย่ง พวง ควงกันโชว์ | 13 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Tk4fNLP5p4c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Tk4fNLP5p4c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 4 | 12 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/1TFHtbSkioE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/1TFHtbSkioE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 3 | 11 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/N4pBV5bRxHs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/N4pBV5bRxHs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 8 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/2aHoCBYVTKU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2aHoCBYVTKU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 7 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/avKtXYuUzBA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/avKtXYuUzBA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ ปอยฝ้าย ตอนที่ 2 | 6 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/CJGZ9CQc6Wc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/CJGZ9CQc6Wc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่ายวาไรตี้ ปอยฝ้าย | 5 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/KRlcYf27JYg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/KRlcYf27JYg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | comedy คาเฟ่ คิง ยิ้มใหญ่ | 4 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/BcBtIjq0iE0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/BcBtIjq0iE0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | comedy คาเฟ่ คิง ยิ้มใหญ่ | 1 ส.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/kdamWKzed8Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/kdamWKzed8Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | กวาง จิรพรรณ ตอนที่ 3 | 31 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/-Uz_0qazPZk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-Uz_0qazPZk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | กวาง จิรพรรณ ตอนที่ 2 | 30 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/-P_O1Rphm3w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-P_O1Rphm3w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | กวาง จิรพรรณ | 29 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Pbc2xDtCU54/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Pbc2xDtCU54",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ทำบุญบ้านงานเข้า | 28 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Wv03Y43S6y0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Wv03Y43S6y0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | 2 ย ขอฮา หยอง&ยาว ตอนที่ 2 | 25 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/CxaERjsocEY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/CxaERjsocEY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | 2 ย ขอฮา หยอง&ยาว | 24 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/rhr_iB55pyQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rhr_iB55pyQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คาเฟ่ Comeback หยอง ตอนที่ 2 | 23 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/l7oPjGb-fwo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/l7oPjGb-fwo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คาเฟ่ Comeback หยอง | 22 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/05sB7EUmbas/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/05sB7EUmbas",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 4 | 21 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/iWmTaN-GpMo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/iWmTaN-GpMo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 3 | 18 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/3E_BrlfpDDo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/3E_BrlfpDDo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 17 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/UZFxetpn8HY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UZFxetpn8HY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 16 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/wPDiyb9Vepk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/wPDiyb9Vepk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | หมอแจ็ค ไทบ้านชีวิตพลิกล็อก ตอนที่ 3 | 15 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/x_KQbwchI7M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/x_KQbwchI7M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | หมอแจ็ค ไทบ้านชีวิตพลิกล็อก ตอนที่ 2 | 14 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/EolmrJi8Byo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/EolmrJi8Byo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | หมอแจ็ค ไทบ้านชีวิตพลิกล็อก | 11 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ZDV9mlXp8r4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ZDV9mlXp8r4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คณะยิ้มใส | 10 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ACGvHhfivsI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ACGvHhfivsI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 9 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/QhMos6qRqzk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/QhMos6qRqzk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 8 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ENideI9z1_M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ENideI9z1_M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คณะพลิกล็อก ตอนที่ 4 | 7 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/yMF4NOZwK1Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/yMF4NOZwK1Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คณะพลิกล็อก ตอนที่ 3 | 4 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/_GPWNTgxc34/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_GPWNTgxc34",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คณะพลิกล็อก ตอนที่ 2 | 3 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/mzIsNT_obYQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/mzIsNT_obYQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คณะพลิกล็อก | 2 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/mIqfd7fV-vc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/mIqfd7fV-vc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คาเฟ่ Come Back ตอนที่ 2 | 1 ก.ค. 68 | Full EP",
+      "image": "https://i.ytimg.com/vi/40oth6B0LYM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/40oth6B0LYM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คาเฟ่ Come Back | 30 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/_7rkU2bWS3Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_7rkU2bWS3Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สนุกสุดฮากับมาริโอ้โจ๊ก ตอนที่ 2 | 27 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/mc84OEIPbqA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/mc84OEIPbqA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สนุกสุดฮากับมาริโอ้โจ๊ก | 26 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/B0vvR8vvSgQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/B0vvR8vvSgQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 25 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/r3Z5vhdUTss/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/r3Z5vhdUTss",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 24 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ewsb7LPLuiY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ewsb7LPLuiY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โจ๊กใส่พราว ตอนที่ 2 | 23 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/0zUg0arTR30/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/0zUg0arTR30",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โจ๊กใส่พราว | 20 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/zCtikoHtRUU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zCtikoHtRUU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ม่วนหลาย สไตล์พราว | 19 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/OTP4eEgWDg0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OTP4eEgWDg0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ม่วนหลาย สไตล์พราว | 18 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/QScXUFVnqT4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/QScXUFVnqT4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โชว์พาว ตอนที่ 2 | 17 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/zUZY-lTtkv4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zUZY-lTtkv4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | โชว์พาว | 16 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/F07WOgugUKQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/F07WOgugUKQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สมาคมศิลปินตลก ตอนที่ 3 | 13 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/WwWzE4jDUGE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WwWzE4jDUGE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สมาคมศิลปินตลก ตอนที่ 2 | 12 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/cyasKyL0YJo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/cyasKyL0YJo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สมาคมศิลปินตลก |11 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Ieu2SFeo5wc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Ieu2SFeo5wc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้ม เชิญอร่อย ตอนที่ 3 |10 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/k-xVEKeIkd4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/k-xVEKeIkd4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้ม เชิญอร่อย ตอนที่ 2 | 9 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/k1C9YhYokWs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/k1C9YhYokWs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้ม เชิญอร่อย | 6 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/3NFffnCLN54/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/3NFffnCLN54",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ป๋อง กพล คนมหาสนุก ตอนที่ 2 | 5 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/cE_3UK15c_w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/cE_3UK15c_w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ป๋อง กพล คนสารพัดผี ตอนที่ 2 | 4 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/r6MaB0ru81g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/r6MaB0ru81g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ป๋อง กพล คนสารพัดผี | 3 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/kE-8bUWCvj4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/kE-8bUWCvj4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ป๋อง กพล คนมหาสนุก | 2 มิ.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/LVoi8gvmbOQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/LVoi8gvmbOQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | หล่อ สนุกสนาน กานต์ ทศน | 30 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/mXydAMGEUyQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/mXydAMGEUyQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ตลกร็อกข้าวปุ้น | 29 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/SnJ-BRbaXAQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SnJ-BRbaXAQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | พระเอกละครไทย หัวใจลูกทุ่ง ตอนที่ 2 | 28 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Zxh87hxpfuA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Zxh87hxpfuA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | พระเอกละครไทย หัวใจลูกทุ่ง | 27 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/0sTgvZZIKV8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/0sTgvZZIKV8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อยโชว์ ตอนที่ 2 | 23 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/AU8rIc8sfRs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/AU8rIc8sfRs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อยโชว์ | 22 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/hpu5Uc78lNk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hpu5Uc78lNk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สนุกเต็มแม็กซ์ แซ็ค ชุมแพ ตอนที่ 3 | 21 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/683Mp_Wy_nE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/683Mp_Wy_nE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สนุกเต็มแม็กซ์ แซ็ค ชุมแพ ตอนที่ 2 | 20 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/KcMagYzGK3k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/KcMagYzGK3k",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สนุกเต็มแม็กซ์ แซ็ค ชุมแพ | 19 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/yifH_l9MSbs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/yifH_l9MSbs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อยโชว์ ตอนที่ 2 | 16 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/4Wq71a7d6qM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/4Wq71a7d6qM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อยโชว์ | 15 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/H8-vt38luAI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/H8-vt38luAI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | comedy คาเฟ่ | 14 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/O8QdMb2uc84/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/O8QdMb2uc84",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | แซ่บเด็ด กับเจเน็ตเขียว ตอนที่ 2 | 13 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/0AZVqS6o-1o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/0AZVqS6o-1o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | แซ่บเด็ด กับเจเน็ตเขียว | 12 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/YKVGxTrVc2g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/YKVGxTrVc2g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 3 | 9 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ar0JVoPpKW8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ar0JVoPpKW8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 2 | 8 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/rVE3TwXBq5U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rVE3TwXBq5U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 7 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/AEiQb5JSsVk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/AEiQb5JSsVk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | กว่าจะเป็น คิง ก่อนบ่าย ตอนที่ 2 | 6 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/6JUj5K7ezjs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/6JUj5K7ezjs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | กว่าจะเป็น คิง ก่อนบ่าย | 5 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/nsB0qnfmbmU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/nsB0qnfmbmU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | COMEDY คาเฟ่ | 2 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Kpc9qP6V--k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Kpc9qP6V--k",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | The Father Bands แมนใช่ป่ะ ตอนที่ 2 | 1 พ.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/LIfCSpzQoz8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/LIfCSpzQoz8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | The Father Bands แมนใช่ป่ะ | 30 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/TG2RMtHfzrI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/TG2RMtHfzrI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เหยิน สกอร์เปี้ยน | 29 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Bkw7-YRTu6g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Bkw7-YRTu6g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ไหทองแดง Audition ตอนที่ 3 | 28 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/4MZMPXUFmvA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/4MZMPXUFmvA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ไหทองแดง Audition ตอนที่ 2 | 25 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/2JS7hrX5apk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2JS7hrX5apk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ไหทองแดง Audition | 24 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/YH_4KPEM8CI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/YH_4KPEM8CI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เหยิน สกอร์เปี้ยน | 23 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/GNqxBS-Ki6E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/GNqxBS-Ki6E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 2 | 22 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/e7W1BSYwkUM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/e7W1BSYwkUM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 21 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Lq6DHM-fe9c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Lq6DHM-fe9c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เหยิน สกอร์เปี้ยน | 18 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/r7WRYnwoBbw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/r7WRYnwoBbw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เก่ง สวย ใส ไหทองคำจูเนียร์ ตอนที่ 4 | 17 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/TP7PN5hBPWU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/TP7PN5hBPWU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เก่ง สวย ใส ไหทองคำจูเนียร์ ตอนที่ 3 | 16 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/awwIrdGX6so/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/awwIrdGX6so",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เก่ง สวย ใส ไหทองคำจูเนียร์ ตอนที่ 2 | 15 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/gy0gg-7Yaf8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/gy0gg-7Yaf8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เก่ง สวย ใส ไหทองคำจูเนียร์ | 14 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/A8xn1Ab9d-E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/A8xn1Ab9d-E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สวัสดีสงกรานต์ ตอนที่ 3 | 11 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/puTyNpT6Gq4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/puTyNpT6Gq4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สวัสดีสงกรานต์ ตอนที่ 2 | 10 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/7b3_PIe6_lU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7b3_PIe6_lU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สวัสดีสงกรานต์ | 9 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/tzk_PtjKzu0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/tzk_PtjKzu0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สวยจริงสนุกจริงกับ หนิง ปัทมา ตอนที่ 2 | 8 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/uq3qtAIee-c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/uq3qtAIee-c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สวยจริงสนุกจริงกับ หนิง ปัทมา | 7 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/7-1FHsbtByM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7-1FHsbtByM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 3 | 4 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/e4BVWVrOBTI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/e4BVWVrOBTI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 2 | 3 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/WH-2f4H6oYw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WH-2f4H6oYw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 2 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/lo9FIK82riA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/lo9FIK82riA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | 1 เมษาคิดถึงล้อต๊อก | 1 เม.ย.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/7x3zlYcJ03g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7x3zlYcJ03g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | Comedy คาเฟ่ ตอนที่ 2 | 31 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ccgb47HpNb4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ccgb47HpNb4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | Comedy คาเฟ่ | 28 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/6dPb0TDsbkQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/6dPb0TDsbkQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ขนมจีนกะลา แกงฟักรักนะจ๊ะ + หมั่นโถว | 27 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/N9MoqlUEMAI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/N9MoqlUEMAI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สนุกตลอด กับอ๊อดปากดี ตอนที่ 2 | 26 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/nRqL1p73moI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/nRqL1p73moI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | สนุกตลอด กับอ๊อดปากดี | 25 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/CbHqGV5CrcM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/CbHqGV5CrcM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 3 | 24 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/oIZmJv3k2Tg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/oIZmJv3k2Tg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย ตอนที่ 2 | 21 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/X8-BLZG45Kg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/X8-BLZG45Kg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 20 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Y6OZZEXSOzE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Y6OZZEXSOzE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | น้ำเพชร ลูกพ่อคม ตอนที่ 2 | 19 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/nDTKNpV_FPo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/nDTKNpV_FPo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | น้ำเพชร ลูกพ่อคม | 18 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/W3mGVsfEjT0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/W3mGVsfEjT0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ลิเก ฮัลเลวังกา ตอนที่ 3 | 17 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/AxqzBCQn9xI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/AxqzBCQn9xI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ลิเก ฮัลเลวังกา ตอนที่ 2 | 14 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Lsf-UaHg3JA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Lsf-UaHg3JA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ลิเก ฮัลเลวังกา | 13 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/vhN6Zhw3rMU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/vhN6Zhw3rMU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 3 | 12 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/YDcYKQDDeTk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/YDcYKQDDeTk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 11 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/xVX7lhI47sc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/xVX7lhI47sc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 10 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/A8OfKO1Xb_g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/A8OfKO1Xb_g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มัธยม ซัมเมอร์ ตอนที่ 3 | 7 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/vqebMjYGSfA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/vqebMjYGSfA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มัธยม ซัมเมอร์ ตอนที่ 2| 6 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/OCGwg-L51Fw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OCGwg-L51Fw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มัธยม ซัมเมอร์ | 5 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ZBq6O1XMMpE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ZBq6O1XMMpE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คอมเมดี้ คาเฟ่ ตอนที่ 2 | 4 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/dmTItERCfyE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/dmTItERCfyE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คอมเมดี้ คาเฟ่ | 3 มี.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/iH2ozaKYYkw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/iH2ozaKYYkw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยแบบสับๆ กับเจ๊มิ่ง ตอนที่ 2 | 28 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/RzcQAlG6bqs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/RzcQAlG6bqs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คุยแบบสับๆ กับเจ๊มิ่ง | 27 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/d6USrtd0bas/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/d6USrtd0bas",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ขนมจีนกะลา มาขอบคุณ | 26 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/PHoGuKDasz8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PHoGuKDasz8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เหยิน สกอร์เปี้ยน | 25 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/JW_cqNo1HsM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JW_cqNo1HsM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ทอล์กลิเก เฮฮัดช่า | 24 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/cl9hdlj1dvg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/cl9hdlj1dvg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 21 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/zhSujB0xico/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zhSujB0xico",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 20 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/equUyb-9SJk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/equUyb-9SJk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คนหน้าเหมือน ตอนที่ 3 | 19 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/qLO6o-4ziVQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/qLO6o-4ziVQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คนหน้าเหมือน ตอนที่ 2 | 18 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/G-n4W2iMAo8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/G-n4W2iMAo8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คนหน้าเหมือน | 17 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/QMqgnzQCAWo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/QMqgnzQCAWo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 14 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/ymQDmO41-l0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ymQDmO41-l0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้มเชิญอร่อย | 13 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/mo0bM0pAtSE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/mo0bM0pAtSE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | แจ็คผู้ค้าโจ๊ก ตอนที่ 2 | 12 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/sYGIoGaI8G0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/sYGIoGaI8G0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | แจ็คผู้ค้าโจ๊ก | 11 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/BXBV7hPBll4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/BXBV7hPBll4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คณะตลก เหยิน | 10 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/szYx2HvjEB4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/szYx2HvjEB4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | งานเลี้ยงวุ่นวาย สไตล์ออฟฟิศ ตอนที่ 3 | 7 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/REDGewVVHV8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/REDGewVVHV8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | งานเลี้ยงวุ่นวาย สไตล์ออฟฟิศ ตอนที่ 2 | 6 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/e5acCkWceUo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/e5acCkWceUo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | งานเลี้ยงวุ่นวาย สไตล์ออฟฟิศ | 5 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/pw4WESGN5wE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pw4WESGN5wE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | จุ้นจ้านงานวิวาห์ ตอนที่ 2 | 4 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/a9pEGNakfcw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/a9pEGNakfcw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | จุ้นจ้านงานวิวาห์ | 3 ก.พ.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/7QIEAI41w7I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7QIEAI41w7I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คอมมิดี้ คาเฟ่ ตอนที่ 3 | 31 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/86l52OvTvoU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/86l52OvTvoU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คอมมิดี้ คาเฟ่ ตอนที่ 2 | 30 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/DSuaNgSHuko/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/DSuaNgSHuko",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | คอมมิดี้ คาเฟ่ | 29 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Fw0B4_cvfKg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Fw0B4_cvfKg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | หนุ่มนาพาคุย | 28 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/OcEzx4Es5kk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OcEzx4Es5kk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | หนุ่มนาพาคุย | 27 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/KuOoa5QlEuI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/KuOoa5QlEuI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 3 | 24 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/M1DO8JRGJ0A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/M1DO8JRGJ0A",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย ตอนที่ 2 | 23 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Qfveq5mh_Io/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Qfveq5mh_Io",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วาไรตี้ เชิญยิ้มเชิญอร่อย | 22 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/5l8k6I8UvS4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/5l8k6I8UvS4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่าย คุณหลวงช่วย ตอนที่ 2 | 21 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/b_CtcgU_unM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/b_CtcgU_unM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่าย คุณหลวงช่วย | 20 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/aZwmyM1PBPs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/aZwmyM1PBPs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่าย AWARDS ตอนที่ 4 | 17 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/vT4LoKLnLLM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/vT4LoKLnLLM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่าย AWARDS ตอนที่ 3 | 16 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/c4mc3dqcHm8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/c4mc3dqcHm8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่าย AWARDS ตอนที่ 2 | 15 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Imb7yP0B-B0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Imb7yP0B-B0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ก่อนบ่าย AWARDS | 14 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/dhsCPbegx4o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/dhsCPbegx4o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 13 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/Nh2mKP1DpA8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Nh2mKP1DpA8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | เชิญยิ้ม เชิญอร่อย | 10 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/9GR6Dm_4JGc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/9GR6Dm_4JGc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วัยหนุ่ม 555 ตอนที่ 3 | 9 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/AfgINnZ3v3s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/AfgINnZ3v3s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วัยหนุ่ม 555 ตอนที่ 2 | 8 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/dGPGwnoMlCY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/dGPGwnoMlCY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | วัยหนุ่ม 555 ตอนที่ 1 | 7 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/HohZ1oh7bfI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/HohZ1oh7bfI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | ลิลลี่ COMEDY นะคะ | 6 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/SD9QF1l1KwU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SD9QF1l1KwU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มะโรงมุกเต็ง มะเส็งมุกฉ่ำ ตอนที่ 5 | 3 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/K1EPEgj0xHE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/K1EPEgj0xHE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก่อนบ่ายคลายเครียด | มะโรงมุกเต็ง มะเส็งมุกฉ่ำ ตอนที่ 4 | 2 ม.ค.68 | Full EP",
+      "image": "https://i.ytimg.com/vi/s_GGBYhplKg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/s_GGBYhplKg",
+      "openInBrowser": "true"
+    }
+  ]
+}
