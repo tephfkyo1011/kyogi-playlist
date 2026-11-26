@@ -1,0 +1,1645 @@
+{
+  "name": "😂 รายการตลก - ตลกคาเฟ",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+  "stations": [
+    {
+      "name": "🔴Live EP412 ตลกคณะ หนู คลองเตย ฮาทะลุโลก ชุดที่ 24 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/pg-ISf0o-_s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pg-ISf0o-_s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP411 ยุทธการตลก ตอน โปงลางสะอื้น คณะ ร็อคข้าวปุ้น | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/KDQNClNspVs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/KDQNClNspVs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP410 ตลกตกขอบจอ ชุดที่ 11 คณะเหลือเฟือ มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/dBBPklTcQGo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/dBBPklTcQGo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP409 ฮาตกขอบ ชุด 35 คณะ สีหนุ่ม เชิญยิ้ม ปะทะ โหน่ง ชะชะช่า | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/R5LQjiCQPH0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/R5LQjiCQPH0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP408 ฮาทะลุโลก ชุดที่ 32 คณะ ถั่วแระ + ชูศรี เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/OePmby9TYfo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OePmby9TYfo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP407 คณะ หม่ำ จ๊กมก มี จตุรงค์-หยอง ลูกหยีตลกคาเฟ่ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/VaNLUxviEu4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/VaNLUxviEu4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP406 คณะ เท่ง - โหน่ง ตลกคาเฟ่1 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/sJ15Ya8nr6Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/sJ15Ya8nr6Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP405 ตลก โน๊ต เชิญยิ้ม ฮาสะบั้น มันระเบิด ชุดที่ 31 | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/hdbP2nDI5r4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hdbP2nDI5r4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP404 ตลกคาเฟ่ คณะหนู เชิญยิ้ม แกล้งนักดนตรี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/zGCxvtEghCU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zGCxvtEghCU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP403 คณะ เทพ โพธิ์งาม - หม่ำ จ๊กมก ชุดที่ 72 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/UFlEGlKOY-c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UFlEGlKOY-c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ไม่เข้าใจเต้นตรงนี้ที่ไรมีอาการแปลกๆ | คณะ ดี๋ ดอกมะดัน",
+      "image": "https://i.ytimg.com/vi/hQ6MHCSFeTs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hQ6MHCSFeTs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP402 ฮาโลกแตก ชุดที่ 64 คณะ บ็อบ สกอเปี้ยน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/rbkaF1JFtSw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rbkaF1JFtSw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เด็ดดอกจำปีเสียบหูอีปุ๊ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/B4Yk42L_4aE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/B4Yk42L_4aE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP401 ฮาสนั่นจอ ชุดที่ 11 คณะ โน็ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/J4Nj9jVFOSw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/J4Nj9jVFOSw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ลาวชัดๆ ไม่ต้องบอกก็รู้ | คณะ หม่ำ จ๊กมก",
+      "image": "https://i.ytimg.com/vi/kmWLihQT6-s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/kmWLihQT6-s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP400 ฮาขำกลิ้ง ชุดที่ 12 คณะ ดอน จมูกบาน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/QxMEByKvMuw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/QxMEByKvMuw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อาจารย์จากศิลปากร | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/7X4jGcvGfOc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7X4jGcvGfOc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP399 ฮาทะลุโลก ชุดที่ 21 คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/WuvGB36uKno/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WuvGB36uKno",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "น้าไชยา ชื่อ ไชยัณญ์ | คณะ หม่ำ จ๊กมก",
+      "image": "https://i.ytimg.com/vi/JLY6cZnXmWA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JLY6cZnXmWA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP398 ฮาโลกแตก ชุดที่ 37 คณะโย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/zhm1t7S1V04/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zhm1t7S1V04",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตอนแม่ท้องทานเมนูนี้ลูกผิวดีทุกคน | คณะ จตุรงค์ มกจ๊ก",
+      "image": "https://i.ytimg.com/vi/nPi2Zej0tYI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/nPi2Zej0tYI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP397 คณะ เป็ด และ หนู เชิญยิ้ม ฮาทะลุจอ ชุดที่ 1| คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/RkbXoJjMHFo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/RkbXoJjMHFo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อนาคตได้เป็นใหญ่ เบาหวานและตวามดัน | คณะ ดี๋ ดอกมะดัน",
+      "image": "https://i.ytimg.com/vi/_6toDVU4_bA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_6toDVU4_bA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP396 ยุทธการตลก ตอน อับดุลย์เอ้ย ตามพ่อมา คณะ เด๋อ ดอกสะเดา | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/OMeedEjVWk0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OMeedEjVWk0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เสียงระนาดเหมือนเสียงสวรรค์ | คณะ ดู๋ ดอกกระโดน",
+      "image": "https://i.ytimg.com/vi/PWNU7wQISFc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PWNU7wQISFc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP395 ยุทธการตลก ตอน แก้วลืมลัง คณะ บอล เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/ruPaJq1yEvk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ruPaJq1yEvk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "หม่ำรับโทรศัพท์ด้วย | คณะ หม่ำ จ๊กมก",
+      "image": "https://i.ytimg.com/vi/nMGdmsLJWZY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/nMGdmsLJWZY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP394 ตลกตกขอบจอ ชุดที่ 1 คณะ ดู๋ ดอกกระโดน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/oaHngbt75X4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/oaHngbt75X4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เสียความรู้สึกยังไง | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/Ww7ZNNWr-pw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Ww7ZNNWr-pw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP393 ตลกตกขอบจอ ชุดที่ 2 คณะ ตูมตาม_(มี ป๋าต๊อก-โหน่ง-แวว) | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/8s-cMSuaCvE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/8s-cMSuaCvE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มีคนบอกหน้าคล้าย “โรส” | คณะ ดู๋ ดอกกระโดน",
+      "image": "https://i.ytimg.com/vi/-dQCXgOSOIQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-dQCXgOSOIQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP392 ฮามหามันส์ ชุดที่ 38 คณะ เต่า เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/T_HrDBK0tHQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/T_HrDBK0tHQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "“ยุ้ย ญาติเยอะ” เคยดูมั้ย | คณะ หม่ำ จ๊กมก",
+      "image": "https://i.ytimg.com/vi/aY1ZsY4XgnM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/aY1ZsY4XgnM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP391 ฮาขำกลิ้ง ชุดที่ 15 คณะ จตุรงค์ มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/loDw0G_YxT8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/loDw0G_YxT8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ปลาอะไรเอ๋ย | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/j0P8b7vpjiw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/j0P8b7vpjiw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP390 ฮาโลกแตก ชุดที่ 5 คณะ โน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/bm3yl34k_UM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/bm3yl34k_UM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตุ้งโล้ โต้รุ่ง | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/-x_xQKI9p58/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-x_xQKI9p58",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP389 ยุทธการตลก ตอน ครูไหวใจร้อน คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/cGKx4TvxFCU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/cGKx4TvxFCU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คนหัวล้านก็อย่างงี้ เหงื่อออกเยอะ | คณะ โหน่ง ช่าช่าช่า",
+      "image": "https://i.ytimg.com/vi/c7qy7cjvyE4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/c7qy7cjvyE4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ระดับลูกคอ 10 ชั้น | คณะ ดู๋ ดอกกระโดน",
+      "image": "https://i.ytimg.com/vi/Pfxpts25dCQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Pfxpts25dCQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP388 ฮาสะบั้น มันระเบิด ชุดที่ 61 คณะ เป็ด และ หนู เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/G4SzciB-Fv4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/G4SzciB-Fv4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ยกที่ 1 | คณะ หยอง ลูกหยี",
+      "image": "https://i.ytimg.com/vi/z17ag-anWuU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/z17ag-anWuU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตบมือต้อนรับ “โจนัส” ครับ | คณะ ดี๋ ดอกมะดัน",
+      "image": "https://i.ytimg.com/vi/e1Wg9Rw3I3s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/e1Wg9Rw3I3s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP387 ตลกตกขอบจอ ชุดที่ 12 คณะ สีหนุ่ม เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/TQPue4WROj8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/TQPue4WROj8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โฆษณาของผมใหม่ล่าสุด | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/3PYYXdusjyw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/3PYYXdusjyw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP386 ยุทธการตลก ตอน ถึงลูกถึงหลาน คณะ โน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/-qo00k_hVbQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-qo00k_hVbQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ต้อนรับ แสนรัก เมืองโคราช | คณะ โหน่ง ช่าช่าช่า",
+      "image": "https://i.ytimg.com/vi/e6jgKIslXsQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/e6jgKIslXsQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นับเลขหลายภาษา | คณะ จตุรงค์ มกจ๊ก",
+      "image": "https://i.ytimg.com/vi/g_26nXUpGNw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/g_26nXUpGNw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP385 ฮาสนั่นจอ ชุดที่ 92 คณะ โย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/d7nwSEl5HO0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/d7nwSEl5HO0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP384 ฮาสนั่นจอ ชุดที่ 28 คณะ เด๋อ ดอกสะเดา | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/L0umNnNto48/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/L0umNnNto48",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP383 ยกขบวนฮา ชุดที่ 17 คณะ เทพ โพธิ์งาม,หม่ำ จ๊กมก | คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/D-Uio3sdnMg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/D-Uio3sdnMg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ขอบคุณท่านมีเกียรทุกท่าน | คณะ เอ็ดดี้ ผีน่ารัก",
+      "image": "https://i.ytimg.com/vi/CCRpOPE24PQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/CCRpOPE24PQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กรรมการมวยมาจากประเทศญี่ปุ่น | คณะ โหน่ง ช่าช่าช่า",
+      "image": "https://i.ytimg.com/vi/qomQ_hwcEVY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/qomQ_hwcEVY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ข่าวด่วน.. | คณะ หยอง ลูกหยี",
+      "image": "https://i.ytimg.com/vi/UsUudgjqiAE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UsUudgjqiAE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP382 ฮาล้นตลับ ชุดที่ 114 คณะ หนู คลองเตย | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/oxAtl3FKM2M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/oxAtl3FKM2M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แต่งหน้าพี่แมว | คณะ โหน่ง ช่าช่าช่า",
+      "image": "https://i.ytimg.com/vi/GlIF_FjJ4qA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/GlIF_FjJ4qA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โปรโมทเทปชุดที่3 | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/3VlkGDrYr0I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/3VlkGDrYr0I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สวัสดีครับท่าน... | คณะ เอ็ดดี้ ผีน่ารัก",
+      "image": "https://i.ytimg.com/vi/-IR0cPGQIdY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-IR0cPGQIdY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ท่านผู้ชมครับ... | คณะ หยอง ลูกหยี",
+      "image": "https://i.ytimg.com/vi/hggc3ZnUG24/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hggc3ZnUG24",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พรีเซ็นเตอร์ ห่อหุ้มทุกครั้ง ยับยั้งเอดส์ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/45x-CIR1LOA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/45x-CIR1LOA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP381 เปิดตลับฮา ชุดที่ 71 คณะ เอ็ดดี้ ผีน่ารัก โก๊ะตี๋ อารามบอย | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/f0egu0vNtQ0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/f0egu0vNtQ0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ร้องอังกฤษแปลไทย | คณะ เอ็ดดี้ ผีน่ารัก",
+      "image": "https://i.ytimg.com/vi/_R4u_GAggbA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_R4u_GAggbA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ยานัดหมอมีแก้ฝีแก้หิด ยานัดหมอชิดแก้หิดแก้ฝี | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/pQTVM75UlBI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pQTVM75UlBI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP380 ฮาทะลุโลก ชุดที่ 8 คณะ ถั่วแระ ชูศรี เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/zCNm9-EhEdw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zCNm9-EhEdw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แต่ล่ะชุดแสนทุเรศ แสนทุรัง | คณะ โหน่ง ช่าช่าช่า",
+      "image": "https://i.ytimg.com/vi/N4E4-P9KTb4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/N4E4-P9KTb4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตาค้าง | คณะ หยอง ลูกหยี",
+      "image": "https://i.ytimg.com/vi/ZCtaxBVcB8w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ZCtaxBVcB8w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP379 คณะ เท่ง เถิดเทิง โหน่ง ฮามหามันส์ ชุดที่ 41 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/pRV8TEdZInA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pRV8TEdZInA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เราเป็นคนไทย ต้องพูดภาษาไทยชัดนะ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/0-klC9HbVSg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/0-klC9HbVSg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แดนเซอร์ ผีน่ารักโชว์ | คณะ เอ็ดดี้ ผีน่ารัก",
+      "image": "https://i.ytimg.com/vi/NuPmAtSFjZ4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/NuPmAtSFjZ4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP378 ยุทธการตลก คณะตูมตาม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/IELea0_YLnY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/IELea0_YLnY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เล่าเรื่องหมดแล้ว | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/CWWvxN2glS0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/CWWvxN2glS0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP377 ยุทธการตลก ตอน แหนม ยโสธร คณะ ร็อคข้าวปุ้น | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/UesxWvPkq-M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UesxWvPkq-M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เลิกกับน้องต้า เพราะแทงไม่ถูก | คณะ โหน่ง ช่าช่าช่า",
+      "image": "https://i.ytimg.com/vi/W8CQZOKxaFI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/W8CQZOKxaFI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ใครมาอีกล่ะ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/SRcggWmGq9g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SRcggWmGq9g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP376 ตลก หยอง ลูกหยี ฮาคูณสอง ยกกำลังสี่ ชุดที่ 20 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/NSp2W59f9wU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/NSp2W59f9wU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พระนางจีบกัน | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/biPlC3REhgQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/biPlC3REhgQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มีการศึกษาหรือเปล่า | คณะ เอ็ดดี้ ผีน่ารัก",
+      "image": "https://i.ytimg.com/vi/yayUXzQPN1E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/yayUXzQPN1E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "บินลาดินมาขายปุ๋ย | คณะ หยอง ลูกหยี",
+      "image": "https://i.ytimg.com/vi/DV1LpNKMDqA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/DV1LpNKMDqA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP375 คณะ เป็ด และ หนู เชิญยิ้ม ตลกคาเฟ่ 1| คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/TwcisIevFNI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/TwcisIevFNI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตัดสินด้วยการชกมวย | คณะ หยอง ลูกหยี",
+      "image": "https://i.ytimg.com/vi/uGrjl7DJ-YE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/uGrjl7DJ-YE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พระเอก มนรักลูกทุ่ง | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/7SP-7JpUwl4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7SP-7JpUwl4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP374 คณะ ชูศรี เชิญยิ้ม เท่ง-โหน่ง ยกขบวนฮา | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/y2QxE528wXg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/y2QxE528wXg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP373 ยุทธการตลก ตอน คอนเสิร์ตต้านภัยไข้เลือดออก คณะ บอล เชิญยิ้ม | คาเฟ่ Return",
+      "image": "https://i.ytimg.com/vi/cvFr5j6jAa8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/cvFr5j6jAa8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ชังน่าสงสาร | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/PDT3LgxpRmU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PDT3LgxpRmU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อายุน้อย มีผัวกันหมดแล้ว",
+      "image": "https://i.ytimg.com/vi/eoNGyi_J-Nk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/eoNGyi_J-Nk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP372 ตลก น้าค่อม+น้องแจ๊ส คณะ ชวนชื่น | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/XnwObYfa5I8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/XnwObYfa5I8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ลาวพูดอังกฤษ | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/XrVTLGTMDmQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/XrVTLGTMDmQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เพลงชีวิตไม่ใช่เพลงดิ้น | คณะ เอ็ดดี้ ผีน่ารัก",
+      "image": "https://i.ytimg.com/vi/WGUOxzLAIVk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WGUOxzLAIVk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP371 ฮาล้นตลับ ชุดที่ 102 คณะ ดี๋ ดอกมะดัน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/tVmfSaZGX_M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/tVmfSaZGX_M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "หาชื่อนักการเมือง ช | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/9Fl4zLEBjp0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/9Fl4zLEBjp0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เอาตังทอนไป มีแช่ง | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/l_0e70e0XnM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/l_0e70e0XnM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "วีรกรรมหัวหน้า | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/-9dibaHZ5wI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-9dibaHZ5wI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เป็นคนลาวแล้วมันเป็นยังไง.. | คณะ เอ็ดดี้ ผีน่ารัก",
+      "image": "https://i.ytimg.com/vi/EF1fWXvJSes/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/EF1fWXvJSes",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP370 ฮาล้นตลับ ชุดที่ 88 คณะ หนู คลองเตย | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/ozSfo2q70KE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ozSfo2q70KE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เล่นหนัง ก่อนบวช | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/gMkakI74ZSw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/gMkakI74ZSw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ร้องเพลงคู่ | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/9X8SlCOR8Mg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/9X8SlCOR8Mg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP369 ฮาตกขอบ ชุดที่ 5 คณะ ซุปเปอร์ดอน| คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/FJeLbdBNqlo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/FJeLbdBNqlo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เพลงลูกทุ่ง ประจำจังหวัด | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/ehRqez58BVQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ehRqez58BVQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ทดสอบคำพังเพย | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/xVgPwKxkS0A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/xVgPwKxkS0A",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP368 คณะ ชูศรี เชิญยิ้ม มี หม่ำ เท่ง โหน่ง ตลก แวว จ๊กมก | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/MatUyxaZNTQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/MatUyxaZNTQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กลอนสอนใจ | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/L9wgg9CCveE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/L9wgg9CCveE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP367 ฮาสะบั้น มันระเบิด ชุดที่ 56 คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/z9-JHWUYVdQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/z9-JHWUYVdQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ทำเสียงหน่อย | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/zn_GbUE71Qc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zn_GbUE71Qc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สัมภาษณ์นักมวย | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/bPbf9Y8N0wA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/bPbf9Y8N0wA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP366 ฮาสนั่นจอ ชุดที่ 76 คณะ ดี๋ ดอกมะดัน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/n4swO5a8jXk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/n4swO5a8jXk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ลีลาประกอบเพลง | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/K9dipyVxmM0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/K9dipyVxmM0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กวนพระเอก | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/4NYty2mQ5yw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/4NYty2mQ5yw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP365 ฮาโลกแตก คณะ หนู เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/v8MMSZmkAOU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/v8MMSZmkAOU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พูดคำเดียว | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/_hgL1zMIb8E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_hgL1zMIb8E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ชกกันยกที่ 2 | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/al8jmjkm_Uk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/al8jmjkm_Uk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP364 ยุทธการตลก ตอน ผู้กองโป๊งเหน่ง คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/0P_SvGTZHxQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/0P_SvGTZHxQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตัวร้ายหน้ามน | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/kRspllJFFyc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/kRspllJFFyc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แทงหวย - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/UuJrjx5oGUo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UuJrjx5oGUo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP363 ยุทธการตลก ตอน เชิญยิ้มคาเฟ่ คณะ บอล เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/2eCtKKHZjpk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2eCtKKHZjpk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แซวแขก - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/I2tJggsjlU4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/I2tJggsjlU4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP362 ยุทธการตลก ตอน หยองคาเฟ่ คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/2JGFq4-SdJQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2JGFq4-SdJQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "งานอดิเรก | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/A6iQHfHfPCI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/A6iQHfHfPCI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อินกับบท | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/Yrk08FZj-8M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Yrk08FZj-8M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP361 ฮาโลกแตกชุดที่ 62 คณะ จตุรงค์ม๊กจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/fnUJAt4Q4Zk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/fnUJAt4Q4Zk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เพลงสากล - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/ZWHYGwg-hck/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ZWHYGwg-hck",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ยกที่ 1 | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/Nq2ZxTdnVNU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Nq2ZxTdnVNU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP360 ยุทธการตลก ตอน เพื่อนเสนาะ คณะ นุ้ย เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/ya0OgG4fVH8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ya0OgG4fVH8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ชีวิตช่างอาภัพ | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/hSW-KVL_O2o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hSW-KVL_O2o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP359 ฮาสบั้น มันระเบิด ชุดที่ 68 คณะ โน๊ต เชิญยิ้ม | หม่ำ จ๊กมก เท่ง แวว อาแปะ",
+      "image": "https://i.ytimg.com/vi/dqyUMyAXzaY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/dqyUMyAXzaY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มอบรางวัล | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/73P-lYrTviQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/73P-lYrTviQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นับเลขเป็นภาษาอังกฤษ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/p6W-Neo7QZQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/p6W-Neo7QZQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴Live EP358 ฮาขำกลิ้ง ชุดที่ 3 คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/Cs2fumF4_Xg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Cs2fumF4_Xg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ใช้หัวแทนกลอง | คณะ เป็ด เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/ucg2B0fdFtk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ucg2B0fdFtk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โคตรลิเก | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/pfVfW-Owuik/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pfVfW-Owuik",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นายเด็กไหน | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/E4gO7iLlc2E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/E4gO7iLlc2E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ลองเป็นตัวผู้หญิง | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/h3EwxuGPNkY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/h3EwxuGPNkY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เพลงเกี่ยวข้าว | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/f-REZ8Dji40/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/f-REZ8Dji40",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP357 เวทีตลก ตอน งงงวยเรื่อง กทม. คณะโน้ตเชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/UNTl3ccUHM4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UNTl3ccUHM4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ชนะได้ผู้หญิง | คณะ โย่ง เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/jbvYPJOK7aE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/jbvYPJOK7aE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ปัญหาวัดความฉลาด - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/aZDbQhoWo18/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/aZDbQhoWo18",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP356 เวทีตลก ตอน เพื่อนร่วมน้ำสาบาน คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/wU49Kk1LuaE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/wU49Kk1LuaE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี๋ยวหาเด็กใหม่มาให้ | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/jE9ivqcl3iY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/jE9ivqcl3iY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กรรมการชื่อหม่อง | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/PUV-Wy7uYtA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PUV-Wy7uYtA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP355 เวทีตลก ตอน ปัญหากวนโอ๊ย คณะ โย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/OUksLkzvc5Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OUksLkzvc5Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ธุระกิจมะม่วง | ต่างคนต่างเครียด",
+      "image": "https://i.ytimg.com/vi/BhEt3RUsQj4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/BhEt3RUsQj4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เต้นกระจาย | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/rAxorxzi_NE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rAxorxzi_NE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตะลึง ตะลึง - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/_cBiv-kvBU8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_cBiv-kvBU8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP354 เวทีตลก เจ้าชายคชสิงห์กับเจ้าหญิง คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/k3u1gMwiId8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/k3u1gMwiId8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "บอยแบนด์ เกิร์ลกรุ๊ป | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/DNMnSbzQTzo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/DNMnSbzQTzo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กลุ่มศิลปินน้อยๆ น่ารัก | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/agmmDmc9vQA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/agmmDmc9vQA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP353 เวทีตลก ตอน ยำใหญ่ถั่วแระ คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/RpPzNfwPieg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/RpPzNfwPieg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กัญชา บุหรี่ ยาบ้า - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/rbYr-6IX5l0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rbYr-6IX5l0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สาวสวยประจำคณะ - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/PLkc3KqhJCc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PLkc3KqhJCc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP352 บ๊าย บายความเครียด ตอน ศึกชิงนางเอกกำมะลอ คณะโน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/8ItQYT6N3sg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/8ItQYT6N3sg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นัดเดทครั้งแรก | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/sIVfUPrJfw8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/sIVfUPrJfw8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มวยคู่เอก | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/tOEMTRrSXSk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/tOEMTRrSXSk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP351 เวทีตลก ตอน เพลงฮาปัญหากวน คณะ สุเทพ สีใส | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/BlJ2nPlF9O8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/BlJ2nPlF9O8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ฝรั่งไม่รู้เรื่อง | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/bb293N7m5Xk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/bb293N7m5Xk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ชอบกีฬาอะไร | คณะ หนู เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/04mt1VVNu9A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/04mt1VVNu9A",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP350 เวทีตลก ตอน มายากลมหาสนุก คณะถั่วแระ เชิญยิ้ม | คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/rgR3gsU6jN0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rgR3gsU6jN0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พี่เบิร์ด | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/uzUhbeUiynY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/uzUhbeUiynY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "วัดความรู้ด้านภาษา | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/pfpoWxZ4tqs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pfpoWxZ4tqs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เป็นคนที่ไหน | คณะ หนู เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/JPsQ1Lw7-dc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JPsQ1Lw7-dc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ไห้วครู | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/k6Djz3wJ0L8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/k6Djz3wJ0L8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP349 เวทีตลก ตอน เกาเหลารวมมิตร คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/z1yz8hGoA0s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/z1yz8hGoA0s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โต๊ะไหน - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/2bl0mzczmgY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2bl0mzczmgY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ไม่ได้เจอกันนาน - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/43Fx2Xtieh0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/43Fx2Xtieh0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นักกีฬาซีเกมส์ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/JVQTo-eUKO4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JVQTo-eUKO4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นักร้องหน้าหล่อ ชวัญใจแม่ยก - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/GDou7_LRPk0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/GDou7_LRPk0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP348 เวทีตลก ตอน แฮปปี้เบิร์ดเดย์กำนัล คณะ โย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/JcDzR7hgYEQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JcDzR7hgYEQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นับเลข ภาษาตัวเอง | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/sG7VcNHEeW8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/sG7VcNHEeW8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP347 เวทีตลก ตอน ช็อค วัดใจน้องใหม่ คณะ ถั่วแระ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/fzvgBjdr6Ps/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/fzvgBjdr6Ps",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "รู้เรื่องชาวบ้าน - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/XKQGKil136s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/XKQGKil136s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แขกสายเปย์ - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/sSdLwmYypmQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/sSdLwmYypmQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP346 บ๊าย บาย ความเครียด ตอน คมพยาบาทอาฆาตรัก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/wgKF-pwifkI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/wgKF-pwifkI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สมัครนักร้องคาเฟ่ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/vCpLzcN7U3s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/vCpLzcN7U3s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เพลงพนัน | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/SdfyxClwf9c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SdfyxClwf9c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นักร้องผ่านศึก | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/MBNC-yC1MqE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/MBNC-yC1MqE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "น้องโบว์ - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/X01HXX1CH8E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/X01HXX1CH8E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP345 เวทีตลก ตอน กำจัดจุดเครียด คณะโน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/WFhzGh-CYms/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WFhzGh-CYms",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "จดหมายถึงพี่หนู | คณะ หนู เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/PoLj4fRCiGw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/PoLj4fRCiGw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ติดต่อแขกรวยๆให้ - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/0EheplGCAm8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/0EheplGCAm8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP344 บ๊าย บาย ตอน รวมฮิตเกมมันส์ 2002 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/NTPBaY5_TIU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/NTPBaY5_TIU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พระเอกมาดเข้ม | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/8Lb64332XTI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/8Lb64332XTI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สุดยอดนายแบบ - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/EOeeR4XT_Gc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/EOeeR4XT_Gc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP343 เวทีตลก ตอน สาวอีสานอินเตอร์ คณะ ดู๋ดอกกระโดน | คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/8TQI8j2G40w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/8TQI8j2G40w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตลกก็มีสาระ | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/W2iexNpDOWU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/W2iexNpDOWU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นับเลขภาษาต่างๆ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/dwrMXoxGWSs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/dwrMXoxGWSs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP342 บ๊าย บาย ความเครียด ตอน สาวใช้ 2002 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/eN9AIpo35Ck/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/eN9AIpo35Ck",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP341 เวทีตลก ตอน ถามมาตอบไปปัญหาอะไรเอ๋ย คณะ โย่ง เชิญยิ้ม | คาเฟ่Return โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/c_E1AwpVXPA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/c_E1AwpVXPA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แผลแตก | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/21_U-YT9J1E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/21_U-YT9J1E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คู่พระ คู่นาง - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/hpgswycXwOI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/hpgswycXwOI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คนขี้สงสัย | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/VQ5SJNDjiHQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/VQ5SJNDjiHQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มันเป็นเรื่องน่าเศร้า - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/dVfLRPeJ8EA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/dVfLRPeJ8EA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คนพิการ ก็ไม่เว้น | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/eBtbGqfYs5s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/eBtbGqfYs5s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เวทีมวยรูปแบบใหม่ | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/jMTjellREGk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/jMTjellREGk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP340 บ๊ายบายความเครียด ตอน กองถ่ายชุลมุน สีหนุ่ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/rFoFC8h8Ec0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rFoFC8h8Ec0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ใครว่าอ้วน - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/3_DCcCRV7Bw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/3_DCcCRV7Bw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เมียไม่รัก - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/L6moJn-2NmA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/L6moJn-2NmA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP339 เวทีตลก ตอน 3อนงค์อินคอนเสิร์ต คณะ ดู๋ ดอกกระโดน | คาเฟ่ Return โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/H3yuFF-4XLA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=H3yuFF-4XLA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สัมภาษณ์นักมวย | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/K_dPNRBtxm4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=K_dPNRBtxm4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มั่นใจในความสวย - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/i5dDWbLPqr8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=i5dDWbLPqr8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP338 เวทีตลก ตอน ลูกสาวซ่าพ่อตาแสบ คณะโน้ต เชิญยิ้ม|คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/Wg3nhuhaVJc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Wg3nhuhaVJc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ภาษาพาเพลิน | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/stFBn1ZhRtc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=stFBn1ZhRtc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ตามหาเมียรัก - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/m6yX9M6OKsk/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=m6yX9M6OKsk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP337 เวทีตลก ตอน แดนซ์เซอร์หลุดโลก คณะ เหลือเฟือ มกจ๊ก | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/DhIBqIPGUKQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=DhIBqIPGUKQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ภาษาอังกฤษง่ายนิดเดียว | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/WLkSMnwRixA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=WLkSMnwRixA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นักร้องวังเวง - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/16UKRhfiRAQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=16UKRhfiRAQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP336 บ๊ายบาย ตอน วายร้าย วัยเรียน เพี้ยนรัก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/0gpFl52Ge7k/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0gpFl52Ge7k",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "หาเรื่องแขก | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/yJc05bxs8k0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=yJc05bxs8k0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ชุปตัวใหม่ - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/eMtvCCM4Z50/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=eMtvCCM4Z50",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP335 เวทีตลก ตอน ขวัญเรียม คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/r9lYfQiJH_g/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=r9lYfQiJH_g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อย่าดูคนที่หน้าตา - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/pAHQ8VIMipg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=pAHQ8VIMipg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ศึกมวยปล้ำ | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/4qRekE0LKIs/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=4qRekE0LKIs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เป็นกะเทยมานานยัง | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/3733ROg1uZo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=3733ROg1uZo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "หนูสวยแล้วนะ - คณะ ดอน จมูกบาน",
+      "image": "https://i.ytimg.com/vi/a_7CCzejBas/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=a_7CCzejBas",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP334 บ๊ายบาย ความเครียด มรดกตีลังกา โหน่ง นุ้ย | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/X1PEOvgdLMo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=X1PEOvgdLMo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "แนะนำที่เที่ยวกลางคืน - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/turdgq38hmQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=turdgq38hmQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ดูกูเป็นตัวอย่าง - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/SnkVfbpKXAM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=SnkVfbpKXAM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 333 - เวทีตลก ตอน น้องพี เด็กมหัศจรรย์ คณะ จตุรงค์ มกจ๊ก | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/xLeR1B5Wtm8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xLeR1B5Wtm8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อย่าทะเลาะกันเลย | คณะ โน๊ต เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/fBDMZr1NJfg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=fBDMZr1NJfg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 332 - บ๊ายบาย ความเครียด ตอน สัพเพเหระพคลายเครียด คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/bDARH_1I8m4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=bDARH_1I8m4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP331 เวทีตลก ตอน รวมมิตรโกอินเตอร์ คณะดู๋ ดอกกระโดน |คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/J8CBA6riJvc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=J8CBA6riJvc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "โชว์ของ - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/p4NXg8ObXrE/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=p4NXg8ObXrE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP330 เวทีตลก ตอน เอ็ดดี้จี้ต่อมฮา คณะ เอ็ดดี้ ผีน่ารัก | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/oBNsOkbb2Qo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=oBNsOkbb2Qo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ไปโรงพัก | คณะ หนู เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/v6O7z2naS8U/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=v6O7z2naS8U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP329 บ๊ายบาย ความเครียด ตอน มนต์รักบ้านนา คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/A-RNwGZOUys/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=A-RNwGZOUys",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มาแอบดูลูกกูอาบน้ำทำไม!!! | จันชรา",
+      "image": "https://i.ytimg.com/vi/GS6GCWrfCyM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=GS6GCWrfCyM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อวยพรวันเกิดแขก | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/WPbTKGjWHKc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=WPbTKGjWHKc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP328 เวทีตลก ตอน ผ้าขี้ริ้วห่อทอง คณะ โย่ง เชิญยิ้ม |คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/pmQ9wTwSMwc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=pmQ9wTwSMwc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ทำเสียง เอคโค่ - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/6rbJUE8gui8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6rbJUE8gui8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP327 เวทีตลก ตอน ศิลปินเดี่ยวฮาทะลุจอ คณะ ถั่วแระ-ชูศรี เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/Ly5lqeMMPcg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Ly5lqeMMPcg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พูดถึงเมีย - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/T6gRc6ACkIE/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=T6gRc6ACkIE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP326 บ๊ายบาย ความเครียด ตอน เรื่องแผลเก่าแสนแสบ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/qoMjluHmgqk/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qoMjluHmgqk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มอบรางวัลผู้ชนะ | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/jA-fM-TcGCg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=jA-fM-TcGCg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep EP325 บ๊ายบาย ความเครียด ตอน กามเทพหลงทาง | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/PBku8DhVGZw/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=PBku8DhVGZw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "มึงพูดภาษาอะไร - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/s9jEH0LFmfg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=s9jEH0LFmfg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 324 - เวทีตลก ตอน เลียนแบบคนดัง คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/umhWd2nadbI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=umhWd2nadbI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คนจีนจริงๆ | คณะ เด๋อ ดอกสะเดา",
+      "image": "https://i.ytimg.com/vi/D7N4h8F9fdA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=D7N4h8F9fdA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เรารักกัน - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/j6nO-bJMyx8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=j6nO-bJMyx8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP323 เวทีตลก ตอน ศึกวันดวลเพลง คณะ เอ็ดดี้ ผีน่ารัก | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/UVI3XU6Jg58/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=UVI3XU6Jg58",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "น้องสาวตลก - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/SqulietknZw/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=SqulietknZw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 322 - ยุทธการตลก ตอน เด็กโดน คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/E9fQlgnCobc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=E9fQlgnCobc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อยากเล่นตลก | คณะ บ็อบสกอเปี้ยน",
+      "image": "https://i.ytimg.com/vi/6kJmtffUhZE/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6kJmtffUhZE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP321 บ๊าย บาย ความเครียด ตอน นางแมวยั่วสวาท | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/OQKudOO3n84/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OQKudOO3n84",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 320 - เวทีตลก ตอน หมอดูเพลงดัง คณะ สุเทพ สีใส | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/LdYd-K1P0OY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=LdYd-K1P0OY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กล้วยทอดดดด | คณะ บ็อบสกอเปี้ยน",
+      "image": "https://i.ytimg.com/vi/ClRQ3Qmks50/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ClRQ3Qmks50",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 319 - เวทีตลก ตอน สรรหามาฮาเฮ คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/Vud5ZJdKeJI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Vud5ZJdKeJI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "สวัสดีเจ้า | คณะ ดู๋ ดอกกระโดน",
+      "image": "https://i.ytimg.com/vi/X2UCO2AZUkM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=X2UCO2AZUkM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP318 บ๊าย บาย ความเครียด ตอน นางนาก 2000 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/CxMmQMHPY-4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=CxMmQMHPY-4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "นกเขาไม่ขัน - คณะ เท่ง - โหน่ง",
+      "image": "https://i.ytimg.com/vi/tq6pRKReqi0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=tq6pRKReqi0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 317 ยุทธการตลก ตอน นาค รัก โลภ โกรธ หลง คณะ โน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/ugYcViQFl2Q/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ugYcViQFl2Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ความสามารถพิเศษ - คณะ ร็อคข้าวปุ้น",
+      "image": "https://i.ytimg.com/vi/NUKAWfQ-0ko/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=NUKAWfQ-0ko",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 316 - คณะ จตุรง มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/1gANqvrJQD4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=1gANqvrJQD4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ประวัติปั๊มน้ำมัน | คณะ สีหนุ่ม เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/pnPQGaeKVoo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=pnPQGaeKVoo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 315 - เวทีตลก ตอน แผล(เก่า)ใหม่สะใจกว่า คณะ ศรีหนุ่ม เชิญยิ้ม | คาเฟ่ Return CLASSIC",
+      "image": "https://i.ytimg.com/vi/6JQGjMAYXy0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6JQGjMAYXy0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "วิ่ง วิ่ง วิ่ง วิ่ง วิ่งไป | คณะ บ็อบสกอเปี้ยน",
+      "image": "https://i.ytimg.com/vi/lWZWs8Y-4ak/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=lWZWs8Y-4ak",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 314 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/ZAI-fLwRWuQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZAI-fLwRWuQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ทองแท้ | คณะ สีหนุ่ม เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/7CkBBbhrbsM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7CkBBbhrbsM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP313 บ๊ายบาย ความเครียด ตอน ชายไม่จริง หญิงไม่แท้ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/2zrp0YUPlt4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2zrp0YUPlt4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "คางคก | คณะ ดู๋ ดอกกระโดน",
+      "image": "https://i.ytimg.com/vi/GBuoyeTKEJ4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=GBuoyeTKEJ4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 312 - คณะ จตุรง มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/2JG8mQFbNQI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2JG8mQFbNQI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ร้องเพลง | คณะ เป็ดและหนู เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/OfuJNSa0HuM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OfuJNSa0HuM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP311 เวทีตลก ตอน ครอบครัวอลหม่าน คณะโย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/0o34htvBLE8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0o34htvBLE8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "อยู่อิรักมากี่ปี | คณะ ทองก้อน",
+      "image": "https://i.ytimg.com/vi/cSLPbZtY_J0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cSLPbZtY_J0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เข้าไป 100 กลับออกมา 20 | คณะ สีหนุ่ม เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/K15vQ8d9h_Q/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=K15vQ8d9h_Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP310 บ๊ายบาย ความเครียด ตอน ชุลมุนข้ามมิติ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/JSbQUEZuL1s/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JSbQUEZuL1s",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พรหมอาราดิน | คณะ บ็อบสกอเปี้ยน",
+      "image": "https://i.ytimg.com/vi/xHZiZ7_nwYA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xHZiZ7_nwYA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 309 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/lMwaEUKwA4Y/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=lMwaEUKwA4Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ลดครึ่งวันครึ่งราคา | คณะ เต่า เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/9wQZJBkw7MY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9wQZJBkw7MY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 308 - เวทีตลก ตอน ผีเข้าเจ้าทรง คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/KHdB5QRbFr4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=KHdB5QRbFr4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ใครอยากเป็นเศรษฐี | คณะ ทองก้อน",
+      "image": "https://i.ytimg.com/vi/-hTq7cgxTds/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=-hTq7cgxTds",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 307 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/eKVNZX0moXg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=eKVNZX0moXg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "กล่องข้าวน้อยฆ่าแม่ | คณะ หม่ำ เท่ง แปะ",
+      "image": "https://i.ytimg.com/vi/L29it7B2daA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=L29it7B2daA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live EP306 บ๊ายบาย ความเครียด ตอน ครบเครื่องเรื่องฮา | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/pdYj6P1ng2U/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=pdYj6P1ng2U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "พี่เบิร์ด | คณะ ดู๋ ดอกกระโดน",
+      "image": "https://i.ytimg.com/vi/4-kIFYaDs24/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=4-kIFYaDs24",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "🔴 Live Ep 305 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
+      "image": "https://i.ytimg.com/vi/C6dXYvmwGA0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=C6dXYvmwGA0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ไมเคิล แจ็กสัน | คณะ ถั่วแระ เชิญยิ้ม",
+      "image": "https://i.ytimg.com/vi/5GZKq2D6i7o/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=5GZKq2D6i7o",
+      "openInBrowser": "true"
+    }
+  ]
+}
