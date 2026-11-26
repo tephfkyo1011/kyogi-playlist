@@ -12,7 +12,7 @@
     },
     {
       "name": "📂 ญี่ปุ่น",
-      "info": "4223 เรื่อง (85 หน้า)",
+      "info": "4235 เรื่อง (85 หน้า)",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/11/hmn760pl.webp",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub1_menu.txt",
       "import": false
@@ -26,7 +26,7 @@
     },
     {
       "name": "📂 ฝรั่ง",
-      "info": "216 เรื่อง (5 หน้า)",
+      "info": "220 เรื่อง (5 หน้า)",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/August-Skye-House-Of-Silk.webp",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub3_menu.txt",
       "import": false
