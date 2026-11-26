@@ -2,124 +2,60 @@
   "name": "🎬 หนังคัดพิเศษ BY KYO GI - หนังปี 2026",
   "author": "KYO GI",
   "image": "https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/480153642_1081260957350522_6395844530371764405_n.jpg?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KaMmAbZeSgwQ7kNvwH1t28w&_nc_oc=AdomFrFeVUXZj4hRMcbwoqKLaGwdazZfll1DJ52FJjRmbA43mbcs2F3rdxqPbekWNTQVdsP4Sw2s1NJOwwOAV1Hl&_nc_zt=23&_nc_ht=scontent.fbkk12-1.fna&_nc_gid=9JuDH_brsPFy4jVAdyRyCw&_nc_ss=7b289&oh=00_AQTbEOpPVo_wdAmjp4nQvlH2MkYrULNbFHHLcHxjC4a4sw&oe=6B086056",
-  "groups": [
+  "stations": [
     {
       "name": "Overacting (2026) แก๊งโอเวอร์",
-      "info": "EP 1",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Overacting-2026-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",
-      "stations": [
-        {
-          "name": "Overacting (2026) แก๊งโอเวอร์",
-          "info": "ปกติ",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Overacting-2026-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/f8f2a8140d267d3501ee3dcf/f8f2a8140d267d3501ee3dcf438.m3u8",
-          "playInNatPlayer": "true",
-          "referer": "https://www.123-hdc.com"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/f8f2a8140d267d3501ee3dcf/f8f2a8140d267d3501ee3dcf438.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.123-hdc.com"
     },
     {
       "name": "Mutiny (2026)",
-      "info": "EP 1",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/Mutiny-2026-300x450.png",
-      "stations": [
-        {
-          "name": "Mutiny (2026)",
-          "info": "ปกติ",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/Mutiny-2026-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/805b028b07c5f6c149537cb4/805b028b07c5f6c149537cb4438.m3u8",
-          "playInNatPlayer": "true",
-          "referer": "https://www.123-hdc.com"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/805b028b07c5f6c149537cb4/805b028b07c5f6c149537cb4438.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.123-hdc.com"
     },
     {
       "name": "Runner (2026) พี่บึ้ก…โคตรคน ชนนรก",
-      "info": "EP 1",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Runner-2026-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B6%E0%B9%89%E0%B8%81%E2%80%A6%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99-%E0%B8%8A%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.png",
-      "stations": [
-        {
-          "name": "Runner (2026) พี่บึ้ก…โคตรคน ชนนรก",
-          "info": "ปกติ",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Runner-2026-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B6%E0%B9%89%E0%B8%81%E2%80%A6%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99-%E0%B8%8A%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/aab6911783f1e3ffce330f3d/aab6911783f1e3ffce330f3d438.m3u8",
-          "playInNatPlayer": "true",
-          "referer": "https://www.123-hdc.com"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/aab6911783f1e3ffce330f3d/aab6911783f1e3ffce330f3d438.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.123-hdc.com"
     },
     {
-      "name": "Spider-Man Brand New Day (2026) สไปเดอร์แมน แบรนด์ นิว เดย์",
-      "info": "EP 1",
+      "name": "Spider Man ไอ้แมงมุม สไปเดอร์แมน",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-2026-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A7-%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-300x450.png",
-      "stations": [
-        {
-          "name": "Spider-Man Brand New Day (2026) สไปเดอร์แมน แบรนด์ นิว เดย์",
-          "info": "ปกติ",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-2026-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A7-%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/d9b22e9ea932e972fdb14886/d9b22e9ea932e972fdb14886438.m3u8",
-          "playInNatPlayer": "true",
-          "referer": "https://www.123-hdc.com"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/d9b22e9ea932e972fdb14886/d9b22e9ea932e972fdb14886438.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.123-hdc.com"
     },
     {
       "name": "One Last Shot (2026) ยุทธการนัดสุดท้าย",
-      "info": "EP 1",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/One-Last-Shot-2026-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-300x450.png",
-      "stations": [
-        {
-          "name": "One Last Shot (2026) ยุทธการนัดสุดท้าย",
-          "info": "ปกติ",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/One-Last-Shot-2026-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/6a7f536f7152cf692979f87d/6a7f536f7152cf692979f87d438.m3u8",
-          "playInNatPlayer": "true",
-          "referer": "https://www.123-hdc.com"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/6a7f536f7152cf692979f87d/6a7f536f7152cf692979f87d438.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.123-hdc.com"
     },
     {
-      "name": "Tom Clancys Jack Ryan Ghost War (2026)",
-      "info": "EP 1",
+      "name": "Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png",
-      "stations": [
-        {
-          "name": "Tom Clancys Jack Ryan Ghost War (2026) [พากย์ไทย]",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/6ffa800421ef0671a9dff6b6/6ffa800421ef0671a9dff6b6438.m3u8",
-          "playInNatPlayer": "true",
-          "referer": "https://www.123-hdc.com"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/6ffa800421ef0671a9dff6b6/6ffa800421ef0671a9dff6b6438.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.123-hdc.com"
     },
     {
-      "name": "Always Lalisa (2026)",
-      "info": "EP 1",
+      "name": "Always Lalisa (2026) [ซับไทย]",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Always-Lalisa-2026-300x450.png",
-      "stations": [
-        {
-          "name": "Always Lalisa (2026) [ซับไทย]",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Always-Lalisa-2026-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/bc9728af23de57cf20251829/bc9728af23de57cf20251829438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/bc9728af23de57cf20251829/bc9728af23de57cf20251829438.m3u8",
+      "playInNatPlayer": "true"
     },
     {
-      "name": "Steps (2026) พี่น้องรองเท้าแก้ว",
-      "info": "EP 1",
+      "name": "Steps (2026) พี่น้องรองเท้าแก้ว [ซับไทย]",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Steps-2026-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-300x450.png",
-      "stations": [
-        {
-          "name": "Steps (2026) พี่น้องรองเท้าแก้ว [ซับไทย]",
-          "info": "ซับไทย",
-          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Steps-2026-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/1a2d29099942bbcd2456e542/1a2d29099942bbcd2456e542438.m3u8",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://main.24playerhd.com/m3u8/1a2d29099942bbcd2456e542/1a2d29099942bbcd2456e542438.m3u8",
+      "playInNatPlayer": "true"
     }
   ]
 }
