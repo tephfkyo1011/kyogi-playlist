@@ -5288,3 +5288,49 @@ https://main.24playerhd.com/m3u8/d06ad3847c1bdd3ec9069cd9/d06ad3847c1bdd3ec9069c
 #EXTINF:-1 tvg-name="เป็นต่อ 2025 Ep.10" tvg-logo="https://www.serie-day.com/wp-content/uploads/2025/01/Pentor-2025-187x269.jpg" group-title="🎉 บันเทิง - เป็นต่อ 2025",เป็นต่อ 2025 Ep.10
 #EXTVLCOPT:http-referrer=https://www.serie-day.com/
 https://main.24playerhd.com/m3u8/74ac7f88aad6f55657f2f03a/74ac7f88aad6f55657f2f03a438.m3u8
+#EXTINF:-1 tvg-name="Just for Laughs" tvg-logo="https://i.imgur.com/LgyPiad.png" group-title="📺 Digital TV - Entertainment🥤🥳",Just for Laughs
+https://streams.sofast.tv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1 tvg-name="GagsNetwork" tvg-logo="https://cdn.imgchest.com/files/4z9cvkpjb97.png" group-title="📺 Digital TV - Entertainment🥤🥳",GagsNetwork
+http://95.67.12.82:9069
+#EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://i.imgur.com/S08abPc.png" group-title="📺 Digital TV - Entertainment🥤🥳",FailArmy
+https://failarmy-international-in.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/VyRxzfw.png" group-title="📺 Digital TV - Entertainment🥤🥳",People Are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ไทยไชโย" tvg-logo="https://i.imgur.com/qlCwuh8.png" group-title="📺 Digital TV - Entertainment🥤🥳",ไทยไชโย
+https://live-iptv.thaichaiyo.tv/tcy/live-transmux.m3u8
+#EXTINF:-1 tvg-name="อีสานTV" tvg-logo="https://i.imgur.com/EJGSt45.png" group-title="📺 Digital TV - Entertainment🥤🥳",อีสานTV
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:-1 tvg-name="ไทบ้านTV" tvg-logo="https://i.imgur.com/1YEiW2W.png" group-title="📺 Digital TV - Entertainment🥤🥳",ไทบ้านTV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+#EXTINF:-1 tvg-name="ลูกทุ่งทีวี" tvg-logo="https://i.imgur.com/gsBe2CA.png" group-title="📺 Digital TV - Entertainment🥤🥳",ลูกทุ่งทีวี
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ลูกทุ่งเน็ตเวิร์ก" tvg-logo="https://i.imgur.com/yxKatsI.png" group-title="📺 Digital TV - Entertainment🥤🥳",ลูกทุ่งเน็ตเวิร์ก
+https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV Live-B" tvg-logo="https://i.imgur.com/BoOdVCN.png" group-title="📺 Digital TV - Entertainment🥤🥳",MTV Live-B
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=134147&extension=ts
+#EXTINF:-1 tvg-name="M2Rock" tvg-logo="https://cdn.imgchest.com/files/46acq38gm97.png" group-title="📺 Digital TV - Entertainment🥤🥳",M2Rock
+http://49.0.64.96:8007/M2ROCK
+#EXTINF:-1 tvg-name="M4Jazz" tvg-logo="https://cdn.imgchest.com/files/yvdcwgzn2vy.png" group-title="📺 Digital TV - Entertainment🥤🥳",M4Jazz
+http://49.0.64.96:8007/M4JAZZ
+#EXTINF:-1 tvg-name="M6country" tvg-logo="https://cdn.imgchest.com/files/yxkczkvq9a7.png" group-title="📺 Digital TV - Entertainment🥤🥳",M6country
+http://49.0.64.96:8007/M6COUNTRY
+#EXTINF:-1 tvg-name="Now 70s🇬🇧" tvg-logo="https://i.imgur.com/DGNKM8F.png" group-title="📺 Digital TV - Entertainment🥤🥳",Now 70s🇬🇧
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-name="Now 80s🇬🇧" tvg-logo="https://i.imgur.com/3UgbI0J.png" group-title="📺 Digital TV - Entertainment🥤🥳",Now 80s🇬🇧
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-name="Now Rock🇬🇧" tvg-logo="https://i.imgur.com/96U6NBp.png" group-title="📺 Digital TV - Entertainment🥤🥳",Now Rock🇬🇧
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-name="Kpop TV" tvg-logo="https://i.imgur.com/erHTCPz.png" group-title="📺 Digital TV - Entertainment🥤🥳",Kpop TV
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 tvg-name="Pop world TV" tvg-logo="https://i.imgur.com/OoA25gC.png" group-title="📺 Digital TV - Entertainment🥤🥳",Pop world TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-name="CMC Music" tvg-logo="https://i.imgur.com/l1CYQTv.png" group-title="📺 Digital TV - Entertainment🥤🥳",CMC Music
+https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+#EXTINF:-1 tvg-name="V2BEAT TV" tvg-logo="https://i.imgur.com/row4aa7.png" group-title="📺 Digital TV - Entertainment🥤🥳",V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade" tvg-logo="https://i.imgur.com/RgvLeTB.png" group-title="📺 Digital TV - Entertainment🥤🥳",Tastemade
+https://tmint-aus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-name="Superyacht TV" tvg-logo="https://i.imgur.com/3CsOND6.png" group-title="📺 Digital TV - Entertainment🥤🥳",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Drone TV" tvg-logo="https://i.imgur.com/KnzQddD.png" group-title="📺 Digital TV - Entertainment🥤🥳",Drone TV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/4300.m3u8
