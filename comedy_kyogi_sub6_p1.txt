@@ -1,0 +1,1045 @@
+{
+  "name": "😂 รายการตลก - ก็มาดิคร้าบ",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+  "stations": [
+    {
+      "name": "ก็มาดิคร้าบ EP.248 | ป๊อบ ปองกูล - โอ่ง กะละมัง หม้อ โอ่ง | 25 ม.ค. 69 Full EP",
+      "image": "https://i.ytimg.com/vi/lCoVpWiOy2c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/lCoVpWiOy2c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ EP.247 | เป็ก สัญชัย | 18 ม.ค. 69 Full EP",
+      "image": "https://i.ytimg.com/vi/OQJr7BfjzfE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OQJr7BfjzfE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ EP.246 | พิมมา Pixxie - เอิร์น วัดใหญ่ | 11 ม.ค. 69 Full EP",
+      "image": "https://i.ytimg.com/vi/jwcgYicJhsU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/jwcgYicJhsU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ EP.245 | เจนิส เจณิสตา - ไหมทอง ก้องสยาม | 04 ม.ค. 69 Full EP",
+      "image": "https://i.ytimg.com/vi/Uj12TeGdvLU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Uj12TeGdvLU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ EP.244 | สวัสดีปีใหม่ 2569 | 28 ธ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/JqAMdl-3hSw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JqAMdl-3hSw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ EP.243 | โดนัท มนัสนันท์ - ยัต ชัยโสโร | 21 ธ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/nXxW7xtI4to/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/nXxW7xtI4to",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 242 | เจ้านาย จินเจษฎ์ - นิคม คำดวง - ทึ่ม | 14 ธ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/bWQ5ZxhcEPo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/bWQ5ZxhcEPo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ EP.241 | ตั๊ก & นัตตี้ ดอยแม่สลอง - เอิร์น วัดใหญ่ | 07 ธ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/VPZz9jK0AyY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/VPZz9jK0AyY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 240 | ใบเฟิร์น ณัฐฌา - พลอย พลอยสุรีย์ - มะนาว มณียา | 30 พ.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/iOcWl-J7FiY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/iOcWl-J7FiY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 239 | แอนโทเนีย โพซิ้ว - มารีญา พูลเลิศลาภ - นัตตี้ ข่าวสด | 23 พ.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/LcyitlLhOo4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/LcyitlLhOo4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 238 | มิ้นต์ นวินดา - พลอย รัญดภา - เอิร์น วัดใหญ่ | 19 ต.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/JQr56NceZI0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JQr56NceZI0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 237 | ฟรัง นรีกุล - ม๊าเดี่ยว | 12 ต.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/67k00aP4AIE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/67k00aP4AIE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 236 | ฝน ทัตชญา - โย อรุณี - โจ๊ก ไอสครีม | 05 ต.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/uH60eKiS0lU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/uH60eKiS0lU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 235 | องอาจ เจียมเจริญพรกุล - เดนิส เจลีลชา - แพรว เฌอมาวีร์ | 28 ก.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/YnEPYoFWipw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/YnEPYoFWipw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 234 | เล็ก รัชเมศฐ์ - ตังตัง NPC | 21 ก.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/2HeQ8UEHCis/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2HeQ8UEHCis",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 233 | บี้ ธรรศภาคย์ - วงไททศมิตร - เอิร์น วัดใหญ่ | 14 ก.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/kV3MXaYQRt0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/kV3MXaYQRt0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 232 | กระทิง ขุนณรงค์ - มีน นิชคุณ - แดนนี่ ศรีภิญโญ | 07 ก.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/xs5n3jFpMIo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/xs5n3jFpMIo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 231 | มาริโอ้ เมาเร่อ - แจ็ค เฉลิมพล | 31 ส.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/YAvzXWg-6J0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/YAvzXWg-6J0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 230 | ต๊ะ บอยสเก๊าท์ - ทัช ณ ตะกั่วทุ่ง | 24 ส.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/QtY4IBDuuMU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/QtY4IBDuuMU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 229 | เจนเย่ เมธิกา - เบนซ์ ข้าวขวัญ | 17 ส.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/xq34Q9UB3Sk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/xq34Q9UB3Sk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 228 | เจมส์ จิรายุ - มีน พีรวิชญ์ | 10 ส.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/uhV5JAqT_r0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/uhV5JAqT_r0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 227 | ฮาย อาภาพร - ตั๊ก ศิริพร | 03 ส.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/WJK5YI-10ko/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/WJK5YI-10ko",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 226 | DJ ต้นหอม - เอิร์น วัดใหญ่ | 27 ก.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/tcAzgZ0C39g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/tcAzgZ0C39g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 225 | น้าโย่ง - น้าพวง - น้านงค์ เชิญยิ้ม | 20 ก.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/OV06LzhCcsE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OV06LzhCcsE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 224 | ธามไท | 13 ก.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/LlKnca_KcRE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/LlKnca_KcRE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 223 | ดร.พลัง โลกศิลป์ - อ๊อด ปากดี - หลิน ท่าขอนยาง | 06 ก.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/9uFmVW7uiOs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/9uFmVW7uiOs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 222 | บาส วรวุธ - บิว วราภรณ์ - โบว์ กัญญารัตน์ | 29 มิ.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/qc-RjQurpz4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/qc-RjQurpz4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 221 | เบนซ์ พริกไทย - YOUNGGU - GUNNER - MIXX | 22 มิ.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/P35fFrol2q4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/P35fFrol2q4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 220 | ไทย - ขุนพล - ภีมวสุ BUS because of you i shine | 15 มิ.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/x7QdYjIMHHI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/x7QdYjIMHHI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 219 | ดัง พันกร | 08 มิ.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/SfSDpgmceYo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SfSDpgmceYo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 218 | เฌอปราง | 01 มิ.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/bFhyZUZihyo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/bFhyZUZihyo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 217 | เอิร์น วัดใหญ่ - หรั่ง พระนคร | 25 พ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/2MPvOjfhhaM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2MPvOjfhhaM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 216 | ใหม่ พัชรี | 18 พ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/i2JrU7D-2F4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/i2JrU7D-2F4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 215 | วงไททศมิตร - ก้านตอง ทุ่งเงิน - DJ แมน พัฒนพล | 11 พ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/kyI37l0Hkmw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/kyI37l0Hkmw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 214 | เนสกาแฟ ศรีนคร | 4 พ.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/OQ-s2Fhhva4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OQ-s2Fhhva4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 213 | ปั๋ง ผู้กององอาจ-องอาจ จ่าประพันธ์-กอล์ฟ ปิ้งไก่อังกอร์ | 27เม.ย.68 Full EP",
+      "image": "https://i.ytimg.com/vi/raI-1oNiOJE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/raI-1oNiOJE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 212 | เจมมี่ เจมส์ - แอลลี่ อชิรญา | 20 เม.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/JUZZRunNBqk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/JUZZRunNBqk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 211 | LITTLE JOHN - ปุ้ย L.กฮ. | 13 เม.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/HorddllDr6g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/HorddllDr6g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 210 | เซียนหรั่ง - บิวบอง - เอิร์น วัดใหญ่ - หรั่ง พระนคร | 06 เม.ย. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/ok7bXqJxHPU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ok7bXqJxHPU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 209 | นารา เทพนุภา - ซีดี กันต์ธีร์ - ท๊อป พิธีกรมวย | 30 มี.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/3RtV4VOmWzg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/3RtV4VOmWzg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 208 | ฟรีน สโรชา - เบ็คกี้ รีเบคก้า - ซุปเปอร์เตย | 23 มี.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/TitmrUbcRx0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/TitmrUbcRx0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 207 | เหว่ง-เติร์ด เทพลีลา - มะหมี่ นภคปภา | 16 มี.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/CJsc2y0npPU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/CJsc2y0npPU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 206 | วิว กุลวุฒิ - เฟิร์ส พรชิตา | 09 มี.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/fxNgWoG4Eys/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/fxNgWoG4Eys",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 205 | เป้ อารักษ์ - เฟย ภัทร | 02 มี.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/T2LsKm8CTDQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/T2LsKm8CTDQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 204 | เอม ภูมิภัทร - เบนจามิน โจเซฟ วาร์นี | 23 ก.พ. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/DdLYRJJkEmM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/DdLYRJJkEmM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 203 | แผ่นฟิล์ม อนันด้า - ทนายเมย์ - แน้ม ธรรมดาไม่ใส่ไข่ | 16 ก.พ. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/SnlNirKhMvI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SnlNirKhMvI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 202 | เมธี - อนันต์ - สมเมย์ LABANOON | 09 ก.พ. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/x7Z-tflpUig/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/x7Z-tflpUig",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 201 | นพพล โกมารชุน - แต๋ง อาฟเตอร์ยำ - ดุจดิว | 02 ก.พ. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/myNt1gILuks/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/myNt1gILuks",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 200 | หม่ำ จ๊กม๊ก - เท่ง เถิดเทิง - โหน่ง ชะชะช่า | 26 ม.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/lL-R6kqsht4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/lL-R6kqsht4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 199 | เซียงเซียง พรสรวง - เน็ค นฤพล - แซ็ค ชุมแพ | 19 ม.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/qhqHP230JB8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/qhqHP230JB8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 198 | มิ้ม รัตนวดี - พัชชา ชนุดม | 12 ม.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/2J1L4odgU7g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/2J1L4odgU7g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 197 | ต้องเต ธิติ - เจ๊มิ่ง ช่างซ่อมพัดลม | 05 ม.ค. 68 Full EP",
+      "image": "https://i.ytimg.com/vi/CIM4XW02AC0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/CIM4XW02AC0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 196 | อิมเมจ สุธิตา - จั๊มพ์ พิสิฐพล | 29 ธ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/Vy0kbs6IJZg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Vy0kbs6IJZg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 195 | โขม ก้องเกียรติ - เก้า จิรายุ - เดย์ Thaitanium | 22 ธ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/gqOZjgLqck8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/gqOZjgLqck8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 194 | แพรว นฤภรกมล - คิด เก๋ อาตี้ เบิร์ด เพจผ่าม | 15 ธ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/yoL_4EZAmSg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/yoL_4EZAmSg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 193 | คิวเท ซิม - ถาวร พรทวี - พรพยนต์ พรทวี - หนุ่มนา พาเพลิน | 8 ธ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/Lyp2z9tLjBY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/Lyp2z9tLjBY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 192 | พชร์ อานนท์ | 01 ธ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/gG3cAO0X16w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/gG3cAO0X16w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 191 | ชิปปี้ ศิรินทร์ - ต้น อรุณพงค์ - ท็อป ทศพล | 24 พ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/F3T30voA03M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/F3T30voA03M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 190 | เนส พรอำนาจ - ทิดแอม | 17 พ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/OzeVvhbRW-g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/OzeVvhbRW-g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 189 | ป๋อง กพล - เสนาหอย | 10 พ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/QAp_fDq-1vA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/QAp_fDq-1vA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 188 | อ.ไข่ มาลีฮวนน่า - จาลี่ | 3 พ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/7tPZIZwbbbc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/7tPZIZwbbbc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 187 | ซุปเปอร์เล็ก เกียรติหมู่ 9 - อ.เบียร์ คนตื่นธรรม | 27 ต.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/oFBdeMrmm0I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/oFBdeMrmm0I",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 186 | โค้ชเช - จอร์จ - อิสระ - จ๊อบ Rubsarb | 20 ต.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/n1XjWturTpI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/n1XjWturTpI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 185 | BOWKYLION - พี่แฉะ องอาจ | 13 ต.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/tjmYqv_7O1E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/tjmYqv_7O1E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 184 | นาย มงคล - เบลล์ เอนกลาภ - อรชร เชิญยิ้ม | 6 ต.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/SqlHxWDUeWc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/SqlHxWDUeWc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 183 | เจเลอร์ - เทนนิส - จูเนียร์ | 29 ก.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/epWw-QTqZ8Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/epWw-QTqZ8Y",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 182 | เต๋อ ฉันทวิชช์ - ไอซ์ พาริส | 22 ก.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/_AukeXueYFY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/_AukeXueYFY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 181 | เฟิร์ส พรชิตา | 15 ก.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/wsM0B53_s3g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/wsM0B53_s3g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 180 | บิลลี่ โอแกน - ลิลลี่ เหงียน | 8 ก.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/zfdJhSZrjFU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/zfdJhSZrjFU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 179 | แก๊ป ธนเวทย์ - น้ำหวาน รักษ์ณภัค | 1 ก.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/-6-8VrP_U98/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/-6-8VrP_U98",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 178 | กวาง วรรณปิยะ - น้าต๋อย เซมเบ้ - ศรีอาภา เรือนนาค | 25 ส.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/UyonhEAY7X8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/UyonhEAY7X8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 177 | โจอี้ ภูวศิษฐ์ | 18 ส.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/ZuULF0M1uLQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/ZuULF0M1uLQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 176 | ทนายไพศาล - ทนายแก้ว - กัน จอมพลัง - ลิลลี่ - ตุ๊ดตู่ | 11 ส.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/TjzHJVz_deo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/TjzHJVz_deo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 175 | แพรว เฌอมาวีร์ - อ.ยิ่งศักดิ์ | 4 ส.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/elA8nON81fg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/elA8nON81fg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 174 | กอล์ฟ F.HERO | 28 ก.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/364tZBpjv0M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/364tZBpjv0M",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 173 | บอย อนุวัฒน์ - เจี๊ยบ พิจิตตรา | 21 ก.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/pEVgPHC0DM0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/pEVgPHC0DM0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 172 | มนัสวีร์ - 4Kings | 14 ก.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/rTkUCi5a7gU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/live/rTkUCi5a7gU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 171 | ชาร์เลท วาศิตา - ต้นอ้อ เป็นหนึ่ง - ปีเตอร์ เดนแมน | 7 ก.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/28HhOQEr6dg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=28HhOQEr6dg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 170 | เรวัช - ผู้การแต้ม - ปอย - ศรราม - เต๋า - เบลล์ | 30 มิ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/13bUe3cBM-0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=13bUe3cBM-0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 169 | น้ำตาล ชลิตา - วุ้นเส้น Andreas | 23 มิ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/JHZryYM36Qg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JHZryYM36Qg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 168 | โน้ต เชิญยิ้ม - เท่ง เถิดเทิง | 16 มิ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/cs0R0vglPsI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cs0R0vglPsI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 167 | เจมส์ ธีรดนย์ - ไอซ์ ปรีชญา - เอแคลร์ | 09 มิ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/Z9dPZJvlUR4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Z9dPZJvlUR4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 166 | แอนโทเนีย - ดินสอสี พนิดา | 02 มิ.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/8rI7Vsu7eSQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=8rI7Vsu7eSQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 165 | Empress - หมวดประดิษฐ์ | 26 พ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/wOt2AK_ok-c/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=wOt2AK_ok-c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 164 | Zeal - ทนายไพศาล - ทนายปาย | 19 พ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/zUJd5SrlWt4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zUJd5SrlWt4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 163 | พลอยชมพู - บุ๊ค ศุภกาญจน์ - ทิดแอม | 12 พ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/Lubcw5qllxc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Lubcw5qllxc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 162 | เอม วิทวัส - Aurora - Hana - Mimu | 05 พ.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/JFDkDQ__prA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JFDkDQ__prA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 161 | bodyslam | 28 เม.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/OIlhwehClBM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OIlhwehClBM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 160 | เม้ก อภิสิทธิ์ - Bean Napason - Earth Patravee | 21 เม.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/xUvlGs9naU0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xUvlGs9naU0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 159 | โหน่ง ชะชะช่า | 14 เม.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/wXaxxJzHIGY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=wXaxxJzHIGY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 158 | อี๊ด ลาล่า ลูลู่ โปงลางสะออน - อูโน่ หลาวทอง | 7 เม.ย. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/-bc3AdRt0ko/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=-bc3AdRt0ko",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 157 | เจนนี่ ปาหนัน - ก๊อตจิ ทัชชกร | 31 มี.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/b5w1heC4vcs/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=b5w1heC4vcs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 156 | น้อย วงพรู | 24 มี.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/W8eJRNPPSvg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=W8eJRNPPSvg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 155 | ศรราม น้ำเพชร - เบลล์ เอนกลาภ - ดำดง นุ่น เนตรชนก | 17 มี.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/9MVtnL6t2Xc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9MVtnL6t2Xc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 154 | แกรนด์ กรณ์ภัสสร - ดำดง นุ่น เนตรชนก | 10 มี.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/T_816R7Wvd8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=T_816R7Wvd8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 153 | ลีซอ ธีรเทพ - ดัสกร ทองเหลา | 03 มี.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/CPRuBDTbsZk/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=CPRuBDTbsZk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 152 | โป่ง หิน เหล็ก ไฟ - อี๊ด FLY | 25 ก.พ. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/B0JT88HDLKI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=B0JT88HDLKI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 151 | ไททศมิตร TAITOSMITH | 18 ก.พ. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/pD_9TBkrRPA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=pD_9TBkrRPA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 150 | บิ๊ก ดี เจอราร์ด | 11 ก.พ. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/9uC_ASqulyw/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9uC_ASqulyw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 149 | อาภาพร นครสวรรค์ - สุนารี ราชสีมา - ศิริพร อยู่ยอด | 4 ก.พ. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/VW6ubP4Rdqw/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=VW6ubP4Rdqw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 148 | ป๋อง กพล - แจ็ค เดอะโกสต์ | 28 ม.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/zHp7Eu5TdM4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=zHp7Eu5TdM4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 147 | หนุ่ม ศรราม - Aurora (น้องเต้าหู้) | 21 ม.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/vFLIJZbNweY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=vFLIJZbNweY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 146 | หนิง ปัทมา | 14 ม.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/2x_a7LRxoM0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2x_a7LRxoM0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 145 | วิลลี่ แมคอินทอช - เสนาหอย | 07 ม.ค. 67 Full EP",
+      "image": "https://i.ytimg.com/vi/YJDl2VuuTP4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=YJDl2VuuTP4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 144 | มิ้ม รัตนวดี | 31 ธ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/xxKDzBwQ6rI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=xxKDzBwQ6rI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 143 | แพมมี่ สุธิดา - ปริม ชมภูมาตย์ - นะโม ธันวาพร | 24 ธ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/2egPYsMg3Bs/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2egPYsMg3Bs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 142 | อุ้ม ลักขณา - นิวเคลียร์ หรรษา | 17 ธ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/XioSF_oxh9Q/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=XioSF_oxh9Q",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 141 | เบิ้ล ปทุมราช | 10 ธ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/DPgKyUD9nlc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=DPgKyUD9nlc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 140 | พลอย เฌอมาลย์ | 03 ธ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/BNlwc7tHIiQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BNlwc7tHIiQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 139 | เรย์ แมคโดนัลด์ - ลีโอ พุฒ | 26 พ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/Prf5MbNZg50/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Prf5MbNZg50",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 138 | แหลม สมพล - บิ๊ก ดี เจอราร์ด - ทู สิราษฎร์ | 19 พ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/cmPMfHPCdz8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cmPMfHPCdz8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 137 | URBOYTJ - เทนนิส พาณิภัค | 12 พ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/IrNEWixaVhY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=IrNEWixaVhY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 136 | อุ๋งอิ๋ง เพชรบ้านแพง - โจ ยมนิล | 5 พ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/B8fqa7lWaeE/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=B8fqa7lWaeE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 135 | เปิ้ล นาคร - เรวัช กลิ่นเกษร | 29 ต.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/oVQCzbc5sW8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=oVQCzbc5sW8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 134 | ป็อก Mindset - เป้ MVL | 22 ต.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/uVUlnE0aPhE/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=uVUlnE0aPhE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 133 | เจนิส เจณิสตา - ป้าตือ สมบัษร - เงาพระจันทร์ | 15 ต.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/eALvShKFi4E/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=eALvShKFi4E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 132 | Rae Lil Black - มาย ฮาเร็ม - บิ๋ม - ดำ - หน่อย เชิญยิ้ม | 08 ต.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/2URMXsKYmRM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=2URMXsKYmRM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 131 | น้าเน็ก เกตุเสพย์สวัสดิ์ | 01 ต.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/7zoirz9ska4/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7zoirz9ska4",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 130 | มะปราง อลิสา | 24 ก.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/inpmqflMYfo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=inpmqflMYfo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 129 | ลิฟท์ สุพจน์ - ออย ธนา - หน่อย เชิญยิ้ม | 17 ก.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/FkSu-xTBL1E/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=FkSu-xTBL1E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 128 | บอย LOMOSONIC | 10 ก.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/jLIyeUwHVKc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=jLIyeUwHVKc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 127 | เจนนิษฐ์ โอ่ประเสริฐ - เก้า จิรายุ | 03 ก.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/Hj6sx5jgJIM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Hj6sx5jgJIM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 126 | เนเน่ พรนับพัน | 27 ส.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/188ejKT5RtM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=188ejKT5RtM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 125 | เอ็ม หัตถ์เทพ - บอย ท่าพระจันทร์ - ฝน - นินิว | 20 ส.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/b52QoziIsZg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=b52QoziIsZg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 124 | สเตฟาน | 13 ส.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/ddzjBjl0zGI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ddzjBjl0zGI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 123 | ต้า ยัต ชัยโสโร | 6 ส.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/qPAk24Sc8qY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qPAk24Sc8qY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 122 | โต้ง Twopee | 30 ก.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/Bcb33BZSDkU/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Bcb33BZSDkU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 121 | Three Man Down | 23 ก.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/1_3QDD-XtPg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=1_3QDD-XtPg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 120 | พลอย Pigkaploy | 16 ก.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/sOhQugum74U/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=sOhQugum74U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 119 | โอ้ต ปราโมทย์ - อุล ภาคภูมิ | 9 ก.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/KcqMA9el1NI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=KcqMA9el1NI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 118 | หนุ่ม กรรชัย - เจ้าขุน จักรภัทร | 2 ก.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/6l8p1XX5WHY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=6l8p1XX5WHY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 117 | ปั๊บ โปเตโต้ - โบ สุรัตนาวี - จอยซ์ กรภัสสรณ์ | 25 มิ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/be_thz3hScw/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=be_thz3hScw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 116 | แสนชัย - รถถัง - ตะวันฉาย | 18 มิ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/4vJuTYG5bOA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=4vJuTYG5bOA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ | EP. 115 | MILLI - MAIYARAP | 11 มิ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/CNU24pJ4uTU/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=CNU24pJ4uTU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 114 l วี วิโอเลต - เฟย ภัทร เอกแสงกุล | 4 มิ.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/7FQq0qrIqAk/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=7FQq0qrIqAk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 113 l ไอซ์ ปรีชญา | 28 พ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/UTXFfL_WtSw/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=UTXFfL_WtSw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 112 l ว่าน ธนกฤต | 21 พ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/FXe7c-JKFig/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=FXe7c-JKFig",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 111 l จันจิ จันจิรา | 14 พ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/BHey-vh7tUo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BHey-vh7tUo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 110 l เอแคลร์ จือปาก - เอิ๊ก ชาลิสา | 7 พ.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/tYgqwYPMUyQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=tYgqwYPMUyQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 109 l นีโน่ เมทนี - จ๊อบ นิธิ - ตี๋อ้วน นำชัย | 30 เม.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/HNO8xqQrcew/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=HNO8xqQrcew",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 108 l ฮาย - เซน Paper Planes | 23 เม.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/RflJPuC1o1A/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=RflJPuC1o1A",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 107 l เนะ อโณทัย - ปาย สิตางค์ | 16 เม.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/hJy4GSC5WsI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=hJy4GSC5WsI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 106 l คัตโตะ - แนตตี้ - เอ็ดดี้ เสือร้องไห้ | 9 เม.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/ZePqc8sEY_c/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZePqc8sEY_c",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 105 l นิ้ง ชัญญา - น้าติง | 2 เม.ย. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/t3hZrIxkncY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=t3hZrIxkncY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 104 l เจ๋ง บิ๊กแอส - แจ็ค เฉลิมพล | 26 มี.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/4Keq02F3238/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=4Keq02F3238",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 103 l แพรรี่ ไพรวัลย์ - เฟิร์น ศุภนารี | 19 มี.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/tJqwmiqW0n0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=tJqwmiqW0n0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 102 l ลูกเกด เมทินี | 12 มี.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/R5XqO7bBFoE/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=R5XqO7bBFoE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 101 l เหมยหลิน ประณยา - ลูกหว้า อาทิตยา | 5 มี.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/HEa6DtChrAo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=HEa6DtChrAo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 100 l มิกซ์ VKL - โหงวเฮ้ง Gangbad - บุหรี่ ศิวนาถ | 26 ก.พ. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/vGoTaAZ3hFU/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=vGoTaAZ3hFU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 99 l ปราง ปรางทิพย์ - เฟิร์ส พรชิตา | 19 ก.พ. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/hFjHO1-QtzA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=hFjHO1-QtzA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 98 l เจแปน - เติ้ล Buffet | 12 ก.พ. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/rEkuvpSI2lk/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=rEkuvpSI2lk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 97 l PiXXiE | 05 ก.พ. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/wXVTs9dKNAU/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=wXVTs9dKNAU",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 96 l ยังโอม | 29 ม.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/q7wJZS4mtFc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=q7wJZS4mtFc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 95 l เท่ง เถิดเทิง | 22 ม.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/0j01cXJeXb8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=0j01cXJeXb8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 94 l ป้อง ณ วัฒน์ | 15 ม.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/FN68GESSrOQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=FN68GESSrOQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 93 l มายด์ ณภศศิ -โมจิโกะ | 8 ม.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/lHROix8eKXc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=lHROix8eKXc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 92 l นารา เทพนุภา | 01 ม.ค. 66 Full EP",
+      "image": "https://i.ytimg.com/vi/cpX7nhxsv4o/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cpX7nhxsv4o",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 91 l มะนาว ศรศิลป์ - บัง ฮาซัน | 25 ธ.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/EZk4FJOSY5U/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=EZk4FJOSY5U",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 90 l สิงโต นำโชค | 18 ธ.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/ezMbLMW4Bmo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ezMbLMW4Bmo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 89 l เนย วรัฐฐา - แจม ชรัฐฐา | 11 ธ.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/BtaLxQDLC0g/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BtaLxQDLC0g",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 88 l ต้า ยัต ชัยโสโร Part II | 4 ธ.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/t4nzgqkAMRY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=t4nzgqkAMRY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 87 l นุ่น สุทธิภา | 27 พ.ย. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/vfRsMJFaVlo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=vfRsMJFaVlo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 86 l เกรซ กาญจน์เกล้า - จอส เวอาห์ | 20 พ.ย. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/qvd-a-nFyTg/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=qvd-a-nFyTg",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 85 l แทค ภรัณยู - DJ ลูกหว้า | 13 พ.ย. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/ZAXlsDiojto/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ZAXlsDiojto",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 84 l เอวา ปวรวรรณ - มายเมทเนท | 6 พ.ย. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/Z7EszeFEIIQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Z7EszeFEIIQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 83 l มีนตรา อินทิรา | 30 ต.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/Z1Gai7eFv1w/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Z1Gai7eFv1w",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 82 l ดาว ณัฐภัสสร | 23 ต.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/JzLN1r5WTvo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=JzLN1r5WTvo",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 81 l มายด์ ลภัสลัล | 16 ต.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/z2pndB8aeRA/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=z2pndB8aeRA",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 80 l เมโกะ ชนนิกานต์ - ปิ๊ง เพชรอำไพ | 9 ต.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/ovyAjR9S8yY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ovyAjR9S8yY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 79 l เฌอปราง BNK48 | 2 ต.ค. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/OwpVr9O75NM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=OwpVr9O75NM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 78 l ญิ๋งญิ๋ง ศรุชา - เก้า จิรายุ l 25 ก.ย. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/z1RpHowmV5E/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=z1RpHowmV5E",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 77 l ต้า ยัต ชัยโสโร l 18 ก.ย. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/BS-7kPNqjU0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BS-7kPNqjU0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "ก็มาดิคร้าบ l EP. 76 l ฟิฟิล์ม สิริอมร - ซัน หนุ่มกรีดยาง l 11 ก.ย. 65 Full EP",
+      "image": "https://i.ytimg.com/vi/KgJrdGnipUo/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=KgJrdGnipUo",
+      "openInBrowser": "true"
+    }
+  ]
+}
