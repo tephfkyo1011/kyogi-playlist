@@ -1,0 +1,145 @@
+{
+  "name": "📺 Digital TV - Entertainment🥤🥳",
+  "author": "KYO GI",
+  "image": "https://cdn.shopify.com/s/files/1/0608/6996/8004/files/What_is_Digital_TV.jpg?v=1763530210",
+  "stations": [
+    {
+      "name": "Just for Laughs",
+      "image": "https://i.imgur.com/LgyPiad.png",
+      "url": "https://streams.sofast.tv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "GagsNetwork",
+      "image": "https://cdn.imgchest.com/files/4z9cvkpjb97.png",
+      "url": "http://95.67.12.82:9069",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "FailArmy",
+      "image": "https://i.imgur.com/S08abPc.png",
+      "url": "https://failarmy-international-in.samsung.wurl.tv/1200.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "People Are Awesome",
+      "image": "https://i.imgur.com/VyRxzfw.png",
+      "url": "https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ไทยไชโย",
+      "image": "https://i.imgur.com/qlCwuh8.png",
+      "url": "https://live-iptv.thaichaiyo.tv/tcy/live-transmux.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "อีสานTV",
+      "image": "https://i.imgur.com/EJGSt45.png",
+      "url": "https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ไทบ้านTV",
+      "image": "https://i.imgur.com/1YEiW2W.png",
+      "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ลูกทุ่งทีวี",
+      "image": "https://i.imgur.com/gsBe2CA.png",
+      "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ลูกทุ่งเน็ตเวิร์ก",
+      "image": "https://i.imgur.com/yxKatsI.png",
+      "url": "https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MTV Live-B",
+      "image": "https://i.imgur.com/BoOdVCN.png",
+      "url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=134147&extension=ts",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "M2Rock",
+      "image": "https://cdn.imgchest.com/files/46acq38gm97.png",
+      "url": "http://49.0.64.96:8007/M2ROCK",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "M4Jazz",
+      "image": "https://cdn.imgchest.com/files/yvdcwgzn2vy.png",
+      "url": "http://49.0.64.96:8007/M4JAZZ",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "M6country",
+      "image": "https://cdn.imgchest.com/files/yxkczkvq9a7.png",
+      "url": "http://49.0.64.96:8007/M6COUNTRY",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Now 70s🇬🇧",
+      "image": "https://i.imgur.com/DGNKM8F.png",
+      "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Now 80s🇬🇧",
+      "image": "https://i.imgur.com/3UgbI0J.png",
+      "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Now Rock🇬🇧",
+      "image": "https://i.imgur.com/96U6NBp.png",
+      "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Kpop TV",
+      "image": "https://i.imgur.com/erHTCPz.png",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Pop world TV",
+      "image": "https://i.imgur.com/OoA25gC.png",
+      "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CMC Music",
+      "image": "https://i.imgur.com/l1CYQTv.png",
+      "url": "https://cmc-ono.amagi.tv/amRdirect/device%5Bdid%5D=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D&uid=1he0cenp3-ahib-sl-0gn9-o12eppsod2n/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "V2BEAT TV",
+      "image": "https://i.imgur.com/row4aa7.png",
+      "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Tastemade",
+      "image": "https://i.imgur.com/RgvLeTB.png",
+      "url": "https://tmint-aus-samsungau.amagi.tv/playlist720p.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Superyacht TV",
+      "image": "https://i.imgur.com/3CsOND6.png",
+      "url": "https://sy.wns.live/hls/stream.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Drone TV",
+      "image": "https://i.imgur.com/KnzQddD.png",
+      "url": "https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/4300.m3u8",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
