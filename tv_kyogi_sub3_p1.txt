@@ -100,12 +100,6 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "Kpop TV",
-      "image": "https://i.imgur.com/erHTCPz.png",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
-      "playInNatPlayer": "true"
-    },
-    {
       "name": "Pop world TV",
       "image": "https://i.imgur.com/OoA25gC.png",
       "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
@@ -121,12 +115,6 @@
       "name": "V2BEAT TV",
       "image": "https://i.imgur.com/row4aa7.png",
       "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "Tastemade",
-      "image": "https://i.imgur.com/RgvLeTB.png",
-      "url": "https://tmint-aus-samsungau.amagi.tv/playlist720p.m3u8",
       "playInNatPlayer": "true"
     },
     {
