@@ -1,0 +1,201 @@
+{
+  "name": "😂 รายการตลก - เดี่ยวไมโครโฟน",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+  "stations": [
+    {
+      "name": "หมู่ 2 วาไรตี้โชว์ อุดมและผองเพื่อน",
+      "image": "https://1412hd.net/wp-content/uploads/2023/03/9-1.jpg",
+      "url": "https://streamhls.com/view/4f45598e-29f8-5324-bc2c-aef623ff5339.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.9nunghd.com/"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟนครั้งที่ 13",
+      "image": "https://i.ytimg.com/vi/xW75at48aAc/maxresdefault.jpg",
+      "url": "https://hlsp2p.com/view/a6e28c48-60bc-5c29-9198-d1d42fd2f71d.m3u8",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+    },
+    {
+      "name": "หมู่ วาไรตี้โชว์ อุดมและผองเพื่อน",
+      "image": "https://i.ytimg.com/vi/Wli4EErQ-iw/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Wli4EErQ-iw",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยว 12 | DEAW #12 Stand Up Comedy Show ⭐0",
+      "image": "https://down-th.img.susercontent.com/file/fb80474db7e4ccd9de1e11afac901f5a",
+      "url": "https://nungdeedee.com/movie/info/24639/เดี่ยว-12-deaw-12-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 11 | DEAW #11 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/9pqGGChiAjM/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24638/เดี่ยว-11-deaw-11-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 10 | DEAW #10 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/Sae84-pV2KI/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24637/เดี่ยว-10-deaw-10-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 9.5 | DEAW #9.5 Stand Up Comedy Show ⭐0(เชียงใหม่ Story)",
+      "image": "https://i.ytimg.com/vi/ExQ080KGkUc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ExQ080KGkUc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยว 9 | DEAW #9 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/NivvqVmJ5Cs/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24636/เดี่ยว-9-deaw-9-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 8 | DEAW #8 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/BwoO7J65nw0/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24635/เดี่ยว-8-deaw-8-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 7.5 | DEAW #7.5 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/_nf8eQqRUDk/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=_nf8eQqRUDk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยว 7 | DEAW #7 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/IfGX7dd3ES8/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24633/เดี่ยว-7-deaw-7-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 6 | DEAW #6 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/TLvphXmSsvQ/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24632/เดี่ยว-6-deaw-6-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 5 | DEAW #5 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/cnUePrLEjbY/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24630/เดี่ยว-5-deaw-5-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 4 | DEAW #4 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/W_VinjQT7OQ/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24629/เดี่ยว-4-deaw-4-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 3 | DEAW #3 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/rQahMEv_mpI/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24628/เดี่ยว-3-deaw-3-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 2 | DEAW #2 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/5hCMNwZOoLE/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24627/เดี่ยว-2-deaw-2-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยว 1 | DEAW #1 Stand Up Comedy Show ⭐0",
+      "image": "https://i.ytimg.com/vi/BXbezSxCn20/maxresdefault.jpg",
+      "url": "https://nungdeedee.com/movie/info/24625/เดี่ยว-1-deaw-1-stand-up-comedy-show",
+      "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 11",
+      "image": "https://i.ytimg.com/vi/9pqGGChiAjM/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=9pqGGChiAjM",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 10",
+      "image": "https://i.ytimg.com/vi/Sae84-pV2KI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=Sae84-pV2KI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 9.5 (เชียงใหม่ Story)",
+      "image": "https://i.ytimg.com/vi/ExQ080KGkUc/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=ExQ080KGkUc",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 9",
+      "image": "https://i.ytimg.com/vi/NivvqVmJ5Cs/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=NivvqVmJ5Cs",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 8",
+      "image": "https://i.ytimg.com/vi/BwoO7J65nw0/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BwoO7J65nw0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 7.5",
+      "image": "https://i.ytimg.com/vi/_nf8eQqRUDk/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=_nf8eQqRUDk",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 7",
+      "image": "https://i.ytimg.com/vi/IfGX7dd3ES8/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=IfGX7dd3ES8",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 6 (ตูดหมึก)",
+      "image": "https://i.ytimg.com/vi/TLvphXmSsvQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=TLvphXmSsvQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 5 (ฉายเดี่ยว)",
+      "image": "https://i.ytimg.com/vi/cnUePrLEjbY/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=cnUePrLEjbY",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 4",
+      "image": "https://i.ytimg.com/vi/W_VinjQT7OQ/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=W_VinjQT7OQ",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 3 (อุดมการช่าง)",
+      "image": "https://i.ytimg.com/vi/rQahMEv_mpI/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=rQahMEv_mpI",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 2 (โชว์ห่วย)",
+      "image": "https://i.ytimg.com/vi/5hCMNwZOoLE/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=5hCMNwZOoLE",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "เดี่ยวไมโครโฟน ครั้งที่ 1",
+      "image": "https://i.ytimg.com/vi/BXbezSxCn20/maxresdefault.jpg",
+      "url": "https://tephfkyo1011.github.io/kyogi-playlist/play.html?v=BXbezSxCn20",
+      "openInBrowser": "true"
+    }
+  ]
+}
