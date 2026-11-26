@@ -2,62 +2,34 @@
   "name": "😂 รายการตลก - คุณพระช่วย",
   "author": "KYO GI",
   "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
-  "groups": [
+  "stations": [
     {
       "name": "รวมฉ่อยหน้าม่านสามน้า \"ฮาไม่หยุด ในวันหยุดยาว\" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12",
-      "info": "EP 1",
       "image": "https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg",
-      "stations": [
-        {
-          "name": "รวมฉ่อยหน้าม่านสามน้า \"ฮาไม่หยุด ในวันหยุดยาว\" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12 [พากย์ไทย]",
-          "info": "พากย์ไทย",
-          "image": "https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg",
-          "url": "https://yt-stream.phiphatprojects.workers.dev/?v=LDXrt8goums",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://www.youtube.com/embed/LDXrt8goums?autoplay=1&rel=0&playsinline=0",
+      "userAgent": "Mozilla/5.0",
+      "openInBrowser": "true"
     },
     {
       "name": "รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย",
-      "info": "EP 1",
       "image": "https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg",
-      "stations": [
-        {
-          "name": "รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย [พากย์ไทย]",
-          "info": "พากย์ไทย",
-          "image": "https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg",
-          "url": "https://yt-stream.phiphatprojects.workers.dev/?v=tr9Fcyn-xiw",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://www.youtube.com/embed/tr9Fcyn-xiw?autoplay=1&rel=0&playsinline=0",
+      "userAgent": "Mozilla/5.0",
+      "openInBrowser": "true"
     },
     {
       "name": "รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙",
-      "info": "EP 1",
       "image": "https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg",
-      "stations": [
-        {
-          "name": "รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙ [พากย์ไทย]",
-          "info": "พากย์ไทย",
-          "image": "https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg",
-          "url": "https://yt-stream.phiphatprojects.workers.dev/?v=jP24LwKtSg0",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://www.youtube.com/embed/jP24LwKtSg0?autoplay=1&rel=0&playsinline=0",
+      "userAgent": "Mozilla/5.0",
+      "openInBrowser": "true"
     },
     {
       "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ",
-      "info": "EP 1",
       "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
-      "stations": [
-        {
-          "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ [พากย์ไทย]",
-          "info": "พากย์ไทย",
-          "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
-          "url": "https://yt-stream.phiphatprojects.workers.dev/?v=kGXoyrS9tm4",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://www.youtube.com/embed/kGXoyrS9tm4?autoplay=1&rel=0&playsinline=0",
+      "userAgent": "Mozilla/5.0",
+      "openInBrowser": "true"
     }
   ]
 }
