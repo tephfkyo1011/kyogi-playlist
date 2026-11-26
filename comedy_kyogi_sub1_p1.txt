@@ -6,44 +6,50 @@
     {
       "name": "รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg",
-      "url": "https://www.youtube.com/embed/PI9uXtHmhDE?autoplay=1&rel=0&playsinline=0",
-      "userAgent": "Mozilla/5.0",
-      "openInBrowser": "true"
+      "url": "https://m.youtube.com/watch?v=PI9uXtHmhDE",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+      "referer": "https://m.youtube.com/",
+      "isHost": "true"
     },
     {
       "name": "รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/oGjHkhW48n4/hqdefault.jpg",
-      "url": "https://www.youtube.com/embed/oGjHkhW48n4?autoplay=1&rel=0&playsinline=0",
-      "userAgent": "Mozilla/5.0",
-      "openInBrowser": "true"
+      "url": "https://m.youtube.com/watch?v=oGjHkhW48n4",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+      "referer": "https://m.youtube.com/",
+      "isHost": "true"
     },
     {
       "name": "รวมฉ่อยหน้าม่านสามน้า \"ฮาไม่หยุด ในวันหยุดยาว\" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12",
       "image": "https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg",
-      "url": "https://www.youtube.com/embed/LDXrt8goums?autoplay=1&rel=0&playsinline=0",
-      "userAgent": "Mozilla/5.0",
-      "openInBrowser": "true"
+      "url": "https://m.youtube.com/watch?v=LDXrt8goums",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+      "referer": "https://m.youtube.com/",
+      "isHost": "true"
     },
     {
       "name": "รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย",
       "image": "https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg",
-      "url": "https://www.youtube.com/embed/tr9Fcyn-xiw?autoplay=1&rel=0&playsinline=0",
-      "userAgent": "Mozilla/5.0",
-      "openInBrowser": "true"
+      "url": "https://m.youtube.com/watch?v=tr9Fcyn-xiw",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+      "referer": "https://m.youtube.com/",
+      "isHost": "true"
     },
     {
       "name": "รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙",
       "image": "https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg",
-      "url": "https://www.youtube.com/embed/jP24LwKtSg0?autoplay=1&rel=0&playsinline=0",
-      "userAgent": "Mozilla/5.0",
-      "openInBrowser": "true"
+      "url": "https://m.youtube.com/watch?v=jP24LwKtSg0",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+      "referer": "https://m.youtube.com/",
+      "isHost": "true"
     },
     {
       "name": "คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ",
       "image": "https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg",
-      "url": "https://www.youtube.com/embed/kGXoyrS9tm4?autoplay=1&rel=0&playsinline=0",
-      "userAgent": "Mozilla/5.0",
-      "openInBrowser": "true"
+      "url": "https://m.youtube.com/watch?v=kGXoyrS9tm4",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+      "referer": "https://m.youtube.com/",
+      "isHost": "true"
     }
   ]
 }
