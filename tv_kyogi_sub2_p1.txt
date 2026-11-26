@@ -1,0 +1,43 @@
+{
+  "name": "📺 Digital TV - ธรรมมะ",
+  "author": "KYO GI",
+  "image": "https://cdn.shopify.com/s/files/1/0608/6996/8004/files/What_is_Digital_TV.jpg?v=1763530210",
+  "stations": [
+    {
+      "name": "GBN",
+      "image": "https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png",
+      "url": "https://live1.gbnus.com/live/dhamma_high/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ZOOM072.Net",
+      "image": "https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png",
+      "url": "https://live.zoom072.com/ch5/ch5.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "หลวงพ่อทัตตชีโว",
+      "image": "https://apitv.dmc.tv/uploads/t02_41535e4e06.jpeg",
+      "url": "https://live.zoom072.com/ch6/ch6.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "สมาธิ 24 น.",
+      "image": "https://apitv.dmc.tv/uploads/med_0965d3b20b.png",
+      "url": "https://live.zoom072.com/ch7/ch7.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "กฏแห่งกรรม",
+      "image": "https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg",
+      "url": "https://live.zoom072.com/ch10/ch10.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "SBB TV",
+      "image": "https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947",
+      "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1652960849.m3u8",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
