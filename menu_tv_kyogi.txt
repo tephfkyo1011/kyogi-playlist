@@ -26,7 +26,7 @@
     },
     {
       "name": "📂 Entertainment🥤🥳",
-      "info": "23 ช่อง",
+      "info": "21 ช่อง",
       "image": "https://i.imgur.com/LgyPiad.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/tv_kyogi_sub3_p1.txt",
       "import": false
