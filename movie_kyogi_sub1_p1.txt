@@ -13,7 +13,8 @@
           "info": "ปกติ",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Overacting-2026-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/f8f2a8140d267d3501ee3dcf/f8f2a8140d267d3501ee3dcf438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -27,7 +28,8 @@
           "info": "ปกติ",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/Mutiny-2026-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/805b028b07c5f6c149537cb4/805b028b07c5f6c149537cb4438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -41,7 +43,8 @@
           "info": "ปกติ",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Runner-2026-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B6%E0%B9%89%E0%B8%81%E2%80%A6%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%99-%E0%B8%8A%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/aab6911783f1e3ffce330f3d/aab6911783f1e3ffce330f3d438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -55,7 +58,8 @@
           "info": "ปกติ",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-2026-%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A7-%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/d9b22e9ea932e972fdb14886/d9b22e9ea932e972fdb14886438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -69,7 +73,8 @@
           "info": "ปกติ",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/One-Last-Shot-2026-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/6a7f536f7152cf692979f87d/6a7f536f7152cf692979f87d438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
@@ -83,7 +88,8 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/05/Tom-Clancys-Jack-Ryan-Ghost-War-2026-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/6ffa800421ef0671a9dff6b6/6ffa800421ef0671a9dff6b6438.m3u8",
-          "playInNatPlayer": "true"
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com"
         }
       ]
     },
