@@ -4,6 +4,20 @@
   "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
   "stations": [
     {
+      "name": "รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย",
+      "image": "https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/PI9uXtHmhDE?autoplay=1&rel=0&playsinline=0",
+      "userAgent": "Mozilla/5.0",
+      "openInBrowser": "true"
+    },
+    {
+      "name": "รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย",
+      "image": "https://i.ytimg.com/vi/oGjHkhW48n4/hqdefault.jpg",
+      "url": "https://www.youtube.com/embed/oGjHkhW48n4?autoplay=1&rel=0&playsinline=0",
+      "userAgent": "Mozilla/5.0",
+      "openInBrowser": "true"
+    },
+    {
       "name": "รวมฉ่อยหน้าม่านสามน้า \"ฮาไม่หยุด ในวันหยุดยาว\" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12",
       "image": "https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg",
       "url": "https://www.youtube.com/embed/LDXrt8goums?autoplay=1&rel=0&playsinline=0",
