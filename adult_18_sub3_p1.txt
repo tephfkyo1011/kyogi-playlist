@@ -2,713 +2,306 @@
   "name": "🔞 หนัง ผู้ใหญ่ - ฝรั่ง (หน้า 1)",
   "author": "KYO GI",
   "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
-  "groups": [
+  "stations": [
     {
       "name": "House Of Silk เข้มโหนกนูน โคคูนมฤติยู",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/August-Skye-House-Of-Silk.webp",
-      "stations": [
-        {
-          "name": "House Of Silk เข้มโหนกนูน โคคูนมฤติยู",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/10/August-Skye-House-Of-Silk.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4307&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4307&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "The Massagynist XXX สวมรอยนวด ปวดกระดองกี",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/09/Jenni-Lee-The-Massagynist.webp",
-      "stations": [
-        {
-          "name": "The Massagynist XXX สวมรอยนวด ปวดกระดองกี",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/09/Jenni-Lee-The-Massagynist.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4308&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4308&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Jane Doe XXX ชันสูตรบอดี้ อยากซี่ก็ต้องหลอน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/08/Ashley-Lane-Jane-Doe-XXX.webp",
-      "stations": [
-        {
-          "name": "Jane Doe XXX ชันสูตรบอดี้ อยากซี่ก็ต้องหลอน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/08/Ashley-Lane-Jane-Doe-XXX.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4309&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4309&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Lordaardvark Refuge กระท่อมไม่หรู คู่หูมีเดือย",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/08/Refuge-Lord-Aardvark-4-K-870.webp",
-      "stations": [
-        {
-          "name": "Lordaardvark Refuge กระท่อมไม่หรู คู่หูมีเดือย",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/08/Refuge-Lord-Aardvark-4-K-870.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4310&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4310&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Facial Mask แตกบำรุงหน้า คุณย่าสองพันปี",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/07/Jenn-Cameron.webp",
-      "stations": [
-        {
-          "name": "Facial Mask แตกบำรุงหน้า คุณย่าสองพันปี",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/07/Jenn-Cameron.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4311&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4311&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Don’t Panic เสียเมียแลกข้าว หยุดห้าววันสิ้นโลก",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/07/Elena-Koshka-Don-t-Panic.webp",
-      "stations": [
-        {
-          "name": "Don’t Panic เสียเมียแลกข้าว หยุดห้าววันสิ้นโลก",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/07/Elena-Koshka-Don-t-Panic.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4312&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4312&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Snug Hug พ่อแฟนรับจบ แอบหลบคาห้องน้ำ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/Snug-Hug.webp",
-      "stations": [
-        {
-          "name": "Snug Hug พ่อแฟนรับจบ แอบหลบคาห้องน้ำ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/Snug-Hug.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4313&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4313&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Blacks on Blondes รักสามเศร้าเด้าสามคน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/Mirika-Brian-Wesley.webp",
-      "stations": [
-        {
-          "name": "Blacks on Blondes รักสามเศร้าเด้าสามคน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/05/Mirika-Brian-Wesley.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4314&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4314&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "The Pool Cleaner ผัวไม่ว่าง ชวนพนักงานล้างสระมาเย็ด",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/zolazola.webp",
-      "stations": [
-        {
-          "name": "The Pool Cleaner ผัวไม่ว่าง ชวนพนักงานล้างสระมาเย็ด",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/zolazola.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4315&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4315&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "You Got Me Pregnant นายทำฉันท้อง แผนลองของไอ้น้องหน้าโง่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Demi-Hawks-You-Got-Me-Pregnant-Stepbro-xxx.webp",
-      "stations": [
-        {
-          "name": "You Got Me Pregnant นายทำฉันท้อง แผนลองของไอ้น้องหน้าโง่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Demi-Hawks-You-Got-Me-Pregnant-Stepbro-xxx.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4316&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4316&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Brazzers – Steamy Threesome บังอาจดูถูกดาราที่ฉันชอบ ต้องโดนขย่ม",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/1280x720.17451773.webp",
-      "stations": [
-        {
-          "name": "Brazzers – Steamy Threesome บังอาจดูถูกดาราที่ฉันชอบ ต้องโดนขย่ม",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/1280x720.17451773.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4317&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4317&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "BangBus Miss Little One Night Stand หลอกสาวมาเย็ดบนรถแล้ว ทิ้งไว้ข้างทาง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/BangBus.webp",
-      "stations": [
-        {
-          "name": "BangBus Miss Little One Night Stand หลอกสาวมาเย็ดบนรถแล้ว ทิ้งไว้ข้างทาง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/BangBus.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4318&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4318&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Nubiles-Porn My Sister Wives What It Takes น้องเมียอยากโดน สุดโคนก็ไม่กลัว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Nubiles-Porn.webp",
-      "stations": [
-        {
-          "name": "Nubiles-Porn My Sister Wives What It Takes น้องเมียอยากโดน สุดโคนก็ไม่กลัว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Nubiles-Porn.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4319&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4319&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Stuck On My Step Sister ติดกาวจนติดใจ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Cadey-Mercury.webp",
-      "stations": [
-        {
-          "name": "Stuck On My Step Sister ติดกาวจนติดใจ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Cadey-Mercury.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4320&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4320&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Ellie Eilish-Jays POV พ่อเลี้ยงกับลูกสาว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Ellie-Eilish.webp",
-      "stations": [
-        {
-          "name": "Ellie Eilish-Jays POV พ่อเลี้ยงกับลูกสาว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Ellie-Eilish.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4321&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4321&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "I Woke up with a Stranger in my Bed ตื่นมาก็เจอ โอ้เธอเป็นใคร",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Screenshot_1-1.webp",
-      "stations": [
-        {
-          "name": "I Woke up with a Stranger in my Bed ตื่นมาก็เจอ โอ้เธอเป็นใคร",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Screenshot_1-1.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4322&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4322&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "I just Wanted to Watch a Movie มาดู Netflix ที่ห้องพี่ไหม",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/I-just-Wanted-to-Watch-a-Movie.webp",
-      "stations": [
-        {
-          "name": "I just Wanted to Watch a Movie มาดู Netflix ที่ห้องพี่ไหม",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/I-just-Wanted-to-Watch-a-Movie.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4323&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4323&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "A Doctor’s Duty ขึ้นวอร์ดไม่สึกหรอ ถึงมือหมอสบายฮี",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/Jenni-Lee.webp",
-      "stations": [
-        {
-          "name": "A Doctor’s Duty ขึ้นวอร์ดไม่สึกหรอ ถึงมือหมอสบายฮี",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/Jenni-Lee.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4324&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4324&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "My Princess Sister เผลอเสียบจรวด พี่หวดตามน้ำ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/Emma-Hix-My-Princess-Step.webp",
-      "stations": [
-        {
-          "name": "My Princess Sister เผลอเสียบจรวด พี่หวดตามน้ำ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/Emma-Hix-My-Princess-Step.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4325&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4325&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Test Of Jay’s Resistance เสียบทีกีผวา คุณน้องขาใหญ่คับรู",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/princess-cum-vol-10.webp",
-      "stations": [
-        {
-          "name": "Test Of Jay’s Resistance เสียบทีกีผวา คุณน้องขาใหญ่คับรู",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/princess-cum-vol-10.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4326&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4326&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MD0250-1 NTR ไหว้พระราหู เชิดชูของดำใหญ่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/amal3ht3yvcp1x4fir3pm8knvwyshp2g.webp",
-      "stations": [
-        {
-          "name": "MD0250-1 NTR ไหว้พระราหู เชิดชูของดำใหญ่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/amal3ht3yvcp1x4fir3pm8knvwyshp2g.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4327&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4327&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "PMU002 Bad girl conquers ยัยตัวร้าย กับนายครูใหญ่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/Peach-Video-Media-PMU002-Multiplayer-Melee-Bad-Girls-Conquer-the-Principal-with-Their-Body.webp",
-      "stations": [
-        {
-          "name": "PMU002 Bad girl conquers ยัยตัวร้าย กับนายครูใหญ่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/Peach-Video-Media-PMU002-Multiplayer-Melee-Bad-Girls-Conquer-the-Principal-with-Their-Body.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4328&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4328&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Air Hostesses เกินไม้บรรทัด ของัดสาวแอร์ไลน์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/Air-Hostesses-Anal.webp",
-      "stations": [
-        {
-          "name": "Air Hostesses เกินไม้บรรทัด ของัดสาวแอร์ไลน์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/Air-Hostesses-Anal.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4329&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4329&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "An Indecent Story เพลงฉิ่งคลุกเคล้า ปลุกเร้าชีวิตคู่",
-      "info": "EP 2",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/08/Tiffany-Leiddi-เพลงฉิ่งคลุกเคล้าปลุกเร้าชีวิตคู่.webp",
-      "stations": [
-        {
-          "name": "An Indecent Story เพลงฉิ่งคลุกเคล้า ปลุกเร้าชีวิตคู่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/08/Tiffany-Leiddi-เพลงฉิ่งคลุกเคล้าปลุกเร้าชีวิตคู่.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4330&type=video",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "An Indecent Story เพลงฉิ่งคลุกเคล้า ปลุกเร้าชีวิตคู่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/bda6ad06-aeab-4018-986d-73aac9e96f33_largesize.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4332&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4330&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Stepbrothers Huge Loads น้องจอมฝักใฝ่ปืนใหญ่พ่นน้ำ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/08/Myra-Moans-Stepbrothers-H.webp",
-      "stations": [
-        {
-          "name": "Stepbrothers Huge Loads น้องจอมฝักใฝ่ปืนใหญ่พ่นน้ำ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/08/Myra-Moans-Stepbrothers-H.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4331&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4331&type=video",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "An Indecent Story เพลงฉิ่งคลุกเคล้า ปลุกเร้าชีวิตคู่",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/bda6ad06-aeab-4018-986d-73aac9e96f33_largesize.webp",
+      "url": "https://3ird.samorn-team.workers.dev/?id=4332&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Captain America XXX เกาตรงที่คัน กัปตันอเมริกา",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Captain-America-XXX.webp",
-      "stations": [
-        {
-          "name": "Captain America XXX เกาตรงที่คัน กัปตันอเมริกา",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Captain-America-XXX.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4333&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4333&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Rome 3 โรมรันลงแขก จุดแตกมหากาพย์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Roma-3-2008-Cover.webp",
-      "stations": [
-        {
-          "name": "Rome 3 โรมรันลงแขก จุดแตกมหากาพย์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Roma-3-2008-Cover.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4334&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4334&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Rome 2 หวนคืนรักเก่า เขย่าบัลลังก์ซีซาร์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Roma-2.webp",
-      "stations": [
-        {
-          "name": "Rome 2 หวนคืนรักเก่า เขย่าบัลลังก์ซีซาร์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Roma-2.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4335&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4335&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Roma 1 งานเข้าชาวโรม คัมมิ่งโฮมซีซาร์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Roma-1-2007-Cover.webp",
-      "stations": [
-        {
-          "name": "Roma 1 งานเข้าชาวโรม คัมมิ่งโฮมซีซาร์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/07/Roma-1-2007-Cover.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4336&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4336&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Public Agent เงินฟาดหัวได้หลัวชั่วคราว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/05/Public-Agent.webp",
-      "stations": [
-        {
-          "name": "Public Agent เงินฟาดหัวได้หลัวชั่วคราว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/05/Public-Agent.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4337&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4337&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Step sis พี่แจ่มต้องไฝว้ เกมไพ่ลองใจ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/04/Fun-And-Games-With-Step-Sis.webp",
-      "stations": [
-        {
-          "name": "Step sis พี่แจ่มต้องไฝว้ เกมไพ่ลองใจ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/04/Fun-And-Games-With-Step-Sis.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4338&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4338&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Little Caprice ชีวิตดี๊ดีสามีพลังม้า",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/04/dilemma.webp",
-      "stations": [
-        {
-          "name": "Little Caprice ชีวิตดี๊ดีสามีพลังม้า",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/04/dilemma.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4339&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4339&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Sexbots Programmed หุ่นหรือคนจักรกลสุขสันต์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Sex-bot.webp",
-      "stations": [
-        {
-          "name": "Sexbots Programmed หุ่นหรือคนจักรกลสุขสันต์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Sex-bot.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4340&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4340&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Voodoo Sex Dolls ตุ๊กตาวูดูมุดรูขย่มตอ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Private12-1.webp",
-      "stations": [
-        {
-          "name": "Voodoo Sex Dolls ตุ๊กตาวูดูมุดรูขย่มตอ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Private12-1.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4341&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4341&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "La Bourgeoise หลักสูตรหำผวาปรารถนาไม่สิ้นสุด",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/La-Bourgeoise.webp",
-      "stations": [
-        {
-          "name": "La Bourgeoise หลักสูตรหำผวาปรารถนาไม่สิ้นสุด",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/La-Bourgeoise.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4342&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4342&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Hard As You Wish แข็งทันใจแตกไวทันกาล",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/HAYW.webp",
-      "stations": [
-        {
-          "name": "Hard As You Wish แข็งทันใจแตกไวทันกาล",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/HAYW.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4343&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4343&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Table Footplay ลูกอ้อนก็มามารยาแรกรุ่น",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/FS.webp",
-      "stations": [
-        {
-          "name": "Table Footplay ลูกอ้อนก็มามารยาแรกรุ่น",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/FS.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4344&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4344&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Operation Sex Siege หน่วยซี๊ดซ๊าดถล่มเนินสวาท",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/aekvyem5by1.webp",
-      "stations": [
-        {
-          "name": "Operation Sex Siege หน่วยซี๊ดซ๊าดถล่มเนินสวาท",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/aekvyem5by1.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4345&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4345&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Lana Part 1 กระหายเงินสดเชิญกดประตูหลัง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/1480559.webp",
-      "stations": [
-        {
-          "name": "Lana Part 1 กระหายเงินสดเชิญกดประตูหลัง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/1480559.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4346&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4346&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Dawna of the Dead ผัวจับหมีเล่นผีถ้วยแก้ว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/a04c1blqh4wx.webp",
-      "stations": [
-        {
-          "name": "Dawna of the Dead ผัวจับหมีเล่นผีถ้วยแก้ว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/a04c1blqh4wx.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4347&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4347&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Corsica Hot Sex รักเร่าร้อนที่คอร์ซิก้า",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Corsica-Hot-Sex.webp",
-      "stations": [
-        {
-          "name": "Corsica Hot Sex รักเร่าร้อนที่คอร์ซิก้า",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Corsica-Hot-Sex.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4348&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4348&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Carolina Jones แคโรไลน่าอ้าไม่หุบ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Carolina-1.webp",
-      "stations": [
-        {
-          "name": "Carolina Jones แคโรไลน่าอ้าไม่หุบ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/Carolina-1.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4349&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4349&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Skye Blue ทูดูลิสต์พิชิตของดำ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/BBC-To-Go.webp",
-      "stations": [
-        {
-          "name": "Skye Blue ทูดูลิสต์พิชิตของดำ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/BBC-To-Go.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4350&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4350&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "1001 Erotic Nights พันหนึ่งราตรีเทพีสุุดสวาท",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/22fd0c8419b71fc5645844241272bd8581840869.webp",
-      "stations": [
-        {
-          "name": "1001 Erotic Nights พันหนึ่งราตรีเทพีสุุดสวาท",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/22fd0c8419b71fc5645844241272bd8581840869.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4351&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4351&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "1001 Erotic Nights II พันหนึ่งราตรีเทพีผมบลอนด์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/617512.webp",
-      "stations": [
-        {
-          "name": "1001 Erotic Nights II พันหนึ่งราตรีเทพีผมบลอนด์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/617512.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4352&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4352&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Brazzers A Dose Of Cock เสียบก็หายสลายซึมเศร้า",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/A-Dose-Of-Cock.webp",
-      "stations": [
-        {
-          "name": "Brazzers A Dose Of Cock เสียบก็หายสลายซึมเศร้า",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/03/A-Dose-Of-Cock.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4353&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4353&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Long Con ปล้นด้วยหมี เศรษฐีมฤตยู",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/02/agatha-vega.jpg",
-      "stations": [
-        {
-          "name": "Long Con ปล้นด้วยหมี เศรษฐีมฤตยู",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/02/agatha-vega.jpg",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4354&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4354&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Heat Wave ไฟสุมทรวงทะลวงไม่ไว้หน้า",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Heat-Wave-cover.webp",
-      "stations": [
-        {
-          "name": "Heat Wave ไฟสุมทรวงทะลวงไม่ไว้หน้า",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Heat-Wave-cover.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4355&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4355&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "Without Even Trying ทรายทำแสบนางแบบล่อตะเข้",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Ellie-Leen-Without-Even-Try.webp",
-      "stations": [
-        {
-          "name": "Without Even Trying ทรายทำแสบนางแบบล่อตะเข้",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Ellie-Leen-Without-Even-Try.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4356&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "Stiff Competition ปากดีเชิญสวบงานบ๊วบบันลือโลก",
-      "info": "EP 1",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Stiff-Competition.webp",
-      "stations": [
-        {
-          "name": "Stiff Competition ปากดีเชิญสวบงานบ๊วบบันลือโลก",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Stiff-Competition.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=4357&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=4356&type=video",
+      "playInNatPlayer": "true"
     }
   ]
 }
