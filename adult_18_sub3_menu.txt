@@ -13,28 +13,28 @@
     {
       "name": "📄 ฝรั่ง (หน้า 2)",
       "info": "50 เรื่อง",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Tarzan-X.webp",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2024/02/Stiff-Competition.webp",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub3_p2.txt",
       "import": false
     },
     {
       "name": "📄 ฝรั่ง (หน้า 3)",
       "info": "50 เรื่อง",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2020/10/Screenshot_1-1.webp",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2020/10/102untitled.webp",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub3_p3.txt",
       "import": false
     },
     {
       "name": "📄 ฝรั่ง (หน้า 4)",
       "info": "50 เรื่อง",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2020/01/R5Nwc9.webp",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2020/03/Untitled-1-1.webp",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub3_p4.txt",
       "import": false
     },
     {
       "name": "📄 ฝรั่ง (หน้า 5)",
-      "info": "16 เรื่อง",
-      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1-20.webp",
+      "info": "20 เรื่อง",
+      "image": "https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1-18.webp",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/adult_18_sub3_p5.txt",
       "import": false
     }
