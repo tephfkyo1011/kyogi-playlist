@@ -1,0 +1,267 @@
+{
+  "name": "🎉 บันเทิง - เป็นต่อ 2023",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
+  "stations": [
+    {
+      "name": "เป็นต่อ 2023 Ep.01",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://www.dailymotion.com/video/x8p6h8v",
+      "playInNatPlayer": "true",
+      "referer": "https://www.dailymotion.com/th",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.01",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://vod3.cf.dmcdn.net/sec2(Np7ffdeG5GMjQimS4vUbVLxEvq2gYvuHwrEbS3W8AI6UCzngBkjRImv4udipMTAM3CsmigZKXJVTzBJickKbe-I45Np9SH4VthLTqxDAf00dYRoXiMUqIB-i0mzSTmtOYgGzOdDtD27PG1QWkqNhxQ)/video/590/220/526022095_mp4_h264_aac_fhd_8.m3u8",
+      "playInNatPlayer": "true",
+      "referer": "https://www.dailymotion.com/th"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.02",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4386189216315",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.03",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4407415343675",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.04",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4428902697531",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.05",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4450449558075",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.06",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4470971501115",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.07",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4493859424827",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.08",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4524111563323",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.09",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4551392365115",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.10",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4615680625211",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.11",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4676539255355",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.12",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4726883027515",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.13",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4803499985467",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.14",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/4842176514619",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.15",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5012941244987",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.16",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5012941507131",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.17",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5069699746363",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.18",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5157032823355",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.19",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5247259642427",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.20",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5316753754683",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.21",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5346847427131",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.22",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5403537181243",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.23",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5469380610619",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.24",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5507970763323",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.25",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5731362409019",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.26",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/5959288556091",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.27",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6060495079995",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.28",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6156156209723",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.29",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6206307961403",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.30",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6227585927739",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.31",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6259426593339",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.32",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6282961750587",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.33",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6304395233851",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.34",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6341414816315",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.35",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6349934365243",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    },
+    {
+      "name": "เป็นต่อ 2023 Ep.36",
+      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
+      "url": "https://ok.ru/videoembed/6372448012859",
+      "embed": "true",
+      "referer": "https://ok.ru/"
+    }
+  ]
+}
