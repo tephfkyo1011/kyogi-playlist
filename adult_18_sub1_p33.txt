@@ -2,706 +2,306 @@
   "name": "🔞 หนัง ผู้ใหญ่ - ญี่ปุ่น (หน้า 33)",
   "author": "KYO GI",
   "image": "https://www.dropbox.com/scl/fi/sfvnom5tjbt5a63vjwwgt/18.gif?rlkey=9zd6s7i6vzi8k6x604mqeklex&dl=1",
-  "groups": [
+  "stations": [
     {
       "name": "SSIS-878 The Last Train ลุคนี้มีร้อง รุ่นน้องโนเมคอัพ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/03/ssis878pl.webp",
-      "stations": [
-        {
-          "name": "SSIS-878 The Last Train ลุคนี้มีร้อง รุ่นน้องโนเมคอัพ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/03/ssis878pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1643&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1643&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "JUY-893 Taste of Honey ไอ้หนุ่มอยู่เป็น ออนเซ็นบริษัท",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/juy893pl.webp",
-      "stations": [
-        {
-          "name": "JUY-893 Taste of Honey ไอ้หนุ่มอยู่เป็น ออนเซ็นบริษัท",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/juy893pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1644&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1644&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "SONE-650 A Swimming Club ชมรมว่ายน้ำสุดเฮงซวย ใช้ควยสอนสมาชิกสาวดาวโรงเรียน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/sone650pl.webp",
-      "stations": [
-        {
-          "name": "SONE-650 A Swimming Club ชมรมว่ายน้ำสุดเฮงซวย ใช้ควยสอนสมาชิกสาวดาวโรงเรียน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/sone650pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1645&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1645&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "IPX-836 Business Trip ติดพายุหนัก ต้องพักกับบอสสุดหื่น",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/ipx836pl.webp",
-      "stations": [
-        {
-          "name": "IPX-836 Business Trip ติดพายุหนัก ต้องพักกับบอสสุดหื่น",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/04/ipx836pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1646&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1646&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "STARS-892 Sharing a hotel แชร์ห้องเอ็นจอย เชอรี่บอยซอยฟิน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/03/1stars892pl.webp",
-      "stations": [
-        {
-          "name": "STARS-892 Sharing a hotel แชร์ห้องเอ็นจอย เชอรี่บอยซอยฟิน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/03/1stars892pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1647&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1647&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "SSIS-726 Female College น่ารักเกินเบอร์ เผลอใจเล่นชู้",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2025/03/ssis726pl.webp",
-      "stations": [
-        {
-          "name": "SSIS-726 Female College น่ารักเกินเบอร์ เผลอใจเล่นชู้",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2025/03/ssis726pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1648&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1648&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MEYD-787 Aunt Is Too Erotic หลานตำนัวส์ ยั่วจนได้เรื่อง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/meyd787pl.webp",
-      "stations": [
-        {
-          "name": "MEYD-787 Aunt Is Too Erotic หลานตำนัวส์ ยั่วจนได้เรื่อง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/meyd787pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1649&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1649&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "JUQ-519 Best Friend เอาจริงไม่เล่น ล้ำเส้นเมียเพื่อน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/juq519pl.webp",
-      "stations": [
-        {
-          "name": "JUQ-519 Best Friend เอาจริงไม่เล่น ล้ำเส้นเมียเพื่อน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/juq519pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1650&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1650&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "HMN-019 After School ครูเครื่องฟิต ลูกศิษย์ขอเพียว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/hmn019pl.webp",
-      "stations": [
-        {
-          "name": "HMN-019 After School ครูเครื่องฟิต ลูกศิษย์ขอเพียว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/hmn019pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1651&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1651&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "JUQ-480 Swimming Club คุณครูเอวดี กู้ศักดิ์ศรีชมรม",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/juq480pl.webp",
-      "stations": [
-        {
-          "name": "JUQ-480 Swimming Club คุณครูเอวดี กู้ศักดิ์ศรีชมรม",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/juq480pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1652&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1652&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "SONE-192 My Girlfriend’s Sister สองวันทำแทน น้องแฟนดาวโซเชียล",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/sone192pl.webp",
-      "stations": [
-        {
-          "name": "SONE-192 My Girlfriend’s Sister สองวันทำแทน น้องแฟนดาวโซเชียล",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/sone192pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1653&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1653&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "ABW-290 Countryside กลับจากกรุง เพื่อนพยุงเข้าร่อง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/12/118abw290pl.webp",
-      "stations": [
-        {
-          "name": "ABW-290 Countryside กลับจากกรุง เพื่อนพยุงเข้าร่อง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/12/118abw290pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1654&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1654&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "SERO-170 Immigration พี่มืดหัวขวด ด่านตรวจใจสยิว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/h_422sero0170pl.webp",
-      "stations": [
-        {
-          "name": "SERO-170 Immigration พี่มืดหัวขวด ด่านตรวจใจสยิว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/h_422sero0170pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1655&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1655&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "JUX-601 Big Brother ติดใจจัดต่อ โอล่ะพ่อคนใกล้ตัว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/jux601pl.webp",
-      "stations": [
-        {
-          "name": "JUX-601 Big Brother ติดใจจัดต่อ โอล่ะพ่อคนใกล้ตัว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/jux601pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1656&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1656&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "ADN-564 Aphrodisiac ไปทริปนะพ่อ ห้ามล่อภรรยาผม",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/adn564pl.webp",
-      "stations": [
-        {
-          "name": "ADN-564 Aphrodisiac ไปทริปนะพ่อ ห้ามล่อภรรยาผม",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/adn564pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1657&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1657&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "YMDD-403 Solo Camp แคมป์สุดเปลี่ยว เลี้ยวทุกสถานี",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/ymdd403pl.webp",
-      "stations": [
-        {
-          "name": "YMDD-403 Solo Camp แคมป์สุดเปลี่ยว เลี้ยวทุกสถานี",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/ymdd403pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1658&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1658&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "FSDSS-610 About Blowjobs น้องเลม่อน กับลีลาอมไม่ขมคอ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/1fsdss610pl.webp",
-      "stations": [
-        {
-          "name": "FSDSS-610 About Blowjobs น้องเลม่อน กับลีลาอมไม่ขมคอ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/1fsdss610pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1659&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1659&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "RBD-203 Forgive me สัมพันธ์สิ้นคิด ฝากชีวิตที่พี่หลัว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/rbd203pl.webp",
-      "stations": [
-        {
-          "name": "RBD-203 Forgive me สัมพันธ์สิ้นคิด ฝากชีวิตที่พี่หลัว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/rbd203pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1660&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1660&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "ADN-483 My Mother-in-law พ่อเชื้อฝ่อ แม่ล่อลูกเลี้ยง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/adn483pl.webp",
-      "stations": [
-        {
-          "name": "ADN-483 My Mother-in-law พ่อเชื้อฝ่อ แม่ล่อลูกเลี้ยง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/adn483pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1661&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1661&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "GVH-106 School Spa Trip ทัศนศึกษาครูสาวชนบท กับเด็กเวรกาม (Ai Translate)",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/13gvh106pl.webp",
-      "stations": [
-        {
-          "name": "GVH-106 School Spa Trip ทัศนศึกษาครูสาวชนบท กับเด็กเวรกาม (Ai Translate)",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/13gvh106pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1662&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1662&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "DLDSS-177 My Beloved Girlfriend ชู้เมียรุ่นน้อง ขอร้องจากรุ่นพี่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/1dldss177pl.webp",
-      "stations": [
-        {
-          "name": "DLDSS-177 My Beloved Girlfriend ชู้เมียรุ่นน้อง ขอร้องจากรุ่นพี่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/1dldss177pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1663&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1663&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "CAWD-773 Take A Shower แค่มาอาบน้ำ เรื่องกามเป็นผลพลอยได้",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/cawd773pl.webp",
-      "stations": [
-        {
-          "name": "CAWD-773 Take A Shower แค่มาอาบน้ำ เรื่องกามเป็นผลพลอยได้",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/cawd773pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1664&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1664&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "CAWD-445 Ex-Girlfriend ของเก่าจับใจ ลูบไล้สามวัน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/cawd445pl.webp",
-      "stations": [
-        {
-          "name": "CAWD-445 Ex-Girlfriend ของเก่าจับใจ ลูบไล้สามวัน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/cawd445pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1665&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1665&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "FSDSS-534 Female College Student ความหื่นนี้ มีไว้เพื่อเธอ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/1fsdss534pl.webp",
-      "stations": [
-        {
-          "name": "FSDSS-534 Female College Student ความหื่นนี้ มีไว้เพื่อเธอ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/1fsdss534pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1666&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1666&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "NKKD-217 My Wife ภรรยาจิ้มจุ่ม เสร็จหนุ่มพาร์ทไทม์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/nkkd217pl.webp",
-      "stations": [
-        {
-          "name": "NKKD-217 My Wife ภรรยาจิ้มจุ่ม เสร็จหนุ่มพาร์ทไทม์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/nkkd217pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1667&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1667&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "SONE-405 My Student ยั่วเกินทนดู ล่อครูมาแตก",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/sone405pl.webp",
-      "stations": [
-        {
-          "name": "SONE-405 My Student ยั่วเกินทนดู ล่อครูมาแตก",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/sone405pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1668&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1668&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "NSFS-324 Mature Mother ติดบ่วงแม่เลี้ยง เสี่ยงก็จะรัก",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/nsfs324pl.webp",
-      "stations": [
-        {
-          "name": "NSFS-324 Mature Mother ติดบ่วงแม่เลี้ยง เสี่ยงก็จะรัก",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/11/nsfs324pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1669&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1669&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "START-184 Hostess บุญคุณทวงเพลีย เมียนักเบสบอล",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/off_START-184.webp",
-      "stations": [
-        {
-          "name": "START-184 Hostess บุญคุณทวงเพลีย เมียนักเบสบอล",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/off_START-184.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1670&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1670&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "SSIS-798 Getting Married วิวาห์วุ่น กรุ่นถ่านไฟเก่า",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/ssis798pl.webp",
-      "stations": [
-        {
-          "name": "SSIS-798 Getting Married วิวาห์วุ่น กรุ่นถ่านไฟเก่า",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/ssis798pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1671&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1671&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "CAWD-447 Reunited With My Teacher ศิษย์เก่าเมาถึงที่ จับปี้ยันเช้า",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/cawd447.webp",
-      "stations": [
-        {
-          "name": "CAWD-447 Reunited With My Teacher ศิษย์เก่าเมาถึงที่ จับปี้ยันเช้า",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/cawd447.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1672&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1672&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "RBD-914 Slave Color 42 เงี่ยนงำอำพราง หนทางไปสู่ทาส",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/rbd914pl.webp",
-      "stations": [
-        {
-          "name": "RBD-914 Slave Color 42 เงี่ยนงำอำพราง หนทางไปสู่ทาส",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/rbd914pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1673&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1673&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "RBD-911 Slave Color 41 ส่งเมียกีบรรลัย ทุนวิจัยอุปโลกน์",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/rbd911pl.webp",
-      "stations": [
-        {
-          "name": "RBD-911 Slave Color 41 ส่งเมียกีบรรลัย ทุนวิจัยอุปโลกน์",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/rbd911pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1674&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1674&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MIAB-102 My Daughter ขายลูกกิน เข้าวินทรชน",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/miab102pl.webp",
-      "stations": [
-        {
-          "name": "MIAB-102 My Daughter ขายลูกกิน เข้าวินทรชน",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/miab102pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1675&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1675&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "JUQ-902 More Creampie เวลาไม่คอยท่า ช่างกล้าหวดเมียพี่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/juq902pl.webp",
-      "stations": [
-        {
-          "name": "JUQ-902 More Creampie เวลาไม่คอยท่า ช่างกล้าหวดเมียพี่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/juq902pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1676&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1676&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "PRED-714 Morning Come เกมดื่มรุมจริง แม่หญิงเรียวกัง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/pred714pl.webp",
-      "stations": [
-        {
-          "name": "PRED-714 Morning Come เกมดื่มรุมจริง แม่หญิงเรียวกัง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/pred714pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1677&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1677&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "RBD-910 Slave Color 40 ข่มเหงเครื่องยับ รหัสลับฮาร์โมนี่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/rbd910pl.webp",
-      "stations": [
-        {
-          "name": "RBD-910 Slave Color 40 ข่มเหงเครื่องยับ รหัสลับฮาร์โมนี่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/rbd910pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1678&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1678&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "ABF-017 Soaking Wet ตัวเปียกเรียกแขกน้ำแตกทั้งออฟฟิศ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/118abf017pl.webp",
-      "stations": [
-        {
-          "name": "ABF-017 Soaking Wet ตัวเปียกเรียกแขกน้ำแตกทั้งออฟฟิศ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/118abf017pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1679&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1679&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "JUQ-859 My Fiance ทำทรงหวงแหน คุณแฟนเป็นออหรี่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/juq859pl.webp",
-      "stations": [
-        {
-          "name": "JUQ-859 My Fiance ทำทรงหวงแหน คุณแฟนเป็นออหรี่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/juq859pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1680&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1680&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "EBWH-105 Top Class จุมพิตนงคราญ เนื้องานระดับท็อป",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/ebwh105pl.webp",
-      "stations": [
-        {
-          "name": "EBWH-105 Top Class จุมพิตนงคราญ เนื้องานระดับท็อป",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/ebwh105pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1681&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1681&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "SONE-385 K-cup Beauty Model เคคัพโคกคูณ โดนจูนบนรถไฟ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/SONE-385.webp",
-      "stations": [
-        {
-          "name": "SONE-385 K-cup Beauty Model เคคัพโคกคูณ โดนจูนบนรถไฟ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/SONE-385.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1682&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1682&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "DASS-242 Sperm Money นโยบายช่วยเสริม สเปิร์มอิสมันนี่",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/dass242pl.webp",
-      "stations": [
-        {
-          "name": "DASS-242 Sperm Money นโยบายช่วยเสริม สเปิร์มอิสมันนี่",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/dass242pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1683&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1683&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "STARS-796 Shared Room NTR หิมะถล่ม ขย่มนักข่าวสาวสวย",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/1stars796pl.webp",
-      "stations": [
-        {
-          "name": "STARS-796 Shared Room NTR หิมะถล่ม ขย่มนักข่าวสาวสวย",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/1stars796pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1684&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1684&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "ADN-622 Addicted เมียใหม่พ่อ ล่อให้สุดทาง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/adn622pl.webp",
-      "stations": [
-        {
-          "name": "ADN-622 Addicted เมียใหม่พ่อ ล่อให้สุดทาง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/adn622pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1685&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1685&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "KV-119 128 Minutes Non-stop ฟินถึงดวงดาว ยิงยาวซีนอันคัท",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/436kv119pl.webp",
-      "stations": [
-        {
-          "name": "KV-119 128 Minutes Non-stop ฟินถึงดวงดาว ยิงยาวซีนอันคัท",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/436kv119pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1686&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1686&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "EBWH-134 My Room เพื่อนแทงไม่เสียว ใจเลี้ยวไปหาเธอ",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/ebwh134pl.webp",
-      "stations": [
-        {
-          "name": "EBWH-134 My Room เพื่อนแทงไม่เสียว ใจเลี้ยวไปหาเธอ",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/10/ebwh134pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1687&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1687&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "URE-073 Son Gonzo แตกคือกัน ผูกสัมพันธ์แม่สู่ลูก",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/ure073pl.webp",
-      "stations": [
-        {
-          "name": "URE-073 Son Gonzo แตกคือกัน ผูกสัมพันธ์แม่สู่ลูก",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/ure073pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1688&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1688&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "FSDSS-871 AI Robot ไซบอร์กรู้ใจ เอไอทะลวงเสียว",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/fsdss871.webp",
-      "stations": [
-        {
-          "name": "FSDSS-871 AI Robot ไซบอร์กรู้ใจ เอไอทะลวงเสียว",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/fsdss871.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1689&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1689&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "URE-090 My Favorite ปณิธานแน่วแน่ เพื่อแม่ให้หมดเข่ง",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/ure090pl.webp",
-      "stations": [
-        {
-          "name": "URE-090 My Favorite ปณิธานแน่วแน่ เพื่อแม่ให้หมดเข่ง",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/ure090pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1690&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1690&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "ADN-425 Sweaty แอร์เสียร้อนสัด ยืนจัดสนองนาย",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/adn425pl.webp",
-      "stations": [
-        {
-          "name": "ADN-425 Sweaty แอร์เสียร้อนสัด ยืนจัดสนองนาย",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/adn425pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1691&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1691&type=video",
+      "playInNatPlayer": "true"
     },
     {
       "name": "MIRD-141 Bus Tour 2014 รถบัสต่างแดน ทดแทน FC",
-      "info": "EP 1",
       "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/mird141pl.webp",
-      "stations": [
-        {
-          "name": "MIRD-141 Bus Tour 2014 รถบัสต่างแดน ทดแทน FC",
-          "info": "ปกติ",
-          "image": "https://ww.avsubthai.men/wp-content/uploads/2024/09/mird141pl.webp",
-          "url": "https://3ird.samorn-team.workers.dev/?id=1692&type=video",
-          "playInNatPlayer": "true"
-        }
-      ]
+      "url": "https://3ird.samorn-team.workers.dev/?id=1692&type=video",
+      "playInNatPlayer": "true"
     }
   ]
 }
