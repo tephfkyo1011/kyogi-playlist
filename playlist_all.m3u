@@ -1301,14 +1301,6 @@ https://main.24playerhd.com/m3u8/a8fcade84c45d41678c31734/a8fcade84c45d41678c317
 #EXTINF:-1 tvg-name="Extraordinary Attorney Minami (2026) มินามิ ทนายอัจฉริยะ - ตอนที่ 6 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/10/Extraordinary-Attorney-Minami-2026-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-300x450.jpg" group-title="🇯🇵 ซีรีส์ญี่ปุ่น - ปี 2026",Extraordinary Attorney Minami (2026) มินามิ ทนายอัจฉริยะ - ตอนที่ 6 [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hdc.com
 https://main.24playerhd.com/m3u8/f77a5e0419dc521a00a4d014/f77a5e0419dc521a00a4d014438.m3u8
-#EXTINF:-1 tvg-name="รวมฉ่อยหน้าม่านสามน้า "ฮาไม่หยุด ในวันหยุดยาว" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12 [พากย์ไทย]" tvg-logo="https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมฉ่อยหน้าม่านสามน้า "ฮาไม่หยุด ในวันหยุดยาว" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12 [พากย์ไทย]
-https://yt-stream.phiphatprojects.workers.dev/?v=LDXrt8goums
-#EXTINF:-1 tvg-name="รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย [พากย์ไทย]" tvg-logo="https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย [พากย์ไทย]
-https://yt-stream.phiphatprojects.workers.dev/?v=tr9Fcyn-xiw
-#EXTINF:-1 tvg-name="รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙ [พากย์ไทย]" tvg-logo="https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙ [พากย์ไทย]
-https://yt-stream.phiphatprojects.workers.dev/?v=jP24LwKtSg0
-#EXTINF:-1 tvg-name="คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ [พากย์ไทย]" tvg-logo="https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ [พากย์ไทย]
-https://yt-stream.phiphatprojects.workers.dev/?v=kGXoyrS9tm4
 #EXTINF:-1 tvg-name="CH5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH5
 https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8
 #EXTINF:-1 tvg-name="McotHD" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",McotHD
@@ -1391,20 +1383,32 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTVLCOPT:http-referrer=https://www.adintrend.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://p0.cdn.vet/live/ch33/i/ch33i.m3u8?sid=b5xca0a9cbb9694cdd76b06356bbefef1822f6e98ef515eb6dd
-#EXTINF:-1 tvg-name="GBN" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",GBN
+#EXTINF:-1 tvg-name="GBN" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png" group-title="📺 Digital TV - ธรรมมะ",GBN
 https://live1.gbnus.com/live/dhamma_high/playlist.m3u8
-#EXTINF:-1 tvg-name="ZOOM072.Net" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",ZOOM072.Net
+#EXTINF:-1 tvg-name="ZOOM072.Net" tvg-logo="https://apitv.dmc.tv/uploads/zoom_c1afc4445c.png" group-title="📺 Digital TV - ธรรมมะ",ZOOM072.Net
 https://live.zoom072.com/ch5/ch5.m3u8
-#EXTINF:-1 tvg-name="หลวงพ่อทัตตชีโว" tvg-logo="https://apitv.dmc.tv/uploads/t02_41535e4e06.jpeg" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",หลวงพ่อทัตตชีโว
+#EXTINF:-1 tvg-name="หลวงพ่อทัตตชีโว" tvg-logo="https://apitv.dmc.tv/uploads/t02_41535e4e06.jpeg" group-title="📺 Digital TV - ธรรมมะ",หลวงพ่อทัตตชีโว
 https://live.zoom072.com/ch6/ch6.m3u8
-#EXTINF:-1 tvg-name="สมาธิ 24 น." tvg-logo="https://apitv.dmc.tv/uploads/med_0965d3b20b.png" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",สมาธิ 24 น.
+#EXTINF:-1 tvg-name="สมาธิ 24 น." tvg-logo="https://apitv.dmc.tv/uploads/med_0965d3b20b.png" group-title="📺 Digital TV - ธรรมมะ",สมาธิ 24 น.
 https://live.zoom072.com/ch7/ch7.m3u8
-#EXTINF:-1 tvg-name="กฏแห่งกรรม" tvg-logo="https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",กฏแห่งกรรม
+#EXTINF:-1 tvg-name="กฏแห่งกรรม" tvg-logo="https://apitv.dmc.tv/uploads/S_5226718_90999a8e9f.jpg" group-title="📺 Digital TV - ธรรมมะ",กฏแห่งกรรม
 https://live.zoom072.com/ch10/ch10.m3u8
-#EXTINF:-1 tvg-name="SBB TV" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947" group-title="🙏 ธรรมะ บทสวด - ธรรมมะ",SBB TV
+#EXTINF:-1 tvg-name="SBB TV" tvg-logo="https://image.makewebeasy.net/makeweb/0/JIfKTrKkI/DefaultData/sbbtv_inter.png?v=202012190947" group-title="📺 Digital TV - ธรรมมะ",SBB TV
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/chunklist_w1652960849.m3u8
 #EXTINF:-1 tvg-name="Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)" tvg-logo="https://www.thaiclouderp.com/video/asset/images/pakkret_logo.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",Pakkret Water Report ระบบรายงานสถานการณ์ระดับน้ำ (ผ่านกล้องวงจรปิด)
 #EXTVLCOPT:http-referrer=https://www.thaiclouderp.com
 https://www.thaiclouderp.com/video/pakkret-river.m3u8
 #EXTINF:-1 tvg-name="ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)" tvg-logo="https://cctv-nont.firsttech.co.th/img/nakorn_nont_logo.6f152aad.png" group-title="📹 ดูกล้องวงจรปิด - ประเมินน้ำท่วม",ระบบตรวจสอบระดับน้ำ (ท่าน้ำนนท์)
 https://stream-engine.enixma.net/live/nakornnont.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย" tvg-logo="https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมฉ่อย สามน้า ฮาลั่น! สนั่นจอ | คุณพระช่วย
+https://yt-stream.phiphatprojects.workers.dev/?v=PI9uXtHmhDE
+#EXTINF:-1 tvg-name="รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย" tvg-logo="https://i.ytimg.com/vi/oGjHkhW48n4/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมฉ่อยชุดใหญ่ ถูกใจสายฮา!! | คุณพระช่วย
+https://yt-stream.phiphatprojects.workers.dev/?v=oGjHkhW48n4
+#EXTINF:-1 tvg-name="รวมฉ่อยหน้าม่านสามน้า "ฮาไม่หยุด ในวันหยุดยาว" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12" tvg-logo="https://i.ytimg.com/vi/LDXrt8goums/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมฉ่อยหน้าม่านสามน้า "ฮาไม่หยุด ในวันหยุดยาว" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12
+https://yt-stream.phiphatprojects.workers.dev/?v=LDXrt8goums
+#EXTINF:-1 tvg-name="รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย" tvg-logo="https://i.ytimg.com/vi/tr9Fcyn-xiw/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมฉ่อยหน้าม่าน ดูกี่ครั้งก็ยังฮา! | คุณพระช่วย
+https://yt-stream.phiphatprojects.workers.dev/?v=tr9Fcyn-xiw
+#EXTINF:-1 tvg-name="รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙" tvg-logo="https://i.ytimg.com/vi/jP24LwKtSg0/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมจำอวดหน้าม่าน คอนเสิร์ตคุณพระช่วยสำแดงสด ๑ - ๙
+https://yt-stream.phiphatprojects.workers.dev/?v=jP24LwKtSg0
+#EXTINF:-1 tvg-name="คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ" tvg-logo="https://i.ytimg.com/vi/kGXoyrS9tm4/hqdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",คอนเสิร์ตคุณพระช่วยสำแดงสด ๑๒ Thai Hub ไทยหาบ
+https://yt-stream.phiphatprojects.workers.dev/?v=kGXoyrS9tm4
