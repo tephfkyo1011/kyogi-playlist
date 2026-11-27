@@ -9,6 +9,13 @@
       "image": "https://www.dropbox.com/scl/fi/khw4blgir3yhubvalvpp8/.gif?rlkey=81ckqotmhfvyv8obata8fouhp&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
       "import": false
+    },
+    {
+      "name": "📂 เรื่องหลอนๆ",
+      "info": "263 ช่อง",
+      "image": "https://i.ytimg.com/vi/KosruiSjqmU/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/horror_kyogi_sub1_p1.txt",
+      "import": false
     }
   ]
 }
