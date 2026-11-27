@@ -68,8 +68,8 @@
     },
     {
       "name": "📂 เดี่ยวไมโครโฟน",
-      "info": "30 ช่อง",
-      "image": "https://1412hd.net/wp-content/uploads/2023/03/9-1.jpg",
+      "info": "16 ช่อง",
+      "image": "https://i.ytimg.com/vi/xW75at48aAc/maxresdefault.jpg",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/comedy_kyogi_sub9_p1.txt",
       "import": false
     },
@@ -78,6 +78,13 @@
       "info": "1 ช่อง",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFQGne6okcwl2VtrmsEqpn0KD-HfuRbrG8T1hhuswow&s=10",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/comedy_kyogi_sub10_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 หนังตะลุง",
+      "info": "14 ช่อง",
+      "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/comedy_kyogi_sub11_p1.txt",
       "import": false
     }
   ]
