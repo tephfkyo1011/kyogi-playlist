@@ -1,0 +1,55 @@
+{
+  "name": "🎤 คอนเสิร์ต รวม - Leo Thailand",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+  "stations": [
+    {
+      "name": "Countdown สู่ปีลีโอ",
+      "image": "https://dl.dropbox.com/s/q5spzj9hk1m4yu3/Countdown.png?dl=1",
+      "url": "https://dl.dropbox.com/s/2w76c96f2xs0slt/Countdown.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Leo Cover Club",
+      "image": "https://dl.dropbox.com/s/rksqq7hrpavm5i8/Leo%20cover.png?dl=1",
+      "url": "https://dl.dropbox.com/s/p67a6t8zcchk1r1/Leo%20Cover%20Club.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "LEO Hurt Fest",
+      "image": "https://dl.dropbox.com/s/eq54ta26r3veu0n/LEO%20Hurt%20Fest.png?dl=1",
+      "url": "https://dl.dropbox.com/s/smru58ka55qgutk/LEO%20Hurt%20Fest.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "LEO Live Music",
+      "image": "https://dl.dropbox.com/s/93rc2c2hy7jcen7/LEO-Live-Music.png?dl=1",
+      "url": "https://dl.dropbox.com/s/jifouy1buuaclb6/LEO%20Live%20Music.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "LEO Music Traveller",
+      "image": "https://dl.dropbox.com/s/96dr93ul0c1ey00/LEO%20Music%20Traveller.png?dl=1",
+      "url": "https://dl.dropbox.com/s/uensr2nm0kkspix/LEO%20Music%20Traveller.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "LEO Presents Landmark Festival",
+      "image": "https://dl.dropbox.com/s/yrktvul1ph4nkjn/LEO-Presents-Landmark-Festival.png?dl=1",
+      "url": "https://dl.dropbox.com/s/s1hc77pvxvmlmic/LEO%20Presents%20Landmark%20Festival.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "LEO The Explorer",
+      "image": "https://dl.dropbox.com/s/5ohznso7peqi4kb/LEO-The-Explorer.png?dl=1",
+      "url": "https://dl.dropbox.com/s/69p2n0bp27pzdm0/LEO%20The%20Explorer.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ลานลีโอออนไลน์",
+      "image": "https://dl.dropbox.com/s/wmcjdz6p9cplr1q/%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C.png?dl=1",
+      "url": "https://dl.dropbox.com/s/g6uo55ebeujb7mr/Other.w3u?dl=1",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
