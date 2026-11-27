@@ -1763,6 +1763,10 @@ https://main.24playerhd.com/m3u8/a5f6ff22f2d734850edeb268/a5f6ff22f2d734850edeb2
 #EXTINF:-1 tvg-name="What a Boss Wants (2026) - ตอนที่ 5 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",What a Boss Wants (2026) - ตอนที่ 5 [ซับไทย]
 #EXTVLCOPT:http-referrer=https://www.123-hdc.com
 https://main.24playerhd.com/m3u8/39a3f33c5980b4fafdcfc015/39a3f33c5980b4fafdcfc015438.m3u8
+#EXTINF:-1 tvg-name="What a Boss Wants (2026) - ตอนที่ 6 [ซับไทย]" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg" group-title="🇰🇷 ซีรีส์เกาหลี - ปี 2026",What a Boss Wants (2026) - ตอนที่ 6 [ซับไทย]
+#EXTVLCOPT:http-referrer=https://www.123-hdc.com
+#EXTVLCOPT:http-user-agent=https://main.24playerhd.com/m3u8/98ee0d5b75b4d5de6f69eed2/98ee0d5b75b4d5de6f69eed2438.m3u8
+https://main.24playerhd.com/m3u8/98ee0d5b75b4d5de6f69eed2/98ee0d5b75b4d5de6f69eed2438.m3u8
 #EXTINF:-1 tvg-name="CH5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",CH5
 https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8
 #EXTINF:-1 tvg-name="McotHD" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="📺 Digital TV - ฟรีทีวีดิจิทัล",McotHD
