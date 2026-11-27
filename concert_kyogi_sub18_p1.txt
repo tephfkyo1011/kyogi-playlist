@@ -1,0 +1,23 @@
+{
+  "name": "🎤 คอนเสิร์ต รวม - มาลีฮวนน่า",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+  "stations": [
+    {
+      "name": "แสดงสด คอนเสิร์ต มาลีฮวนน่า สวนอาหารรีแลกซ์ ขอนแก่น",
+      "image": "https://i.ytimg.com/vi/PzyBOXipUWc/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=PzyBOXipUWc&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "LIVE วงมาลีฮวนน่า คอนเสิร์ตสุขใจในป่ายาง5 ตอน Happy แลน",
+      "image": "https://i.ytimg.com/vi/7vqbO5SM38Q/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=7vqbO5SM38Q&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    }
+  ]
+}
