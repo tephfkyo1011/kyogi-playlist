@@ -413,7 +413,7 @@
     },
     {
       "name": "What a Boss Wants (2026)",
-      "info": "EP 5",
+      "info": "EP 6",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
       "stations": [
         {
@@ -455,6 +455,15 @@
           "url": "https://main.24playerhd.com/m3u8/39a3f33c5980b4fafdcfc015/39a3f33c5980b4fafdcfc015438.m3u8",
           "playInNatPlayer": "true",
           "referer": "https://www.123-hdc.com"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/What-a-Boss-Wants-2026-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/98ee0d5b75b4d5de6f69eed2/98ee0d5b75b4d5de6f69eed2438.m3u8",
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com",
+          "userAgent": "https://main.24playerhd.com/m3u8/98ee0d5b75b4d5de6f69eed2/98ee0d5b75b4d5de6f69eed2438.m3u8"
         }
       ]
     },
