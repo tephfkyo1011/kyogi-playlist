@@ -1,0 +1,79 @@
+{
+  "name": "📻 วิทยุออนไลน์ - วิทยุข่าวสาร จราจร & กีฬา",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
+  "stations": [
+    {
+      "name": "📻 จส.100 (JS100 Radio)",
+      "image": "https://www.tvjaa.com/storage/radio-channels/js100.png",
+      "url": "https://djstreamsv1.hostpleng.cloud/4BsH",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 สวพ. FM91 (TRAFFIC PRO)",
+      "image": "https://www.tvjaa.com/storage/radio-channels/fm91.png",
+      "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 Active FM 99 (คลื่นเมืองไทยแข็งแรง/กีฬา)",
+      "image": "https://www.tvjaa.com/storage/radio-channels/active99fm.png",
+      "url": "https://uiu6f1j7.mcot.net/FM99/fm99.stream_aac/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 คลื่นความคิด FM 96.5",
+      "image": "https://www.tvjaa.com/storage/radio-channels/965fm.png",
+      "url": "https://e4hq2o44.mcot.net/FM965/fm965.stream_aac/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 MCOT News Network FM 100.5",
+      "image": "https://www.tvjaa.com/storage/radio-channels/mcotnewsnetwork.png",
+      "url": "https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 วิทยุครอบครัวข่าว FM 106",
+      "image": "https://www.tvjaa.com/storage/radio-channels/fm106family.png",
+      "url": "https://radio11.plathong.net/7138/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 สวท. FM 97 MHz (Quality News)",
+      "image": "https://www.tvjaa.com/storage/radio-channels/qualitynewsstation.png",
+      "url": "https://cdn-th2.login.in.th/shoutcast/8610",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 สวท. FM 92.5 MHz (วิทยุแห่งประเทศไทย)",
+      "image": "https://onair.one/wp-content/uploads/2025/09/RADIOTH-905-560x560.jpg",
+      "url": "https://radio-org-01-ott.prd.go.th/bkk_fm92_50",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 วิทยุเพื่อการเกษตร AM 1386",
+      "image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
+      "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8145",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 วิทยุ ม.ก. บางเขน (KU Radio)",
+      "image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
+      "url": "http://radio.vpsthai.net:8042/",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 VOA Thai (เสียงอเมริกา ภาคภาษาไทย)",
+      "image": "https://onair.one/wp-content/uploads/2024/11/tower-1.png",
+      "url": "https://stream.radiojar.com/7vpdu5as92quv",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 VOA1 The Hits",
+      "image": "https://onair.one/wp-content/uploads/2024/11/VOA1-560x560.png",
+      "url": "https://stream.radiojar.com/zpd8p6fgq3quv",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
