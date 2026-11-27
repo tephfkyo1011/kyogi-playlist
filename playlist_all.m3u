@@ -7458,6 +7458,7 @@ http://web03.dynns.com:1935/concert_en//Scorpions.Live.Saarbrucken.Full.Concert.
 #EXTINF:-1 tvg-name="Scorpions Moment of Glory" tvg-logo="http://picpic.dynns.com/images/cover/concert/Scorpions.Moment.of.Glory.720p.jpg" group-title="🎤 คอนเสิร์ต รวม - คอนเสิร์ตฝรั่ง",Scorpions Moment of Glory
 http://web03.dynns.com:1935/concert_en//Scorpions.Moment.of.Glory.720p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-name="Scorpions MTV Unplugged 2013" tvg-logo="http://picpic.dynns.com/images/cover/concert/Scorpions.MTV.Unplugged.2013.480p.jpg" group-title="🎤 คอนเสิร์ต รวม - คอนเสิร์ตฝรั่ง",Scorpions MTV Unplugged 2013
+#EXTVLCOPT:http-referrer=http://web03.dynns.com:1935/
 http://web03.dynns.com:1935/concert_en//Scorpions.MTV.Unplugged.2013.480p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-name="Scorpions MTV Unplugged Live in Athens 2013" tvg-logo="http://picpic.dynns.com/images/cover/concert/Scorpions.MTV.Unplugged.Live.in.Athens.2013.480p.jpg" group-title="🎤 คอนเสิร์ต รวม - คอนเสิร์ตฝรั่ง",Scorpions MTV Unplugged Live in Athens 2013
 http://web03.dynns.com:1935/concert_en//Scorpions.MTV.Unplugged.Live.in.Athens.2013.480p.mp4/playlist.m3u8
@@ -11621,3 +11622,5 @@ https://www.youtube.com/watch?v=UOp0QIxSEMQ
 #EXTINF:-1 tvg-name="ลูกแพร อุไรพร เต็มอิ่ม 1 ชั่วโมงเต็ม @ทองย้อย Cafe & Restaurant" tvg-logo="https://i.ytimg.com/vi/6KtMG0L1gyE/hqdefault.jpg" group-title="🎤 คอนเสิร์ต รวม - อีสาน Festival",ลูกแพร อุไรพร เต็มอิ่ม 1 ชั่วโมงเต็ม @ทองย้อย Cafe & Restaurant
 #EXTVLCOPT:http-referrer=https://www.youtube.com
 https://www.youtube.com/watch?v=6KtMG0L1gyE
+#EXTINF:-1 tvg-name="รวมที่สุดฉากฮา น้าค่อม ชวนชื่น เต็มอิ่ม 2 ชั่วโมงเต็ม" tvg-logo="" group-title="😂 รายการตลก - รวมที่สุดฉากฮา น้าค่อม ชวนชื่น",รวมที่สุดฉากฮา น้าค่อม ชวนชื่น เต็มอิ่ม 2 ชั่วโมงเต็ม
+https://www.youtube.com/watch?v=9a3GYA3-Aqc
