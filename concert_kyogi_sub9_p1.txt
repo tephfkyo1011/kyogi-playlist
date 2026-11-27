@@ -1,0 +1,79 @@
+{
+  "name": "🎤 คอนเสิร์ต รวม - Sónar Festival",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+  "stations": [
+    {
+      "name": "Vintage Culture - Sónar 2025 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/FUNQOOpn42k/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=FUNQOOpn42k&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "Dee Diggs b2b Ultra Naté - Sónar 2025 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/Dn_h0n3otjo/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=Dn_h0n3otjo&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "Andres Campo - Sónar 2025 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/DMYrTbelcCA/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=DMYrTbelcCA&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "Emerald - Sónar 2025 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/JX4y9jB-Vt0/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=JX4y9jB-Vt0&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "People You May Know - Sónar 2025 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/V8NpIfEX8X0/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=V8NpIfEX8X0&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "Ángel Molina - Sónar 2025 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/tH2FAmZJ2iQ/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=tH2FAmZJ2iQ&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "Ben Böhmer live - Sónar 2024 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/dZsIQV-B9Us/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=dZsIQV-B9Us&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "Richie Hawtin: DEX EFX X0X - Sónar 2024 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/xxWOkZrHprY/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=xxWOkZrHprY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "name": "Armin van Buuren b2b Indira Paganotto - Sónar 2025 - ARTE Concert",
+      "image": "https://i.ytimg.com/vi/5CMeGvcvNRc/hqdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=5CMeGvcvNRc&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+    }
+  ]
+}
