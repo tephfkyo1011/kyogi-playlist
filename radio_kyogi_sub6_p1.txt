@@ -1,0 +1,25 @@
+{
+  "name": "📻 วิทยุออนไลน์ - วิทยุธรรมะ & บทสวดมนต์",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
+  "stations": [
+    {
+      "name": "🙏 วิทยุเสียงธรรมเพื่อประชาชน (หลวงตามหาบัว)",
+      "image": "https://www.tvjaa.com/storage/radio-channels/sbt.png",
+      "url": "https://sbt.luangta.com:8443/live",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "🙏 สถานีวิทยุสังฆทานธรรม (วัดสังฆทาน)",
+      "image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
+      "url": "https://radio11.plathong.net/7146/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "🙏 วิทยุพระพุทธศาสนาแห่งชาติ (วัดป่าบ้านตาด/เครือข่าย)",
+      "image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
+      "url": "https://radio12.plathong.net/8806/;stream.mp3",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
