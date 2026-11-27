@@ -186,45 +186,38 @@
       "import": false
     },
     {
-      "name": "📂 Leo Thailand",
-      "info": "8 ช่อง",
-      "image": "https://dl.dropbox.com/s/q5spzj9hk1m4yu3/Countdown.png?dl=1",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub26_p1.txt",
-      "import": false
-    },
-    {
       "name": "📂 ดูฟรี Channel",
       "info": "324 ช่อง",
       "image": "https://i.ytimg.com/vi/Vkq0b60XQ3o/hqdefault.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub27_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub26_p1.txt",
       "import": false
     },
     {
       "name": "📂 Meechue Folk Festival",
       "info": "168 ช่อง",
       "image": "https://i.ytimg.com/vi/952USt3D-XQ/hqdefault.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub28_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub27_p1.txt",
       "import": false
     },
     {
       "name": "📂 ยูกิ ไหทองคำ",
       "info": "90 ช่อง",
       "image": "https://i.ytimg.com/vi/75DXu8sABQc/hqdefault.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub29_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub28_p1.txt",
       "import": false
     },
     {
       "name": "📂 โชค รถแห่",
       "info": "11 ช่อง",
       "image": "https://i.ytimg.com/vi/BZUDYAnQ708/maxresdefault.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub30_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub29_p1.txt",
       "import": false
     },
     {
       "name": "📂 อีสาน Festival",
       "info": "126 ช่อง",
       "image": "https://i.ytimg.com/vi/j-eoqUDAf38/hqdefault.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub31_p1.txt",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub30_p1.txt",
       "import": false
     }
   ]
