@@ -1,0 +1,37 @@
+{
+  "name": "🎤 คอนเสิร์ต รวม - รวมทั้งหมด",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+  "stations": [
+    {
+      "name": "Mocca Garden",
+      "image": "https://i.ytimg.com/vi/VrIDtneU304/maxresdefault.jpg",
+      "url": "https://dl.dropbox.com/s/ypudsnhzekkau7m/Mocca%20Garden.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "T-BONE",
+      "image": "https://2g.pantip.com/cafe/chalermthai/topic/A3939357/A3939357-0.jpg",
+      "url": "https://dl.dropbox.com/s/9e0eb4poiyoc4hu/T-Bone.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "จ๊อบ บรรจบ",
+      "image": "https://i.pinimg.com/originals/c9/ba/4f/c9ba4fd3dc550c22290e312354ebb23f.jpg",
+      "url": "https://dl.dropbox.com/s/wwpee9nv9stysfa/Job%20Bunchob.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ละไมหรรษา",
+      "image": "https://i.ytimg.com/vi/CjYZcjN83kQ/maxresdefault.jpg",
+      "url": "https://dl.dropbox.com/s/q8ij4wiha0x7d30/Lamai%20Hansa.w3u?dl=1",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "SRIRAJAH ROCKERS",
+      "image": "https://www.unlockmen.com/wp-content/uploads/2018/12/181203-SrirajahRocker-8.jpg",
+      "url": "https://dl.dropbox.com/s/ieadzqyydxglq3o/SRIRAJAH%20ROCKERS.w3u?dl=1",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
