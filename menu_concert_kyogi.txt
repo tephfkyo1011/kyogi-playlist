@@ -9,6 +9,223 @@
       "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
       "url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
       "import": false
+    },
+    {
+      "name": "📂 ลำไย ไหทองคำ",
+      "info": "411 ช่อง",
+      "image": "https://i.ytimg.com/vi/X6misqnFIpk/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub1_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 คอนเสิร์ตไทย",
+      "info": "201 ช่อง",
+      "image": "http://picpic.dynns.com/images/cover/concert/Inksyland.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub2_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 คอนเสิร์ตฝรั่ง",
+      "info": "297 ช่อง",
+      "image": "http://picpic.dynns.com/images/cover/concert/Taylor.Swift.The.Eras.Tour.2023.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub3_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 คอนเสิร์ตเกาหลี.ญี่ปุ่น.จีน.ฯลฯ",
+      "info": "89 ช่อง",
+      "image": "http://picpic.dynns.com/images/cover/concert/Black.Pink.The.Show.2021.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub4_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 GMM Concert",
+      "info": "63 ช่อง",
+      "image": "https://i.ytimg.com/vi/d564ZWJyy04/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub5_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 ATIME Concert",
+      "info": "25 ช่อง",
+      "image": "https://i.ytimg.com/vi/CDmwDYbVyQg/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub6_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 KITA Concert",
+      "info": "39 ช่อง",
+      "image": "https://i.ytimg.com/vi/hWw0oBMUJH0/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub7_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 Southside Festival",
+      "info": "9 ช่อง",
+      "image": "https://i.ytimg.com/vi/qPq36fVcx44/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub8_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 Sónar Festival",
+      "info": "9 ช่อง",
+      "image": "https://i.ytimg.com/vi/FUNQOOpn42k/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub9_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 รวมทั้งหมด",
+      "info": "5 ช่อง",
+      "image": "https://i.ytimg.com/vi/VrIDtneU304/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub10_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 ETC.|ชวนมาแจม : Jam Session",
+      "info": "87 ช่อง",
+      "image": "https://i.ytimg.com/vi/91yFsw4fc2w/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub11_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 MIX Concert",
+      "info": "16 ช่อง",
+      "image": "https://i.ytimg.com/vi/YlshsWtsjf4/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub12_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 Hellfest Festival",
+      "info": "59 ช่อง",
+      "image": "https://i.ytimg.com/vi/QkWX1qShzWc/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub13_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 Qello Concerts",
+      "info": "17 ช่อง",
+      "image": "https://i.ytimg.com/vi/D4brz2rGox4/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub14_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 คาราบาว",
+      "info": "9 ช่อง",
+      "image": "https://i.ytimg.com/vi/E883Dg6ZPVg/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub15_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 คาราวาน",
+      "info": "4 ช่อง",
+      "image": "https://i.ytimg.com/vi/86u1UdN5c0M/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub16_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 แฮมเมอร์",
+      "info": "8 ช่อง",
+      "image": "https://i.ytimg.com/vi/yIoGZP-Z5dg/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub17_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 มาลีฮวนน่า",
+      "info": "2 ช่อง",
+      "image": "https://i.ytimg.com/vi/PzyBOXipUWc/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub18_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 มันเดย์ สตูดิโอ",
+      "info": "151 ช่อง",
+      "image": "https://i.ytimg.com/vi/9xAUUguq-7U/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub19_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 พงษ์สิทธิ์ คำภีร์",
+      "info": "15 ช่อง",
+      "image": "https://i.ytimg.com/vi/2iZtCczhvfA/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub20_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 พงษ์เทพ กระโดนชำนาญ",
+      "info": "4 ช่อง",
+      "image": "https://dl.dropbox.com/s/7q05ovqylidrzdi/%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%9E%20%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%94%E0%B8%99%E0%B8%8A%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%8D%20%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%2025%20%E0%B8%9B%E0%B8%B5.png?dl=0",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub21_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 สีเผือก คนด่านเกวียน",
+      "info": "3 ช่อง",
+      "image": "https://i.ytimg.com/vi/73g0aVxPgGY/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub22_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 สันติภาพ",
+      "info": "8 ช่อง",
+      "image": "https://i.ytimg.com/vi/3wOkdV0Gw1E/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub23_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 ซูซู",
+      "info": "5 ช่อง",
+      "image": "https://i.ytimg.com/vi/IHZ8c_Q6jhE/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub24_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 เอ็มดีไซน์ สตูดิโอ",
+      "info": "32 ช่อง",
+      "image": "https://i.ytimg.com/vi/_hjoY8BCaX8/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub25_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 Leo Thailand",
+      "info": "8 ช่อง",
+      "image": "https://dl.dropbox.com/s/q5spzj9hk1m4yu3/Countdown.png?dl=1",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub26_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 ดูฟรี Channel",
+      "info": "324 ช่อง",
+      "image": "https://i.ytimg.com/vi/Vkq0b60XQ3o/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub27_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 Meechue Folk Festival",
+      "info": "168 ช่อง",
+      "image": "https://i.ytimg.com/vi/952USt3D-XQ/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub28_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 ยูกิ ไหทองคำ",
+      "info": "90 ช่อง",
+      "image": "https://i.ytimg.com/vi/75DXu8sABQc/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub29_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 โชค รถแห่",
+      "info": "11 ช่อง",
+      "image": "https://i.ytimg.com/vi/BZUDYAnQ708/maxresdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub30_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 อีสาน Festival",
+      "info": "126 ช่อง",
+      "image": "https://i.ytimg.com/vi/j-eoqUDAf38/hqdefault.jpg",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/concert_kyogi_sub31_p1.txt",
+      "import": false
     }
   ]
 }
