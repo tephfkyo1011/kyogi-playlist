@@ -1,0 +1,43 @@
+{
+  "name": "📻 วิทยุออนไลน์ - วิทยุลูกทุ่ง & เพื่อชีวิต",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
+  "stations": [
+    {
+      "name": "📻 ลูกทุ่งมหานคร FM 95",
+      "image": "https://www.tvjaa.com/storage/radio-channels/fm95.png",
+      "url": "https://t24d2ljc.mcot.net/FM95/fm95.stream_aac/playlist.m3u8",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 ลูกทุ่งเน็ตเวิร์ก (Lukthung Network)",
+      "image": "https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png",
+      "url": "https://radio12.plathong.net/8612/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 รักไทยลูกทุ่ง",
+      "image": "https://www.tvjaa.com/storage/radio-channels/rukthailooktung.png",
+      "url": "https://radio11.plathong.net/8896/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 Request Radio เพลงลูกทุ่ง",
+      "image": "https://www.tvjaa.com/storage/radio-channels/requestlooktung.png",
+      "url": "https://cast.requestradio.in.th:820/;stream",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 Request Radio เพลงเพื่อชีวิต",
+      "image": "https://www.tvjaa.com/storage/radio-channels/requestlife.png",
+      "url": "https://cast.requestradio.in.th:830/;stream",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "📻 SukSon เพลงลูกทุ่ง",
+      "image": "https://www.tvjaa.com/storage/radio-channels/sukson.png",
+      "url": "https://stream.pjcdn.com:8200/1",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
