@@ -5,7 +5,7 @@
   "stations": [
     {
       "name": "รวมที่สุดฉากฮา น้าค่อม ชวนชื่น เต็มอิ่ม 2 ชั่วโมงเต็ม",
-      "image": "https://www.dropbox.com/scl/fi/cd3k1ba63ayj1au7piydn/.gif?rlkey=baxv2e38okjzyzrx4jb02pdbt&dl=1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFQGne6okcwl2VtrmsEqpn0KD-HfuRbrG8T1hhuswow&s=10",
       "url": "https://m.youtube.com/watch?v=9a3GYA3-Aqc&cc_load_policy=0",
       "embed": "true",
       "referer": "https://m.youtube.com",
