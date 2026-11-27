@@ -1,0 +1,133 @@
+{
+  "name": "📻 วิทยุออนไลน์ - เครือข่ายเสียงจากทหารเรือ (สทร.)",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/o4p8rv7chcq5zmby167wb/.gif?rlkey=7o4g6ngvid1j9vvi110sqyatv&dl=1",
+  "stations": [
+    {
+      "name": "⚓ สทร.1 กรุงเทพฯ (FM 93.0 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio1-1.gif",
+      "url": "https://radio12.plathong.net/7346/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.1 กรุงเทพฯ (FM 88.5 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio1-2.gif",
+      "url": "https://radio12.plathong.net/8660/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.1 กรุงเทพฯ (AM 675 kHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio1-3.gif",
+      "url": "https://radio12.plathong.net/8648/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.2 บางนา (FM 106.0 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio2.gif",
+      "url": "https://radio12.plathong.net/9912/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.3 ภูเก็ต (FM 88.0 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio3.gif",
+      "url": "https://radio12.plathong.net/9924/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.3 ภูเก็ต (AM 1458 kHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio3-1.gif",
+      "url": "https://radio12.plathong.net/7354/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.4 จันทบุรี (FM 88.75 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio4.gif",
+      "url": "https://radio12.plathong.net/7356/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.4 จันทบุรี (AM 1170 kHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio4-1.gif",
+      "url": "https://radio12.plathong.net/7358/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.5 สัตหีบ (FM 104.75 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio5.gif",
+      "url": "https://radio12.plathong.net/8704/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.5 พัทยา (FM 104.75 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio5-1.gif",
+      "url": "https://radio12.plathong.net/9918/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.6 สงขลา (FM 94.5 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio6.gif",
+      "url": "https://radio12.plathong.net/7350/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.6 สงขลา (AM 1431 kHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio6-1.gif",
+      "url": "https://radio12.plathong.net/7352/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.7 นครพนม (FM 97.5 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio7.gif",
+      "url": "https://radio12.plathong.net/9914/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.8 พิษณุโลก (FM 88.25 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio8.gif",
+      "url": "https://radio12.plathong.net/9916/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.9 อุบลราชธานี (FM 104.0 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio9.gif",
+      "url": "https://radio12.plathong.net/9936/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.9 อุบลราชธานี (AM 1161 kHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio9-1.gif",
+      "url": "https://radio12.plathong.net/7348/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.10 ตราด (FM 93.75 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio10.gif",
+      "url": "https://radio12.plathong.net/9920/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.11 เชียงใหม่ (FM 88.0 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio11.gif",
+      "url": "https://radio12.plathong.net/9922/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.12 นราธิวาส (FM 94.75 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio12.gif",
+      "url": "https://radio12.plathong.net/9926/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.14 พังงา (FM 97.25 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio14.gif",
+      "url": "https://radio12.plathong.net/9932/;stream.mp3",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "⚓ สทร.15 นราธิวาส (FM 98.75 MHz)",
+      "image": "https://www.voiceofnavy.com/imgs/radio15.gif",
+      "url": "https://radio12.plathong.net/9934/;stream.mp3",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
