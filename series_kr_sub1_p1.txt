@@ -780,7 +780,7 @@
     },
     {
       "name": "Nine to Six (2026) เมื่อหัวใจเริ่มทำงาน",
-      "info": "EP 1",
+      "info": "EP 2",
       "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Nine-to-Six-2026-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99-300x450.jpg",
       "stations": [
         {
@@ -788,6 +788,14 @@
           "info": "ซับไทย",
           "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Nine-to-Six-2026-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99-300x450.jpg",
           "url": "https://main.24playerhd.com/m3u8/d1140cb86e4be450e04c5692/d1140cb86e4be450e04c5692438.m3u8",
+          "playInNatPlayer": "true",
+          "referer": "https://www.123-hdc.com/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Nine-to-Six-2026-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99-300x450.jpg",
+          "url": "https://main.24playerhd.com/m3u8/8d0d14cd12f666675bef88c9/8d0d14cd12f666675bef88c9438.m3u8",
           "playInNatPlayer": "true",
           "referer": "https://www.123-hdc.com/"
         }
