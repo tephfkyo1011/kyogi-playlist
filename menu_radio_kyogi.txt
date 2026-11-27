@@ -11,10 +11,45 @@
       "import": false
     },
     {
-      "name": "📂 วิทยุ ออนไลน์",
-      "info": "339 ช่อง",
+      "name": "📂 วิทยุเพลงสตริง / ฮิตติดชาร์ต",
+      "info": "16 ช่อง",
       "image": "https://www.tvjaa.com/storage/radio-channels/coolfahrenheit.png",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/radio_kyogi_sub1_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 วิทยุลูกทุ่ง & เพื่อชีวิต",
+      "info": "6 ช่อง",
+      "image": "https://www.tvjaa.com/storage/radio-channels/fm95.png",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/radio_kyogi_sub2_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 วิทยุข่าวสาร จราจร & กีฬา",
+      "info": "12 ช่อง",
+      "image": "https://www.tvjaa.com/storage/radio-channels/js100.png",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/radio_kyogi_sub3_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 วิทยุภูมิภาค (เหนือ / อีสาน / ใต้ / ตะวันออก)",
+      "info": "23 ช่อง",
+      "image": "https://www.tvjaa.com/storage/radio-channels/xfmnetwork.png",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/radio_kyogi_sub4_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 เครือข่ายเสียงจากทหารเรือ (สทร.)",
+      "info": "21 ช่อง",
+      "image": "https://www.voiceofnavy.com/imgs/radio1-1.gif",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/radio_kyogi_sub5_p1.txt",
+      "import": false
+    },
+    {
+      "name": "📂 วิทยุธรรมะ & บทสวดมนต์",
+      "info": "3 ช่อง",
+      "image": "https://www.tvjaa.com/storage/radio-channels/sbt.png",
+      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/radio_kyogi_sub6_p1.txt",
       "import": false
     }
   ]
