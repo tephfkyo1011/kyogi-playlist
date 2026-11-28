@@ -12,7 +12,7 @@
     },
     {
       "name": "📂 คุณพระช่วย",
-      "info": "6 ช่อง",
+      "info": "7 ช่อง",
       "image": "https://i.ytimg.com/vi/PI9uXtHmhDE/hqdefault.jpg",
       "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/comedy_kyogi_sub1_p1.txt",
       "import": false
