@@ -6,36 +6,8 @@
     {
       "name": "📂 รวมทั้งหมด",
       "info": "ว่าง",
-      "image": "https://www.dropbox.com/scl/fi/xcgcnb9cdl3c8enzysuo2/.gif?rlkey=kruir11lxsfngxlxkq69s3bvx&st=q76evr7l&dl=1",
-      "url": "https://docs.google.com/uc?export=download&id=1rWIH5vxOfzuQbBaoUV24rlLSdYqWIaTY",
-      "import": false
-    },
-    {
-      "name": "📂 เป็นต่อ 2022",
-      "info": "48 ช่อง",
-      "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/variety_kyogi_sub1_p1.txt",
-      "import": false
-    },
-    {
-      "name": "📂 เป็นต่อ 2023",
-      "info": "37 ช่อง",
-      "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/variety_kyogi_sub2_p1.txt",
-      "import": false
-    },
-    {
-      "name": "📂 เป็นต่อ 2024",
-      "info": "53 ช่อง",
-      "image": "https://www.seriesday.com/wp-content/uploads/2024/01/Pentor-2024-207x300.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/variety_kyogi_sub3_p1.txt",
-      "import": false
-    },
-    {
-      "name": "📂 เป็นต่อ 2025",
-      "info": "11 ช่อง",
-      "image": "https://img5.pic.in.th/file/secure-sv1/2025d5eb99ddd64b1ffe.jpg",
-      "url": "https://raw.githubusercontent.com/tephfkyo1011/kyogi-playlist/main/variety_kyogi_sub4_p1.txt",
+      "image": "https://www.dropbox.com/scl/fi/q34hf26tmy2o9lxrh30ll/.gif?rlkey=2sgaow2bxct0tc83tneseautc&dl=1",
+      "url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
       "import": false
     }
   ]
