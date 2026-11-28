@@ -6,2185 +6,1639 @@
     {
       "name": "🔴Live EP412 ตลกคณะ หนู คลองเตย ฮาทะลุโลก ชุดที่ 24 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/pg-ISf0o-_s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pg-ISf0o-_s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pg-ISf0o-_s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP411 ยุทธการตลก ตอน โปงลางสะอื้น คณะ ร็อคข้าวปุ้น | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/KDQNClNspVs/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/KDQNClNspVs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=KDQNClNspVs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP410 ตลกตกขอบจอ ชุดที่ 11 คณะเหลือเฟือ มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/dBBPklTcQGo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/dBBPklTcQGo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=dBBPklTcQGo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP409 ฮาตกขอบ ชุด 35 คณะ สีหนุ่ม เชิญยิ้ม ปะทะ โหน่ง ชะชะช่า | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/R5LQjiCQPH0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/R5LQjiCQPH0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=R5LQjiCQPH0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP408 ฮาทะลุโลก ชุดที่ 32 คณะ ถั่วแระ + ชูศรี เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/OePmby9TYfo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/OePmby9TYfo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=OePmby9TYfo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP407 คณะ หม่ำ จ๊กมก มี จตุรงค์-หยอง ลูกหยีตลกคาเฟ่ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/VaNLUxviEu4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/VaNLUxviEu4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=VaNLUxviEu4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP406 คณะ เท่ง - โหน่ง ตลกคาเฟ่1 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/sJ15Ya8nr6Q/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/sJ15Ya8nr6Q?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=sJ15Ya8nr6Q",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP405 ตลก โน๊ต เชิญยิ้ม ฮาสะบั้น มันระเบิด ชุดที่ 31 | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/hdbP2nDI5r4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/hdbP2nDI5r4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=hdbP2nDI5r4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP404 ตลกคาเฟ่ คณะหนู เชิญยิ้ม แกล้งนักดนตรี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/zGCxvtEghCU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/zGCxvtEghCU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=zGCxvtEghCU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP403 คณะ เทพ โพธิ์งาม - หม่ำ จ๊กมก ชุดที่ 72 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/UFlEGlKOY-c/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UFlEGlKOY-c?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UFlEGlKOY-c",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไม่เข้าใจเต้นตรงนี้ที่ไรมีอาการแปลกๆ | คณะ ดี๋ ดอกมะดัน",
       "image": "https://i.ytimg.com/vi/hQ6MHCSFeTs/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/hQ6MHCSFeTs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=hQ6MHCSFeTs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP402 ฮาโลกแตก ชุดที่ 64 คณะ บ็อบ สกอเปี้ยน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/rbkaF1JFtSw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/rbkaF1JFtSw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=rbkaF1JFtSw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เด็ดดอกจำปีเสียบหูอีปุ๊ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/B4Yk42L_4aE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/B4Yk42L_4aE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=B4Yk42L_4aE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP401 ฮาสนั่นจอ ชุดที่ 11 คณะ โน็ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/J4Nj9jVFOSw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/J4Nj9jVFOSw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=J4Nj9jVFOSw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลาวชัดๆ ไม่ต้องบอกก็รู้ | คณะ หม่ำ จ๊กมก",
       "image": "https://i.ytimg.com/vi/kmWLihQT6-s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/kmWLihQT6-s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=kmWLihQT6-s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP400 ฮาขำกลิ้ง ชุดที่ 12 คณะ ดอน จมูกบาน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/QxMEByKvMuw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/QxMEByKvMuw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=QxMEByKvMuw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อาจารย์จากศิลปากร | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/7X4jGcvGfOc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/7X4jGcvGfOc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=7X4jGcvGfOc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP399 ฮาทะลุโลก ชุดที่ 21 คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/WuvGB36uKno/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/WuvGB36uKno?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=WuvGB36uKno",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้าไชยา ชื่อ ไชยัณญ์ | คณะ หม่ำ จ๊กมก",
       "image": "https://i.ytimg.com/vi/JLY6cZnXmWA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/JLY6cZnXmWA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=JLY6cZnXmWA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP398 ฮาโลกแตก ชุดที่ 37 คณะโย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/zhm1t7S1V04/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/zhm1t7S1V04?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=zhm1t7S1V04",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอนแม่ท้องทานเมนูนี้ลูกผิวดีทุกคน | คณะ จตุรงค์ มกจ๊ก",
       "image": "https://i.ytimg.com/vi/nPi2Zej0tYI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/nPi2Zej0tYI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=nPi2Zej0tYI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP397 คณะ เป็ด และ หนู เชิญยิ้ม ฮาทะลุจอ ชุดที่ 1| คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/RkbXoJjMHFo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/RkbXoJjMHFo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=RkbXoJjMHFo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อนาคตได้เป็นใหญ่ เบาหวานและตวามดัน | คณะ ดี๋ ดอกมะดัน",
       "image": "https://i.ytimg.com/vi/_6toDVU4_bA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/_6toDVU4_bA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=_6toDVU4_bA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP396 ยุทธการตลก ตอน อับดุลย์เอ้ย ตามพ่อมา คณะ เด๋อ ดอกสะเดา | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/OMeedEjVWk0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/OMeedEjVWk0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=OMeedEjVWk0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เสียงระนาดเหมือนเสียงสวรรค์ | คณะ ดู๋ ดอกกระโดน",
       "image": "https://i.ytimg.com/vi/PWNU7wQISFc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PWNU7wQISFc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PWNU7wQISFc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP395 ยุทธการตลก ตอน แก้วลืมลัง คณะ บอล เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/ruPaJq1yEvk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ruPaJq1yEvk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ruPaJq1yEvk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หม่ำรับโทรศัพท์ด้วย | คณะ หม่ำ จ๊กมก",
       "image": "https://i.ytimg.com/vi/nMGdmsLJWZY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/nMGdmsLJWZY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=nMGdmsLJWZY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP394 ตลกตกขอบจอ ชุดที่ 1 คณะ ดู๋ ดอกกระโดน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/oaHngbt75X4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/oaHngbt75X4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=oaHngbt75X4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เสียความรู้สึกยังไง | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/Ww7ZNNWr-pw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Ww7ZNNWr-pw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Ww7ZNNWr-pw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP393 ตลกตกขอบจอ ชุดที่ 2 คณะ ตูมตาม_(มี ป๋าต๊อก-โหน่ง-แวว) | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/8s-cMSuaCvE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8s-cMSuaCvE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8s-cMSuaCvE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มีคนบอกหน้าคล้าย “โรส” | คณะ ดู๋ ดอกกระโดน",
       "image": "https://i.ytimg.com/vi/-dQCXgOSOIQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-dQCXgOSOIQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-dQCXgOSOIQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP392 ฮามหามันส์ ชุดที่ 38 คณะ เต่า เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/T_HrDBK0tHQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/T_HrDBK0tHQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=T_HrDBK0tHQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "“ยุ้ย ญาติเยอะ” เคยดูมั้ย | คณะ หม่ำ จ๊กมก",
       "image": "https://i.ytimg.com/vi/aY1ZsY4XgnM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/aY1ZsY4XgnM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=aY1ZsY4XgnM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP391 ฮาขำกลิ้ง ชุดที่ 15 คณะ จตุรงค์ มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/loDw0G_YxT8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/loDw0G_YxT8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=loDw0G_YxT8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ปลาอะไรเอ๋ย | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/j0P8b7vpjiw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/j0P8b7vpjiw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=j0P8b7vpjiw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP390 ฮาโลกแตก ชุดที่ 5 คณะ โน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/bm3yl34k_UM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/bm3yl34k_UM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=bm3yl34k_UM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตุ้งโล้ โต้รุ่ง | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/-x_xQKI9p58/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-x_xQKI9p58?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-x_xQKI9p58",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP389 ยุทธการตลก ตอน ครูไหวใจร้อน คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/cGKx4TvxFCU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/cGKx4TvxFCU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=cGKx4TvxFCU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนหัวล้านก็อย่างงี้ เหงื่อออกเยอะ | คณะ โหน่ง ช่าช่าช่า",
       "image": "https://i.ytimg.com/vi/c7qy7cjvyE4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/c7qy7cjvyE4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=c7qy7cjvyE4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ระดับลูกคอ 10 ชั้น | คณะ ดู๋ ดอกกระโดน",
       "image": "https://i.ytimg.com/vi/Pfxpts25dCQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Pfxpts25dCQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Pfxpts25dCQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP388 ฮาสะบั้น มันระเบิด ชุดที่ 61 คณะ เป็ด และ หนู เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/G4SzciB-Fv4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/G4SzciB-Fv4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=G4SzciB-Fv4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยกที่ 1 | คณะ หยอง ลูกหยี",
       "image": "https://i.ytimg.com/vi/z17ag-anWuU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/z17ag-anWuU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=z17ag-anWuU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตบมือต้อนรับ “โจนัส” ครับ | คณะ ดี๋ ดอกมะดัน",
       "image": "https://i.ytimg.com/vi/e1Wg9Rw3I3s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/e1Wg9Rw3I3s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=e1Wg9Rw3I3s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP387 ตลกตกขอบจอ ชุดที่ 12 คณะ สีหนุ่ม เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/TQPue4WROj8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/TQPue4WROj8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=TQPue4WROj8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โฆษณาของผมใหม่ล่าสุด | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/3PYYXdusjyw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3PYYXdusjyw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3PYYXdusjyw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP386 ยุทธการตลก ตอน ถึงลูกถึงหลาน คณะ โน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/-qo00k_hVbQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-qo00k_hVbQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-qo00k_hVbQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ต้อนรับ แสนรัก เมืองโคราช | คณะ โหน่ง ช่าช่าช่า",
       "image": "https://i.ytimg.com/vi/e6jgKIslXsQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/e6jgKIslXsQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=e6jgKIslXsQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นับเลขหลายภาษา | คณะ จตุรงค์ มกจ๊ก",
       "image": "https://i.ytimg.com/vi/g_26nXUpGNw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/g_26nXUpGNw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=g_26nXUpGNw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP385 ฮาสนั่นจอ ชุดที่ 92 คณะ โย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/d7nwSEl5HO0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/d7nwSEl5HO0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=d7nwSEl5HO0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP384 ฮาสนั่นจอ ชุดที่ 28 คณะ เด๋อ ดอกสะเดา | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/L0umNnNto48/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/L0umNnNto48?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=L0umNnNto48",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP383 ยกขบวนฮา ชุดที่ 17 คณะ เทพ โพธิ์งาม,หม่ำ จ๊กมก | คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/D-Uio3sdnMg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/D-Uio3sdnMg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=D-Uio3sdnMg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขอบคุณท่านมีเกียรทุกท่าน | คณะ เอ็ดดี้ ผีน่ารัก",
       "image": "https://i.ytimg.com/vi/CCRpOPE24PQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/CCRpOPE24PQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=CCRpOPE24PQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กรรมการมวยมาจากประเทศญี่ปุ่น | คณะ โหน่ง ช่าช่าช่า",
       "image": "https://i.ytimg.com/vi/qomQ_hwcEVY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/qomQ_hwcEVY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=qomQ_hwcEVY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ข่าวด่วน.. | คณะ หยอง ลูกหยี",
       "image": "https://i.ytimg.com/vi/UsUudgjqiAE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UsUudgjqiAE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UsUudgjqiAE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP382 ฮาล้นตลับ ชุดที่ 114 คณะ หนู คลองเตย | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/oxAtl3FKM2M/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/oxAtl3FKM2M?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=oxAtl3FKM2M",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แต่งหน้าพี่แมว | คณะ โหน่ง ช่าช่าช่า",
       "image": "https://i.ytimg.com/vi/GlIF_FjJ4qA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/GlIF_FjJ4qA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=GlIF_FjJ4qA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โปรโมทเทปชุดที่3 | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/3VlkGDrYr0I/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3VlkGDrYr0I?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3VlkGDrYr0I",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สวัสดีครับท่าน... | คณะ เอ็ดดี้ ผีน่ารัก",
       "image": "https://i.ytimg.com/vi/-IR0cPGQIdY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-IR0cPGQIdY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-IR0cPGQIdY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ท่านผู้ชมครับ... | คณะ หยอง ลูกหยี",
       "image": "https://i.ytimg.com/vi/hggc3ZnUG24/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/hggc3ZnUG24?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=hggc3ZnUG24",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พรีเซ็นเตอร์ ห่อหุ้มทุกครั้ง ยับยั้งเอดส์ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/45x-CIR1LOA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/45x-CIR1LOA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=45x-CIR1LOA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP381 เปิดตลับฮา ชุดที่ 71 คณะ เอ็ดดี้ ผีน่ารัก โก๊ะตี๋ อารามบอย | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/f0egu0vNtQ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/f0egu0vNtQ0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=f0egu0vNtQ0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ร้องอังกฤษแปลไทย | คณะ เอ็ดดี้ ผีน่ารัก",
       "image": "https://i.ytimg.com/vi/_R4u_GAggbA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/_R4u_GAggbA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=_R4u_GAggbA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยานัดหมอมีแก้ฝีแก้หิด ยานัดหมอชิดแก้หิดแก้ฝี | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/pQTVM75UlBI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pQTVM75UlBI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pQTVM75UlBI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP380 ฮาทะลุโลก ชุดที่ 8 คณะ ถั่วแระ ชูศรี เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/zCNm9-EhEdw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/zCNm9-EhEdw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=zCNm9-EhEdw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แต่ล่ะชุดแสนทุเรศ แสนทุรัง | คณะ โหน่ง ช่าช่าช่า",
       "image": "https://i.ytimg.com/vi/N4E4-P9KTb4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/N4E4-P9KTb4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=N4E4-P9KTb4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตาค้าง | คณะ หยอง ลูกหยี",
       "image": "https://i.ytimg.com/vi/ZCtaxBVcB8w/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ZCtaxBVcB8w?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ZCtaxBVcB8w",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP379 คณะ เท่ง เถิดเทิง โหน่ง ฮามหามันส์ ชุดที่ 41 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/pRV8TEdZInA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pRV8TEdZInA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pRV8TEdZInA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เราเป็นคนไทย ต้องพูดภาษาไทยชัดนะ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/0-klC9HbVSg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/0-klC9HbVSg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=0-klC9HbVSg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แดนเซอร์ ผีน่ารักโชว์ | คณะ เอ็ดดี้ ผีน่ารัก",
       "image": "https://i.ytimg.com/vi/NuPmAtSFjZ4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/NuPmAtSFjZ4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=NuPmAtSFjZ4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP378 ยุทธการตลก คณะตูมตาม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/IELea0_YLnY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/IELea0_YLnY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=IELea0_YLnY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เล่าเรื่องหมดแล้ว | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/CWWvxN2glS0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/CWWvxN2glS0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=CWWvxN2glS0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP377 ยุทธการตลก ตอน แหนม ยโสธร คณะ ร็อคข้าวปุ้น | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/UesxWvPkq-M/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UesxWvPkq-M?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UesxWvPkq-M",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เลิกกับน้องต้า เพราะแทงไม่ถูก | คณะ โหน่ง ช่าช่าช่า",
       "image": "https://i.ytimg.com/vi/W8CQZOKxaFI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/W8CQZOKxaFI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=W8CQZOKxaFI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใครมาอีกล่ะ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/SRcggWmGq9g/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/SRcggWmGq9g?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=SRcggWmGq9g",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP376 ตลก หยอง ลูกหยี ฮาคูณสอง ยกกำลังสี่ ชุดที่ 20 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/NSp2W59f9wU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/NSp2W59f9wU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=NSp2W59f9wU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พระนางจีบกัน | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/biPlC3REhgQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/biPlC3REhgQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=biPlC3REhgQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มีการศึกษาหรือเปล่า | คณะ เอ็ดดี้ ผีน่ารัก",
       "image": "https://i.ytimg.com/vi/yayUXzQPN1E/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/yayUXzQPN1E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=yayUXzQPN1E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บินลาดินมาขายปุ๋ย | คณะ หยอง ลูกหยี",
       "image": "https://i.ytimg.com/vi/DV1LpNKMDqA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/DV1LpNKMDqA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=DV1LpNKMDqA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP375 คณะ เป็ด และ หนู เชิญยิ้ม ตลกคาเฟ่ 1| คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/TwcisIevFNI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/TwcisIevFNI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=TwcisIevFNI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตัดสินด้วยการชกมวย | คณะ หยอง ลูกหยี",
       "image": "https://i.ytimg.com/vi/uGrjl7DJ-YE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uGrjl7DJ-YE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=uGrjl7DJ-YE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พระเอก มนรักลูกทุ่ง | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/7SP-7JpUwl4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/7SP-7JpUwl4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=7SP-7JpUwl4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP374 คณะ ชูศรี เชิญยิ้ม เท่ง-โหน่ง ยกขบวนฮา | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/y2QxE528wXg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/y2QxE528wXg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=y2QxE528wXg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP373 ยุทธการตลก ตอน คอนเสิร์ตต้านภัยไข้เลือดออก คณะ บอล เชิญยิ้ม | คาเฟ่ Return",
       "image": "https://i.ytimg.com/vi/cvFr5j6jAa8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/cvFr5j6jAa8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=cvFr5j6jAa8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชังน่าสงสาร | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/PDT3LgxpRmU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PDT3LgxpRmU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PDT3LgxpRmU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อายุน้อย มีผัวกันหมดแล้ว",
       "image": "https://i.ytimg.com/vi/eoNGyi_J-Nk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/eoNGyi_J-Nk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=eoNGyi_J-Nk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP372 ตลก น้าค่อม+น้องแจ๊ส คณะ ชวนชื่น | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/XnwObYfa5I8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/XnwObYfa5I8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=XnwObYfa5I8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลาวพูดอังกฤษ | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/XrVTLGTMDmQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/XrVTLGTMDmQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=XrVTLGTMDmQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพลงชีวิตไม่ใช่เพลงดิ้น | คณะ เอ็ดดี้ ผีน่ารัก",
       "image": "https://i.ytimg.com/vi/WGUOxzLAIVk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/WGUOxzLAIVk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=WGUOxzLAIVk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP371 ฮาล้นตลับ ชุดที่ 102 คณะ ดี๋ ดอกมะดัน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/tVmfSaZGX_M/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/tVmfSaZGX_M?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=tVmfSaZGX_M",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หาชื่อนักการเมือง ช | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/9Fl4zLEBjp0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/9Fl4zLEBjp0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=9Fl4zLEBjp0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เอาตังทอนไป มีแช่ง | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/l_0e70e0XnM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/l_0e70e0XnM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=l_0e70e0XnM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วีรกรรมหัวหน้า | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/-9dibaHZ5wI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-9dibaHZ5wI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-9dibaHZ5wI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เป็นคนลาวแล้วมันเป็นยังไง.. | คณะ เอ็ดดี้ ผีน่ารัก",
       "image": "https://i.ytimg.com/vi/EF1fWXvJSes/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/EF1fWXvJSes?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=EF1fWXvJSes",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP370 ฮาล้นตลับ ชุดที่ 88 คณะ หนู คลองเตย | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/ozSfo2q70KE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ozSfo2q70KE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ozSfo2q70KE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เล่นหนัง ก่อนบวช | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/gMkakI74ZSw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/gMkakI74ZSw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=gMkakI74ZSw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ร้องเพลงคู่ | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/9X8SlCOR8Mg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/9X8SlCOR8Mg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=9X8SlCOR8Mg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP369 ฮาตกขอบ ชุดที่ 5 คณะ ซุปเปอร์ดอน| คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/FJeLbdBNqlo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/FJeLbdBNqlo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=FJeLbdBNqlo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพลงลูกทุ่ง ประจำจังหวัด | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/ehRqez58BVQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ehRqez58BVQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ehRqez58BVQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทดสอบคำพังเพย | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/xVgPwKxkS0A/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/xVgPwKxkS0A?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=xVgPwKxkS0A",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP368 คณะ ชูศรี เชิญยิ้ม มี หม่ำ เท่ง โหน่ง ตลก แวว จ๊กมก | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/MatUyxaZNTQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/MatUyxaZNTQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=MatUyxaZNTQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กลอนสอนใจ | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/L9wgg9CCveE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/L9wgg9CCveE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=L9wgg9CCveE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP367 ฮาสะบั้น มันระเบิด ชุดที่ 56 คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/z9-JHWUYVdQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/z9-JHWUYVdQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=z9-JHWUYVdQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทำเสียงหน่อย | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/zn_GbUE71Qc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/zn_GbUE71Qc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=zn_GbUE71Qc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สัมภาษณ์นักมวย | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/bPbf9Y8N0wA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/bPbf9Y8N0wA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=bPbf9Y8N0wA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP366 ฮาสนั่นจอ ชุดที่ 76 คณะ ดี๋ ดอกมะดัน | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/n4swO5a8jXk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/n4swO5a8jXk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=n4swO5a8jXk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลีลาประกอบเพลง | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/K9dipyVxmM0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/K9dipyVxmM0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=K9dipyVxmM0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กวนพระเอก | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/4NYty2mQ5yw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/4NYty2mQ5yw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=4NYty2mQ5yw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP365 ฮาโลกแตก คณะ หนู เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/v8MMSZmkAOU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/v8MMSZmkAOU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=v8MMSZmkAOU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พูดคำเดียว | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/_hgL1zMIb8E/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/_hgL1zMIb8E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=_hgL1zMIb8E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชกกันยกที่ 2 | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/al8jmjkm_Uk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/al8jmjkm_Uk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=al8jmjkm_Uk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP364 ยุทธการตลก ตอน ผู้กองโป๊งเหน่ง คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/0P_SvGTZHxQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/0P_SvGTZHxQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=0P_SvGTZHxQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตัวร้ายหน้ามน | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/kRspllJFFyc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/kRspllJFFyc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=kRspllJFFyc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แทงหวย - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/UuJrjx5oGUo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UuJrjx5oGUo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UuJrjx5oGUo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP363 ยุทธการตลก ตอน เชิญยิ้มคาเฟ่ คณะ บอล เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/2eCtKKHZjpk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/2eCtKKHZjpk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=2eCtKKHZjpk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แซวแขก - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/I2tJggsjlU4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/I2tJggsjlU4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=I2tJggsjlU4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP362 ยุทธการตลก ตอน หยองคาเฟ่ คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/2JGFq4-SdJQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/2JGFq4-SdJQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=2JGFq4-SdJQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "งานอดิเรก | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/A6iQHfHfPCI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/A6iQHfHfPCI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=A6iQHfHfPCI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อินกับบท | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/Yrk08FZj-8M/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Yrk08FZj-8M?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Yrk08FZj-8M",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP361 ฮาโลกแตกชุดที่ 62 คณะ จตุรงค์ม๊กจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/fnUJAt4Q4Zk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/fnUJAt4Q4Zk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=fnUJAt4Q4Zk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพลงสากล - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/ZWHYGwg-hck/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ZWHYGwg-hck?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ZWHYGwg-hck",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยกที่ 1 | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/Nq2ZxTdnVNU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Nq2ZxTdnVNU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Nq2ZxTdnVNU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP360 ยุทธการตลก ตอน เพื่อนเสนาะ คณะ นุ้ย เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/ya0OgG4fVH8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ya0OgG4fVH8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ya0OgG4fVH8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชีวิตช่างอาภัพ | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/hSW-KVL_O2o/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/hSW-KVL_O2o?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=hSW-KVL_O2o",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP359 ฮาสบั้น มันระเบิด ชุดที่ 68 คณะ โน๊ต เชิญยิ้ม | หม่ำ จ๊กมก เท่ง แวว อาแปะ",
       "image": "https://i.ytimg.com/vi/dqyUMyAXzaY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/dqyUMyAXzaY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=dqyUMyAXzaY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มอบรางวัล | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/73P-lYrTviQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/73P-lYrTviQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=73P-lYrTviQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นับเลขเป็นภาษาอังกฤษ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/p6W-Neo7QZQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/p6W-Neo7QZQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=p6W-Neo7QZQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴Live EP358 ฮาขำกลิ้ง ชุดที่ 3 คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/Cs2fumF4_Xg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Cs2fumF4_Xg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Cs2fumF4_Xg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใช้หัวแทนกลอง | คณะ เป็ด เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/ucg2B0fdFtk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ucg2B0fdFtk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ucg2B0fdFtk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โคตรลิเก | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/pfVfW-Owuik/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pfVfW-Owuik?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pfVfW-Owuik",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นายเด็กไหน | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/E4gO7iLlc2E/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/E4gO7iLlc2E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=E4gO7iLlc2E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลองเป็นตัวผู้หญิง | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/h3EwxuGPNkY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/h3EwxuGPNkY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=h3EwxuGPNkY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพลงเกี่ยวข้าว | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/f-REZ8Dji40/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/f-REZ8Dji40?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=f-REZ8Dji40",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP357 เวทีตลก ตอน งงงวยเรื่อง กทม. คณะโน้ตเชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/UNTl3ccUHM4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UNTl3ccUHM4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UNTl3ccUHM4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชนะได้ผู้หญิง | คณะ โย่ง เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/jbvYPJOK7aE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/jbvYPJOK7aE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=jbvYPJOK7aE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ปัญหาวัดความฉลาด - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/aZDbQhoWo18/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/aZDbQhoWo18?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=aZDbQhoWo18",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP356 เวทีตลก ตอน เพื่อนร่วมน้ำสาบาน คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/wU49Kk1LuaE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/wU49Kk1LuaE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=wU49Kk1LuaE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี๋ยวหาเด็กใหม่มาให้ | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/jE9ivqcl3iY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/jE9ivqcl3iY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=jE9ivqcl3iY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กรรมการชื่อหม่อง | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/PUV-Wy7uYtA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PUV-Wy7uYtA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PUV-Wy7uYtA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP355 เวทีตลก ตอน ปัญหากวนโอ๊ย คณะ โย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/OUksLkzvc5Y/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/OUksLkzvc5Y?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=OUksLkzvc5Y",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ธุระกิจมะม่วง | ต่างคนต่างเครียด",
       "image": "https://i.ytimg.com/vi/BhEt3RUsQj4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/BhEt3RUsQj4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=BhEt3RUsQj4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เต้นกระจาย | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/rAxorxzi_NE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/rAxorxzi_NE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=rAxorxzi_NE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตะลึง ตะลึง - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/_cBiv-kvBU8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/_cBiv-kvBU8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=_cBiv-kvBU8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP354 เวทีตลก เจ้าชายคชสิงห์กับเจ้าหญิง คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/k3u1gMwiId8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/k3u1gMwiId8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=k3u1gMwiId8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บอยแบนด์ เกิร์ลกรุ๊ป | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/DNMnSbzQTzo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/DNMnSbzQTzo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=DNMnSbzQTzo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กลุ่มศิลปินน้อยๆ น่ารัก | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/agmmDmc9vQA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/agmmDmc9vQA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=agmmDmc9vQA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP353 เวทีตลก ตอน ยำใหญ่ถั่วแระ คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/RpPzNfwPieg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/RpPzNfwPieg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=RpPzNfwPieg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กัญชา บุหรี่ ยาบ้า - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/rbYr-6IX5l0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/rbYr-6IX5l0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=rbYr-6IX5l0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สาวสวยประจำคณะ - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/PLkc3KqhJCc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PLkc3KqhJCc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PLkc3KqhJCc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP352 บ๊าย บายความเครียด ตอน ศึกชิงนางเอกกำมะลอ คณะโน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/8ItQYT6N3sg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8ItQYT6N3sg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8ItQYT6N3sg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นัดเดทครั้งแรก | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/sIVfUPrJfw8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/sIVfUPrJfw8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=sIVfUPrJfw8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มวยคู่เอก | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/tOEMTRrSXSk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/tOEMTRrSXSk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=tOEMTRrSXSk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP351 เวทีตลก ตอน เพลงฮาปัญหากวน คณะ สุเทพ สีใส | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/BlJ2nPlF9O8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/BlJ2nPlF9O8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=BlJ2nPlF9O8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฝรั่งไม่รู้เรื่อง | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/bb293N7m5Xk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/bb293N7m5Xk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=bb293N7m5Xk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชอบกีฬาอะไร | คณะ หนู เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/04mt1VVNu9A/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/04mt1VVNu9A?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=04mt1VVNu9A",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP350 เวทีตลก ตอน มายากลมหาสนุก คณะถั่วแระ เชิญยิ้ม | คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/rgR3gsU6jN0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/rgR3gsU6jN0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=rgR3gsU6jN0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พี่เบิร์ด | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/uzUhbeUiynY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uzUhbeUiynY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=uzUhbeUiynY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วัดความรู้ด้านภาษา | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/pfpoWxZ4tqs/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pfpoWxZ4tqs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pfpoWxZ4tqs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เป็นคนที่ไหน | คณะ หนู เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/JPsQ1Lw7-dc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/JPsQ1Lw7-dc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=JPsQ1Lw7-dc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไห้วครู | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/k6Djz3wJ0L8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/k6Djz3wJ0L8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=k6Djz3wJ0L8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP349 เวทีตลก ตอน เกาเหลารวมมิตร คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/z1yz8hGoA0s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/z1yz8hGoA0s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=z1yz8hGoA0s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โต๊ะไหน - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/2bl0mzczmgY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/2bl0mzczmgY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=2bl0mzczmgY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไม่ได้เจอกันนาน - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/43Fx2Xtieh0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/43Fx2Xtieh0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=43Fx2Xtieh0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นักกีฬาซีเกมส์ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/JVQTo-eUKO4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/JVQTo-eUKO4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=JVQTo-eUKO4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นักร้องหน้าหล่อ ชวัญใจแม่ยก - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/GDou7_LRPk0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/GDou7_LRPk0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=GDou7_LRPk0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP348 เวทีตลก ตอน แฮปปี้เบิร์ดเดย์กำนัล คณะ โย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/JcDzR7hgYEQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/JcDzR7hgYEQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=JcDzR7hgYEQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นับเลข ภาษาตัวเอง | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/sG7VcNHEeW8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/sG7VcNHEeW8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=sG7VcNHEeW8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP347 เวทีตลก ตอน ช็อค วัดใจน้องใหม่ คณะ ถั่วแระ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/fzvgBjdr6Ps/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/fzvgBjdr6Ps?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=fzvgBjdr6Ps",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รู้เรื่องชาวบ้าน - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/XKQGKil136s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/XKQGKil136s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=XKQGKil136s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แขกสายเปย์ - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/sSdLwmYypmQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/sSdLwmYypmQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=sSdLwmYypmQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP346 บ๊าย บาย ความเครียด ตอน คมพยาบาทอาฆาตรัก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/wgKF-pwifkI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/wgKF-pwifkI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=wgKF-pwifkI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สมัครนักร้องคาเฟ่ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/vCpLzcN7U3s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/vCpLzcN7U3s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=vCpLzcN7U3s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพลงพนัน | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/SdfyxClwf9c/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/SdfyxClwf9c?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=SdfyxClwf9c",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นักร้องผ่านศึก | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/MBNC-yC1MqE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/MBNC-yC1MqE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=MBNC-yC1MqE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้องโบว์ - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/X01HXX1CH8E/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/X01HXX1CH8E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=X01HXX1CH8E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP345 เวทีตลก ตอน กำจัดจุดเครียด คณะโน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/WFhzGh-CYms/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/WFhzGh-CYms?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=WFhzGh-CYms",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จดหมายถึงพี่หนู | คณะ หนู เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/PoLj4fRCiGw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PoLj4fRCiGw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PoLj4fRCiGw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ติดต่อแขกรวยๆให้ - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/0EheplGCAm8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/0EheplGCAm8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=0EheplGCAm8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP344 บ๊าย บาย ตอน รวมฮิตเกมมันส์ 2002 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/NTPBaY5_TIU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/NTPBaY5_TIU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=NTPBaY5_TIU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พระเอกมาดเข้ม | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/8Lb64332XTI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8Lb64332XTI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8Lb64332XTI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สุดยอดนายแบบ - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/EOeeR4XT_Gc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/EOeeR4XT_Gc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=EOeeR4XT_Gc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP343 เวทีตลก ตอน สาวอีสานอินเตอร์ คณะ ดู๋ดอกกระโดน | คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/8TQI8j2G40w/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8TQI8j2G40w?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8TQI8j2G40w",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกก็มีสาระ | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/W2iexNpDOWU/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/W2iexNpDOWU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=W2iexNpDOWU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นับเลขภาษาต่างๆ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/dwrMXoxGWSs/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/dwrMXoxGWSs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=dwrMXoxGWSs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP342 บ๊าย บาย ความเครียด ตอน สาวใช้ 2002 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/eN9AIpo35Ck/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/eN9AIpo35Ck?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=eN9AIpo35Ck",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP341 เวทีตลก ตอน ถามมาตอบไปปัญหาอะไรเอ๋ย คณะ โย่ง เชิญยิ้ม | คาเฟ่Return โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/c_E1AwpVXPA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/c_E1AwpVXPA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=c_E1AwpVXPA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แผลแตก | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/21_U-YT9J1E/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/21_U-YT9J1E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=21_U-YT9J1E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คู่พระ คู่นาง - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/hpgswycXwOI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/hpgswycXwOI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=hpgswycXwOI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนขี้สงสัย | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/VQ5SJNDjiHQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/VQ5SJNDjiHQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=VQ5SJNDjiHQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มันเป็นเรื่องน่าเศร้า - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/dVfLRPeJ8EA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/dVfLRPeJ8EA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=dVfLRPeJ8EA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนพิการ ก็ไม่เว้น | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/eBtbGqfYs5s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/eBtbGqfYs5s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=eBtbGqfYs5s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เวทีมวยรูปแบบใหม่ | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/jMTjellREGk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/jMTjellREGk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=jMTjellREGk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP340 บ๊ายบายความเครียด ตอน กองถ่ายชุลมุน สีหนุ่ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/rFoFC8h8Ec0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/rFoFC8h8Ec0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=rFoFC8h8Ec0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใครว่าอ้วน - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/3_DCcCRV7Bw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3_DCcCRV7Bw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3_DCcCRV7Bw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เมียไม่รัก - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/L6moJn-2NmA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/L6moJn-2NmA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=L6moJn-2NmA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP339 เวทีตลก ตอน 3อนงค์อินคอนเสิร์ต คณะ ดู๋ ดอกกระโดน | คาเฟ่ Return โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/H3yuFF-4XLA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/H3yuFF-4XLA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=H3yuFF-4XLA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สัมภาษณ์นักมวย | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/K_dPNRBtxm4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/K_dPNRBtxm4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=K_dPNRBtxm4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มั่นใจในความสวย - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/i5dDWbLPqr8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/i5dDWbLPqr8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=i5dDWbLPqr8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP338 เวทีตลก ตอน ลูกสาวซ่าพ่อตาแสบ คณะโน้ต เชิญยิ้ม|คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/Wg3nhuhaVJc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Wg3nhuhaVJc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Wg3nhuhaVJc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ภาษาพาเพลิน | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/stFBn1ZhRtc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/stFBn1ZhRtc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=stFBn1ZhRtc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตามหาเมียรัก - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/m6yX9M6OKsk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/m6yX9M6OKsk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=m6yX9M6OKsk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP337 เวทีตลก ตอน แดนซ์เซอร์หลุดโลก คณะ เหลือเฟือ มกจ๊ก | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/DhIBqIPGUKQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/DhIBqIPGUKQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=DhIBqIPGUKQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ภาษาอังกฤษง่ายนิดเดียว | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/WLkSMnwRixA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/WLkSMnwRixA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=WLkSMnwRixA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นักร้องวังเวง - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/16UKRhfiRAQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/16UKRhfiRAQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=16UKRhfiRAQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP336 บ๊ายบาย ตอน วายร้าย วัยเรียน เพี้ยนรัก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/0gpFl52Ge7k/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/0gpFl52Ge7k?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=0gpFl52Ge7k",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หาเรื่องแขก | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/yJc05bxs8k0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/yJc05bxs8k0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=yJc05bxs8k0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชุปตัวใหม่ - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/eMtvCCM4Z50/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/eMtvCCM4Z50?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=eMtvCCM4Z50",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP335 เวทีตลก ตอน ขวัญเรียม คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/r9lYfQiJH_g/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/r9lYfQiJH_g?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=r9lYfQiJH_g",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อย่าดูคนที่หน้าตา - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/pAHQ8VIMipg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pAHQ8VIMipg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pAHQ8VIMipg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ศึกมวยปล้ำ | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/4qRekE0LKIs/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/4qRekE0LKIs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=4qRekE0LKIs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เป็นกะเทยมานานยัง | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/3733ROg1uZo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3733ROg1uZo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3733ROg1uZo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนูสวยแล้วนะ - คณะ ดอน จมูกบาน",
       "image": "https://i.ytimg.com/vi/a_7CCzejBas/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/a_7CCzejBas?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=a_7CCzejBas",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP334 บ๊ายบาย ความเครียด มรดกตีลังกา โหน่ง นุ้ย | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/X1PEOvgdLMo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/X1PEOvgdLMo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=X1PEOvgdLMo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แนะนำที่เที่ยวกลางคืน - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/turdgq38hmQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/turdgq38hmQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=turdgq38hmQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดูกูเป็นตัวอย่าง - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/SnkVfbpKXAM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/SnkVfbpKXAM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=SnkVfbpKXAM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 333 - เวทีตลก ตอน น้องพี เด็กมหัศจรรย์ คณะ จตุรงค์ มกจ๊ก | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/xLeR1B5Wtm8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/xLeR1B5Wtm8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=xLeR1B5Wtm8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อย่าทะเลาะกันเลย | คณะ โน๊ต เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/fBDMZr1NJfg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/fBDMZr1NJfg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=fBDMZr1NJfg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 332 - บ๊ายบาย ความเครียด ตอน สัพเพเหระพคลายเครียด คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/bDARH_1I8m4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/bDARH_1I8m4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=bDARH_1I8m4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP331 เวทีตลก ตอน รวมมิตรโกอินเตอร์ คณะดู๋ ดอกกระโดน |คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/J8CBA6riJvc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/J8CBA6riJvc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=J8CBA6riJvc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โชว์ของ - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/p4NXg8ObXrE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/p4NXg8ObXrE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=p4NXg8ObXrE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP330 เวทีตลก ตอน เอ็ดดี้จี้ต่อมฮา คณะ เอ็ดดี้ ผีน่ารัก | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/oBNsOkbb2Qo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/oBNsOkbb2Qo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=oBNsOkbb2Qo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไปโรงพัก | คณะ หนู เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/v6O7z2naS8U/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/v6O7z2naS8U?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=v6O7z2naS8U",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP329 บ๊ายบาย ความเครียด ตอน มนต์รักบ้านนา คณะ ถั่วแระ เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/A-RNwGZOUys/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/A-RNwGZOUys?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=A-RNwGZOUys",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มาแอบดูลูกกูอาบน้ำทำไม!!! | จันชรา",
       "image": "https://i.ytimg.com/vi/GS6GCWrfCyM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/GS6GCWrfCyM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=GS6GCWrfCyM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อวยพรวันเกิดแขก | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/WPbTKGjWHKc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/WPbTKGjWHKc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=WPbTKGjWHKc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP328 เวทีตลก ตอน ผ้าขี้ริ้วห่อทอง คณะ โย่ง เชิญยิ้ม |คาเฟ่ ReturnCLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/pmQ9wTwSMwc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pmQ9wTwSMwc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pmQ9wTwSMwc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทำเสียง เอคโค่ - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/6rbJUE8gui8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/6rbJUE8gui8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=6rbJUE8gui8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP327 เวทีตลก ตอน ศิลปินเดี่ยวฮาทะลุจอ คณะ ถั่วแระ-ชูศรี เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/Ly5lqeMMPcg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Ly5lqeMMPcg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Ly5lqeMMPcg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พูดถึงเมีย - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/T6gRc6ACkIE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/T6gRc6ACkIE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=T6gRc6ACkIE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP326 บ๊ายบาย ความเครียด ตอน เรื่องแผลเก่าแสนแสบ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/qoMjluHmgqk/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/qoMjluHmgqk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=qoMjluHmgqk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มอบรางวัลผู้ชนะ | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/jA-fM-TcGCg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/jA-fM-TcGCg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=jA-fM-TcGCg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep EP325 บ๊ายบาย ความเครียด ตอน กามเทพหลงทาง | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/PBku8DhVGZw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PBku8DhVGZw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PBku8DhVGZw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มึงพูดภาษาอะไร - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/s9jEH0LFmfg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/s9jEH0LFmfg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=s9jEH0LFmfg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 324 - เวทีตลก ตอน เลียนแบบคนดัง คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/umhWd2nadbI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/umhWd2nadbI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=umhWd2nadbI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนจีนจริงๆ | คณะ เด๋อ ดอกสะเดา",
       "image": "https://i.ytimg.com/vi/D7N4h8F9fdA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/D7N4h8F9fdA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=D7N4h8F9fdA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เรารักกัน - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/j6nO-bJMyx8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/j6nO-bJMyx8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=j6nO-bJMyx8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP323 เวทีตลก ตอน ศึกวันดวลเพลง คณะ เอ็ดดี้ ผีน่ารัก | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/UVI3XU6Jg58/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UVI3XU6Jg58?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UVI3XU6Jg58",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้องสาวตลก - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/SqulietknZw/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/SqulietknZw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=SqulietknZw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 322 - ยุทธการตลก ตอน เด็กโดน คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/E9fQlgnCobc/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/E9fQlgnCobc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=E9fQlgnCobc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อยากเล่นตลก | คณะ บ็อบสกอเปี้ยน",
       "image": "https://i.ytimg.com/vi/6kJmtffUhZE/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/6kJmtffUhZE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=6kJmtffUhZE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP321 บ๊าย บาย ความเครียด ตอน นางแมวยั่วสวาท | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/OQKudOO3n84/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/OQKudOO3n84?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=OQKudOO3n84",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 320 - เวทีตลก ตอน หมอดูเพลงดัง คณะ สุเทพ สีใส | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/LdYd-K1P0OY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/LdYd-K1P0OY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=LdYd-K1P0OY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กล้วยทอดดดด | คณะ บ็อบสกอเปี้ยน",
       "image": "https://i.ytimg.com/vi/ClRQ3Qmks50/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ClRQ3Qmks50?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ClRQ3Qmks50",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 319 - เวทีตลก ตอน สรรหามาฮาเฮ คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/Vud5ZJdKeJI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Vud5ZJdKeJI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Vud5ZJdKeJI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สวัสดีเจ้า | คณะ ดู๋ ดอกกระโดน",
       "image": "https://i.ytimg.com/vi/X2UCO2AZUkM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/X2UCO2AZUkM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=X2UCO2AZUkM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP318 บ๊าย บาย ความเครียด ตอน นางนาก 2000 | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/CxMmQMHPY-4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/CxMmQMHPY-4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=CxMmQMHPY-4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นกเขาไม่ขัน - คณะ เท่ง - โหน่ง",
       "image": "https://i.ytimg.com/vi/tq6pRKReqi0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/tq6pRKReqi0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=tq6pRKReqi0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 317 ยุทธการตลก ตอน นาค รัก โลภ โกรธ หลง คณะ โน๊ต เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/ugYcViQFl2Q/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ugYcViQFl2Q?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ugYcViQFl2Q",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ความสามารถพิเศษ - คณะ ร็อคข้าวปุ้น",
       "image": "https://i.ytimg.com/vi/NUKAWfQ-0ko/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/NUKAWfQ-0ko?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=NUKAWfQ-0ko",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 316 - คณะ จตุรง มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/1gANqvrJQD4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/1gANqvrJQD4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=1gANqvrJQD4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ประวัติปั๊มน้ำมัน | คณะ สีหนุ่ม เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/pnPQGaeKVoo/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pnPQGaeKVoo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pnPQGaeKVoo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 315 - เวทีตลก ตอน แผล(เก่า)ใหม่สะใจกว่า คณะ ศรีหนุ่ม เชิญยิ้ม | คาเฟ่ Return CLASSIC",
       "image": "https://i.ytimg.com/vi/6JQGjMAYXy0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/6JQGjMAYXy0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=6JQGjMAYXy0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วิ่ง วิ่ง วิ่ง วิ่ง วิ่งไป | คณะ บ็อบสกอเปี้ยน",
       "image": "https://i.ytimg.com/vi/lWZWs8Y-4ak/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/lWZWs8Y-4ak?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=lWZWs8Y-4ak",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 314 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/ZAI-fLwRWuQ/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ZAI-fLwRWuQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ZAI-fLwRWuQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทองแท้ | คณะ สีหนุ่ม เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/7CkBBbhrbsM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/7CkBBbhrbsM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=7CkBBbhrbsM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP313 บ๊ายบาย ความเครียด ตอน ชายไม่จริง หญิงไม่แท้ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/2zrp0YUPlt4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/2zrp0YUPlt4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=2zrp0YUPlt4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คางคก | คณะ ดู๋ ดอกกระโดน",
       "image": "https://i.ytimg.com/vi/GBuoyeTKEJ4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/GBuoyeTKEJ4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=GBuoyeTKEJ4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 312 - คณะ จตุรง มกจ๊ก | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/2JG8mQFbNQI/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/2JG8mQFbNQI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=2JG8mQFbNQI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ร้องเพลง | คณะ เป็ดและหนู เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/OfuJNSa0HuM/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/OfuJNSa0HuM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=OfuJNSa0HuM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP311 เวทีตลก ตอน ครอบครัวอลหม่าน คณะโย่ง เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/0o34htvBLE8/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/0o34htvBLE8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=0o34htvBLE8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อยู่อิรักมากี่ปี | คณะ ทองก้อน",
       "image": "https://i.ytimg.com/vi/cSLPbZtY_J0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/cSLPbZtY_J0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=cSLPbZtY_J0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เข้าไป 100 กลับออกมา 20 | คณะ สีหนุ่ม เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/K15vQ8d9h_Q/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/K15vQ8d9h_Q?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=K15vQ8d9h_Q",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP310 บ๊ายบาย ความเครียด ตอน ชุลมุนข้ามมิติ | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/JSbQUEZuL1s/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/JSbQUEZuL1s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=JSbQUEZuL1s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พรหมอาราดิน | คณะ บ็อบสกอเปี้ยน",
       "image": "https://i.ytimg.com/vi/xHZiZ7_nwYA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/xHZiZ7_nwYA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=xHZiZ7_nwYA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 309 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/lMwaEUKwA4Y/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/lMwaEUKwA4Y?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=lMwaEUKwA4Y",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลดครึ่งวันครึ่งราคา | คณะ เต่า เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/9wQZJBkw7MY/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/9wQZJBkw7MY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=9wQZJBkw7MY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 308 - เวทีตลก ตอน ผีเข้าเจ้าทรง คณะ หยอง ลูกหยี | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/KHdB5QRbFr4/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/KHdB5QRbFr4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=KHdB5QRbFr4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใครอยากเป็นเศรษฐี | คณะ ทองก้อน",
       "image": "https://i.ytimg.com/vi/-hTq7cgxTds/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-hTq7cgxTds?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-hTq7cgxTds",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 307 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/eKVNZX0moXg/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/eKVNZX0moXg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=eKVNZX0moXg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กล่องข้าวน้อยฆ่าแม่ | คณะ หม่ำ เท่ง แปะ",
       "image": "https://i.ytimg.com/vi/L29it7B2daA/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/L29it7B2daA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=L29it7B2daA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live EP306 บ๊ายบาย ความเครียด ตอน ครบเครื่องเรื่องฮา | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/pdYj6P1ng2U/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pdYj6P1ng2U?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pdYj6P1ng2U",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พี่เบิร์ด | คณะ ดู๋ ดอกกระโดน",
       "image": "https://i.ytimg.com/vi/4-kIFYaDs24/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/4-kIFYaDs24?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=4-kIFYaDs24",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "🔴 Live Ep 305 - คณะ โน้ต เชิญยิ้ม | คาเฟ่ Return CLASSIC โชว์ตลกที่คุณคิดถึง",
       "image": "https://i.ytimg.com/vi/C6dXYvmwGA0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/C6dXYvmwGA0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=C6dXYvmwGA0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไมเคิล แจ็กสัน | คณะ ถั่วแระ เชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/5GZKq2D6i7o/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/5GZKq2D6i7o?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=5GZKq2D6i7o",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
