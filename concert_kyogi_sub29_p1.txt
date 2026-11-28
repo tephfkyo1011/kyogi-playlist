@@ -6,77 +6,77 @@
     {
       "name": "มาแรง!! เขามัทรี + คงมีแต่พระ + สามช่าย้อนยุค | โชค โชคมงคล แสดงสด ณ โจ๊กฟิชชิ่ง จ.สมุทรสาคร",
       "image": "https://i.ytimg.com/vi/BZUDYAnQ708/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BZUDYAnQ708&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=BZUDYAnQ708&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใหม่ล่าสุด!! คอนเสิร์ตแสดงสดโชค โชคมงคล ไหทองคำ เต็มวงเต็มโชว์ l + เพลงฮิตTiktok + วาไรตี้สามช่า",
       "image": "https://i.ytimg.com/vi/dQYcrxh_89k/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=dQYcrxh_89k&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=dQYcrxh_89k&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ครบรส!! รู้นะคิดอะไรอยู่ + เก็บทรง + รังสิตมันร้าย + มาแรง / คอนเสิร์ตโชค โชคมงคล ไหทองคำ",
       "image": "https://i.ytimg.com/vi/CLbJeheT4Cg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CLbJeheT4Cg&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=CLbJeheT4Cg&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใหม่มาแรง!! แจ็คเป็นคาวบอย + หนมครก + รังสิต + สายย่อ l คอนเสิร์ตสดโชค โชคมงคล ไหทองคำ",
       "image": "https://i.ytimg.com/vi/T3VKhfp4nXI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=T3VKhfp4nXI&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=T3VKhfp4nXI&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ม่วนเอ่ย!! อิสานบ้านเฮา + สาวแหล้บ้านนา + บุญเดือนหก l คอนเสิร์ตโชค โชคมงคล ไหทองคำ (ใหม่ล่าสุด)",
       "image": "https://i.ytimg.com/vi/zjtBE0G14ec/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zjtBE0G14ec&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=zjtBE0G14ec&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มาใหม่!! หนมครก + รังสิตมันร้าย + สาวแหล้บ้านนา l คอนเสิร์ตแสดงสดโชค โชคมงคล ไหทองคำ (ใหม่ล่าสุด)",
       "image": "https://i.ytimg.com/vi/xTL_EbQQikw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xTL_EbQQikw&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=xTL_EbQQikw&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใหม่ล่าสุด!! เพิ่นบ่แม่นผู้สาวเฮา +  อิสานบ้านเฮา + สาวแหล้บ้านนา l แสดงสดโชค โชคมงคล",
       "image": "https://i.ytimg.com/vi/mZvzW_Cg0zc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=mZvzW_Cg0zc&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=mZvzW_Cg0zc&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สุดมันส์!! สาวแหล้บ้านนา + รังสิตมันร้าย + วอนวัยรุ่น l คอนเสิร์ตโชค โชคมงคล ไหทองคำ (ใหม่ล่าสุด)",
       "image": "https://i.ytimg.com/vi/f14KTcWIthY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=f14KTcWIthY&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=f14KTcWIthY&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มันส์เดือด!! รังสิตมันร้ายสายย่อ + วอนวัยรุ่น + สาวลำดวน l คอนเสิร์ตโชค โชคมงคล ไหทองคำ (ใหม่)",
       "image": "https://i.ytimg.com/vi/5OOOY1Br3-E/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5OOOY1Br3-E&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=5OOOY1Br3-E&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มาแล้ว!! วอนวัยรุ่นVer.ไทย + ขึ้นรถไฟ + รังสิตมันร้าย + หนมครก แสดงสด โชค โชคมงคล ไหทองคำ(ใหม่)",
       "image": "https://i.ytimg.com/vi/3nIFrBdghyg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3nIFrBdghyg&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=3nIFrBdghyg&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โยกให้ยับ!! รังสิตมันร้าย + หนมครก + แจ็คเป็นคาวบอย เพลงฮิตTiltok #โชค_โชคมงคล แสดงสด(ใหม่ล่าสุด)",
       "image": "https://i.ytimg.com/vi/UPtbQDFCZz0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UPtbQDFCZz0&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=UPtbQDFCZz0&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     }
