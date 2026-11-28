@@ -14,7 +14,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3379207670331",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.02",
@@ -22,7 +23,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3379217369659",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.03",
@@ -30,7 +32,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3379318295099",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.04",
@@ -38,7 +41,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3379343264315",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.05",
@@ -46,7 +50,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3379380881979",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.06",
@@ -54,7 +59,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3382422997563",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.07",
@@ -62,7 +68,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3403711318587",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.08",
@@ -70,7 +77,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3423845878331",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.09",
@@ -78,7 +86,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3433966340667",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.10",
@@ -86,7 +95,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3452353907259",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.11",
@@ -94,7 +104,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3467650009659",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.12",
@@ -102,7 +113,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3481767447099",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.13",
@@ -110,7 +122,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3498286058043",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.14",
@@ -118,7 +131,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3514733890107",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.15",
@@ -126,7 +140,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3535319403067",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.16",
@@ -134,7 +149,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3545681955387",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.17",
@@ -142,7 +158,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3571143608891",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.18",
@@ -150,7 +167,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3583028431419",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.19",
@@ -158,7 +176,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3606829861435",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.20",
@@ -166,7 +185,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3631489092155",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.21",
@@ -174,7 +194,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3657670789691",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.22",
@@ -182,7 +203,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3678557309499",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.23",
@@ -190,7 +212,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3699159337531",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.24",
@@ -198,7 +221,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3714916682299",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.25",
@@ -206,7 +230,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3728755329595",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.26",
@@ -214,7 +239,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3757048662587",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.27",
@@ -222,7 +248,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3769346558523",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.28",
@@ -230,7 +257,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3789817973307",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.29",
@@ -238,7 +266,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3809842825787",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.30",
@@ -246,7 +275,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3825334422075",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.31",
@@ -254,7 +284,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3847404718651",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.32",
@@ -262,7 +293,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3868523629115",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.33",
@@ -270,7 +302,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3891085249083",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.34",
@@ -278,7 +311,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3913692154427",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.35",
@@ -286,7 +320,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3935267260987",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.36",
@@ -294,7 +329,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3965906192955",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.37",
@@ -302,7 +338,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/3988021971515",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.38",
@@ -310,7 +347,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4022539455035",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.39",
@@ -318,7 +356,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4052909230651",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.40",
@@ -326,7 +365,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4087930554939",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.41",
@@ -334,7 +374,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4118297774651",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.42",
@@ -342,7 +383,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4173334710843",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.43",
@@ -350,7 +392,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4200057932347",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.44",
@@ -358,7 +401,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4229206772283",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.45",
@@ -366,7 +410,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4250830506555",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.46",
@@ -374,7 +419,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4280550951483",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.47",
@@ -382,7 +428,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4311306340923",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2022 Ep.48",
@@ -390,7 +437,8 @@
           "image": "https://image.onehd.net/Media/Show/221602101637611.jpg",
           "url": "https://ok.ru/videoembed/4349048588859",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         }
       ]
     },
@@ -422,7 +470,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4386189216315",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.03",
@@ -430,7 +479,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4407415343675",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.04",
@@ -438,7 +488,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4428902697531",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.05",
@@ -446,7 +497,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4450449558075",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.06",
@@ -454,7 +506,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4470971501115",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.07",
@@ -462,7 +515,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4493859424827",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.08",
@@ -470,7 +524,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4524111563323",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.09",
@@ -478,7 +533,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4551392365115",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.10",
@@ -486,7 +542,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4615680625211",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.11",
@@ -494,7 +551,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4676539255355",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.12",
@@ -502,7 +560,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4726883027515",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.13",
@@ -510,7 +569,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4803499985467",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.14",
@@ -518,7 +578,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/4842176514619",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.15",
@@ -526,7 +587,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5012941244987",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.16",
@@ -534,7 +596,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5012941507131",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.17",
@@ -542,7 +605,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5069699746363",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.18",
@@ -550,7 +614,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5157032823355",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.19",
@@ -558,7 +623,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5247259642427",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.20",
@@ -566,7 +632,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5316753754683",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.21",
@@ -574,7 +641,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5346847427131",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.22",
@@ -582,7 +650,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5403537181243",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.23",
@@ -590,7 +659,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5469380610619",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.24",
@@ -598,7 +668,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5507970763323",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.25",
@@ -606,7 +677,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5731362409019",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.26",
@@ -614,7 +686,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/5959288556091",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.27",
@@ -622,7 +695,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6060495079995",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.28",
@@ -630,7 +704,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6156156209723",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.29",
@@ -638,7 +713,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6206307961403",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.30",
@@ -646,7 +722,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6227585927739",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.31",
@@ -654,7 +731,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6259426593339",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.32",
@@ -662,7 +740,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6282961750587",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.33",
@@ -670,7 +749,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6304395233851",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.34",
@@ -678,7 +758,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6341414816315",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.35",
@@ -686,7 +767,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6349934365243",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         },
         {
           "name": "เป็นต่อ 2023 Ep.36",
@@ -694,7 +776,8 @@
           "image": "https://www.serie-day.com/wp-content/uploads/2023/02/Pentor-2023-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%88%E0%B8%AD-187x269.jpg",
           "url": "https://ok.ru/videoembed/6372448012859",
           "embed": "true",
-          "referer": "https://ok.ru/"
+          "referer": "https://ok.ru/",
+          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
         }
       ]
     },
