@@ -12591,3 +12591,6 @@ https://sbt.luangta.com:8443/live
 https://radio11.plathong.net/7146/;stream.mp3
 #EXTINF:-1 tvg-name="🙏 วิทยุพระพุทธศาสนาแห่งชาติ (วัดป่าบ้านตาด/เครือข่าย)" tvg-logo="https://onair.one/wp-content/uploads/2024/11/cropped-on-air-1.png" group-title="📻 วิทยุออนไลน์ - วิทยุธรรมะ & บทสวดมนต์",🙏 วิทยุพระพุทธศาสนาแห่งชาติ (วัดป่าบ้านตาด/เครือข่าย)
 https://radio12.plathong.net/8806/;stream.mp3
+#EXTINF:-1 tvg-name="รวมฉ่อยหน้าม่านสามน้า "ฮาไม่หยุด ในวันหยุดยาว" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12" tvg-logo="https://i.ytimg.com/vi/LDXrt8goums/maxresdefault.jpg" group-title="😂 รายการตลก - คุณพระช่วย",รวมฉ่อยหน้าม่านสามน้า "ฮาไม่หยุด ในวันหยุดยาว" | คอนเสิร์ตคุณพระช่วยสำแดงสด 7 - 12
+#EXTVLCOPT:http-referrer=https://www.youtube.com
+https://www.youtube.com/watch?v=LDXrt8goums
