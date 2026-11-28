@@ -6,258 +6,226 @@
     {
       "name": "「Concert」 - แหลม สมพล # 2「Live version at ร้าน HANGOUT - UBON」อุบลราชธานี",
       "image": "https://i.ytimg.com/vi/_hjoY8BCaX8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_hjoY8BCaX8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=_hjoY8BCaX8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต ZEAL 「Live version วันสบาย Café & Bistro」บุรีรัมย์ 4K",
       "image": "https://i.ytimg.com/vi/__A-5NDlXgg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=__A-5NDlXgg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=__A-5NDlXgg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต โจอี้ ภูวศิษฐ์ JOEY PHUWASIT 「Live at ร้าน Full House BURIRUM บุรีรัมย์」4K",
       "image": "https://i.ytimg.com/vi/w5A1TtxeykQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=w5A1TtxeykQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=w5A1TtxeykQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Concert」 - แหลม สมพล「Live version at ร้าน HANGOUT - UBON」อุบลราชธานี",
       "image": "https://i.ytimg.com/vi/nE_qCM4af5s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=nE_qCM4af5s&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=nE_qCM4af5s&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Concert Yessir'days「Live version @ร้าน Sahara Café Bar&Bistro สุรินทร์」",
       "image": "https://i.ytimg.com/vi/ap0sUS5_jks/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ap0sUS5_jks&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ap0sUS5_jks&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Concert ฟลุ๊ค ไอน้ำ「Live version at ตำนาน สุรินทร์」",
       "image": "https://i.ytimg.com/vi/7uzFZaoAUV8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7uzFZaoAUV8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7uzFZaoAUV8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」- INDIGO「Live version at ร้าน บัสดี้ by-bus」บุรีรัมย์",
       "image": "https://i.ytimg.com/vi/7iszqKfUy0Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7iszqKfUy0Y&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7iszqKfUy0Y&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต แสน นากา「Live version at ตำนาน สุรินทร์」",
       "image": "https://i.ytimg.com/vi/CCLWUN51G-s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CCLWUN51G-s&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=CCLWUN51G-s&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตฉบับเต็ม บิ๊ก สุรินทร์「Live version at ตำนาน สุรินทร์」",
       "image": "https://i.ytimg.com/vi/qrOmgm-rs_M/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qrOmgm-rs_M&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=qrOmgm-rs_M&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม เกมส์ สุจิตรา ตลาดใจ#3「Live version at ตลาดเมืองใหม่ by IQ」สุรินทร์",
       "image": "https://i.ytimg.com/vi/km5ZfsGHLWE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=km5ZfsGHLWE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=km5ZfsGHLWE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม มนัสวีร์ ตลาดใจ#3「Live version at ตลาดเมืองใหม่ by IQ」สุรินทร์",
       "image": "https://i.ytimg.com/vi/XglOrjIHxNo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XglOrjIHxNo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=XglOrjIHxNo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม สิงโต นำโชค feat. JOKE SO COOL「 Live version at Miles Cafe' Buriram」บุรีรัมย์",
       "image": "https://i.ytimg.com/vi/QMO-9Vps25M/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QMO-9Vps25M&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=QMO-9Vps25M&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม JOKE SO COOL feat.ฟลุ๊ค ไอน้ำ「 Live version at Miles Cafe' Buriram」บุรีรัมย์",
       "image": "https://i.ytimg.com/vi/uuyXe4sT70U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uuyXe4sT70U&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uuyXe4sT70U&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม - เขียนไข และวานิช 「 Live version at สุรราลับ 」สุรินทร์",
       "image": "https://i.ytimg.com/vi/A5XXHjwn-0Q/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=A5XXHjwn-0Q&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=A5XXHjwn-0Q&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม คณะขวัญใจ ตลาดใจ#3「Live version at ตลาดเมืองใหม่ by IQ」สุรินทร์",
       "image": "https://i.ytimg.com/vi/vcIvf_Y070E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vcIvf_Y070E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=vcIvf_Y070E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม พงษ์สิทธิ์ คัมภีร์ ม่วนแท้เหลา 2「Live version at ตลาดเมืองใหม่ by IQ」สุรินทร์",
       "image": "https://i.ytimg.com/vi/SM1kwPax4S4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SM1kwPax4S4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=SM1kwPax4S4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเต็ม ไววิทย์ ม่วนแท้เหลา2「Live version at ตลาดเมืองใหม่ by IQ」สุรินทร์",
       "image": "https://i.ytimg.com/vi/TtMUn9CBMfk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TtMUn9CBMfk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=TtMUn9CBMfk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต ม่วนแท้เหลา 2 - บิ๊ก สุรินทร์แบนด์「Live version at ตลาดเมืองใหม่ by IQ」สุรินทร์",
       "image": "https://i.ytimg.com/vi/GD5fRVhMXsU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=GD5fRVhMXsU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=GD5fRVhMXsU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」- ฟลุ๊ค ไอน้ำ「Live version at ร้าน The Roost」สุรินทร์",
       "image": "https://i.ytimg.com/vi/SrE1R782iu8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SrE1R782iu8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=SrE1R782iu8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Concert FIIXD x 1MILL「Live version @ ร้าน ย.น.น. บุรีรัมย์",
       "image": "https://i.ytimg.com/vi/xHy2ZPz14R4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xHy2ZPz14R4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xHy2ZPz14R4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Concert - ไททศมิตร TaitosmitH「Live version at ตลาดไนท์ มหาเฮง พลาซ่า」สุรินทร์",
       "image": "https://i.ytimg.com/vi/GxsF72APAEc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=GxsF72APAEc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=GxsF72APAEc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」 - แหลม สมพล「Live version at ร้าน The Roost」สุรินทร์",
       "image": "https://i.ytimg.com/vi/UIe0oSctOvw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UIe0oSctOvw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=UIe0oSctOvw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」 - แหลม สมพล「Live version at ร้าน วันสบาย」บุรีรัมย์",
       "image": "https://i.ytimg.com/vi/AopuOuLyxAs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=AopuOuLyxAs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=AopuOuLyxAs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」 - HUGO ฮิวโก้「Live version at ตลาดไนท์ มหาเฮง พลาซ่า」สุรินทร์",
       "image": "https://i.ytimg.com/vi/uOY1ctsV_oo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uOY1ctsV_oo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uOY1ctsV_oo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」 - LOSO「Live version at ร้าน 90's Surin Live Music」",
       "image": "https://i.ytimg.com/vi/eq8vE6YyM7k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eq8vE6YyM7k&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=eq8vE6YyM7k&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」 - BLACKBEANS「Live version @ ร้าน ย.น.น.Bar & Bistro",
       "image": "https://i.ytimg.com/vi/TOZbORanE5s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TOZbORanE5s&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=TOZbORanE5s&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」 - The Richman Toy「Live version 」ร้าน Phoebus สุรินทร์",
       "image": "https://i.ytimg.com/vi/C4rxg399EkM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=C4rxg399EkM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=C4rxg399EkM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Concert」ลูกแพร ไหมไทย หัวใจศิลป์「Live version」 @ร้าน ย.น.น.Bar & Bistro",
       "image": "https://i.ytimg.com/vi/3JqY_e25t_U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3JqY_e25t_U&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=3JqY_e25t_U&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」 - หนุ่ม กะลา「Live version 」ร้าน@meta66surin",
       "image": "https://i.ytimg.com/vi/Js7ARf96btg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Js7ARf96btg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Js7ARf96btg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Concert」 - ไหมไทย หัวใจศิลป์「Live version」 @ร้าน ย.น.น.Bar & Bistro",
       "image": "https://i.ytimg.com/vi/k5-GTW-83pA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=k5-GTW-83pA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=k5-GTW-83pA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Concert」 - ลูกแพร-ไหมไทย หัวใจศิลป์「Live version」 @ร้าน ย.น.น.Bar & Bistro",
       "image": "https://i.ytimg.com/vi/DiLLi9cUMxo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DiLLi9cUMxo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=DiLLi9cUMxo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Concert」 - โจอี้ ภูวศิษฐ์ 「Live version ร้านThe Roost สุรินทร์",
       "image": "https://i.ytimg.com/vi/rcOqqZsvN5I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rcOqqZsvN5I&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=rcOqqZsvN5I&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
