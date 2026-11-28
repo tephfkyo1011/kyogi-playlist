@@ -6,314 +6,275 @@
     {
       "name": "แสงระวี : คอนเสิร์ตบานฉ่ำ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/hWw0oBMUJH0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hWw0oBMUJH0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=hWw0oBMUJH0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฝันดี ฝันเด่น , ยุ้ย , บอย พีรพล : คอนเสิร์ตฝันดี ฝันเด่น PROGRAM [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/Aw5_nIqbb8k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Aw5_nIqbb8k&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Aw5_nIqbb8k&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แอนเดรีย สวอเรซ : คอนเสิร์ต อะเมซิ่ง แอนเดรีย [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/83CBZYYFBL8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=83CBZYYFBL8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=83CBZYYFBL8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Dr.Kids : คอนเสิร์ตโมดิฟายด์ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/iQVPnAYX7lo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iQVPnAYX7lo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=iQVPnAYX7lo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สุรวุฑ ไหมกัน : คอนเสิร์ตสุรวุฑ ไหมกัน [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/2k8lfRjrO4Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2k8lfRjrO4Y&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2k8lfRjrO4Y&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนุ่มเสก , เฉลียง - คอนเสิร์ตหนุ่มเสก เฉลียง [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/7Km-hpi5fLQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7Km-hpi5fLQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7Km-hpi5fLQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แอนนา , หนุ่มเสก - คอนเสิร์ตสาวหน้ากลมกับชายผมสั้น [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/yQwwZUcl0PQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yQwwZUcl0PQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=yQwwZUcl0PQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บอย พีรพล, ยูโฟร์, ยุ้ย, ฝันดี ฝันเด่น, บิลลี่ : คอนเสิร์ต KITA PARTY [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/K17LdygczGY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=K17LdygczGY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=K17LdygczGY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ภุชงค์,อ้อม,มะลิลา บราซิลเลียน : คอนเสิร์ตลูกเจี๊ยบขอเบิ้ล [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/YDX7yOu8xF4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YDX7yOu8xF4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=YDX7yOu8xF4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์พัฒน์ , ยุ้ย - คอนเสิร์ตคนร็อคเจอคนรัก [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/718olikHFR4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=718olikHFR4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=718olikHFR4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โก้ , พงษ์พัฒน์ , อ้อม สุนิสา - คอนเสิร์ตความรักและรุนแรง [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/KWjL30w2qXQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KWjL30w2qXQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=KWjL30w2qXQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เกี๊ยง เกียรติศักดิ์ , เฉลียง - คอนเสิร์ตเกี๊ยง 8x8 [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/6Rv1RrgtnqQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6Rv1RrgtnqQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=6Rv1RrgtnqQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Dr.Kids : คอนเสิร์ต มายเบบี้ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/699V2azGq7s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=699V2azGq7s&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=699V2azGq7s&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นีโน่ เมทนี บุรณศิริ : คอนเสิร์ต NINO [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/xllo3r_Toho/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xllo3r_Toho&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xllo3r_Toho&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ้อม สุนิสา : คอนเสิร์ตขี่จรวดมิดซายน์ ผ่ากอหน่อไม้ หาไก่กุ๊ก ๆ ดูเด๊ะ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/ZUKzzgByLtA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ZUKzzgByLtA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ZUKzzgByLtA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ้อม สุนิสา , พงษ์พัฒน์ วชิรบรรจง - คอนเสิร์ต อ้อม พงษ์พัฒน์ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/XEHfiLOLQLc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XEHfiLOLQLc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=XEHfiLOLQLc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ้อม สุนิสา สุขบุญสังข์ - คอนเสิร์ต สาสมอารมณ์เนี๊ย [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/JpEgqe0m454/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JpEgqe0m454&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=JpEgqe0m454&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์พัฒน์ วชิรบรรจง - พงษ์พัฒน์ คอนเสิร์ตโลกดนตรี [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/t2YPpE1wKtE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t2YPpE1wKtE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=t2YPpE1wKtE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์พัฒน์ วชิรบรรจง - คอนเสิร์ตพงษ์พัฒน์ 2 ภาค [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/EQTJvSek1FA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EQTJvSek1FA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=EQTJvSek1FA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์พัฒน์ วชิรบรรจง - คอนเสิร์ต BIGFOOT [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/BMBiz2RZLnY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BMBiz2RZLnY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=BMBiz2RZLnY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มะลิลา บราซิลเลี่ยน - คอนเสิร์ตมะลิลา บราซิลเลี่ยน [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/lEOjs1w4YuI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lEOjs1w4YuI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=lEOjs1w4YuI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ออโต้บาห์น - คอนเสิร์ตออโต้บาห์น [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/su0Thmh2FSo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=su0Thmh2FSo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=su0Thmh2FSo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สุรศักดิ์ วงษ์ไทย - คอนเสิร์ตตัวเอ็ม [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/zmQfWB4KX0Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zmQfWB4KX0Y&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=zmQfWB4KX0Y&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต ฌ กะเฌอ บรรเลงสด [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/irxDUn0yXew/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=irxDUn0yXew&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=irxDUn0yXew&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โคโค่แจ๊ส - คอนเสิร์ตหาดอกไม้ใส่หู [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/Rl9Pb9gh57k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Rl9Pb9gh57k&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Rl9Pb9gh57k&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฝันดี ฝันเด่น - คอนเสิร์ตอะไรกัน [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/rRJtiCauOAg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rRJtiCauOAg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=rRJtiCauOAg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนุ่มเสก , เยื่อไม้ - คอนเสิร์ตบ้าน 4 ทะเล [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/SOYMN6x2k8s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SOYMN6x2k8s&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=SOYMN6x2k8s&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Dr.Kids, ตรีรัก - คอนเสิร์ตMODDY MY BABY [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/-B588Kc0sAg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-B588Kc0sAg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=-B588Kc0sAg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สันติสุข , จารุณี , ภุชงค์ - ทัวร์คอนเสิร์ตทะลุจอ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/Hn7xJrPec3c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Hn7xJrPec3c&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Hn7xJrPec3c&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แสงระวี อัศวรักษ์ - คอนเสิร์ตเปิดรหัสลับพยัคฆ์สาวแสงระวี [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/4g--13CiMfs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4g--13CiMfs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=4g--13CiMfs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ออโตบาห์น, นรีกระจ่าง คันธมาศ, ภูษิต ไล้ทอง - ออล ออฟ มี แจ๊สคอนเสิร์ต [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/p293k77ewu0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=p293k77ewu0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=p293k77ewu0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Dr.Kids, TIC TAC TOE, แอนเดรีย สวอเรซ - คอนเสิร์ตดูให้ดี...มีดีให้มัน [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/xHExOQ1vNmw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xHExOQ1vNmw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xHExOQ1vNmw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สามโทน - คอนเสิร์ต 7 สี สามโทน [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/kQU2wqXLCc0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kQU2wqXLCc0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=kQU2wqXLCc0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นีโน่ เมธนี บุรณศิริ - คอนเสิร์ต 7 สีคอนเสิร์ต นีโน่ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/j2sXsprzW5E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=j2sXsprzW5E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=j2sXsprzW5E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เฉลียง - คอนเสิร์ตปิดท้ายทอย [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/OralNhjVU3s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OralNhjVU3s&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=OralNhjVU3s&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฮันนี่ ภัสสร บุณยเกียรติ - ฮันนี่ 7 สีคอนเสิร์ต [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/uBmU6ghtyPI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uBmU6ghtyPI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uBmU6ghtyPI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฮันนี่ ภัสสร บุณยเกียรติ - คอนเสิร์ตเรตอาร์ [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/5y1G89guDYI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5y1G89guDYI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=5y1G89guDYI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์พัฒน์ วชิรบรรจง - คอนเสิร์ต ร็อคกำลัง 2 [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/bhopx03etaE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=bhopx03etaE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=bhopx03etaE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แอนนา - คอนเสิร์ตแกงร้อน [OFFICIAL CONCERT]",
       "image": "https://i.ytimg.com/vi/Op1FrjPTmME/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Op1FrjPTmME&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Op1FrjPTmME&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
