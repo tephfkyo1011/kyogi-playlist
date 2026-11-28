@@ -6,1209 +6,907 @@
     {
       "name": "กาลกุศล x มอส คำหมากบิน I Live at DerrFolk 3 หนองบัวลำภู",
       "image": "https://i.ytimg.com/vi/9xAUUguq-7U/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/9xAUUguq-7U?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=9xAUUguq-7U",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ I APIROM Live at Derr Folk 3 หนองบัวลำภู",
       "image": "https://i.ytimg.com/vi/KbD0BhLiV0g/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/KbD0BhLiV0g?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=KbD0BhLiV0g",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมเพลงฮิตจาก วงเคลิ้ม I KLERM BAND Live at MARS Udonthani",
       "image": "https://i.ytimg.com/vi/ZGwkUy8cUaE/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ZGwkUy8cUaE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ZGwkUy8cUaE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ละไมหรรษา I LAMAI HUNSA Live at Derr folk 3",
       "image": "https://i.ytimg.com/vi/ycnXKr9P3Z4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ycnXKr9P3Z4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ycnXKr9P3Z4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "การิน x บิว สงกรานต์ (บิวบอง) I Acoustic Live at Derr Folk 3 หนองบัวลำภู",
       "image": "https://i.ytimg.com/vi/YtBHiM82uOk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/YtBHiM82uOk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=YtBHiM82uOk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เสี่ยดุ๊ก วัดป่า I Live at Derr folk 3",
       "image": "https://i.ytimg.com/vi/AbJCpip5qtM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/AbJCpip5qtM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=AbJCpip5qtM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Best of JOEY PHUWASIT - รวมเพลงฮิตจาก โจอี้ ภูวศิษฐ์ I Live at MARS Udonthani",
       "image": "https://i.ytimg.com/vi/pPoB6XzrLw4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pPoB6XzrLw4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pPoB6XzrLw4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วสันต์ 17 I WASAN 17 Live at Friends Chill & Relax",
       "image": "https://i.ytimg.com/vi/yeMc5g-XSng/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/yeMc5g-XSng?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=yeMc5g-XSng",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฤดูร้อน I นักมายากล I ร.ด.แดนซ์ - PARADOX I Live at MARS Udonthani",
       "image": "https://i.ytimg.com/vi/2Zi9NG8qXLo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/2Zi9NG8qXLo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=2Zi9NG8qXLo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ส่งท้ายคนเก่าฯ I ข้าน้อยสมควรตาย I เล่นของสูง I ดีแต่ปาก - BIG ASS I Live at Mars Udonthani",
       "image": "https://i.ytimg.com/vi/1g2E867XkVc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/1g2E867XkVc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=1g2E867XkVc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทางผ่าน I ทิ้งไว้ในใจ I ฝุ่น I ลมเปลี่ยนทิศ I คนหลงทาง - BIG ASS I Live at Mars Udonthani",
       "image": "https://i.ytimg.com/vi/xyalRdQCjMQ/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/xyalRdQCjMQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=xyalRdQCjMQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ภูมิมินท์ I Phumin Live at Friends Chill & Relax",
       "image": "https://i.ytimg.com/vi/1eO22NB4OVo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/1eO22NB4OVo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=1eO22NB4OVo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ I APIROM Live at ธี่เดิมคราฟท์",
       "image": "https://i.ytimg.com/vi/AaPyThVX0nc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/AaPyThVX0nc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=AaPyThVX0nc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมเพลงฮิตจาก Silly Fools | Live at เอกมัย อุดรธานี",
       "image": "https://i.ytimg.com/vi/7zYaIhR2dzM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/7zYaIhR2dzM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=7zYaIhR2dzM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รักสนุก I โอเคป่ะ I แผ่วปลาย I สาปแช่งพวกแย่งแฟน - FLAME I Live at SIPBAR Udonthani",
       "image": "https://i.ytimg.com/vi/PcnqCZ7iYQI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PcnqCZ7iYQI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PcnqCZ7iYQI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมเพลงฮิตจาก เอ๊ะ จิรากร - Best of AE Jirakorn I Live Mars Udonthani",
       "image": "https://i.ytimg.com/vi/Q3MIi8WIORU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Q3MIi8WIORU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Q3MIi8WIORU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "SITTA「Full Live at อุดรโฟล์คแคมป์ 4」",
       "image": "https://i.ytimg.com/vi/Hrgn4zZlvQc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Hrgn4zZlvQc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Hrgn4zZlvQc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมทุกเพลงฮิตจาก Dr.Fuu I Live at Rhythm and Bar Udon",
       "image": "https://i.ytimg.com/vi/fldUVFqAwQI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/fldUVFqAwQI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=fldUVFqAwQI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แค่เธอก็พอ I รักไม่ได้ I เกือบ I หยุด - Burin & The Soul Smith Live at MARS Udonthani",
       "image": "https://i.ytimg.com/vi/SIpWNgxhmBY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/SIpWNgxhmBY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=SIpWNgxhmBY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมทุกเพลงฮิตจาก MEAN I MEAN Band Live at MARS Udonthani",
       "image": "https://i.ytimg.com/vi/5DZS1kvK9gw/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/5DZS1kvK9gw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=5DZS1kvK9gw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมทุกเพลงฮิต จาก เบนซ์ พริกไทย I Live at Mars Udonthani",
       "image": "https://i.ytimg.com/vi/3n07o2BdNKI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3n07o2BdNKI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3n07o2BdNKI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Sunshine - ซันชายน์ I Live at MARS Udonthani",
       "image": "https://i.ytimg.com/vi/aPc23GqBxj8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/aPc23GqBxj8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=aPc23GqBxj8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "B-KING - บีคิงส์ I Live at E-SAN BEAT",
       "image": "https://i.ytimg.com/vi/evaCZFn6OOs/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/evaCZFn6OOs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=evaCZFn6OOs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พัง I แค่เราไม่ได้รักกัน I เส้นบางๆ I ยังคง I ถ้าฉันเป็นเขา - INDIGO [Live at the Pallet]",
       "image": "https://i.ytimg.com/vi/PbPVR0LPoAY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PbPVR0LPoAY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PbPVR0LPoAY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะสุเทพ การบันเทิง I Live at ธี่เดิมคราฟท์",
       "image": "https://i.ytimg.com/vi/TxCjtBdOU9Q/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/TxCjtBdOU9Q?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=TxCjtBdOU9Q",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ละไมหรรษา I LAMAI HUNSA Live at E-SARN BEAT",
       "image": "https://i.ytimg.com/vi/tCCjLmowa_g/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/tCCjLmowa_g?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=tCCjLmowa_g",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ I APIROM Live at อุดรโฟล์คแคมป์ 5",
       "image": "https://i.ytimg.com/vi/5eVnhW0dILA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/5eVnhW0dILA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=5eVnhW0dILA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วสันต์ 17 I Live at ศรีธาตุโฟล์ค",
       "image": "https://i.ytimg.com/vi/vpJLXEuRekY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/vpJLXEuRekY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=vpJLXEuRekY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ I Live at อุดรโฟล์คแคมป์ 5",
       "image": "https://i.ytimg.com/vi/LSXGx-_oU5A/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/LSXGx-_oU5A?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=LSXGx-_oU5A",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช I Live at ศรีธาตุโฟล์ค",
       "image": "https://i.ytimg.com/vi/q6K2d-a_xqc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/q6K2d-a_xqc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=q6K2d-a_xqc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ภูมิมินท์ - PHUMIN I Live at นาคาเกษตร เฟสติวัล",
       "image": "https://i.ytimg.com/vi/mWChMbkGLFU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/mWChMbkGLFU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=mWChMbkGLFU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Mr’พระจันทร์ I Live at นาคาเกษตร เฟสติวัล ครั้งที่ 1",
       "image": "https://i.ytimg.com/vi/-g1NFo-43aY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-g1NFo-43aY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-g1NFo-43aY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ I APIROM Live at สถานีแคมป์ อุดรฯ",
       "image": "https://i.ytimg.com/vi/Uw-PJownLwg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Uw-PJownLwg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Uw-PJownLwg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Mr’พระจันทร์ I Live at นาคาเกษตร เฟสติวัล ครั้งที่ 1",
       "image": "https://i.ytimg.com/vi/-g1NFo-43aY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/-g1NFo-43aY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=-g1NFo-43aY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วสันต์ 17 | Live at อุดรโฟล์คแคมป์ 5",
       "image": "https://i.ytimg.com/vi/hGmfQq11P-Y/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/hGmfQq11P-Y?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=hGmfQq11P-Y",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มาลีฮวนน่า I MALEEHUANA Live at นาคาเกษตร เฟสติวัล ครั้งที่ 1",
       "image": "https://i.ytimg.com/vi/EXA-xjm9P0E/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/EXA-xjm9P0E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=EXA-xjm9P0E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช I Live at สถานีแคมป์ อุดรฯ",
       "image": "https://i.ytimg.com/vi/1jjF70wdzeI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/1jjF70wdzeI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=1jjF70wdzeI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โจอี้ ภูวศิษฐ์ (JOEY PHUWASIT) I Live at เอกมัย อุดรธานี",
       "image": "https://i.ytimg.com/vi/DBDLlzGK9P4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/DBDLlzGK9P4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=DBDLlzGK9P4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ I Live at ร้านทันหนาว ปิ้งย่าง & จิ้มจุ่ม",
       "image": "https://i.ytimg.com/vi/E__cigFb4h8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/E__cigFb4h8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=E__cigFb4h8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "LOSO Original I โลโซ Live at สุข สรร อุดรธานี",
       "image": "https://i.ytimg.com/vi/8M0TezzDtmo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8M0TezzDtmo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8M0TezzDtmo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วรินทร์ I WARIN Live at Chalee Space",
       "image": "https://i.ytimg.com/vi/YIyTDdA4pNU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/YIyTDdA4pNU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=YIyTDdA4pNU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Selina and Sirinya I Live at SOMSRI MUSICCAMP 3",
       "image": "https://i.ytimg.com/vi/Dhu30VJNoi8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Dhu30VJNoi8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Dhu30VJNoi8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "PLAYGROUND | Live at โอ้วว พระเจ้าจอร์จ",
       "image": "https://i.ytimg.com/vi/LWyn8T-tRO4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/LWyn8T-tRO4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=LWyn8T-tRO4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ภูมิมินท์ I PHUMIN Live at Chalee Space",
       "image": "https://i.ytimg.com/vi/TC0aOSRx2jQ/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/TC0aOSRx2jQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=TC0aOSRx2jQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โจรลอยนวล I Live at โอบกอดลมหนาว ร้อยเอ็ด",
       "image": "https://i.ytimg.com/vi/TQpv0AagVHw/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/TQpv0AagVHw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=TQpv0AagVHw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "SEK LOSO - เสก โลโซ I Live at งานทุ่งศรีเมืองอุดรธานี 2567",
       "image": "https://i.ytimg.com/vi/xHJ_OEPiHMc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/xHJ_OEPiHMc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=xHJ_OEPiHMc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มนัสวีร์「Full Live at อุดรโฟล์คแคมป์ 4」",
       "image": "https://i.ytimg.com/vi/UjkEM-Cw8y4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UjkEM-Cw8y4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UjkEM-Cw8y4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "CORNBOI - คอร์นบอย【Full Live at สุขเสมอ - Suksamer Udonthani】",
       "image": "https://i.ytimg.com/vi/fkLT1BZf3tw/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/fkLT1BZf3tw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=fkLT1BZf3tw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ I Live at Suksamer Udonthani",
       "image": "https://i.ytimg.com/vi/v6HuFA_lpmk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/v6HuFA_lpmk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=v6HuFA_lpmk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วสันต์ 17 | Live at E-SAN CRAFT「Full Live」",
       "image": "https://i.ytimg.com/vi/yXhtdLqQHeY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/yXhtdLqQHeY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=yXhtdLqQHeY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "CURS [Full Live at สุขเสมอ - Suksamer Udonthani]",
       "image": "https://i.ytimg.com/vi/vUP1KA6nEMo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/vUP1KA6nEMo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=vUP1KA6nEMo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Live | ภูมิมินท์ PHUMIN「Live at ศรีธาตุโฟล์ค '67」",
       "image": "https://i.ytimg.com/vi/c_FVCxsKS18/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/c_FVCxsKS18?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=c_FVCxsKS18",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Raine Cloud [Full Live at สุขเสมอ - Suksamer Udonthani]",
       "image": "https://i.ytimg.com/vi/Zv-YjBysVlU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Zv-YjBysVlU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Zv-YjBysVlU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Southern Boys (Thai Rockabilly) 「Full Live at อุดรโฟล์คแคมป์ 4」",
       "image": "https://i.ytimg.com/vi/g8jpRVEEkyA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/g8jpRVEEkyA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=g8jpRVEEkyA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Concert」อภิรมย์ - Apirome Live at พิสมัยมิวสิค ครั้งที่ 4",
       "image": "https://i.ytimg.com/vi/AZBpZdUAGF8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/AZBpZdUAGF8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=AZBpZdUAGF8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มหุรดี「Live at Believe กุมภวาปี」",
       "image": "https://i.ytimg.com/vi/T2SCYi6Vdyc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/T2SCYi6Vdyc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=T2SCYi6Vdyc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยุวลี - YUWALEE「Live at Believe กุมภวาปี」",
       "image": "https://i.ytimg.com/vi/OhEP1suO1kg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/OhEP1suO1kg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=OhEP1suO1kg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช「Full Live at อุดรโฟล์คแคมป์ 4」",
       "image": "https://i.ytimg.com/vi/JE4cKazl7Sg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/JE4cKazl7Sg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=JE4cKazl7Sg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Live I WARIN วรินทร์「Live at แมวเป้าบาร์」",
       "image": "https://i.ytimg.com/vi/VphFu4qvkfE/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/VphFu4qvkfE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=VphFu4qvkfE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BAS ABANDONED HOUSE 「Full Live at อุดรโฟล์คแคมป์ 4」",
       "image": "https://i.ytimg.com/vi/tdTIKQivmBc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/tdTIKQivmBc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=tdTIKQivmBc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Live | มาลีฮวนน่า - MALEEHUANA「 Live at บ้านสวนศรีเมือง」",
       "image": "https://i.ytimg.com/vi/m5-Xm7vqC_4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/m5-Xm7vqC_4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=m5-Xm7vqC_4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Game Sujidtra and Ghetto all stars「Live at อุดรโฟล์คแคมป์ 4」",
       "image": "https://i.ytimg.com/vi/AQ7KRoRgtns/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/AQ7KRoRgtns?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=AQ7KRoRgtns",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] อภิรมย์ - Apirome「Live at สุขเสมอ อุดรธานี」",
       "image": "https://i.ytimg.com/vi/pV_oJ32Z48U/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/pV_oJ32Z48U?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=pV_oJ32Z48U",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "PHUMIN ภูมิมินท์「Live at สมศรี มิวสิคแคมป์ 2」",
       "image": "https://i.ytimg.com/vi/nvX8qlnSSnA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/nvX8qlnSSnA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=nvX8qlnSSnA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Silly Fools Acoustic Live「 สมศรี มิวสิคแคมป์ 2」",
       "image": "https://i.ytimg.com/vi/q2knmXG6OIU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/q2knmXG6OIU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=q2knmXG6OIU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Live I คณะขวัญใจ「 Live at สมศรี มิวสิคแคมป์ 2」",
       "image": "https://i.ytimg.com/vi/czpvNoOtTEE/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/czpvNoOtTEE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=czpvNoOtTEE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "The Yers -「Live at BUCKINGHAM 」",
       "image": "https://i.ytimg.com/vi/8xz_LwkYxp0/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8xz_LwkYxp0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8xz_LwkYxp0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Live | PURPEECH 🌻「Live at สาสมใจ ตลาดบ้านไม้หนองคาย」",
       "image": "https://i.ytimg.com/vi/hbkoJwi5bFI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/hbkoJwi5bFI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=hbkoJwi5bFI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "TIMETHAI I ธามไท [Live at Rhythm and Bar Udonthani]",
       "image": "https://i.ytimg.com/vi/lXqasS_c_Dk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/lXqasS_c_Dk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=lXqasS_c_Dk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Live I KLEAR - เคลียร์「 Live at กงสี 公司 อุดรธานี」",
       "image": "https://i.ytimg.com/vi/YXPtC5uNO9k/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/YXPtC5uNO9k?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=YXPtC5uNO9k",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "The Parkinson 「FULL LIVE at The Pallet 」",
       "image": "https://i.ytimg.com/vi/bUA_wKaaUFU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/bUA_wKaaUFU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=bUA_wKaaUFU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「FULL LIVE 」มนัสวีร์ I อุดรโฟล์คแคมป์ 2023",
       "image": "https://i.ytimg.com/vi/qlhxkmxqe9Y/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/qlhxkmxqe9Y?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=qlhxkmxqe9Y",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใช่ฉันหรือเปล่า I ปล่อยมือฉัน I เอาคืนมา I 4 นาที - NUM KALA 「Live at 2SiS Easy Restaurant 」",
       "image": "https://i.ytimg.com/vi/BJVQ5CScRdk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/BJVQ5CScRdk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=BJVQ5CScRdk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เวลาเธอยิ้ม I เป็นเพราะฝน I พบกันใหม่ I ดูดี - POLYCAT 「Live at Rhythm and Bar Udonthani 」",
       "image": "https://i.ytimg.com/vi/5tk5u5Ga1o4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/5tk5u5Ga1o4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=5tk5u5Ga1o4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คิดเหมือนกันหรือเปล่า I แรงโน้มถ่วง I ไม่ต่างกัน - LHAM แหลม สมพล [Live at The Library Udon Thani]",
       "image": "https://i.ytimg.com/vi/cXZ4_QZLlW4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/cXZ4_QZLlW4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=cXZ4_QZLlW4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ระหว่างขับรถ I แอบรอ - The Yers「Live at BUCKINGHAM 」",
       "image": "https://i.ytimg.com/vi/YWvuFLJG4P4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/YWvuFLJG4P4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=YWvuFLJG4P4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ครั้งหนึ่งไม่ถึงตาย I พันหมื่นเหตุผล I คำยินดี I ถามเพื่ออะไร - KLEAR 「 Live at กงสี อุดรธานี」",
       "image": "https://i.ytimg.com/vi/xwVCGMBGwo4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/xwVCGMBGwo4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=xwVCGMBGwo4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใบไม้ I พลังรัก I ยินดีที่ไม่รู้จัก - LHAM แหลม สมพล [Live at The Library Udon Thani]",
       "image": "https://i.ytimg.com/vi/B0T58SRjYHg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/B0T58SRjYHg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=B0T58SRjYHg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โจอี้ ภูวศิษฐ์ I JOEY PWS「 Live at VEGAS Kalasin」",
       "image": "https://i.ytimg.com/vi/7S6K0uHzrcI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/7S6K0uHzrcI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=7S6K0uHzrcI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เทศกาล I การสื่อสาร - The Yers「Live at BUCKINGHAM 」",
       "image": "https://i.ytimg.com/vi/urxPypAlnnU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/urxPypAlnnU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=urxPypAlnnU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จักรวาลสัมพันธ์กันอยู่ I ภาพทรงจำในกาลเวลา - PHUMIN | ภูมิมินท์ 「Live at แมวเป้าบาร์ 」",
       "image": "https://i.ytimg.com/vi/Hr2jOCiDyaM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Hr2jOCiDyaM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Hr2jOCiDyaM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฤดูที่ฉันเหงา I ฤดูร้อน I ร (W8) - POLYCAT 「Live at Rhythm and Bar Udonthani 」",
       "image": "https://i.ytimg.com/vi/QL6WnGs4i3E/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/QL6WnGs4i3E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=QL6WnGs4i3E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รักไม่ต้องการเวลา | ให้นานกว่าที่เคย - KLEAR 「 Live at กงสี อุดรธานี」",
       "image": "https://i.ytimg.com/vi/03Qd1LkuvOA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/03Qd1LkuvOA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=03Qd1LkuvOA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ๊อฟ ปองศักดิ์ - MEDLEY ลูกทุ่งฮิต「Live at Rhythm and Bar Udon 」",
       "image": "https://i.ytimg.com/vi/Sct5Ed5R9kk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Sct5Ed5R9kk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Sct5Ed5R9kk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BOWKYLION I โบกี้ ไลออน 「Live at 2SiS Easy Restaurant 」",
       "image": "https://i.ytimg.com/vi/k5a7HPdkb5E/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/k5a7HPdkb5E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=k5a7HPdkb5E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ๊อฟ ปองศักดิ์ - MEDLEY เพลงดัง Y2K「Live at Rhythm and Bar Udon 」",
       "image": "https://i.ytimg.com/vi/_3pS1XG2p1s/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/_3pS1XG2p1s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=_3pS1XG2p1s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พอแล้วพอ I ยินดีมากกว่า I ค่าผ่านทาง - PHUMIN | ภูมิมินท์ 「Live at แมวเป้าบาร์ 」",
       "image": "https://i.ytimg.com/vi/tt2eTAJWZkA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/tt2eTAJWZkA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=tt2eTAJWZkA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ถามจันทร์ I คนข้างๆ I ไม่เคย I ทำได้เพียง - LHAM แหลม สมพล [Live at The Library Udon Thani]",
       "image": "https://i.ytimg.com/vi/dxN2MPh2j5s/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/dxN2MPh2j5s?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=dxN2MPh2j5s",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมทุกเพลงฮิต จาก อ๊อฟ ปองศักดิ์「Live at Rhythm and Bar Udon 」",
       "image": "https://i.ytimg.com/vi/eQ0KbJv0sNU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/eQ0KbJv0sNU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=eQ0KbJv0sNU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มีนตรา อินทิรา - นะหน้าทอง I รวมเพลงฮิต 90's 「 Live at เอกมัย อุดรธานี」",
       "image": "https://i.ytimg.com/vi/PpCTL_7koaA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/PpCTL_7koaA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=PpCTL_7koaA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โจอี้ ภูวศิษฐ์ - เสี่ยว I บุญเดือนหก I นะหน้างทอง I ดวงเดือน「 Live at VEGAS Kalasin」",
       "image": "https://i.ytimg.com/vi/ek4X4TvMCbI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ek4X4TvMCbI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ek4X4TvMCbI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผ่านวัยเยาว์ I ใครงามเลิศในปฐพี - PHUMIN | ภูมิมินท์ 「Live at แมวเป้าบาร์ 」",
       "image": "https://i.ytimg.com/vi/QlakzzITVCo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/QlakzzITVCo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=QlakzzITVCo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เกลียด I TV I ห้องที่ไม่เคยสว่าง - The Yers「Live at BUCKINGHAM 」",
       "image": "https://i.ytimg.com/vi/g2QoO5nw2Qg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/g2QoO5nw2Qg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=g2QoO5nw2Qg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รักไม่ช่วยอะไร I คิดถึง - อ๊อฟ ปองศักดิ์ 「Live Cover Version」",
       "image": "https://i.ytimg.com/vi/n52tHHZhCG0/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/n52tHHZhCG0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=n52tHHZhCG0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "NUM KALA I หนุ่ม กะลา「Live at เอกมัย อุดรธานี」",
       "image": "https://i.ytimg.com/vi/fKIhT0CfJ0Y/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/fKIhT0CfJ0Y?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=fKIhT0CfJ0Y",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนที่ปวดร้าว I เสพติดความเจ็บปวด - The Yers「Live at BUCKINGHAM 」",
       "image": "https://i.ytimg.com/vi/cowYa_4qb34/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/cowYa_4qb34?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=cowYa_4qb34",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หมดแก้ว I ไหนวะ - The Parkinson「 Live at The Pallet 」",
       "image": "https://i.ytimg.com/vi/17jfXB0efAM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/17jfXB0efAM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=17jfXB0efAM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อยากมีแฟนแล้ว I O.K. นะคะ - Zom Marie x Slapkiss「Live Cover Version」",
       "image": "https://i.ytimg.com/vi/HaDuScqpv1E/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/HaDuScqpv1E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=HaDuScqpv1E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ๊อฟ ปองศักดิ์ - อย่าใกล้กันเลย (medley เพลงฮิต)「Live at Rhythm and Bar Udon 」",
       "image": "https://i.ytimg.com/vi/K9_ylE8B1CY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/K9_ylE8B1CY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=K9_ylE8B1CY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมเเพลงลั่นทุ่งจาก โจอี้ ภูวศิษฐ์ I JOEY PWS「 Live at VEGAS Kalasin」",
       "image": "https://i.ytimg.com/vi/UzRl5Xdm5ws/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/UzRl5Xdm5ws?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=UzRl5Xdm5ws",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เบิ้ล ปทุมราช - Ble Patumrach「 Live at เอกมัย อุดรธานี」",
       "image": "https://i.ytimg.com/vi/n7A2T8yVtNU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/n7A2T8yVtNU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=n7A2T8yVtNU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จะบอกเธอว่ารัก I รักคงยังไม่พอ I ไปเถอะ - The Parkinson「 Live at The Pallet 」",
       "image": "https://i.ytimg.com/vi/nAxY8hWH5Sk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/nAxY8hWH5Sk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=nAxY8hWH5Sk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฤดูกาล I สุขาอยู่หนใด I เที่ยงคืนสิบห้านาที - LHAM แหลม สมพล [Live at The Library Udon Thani]",
       "image": "https://i.ytimg.com/vi/McY3Y9asXw0/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/McY3Y9asXw0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=McY3Y9asXw0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จันทร์เจ้า (พิณเวอร์ชั่น) - โจอี้ ภูวศิษฐ์ 「 Live at Cover Version」",
       "image": "https://i.ytimg.com/vi/8OJDmOnnkyU/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8OJDmOnnkyU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8OJDmOnnkyU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "SLAPKISS - แฟนใหม่คนโปรด「Live at 2SiS 」",
       "image": "https://i.ytimg.com/vi/9NIefF9-3qE/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/9NIefF9-3qE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=9NIefF9-3qE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สุดทาง - PHUMIN | ภูมิมินท์ 「Live at ทันหนาว 」",
       "image": "https://i.ytimg.com/vi/QiFAmjsAgrI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/QiFAmjsAgrI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=QiFAmjsAgrI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พูดลาสักคำ I คนชั่ว 2018 I แค่นี้..พอ - The Parkinson「 Live at The Pallet 」",
       "image": "https://i.ytimg.com/vi/GfbcrGjYq4k/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/GfbcrGjYq4k?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=GfbcrGjYq4k",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ๊อฟ ปองศักดิ์ - แทงข้างหลังทะลุถึงหัวใจ I เรื่องจริงยิ่งกว่านิยาย 「Live at Rhythm and Bar Udon 」",
       "image": "https://i.ytimg.com/vi/7HA5ASL7i58/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/7HA5ASL7i58?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=7HA5ASL7i58",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ซับ I ทราบแล้วเปลี่ยน I คิดถึงแต่ I ลงใจ - BOWKYLION 「Live at 2SiS Easy Restaurant 」",
       "image": "https://i.ytimg.com/vi/VmCfIlmV6OM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/VmCfIlmV6OM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=VmCfIlmV6OM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แปดโมงเช้าวันอังคาร | ความเจ็บปวด | ทบทวน | กลัว - PALMY [Live at VEGAS Kalasin]",
       "image": "https://i.ytimg.com/vi/uXSqUm4dbDM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uXSqUm4dbDM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=uXSqUm4dbDM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ภาพทรงจำในกาลเวลา I ดอกไม้ที่ไร้กลิ่น - PHUMIN | ภูมิมินท์ 「Live at ทันหนาว 」",
       "image": "https://i.ytimg.com/vi/Q0ge01NghTo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Q0ge01NghTo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Q0ge01NghTo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "SLAPKISS - ให้ลืมได้ไง I เกือบเหมือน「Live at 2SiS 」",
       "image": "https://i.ytimg.com/vi/9U0xGda6K1k/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/9U0xGda6K1k?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=9U0xGda6K1k",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "The Parkinson | เพื่อนรัก (Dear Friend)「 Live at The Pallet 」",
       "image": "https://i.ytimg.com/vi/ZQc9skBC2Fk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ZQc9skBC2Fk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ZQc9skBC2Fk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Full Live | PARADOX - พาราด็อกซ์ 「Live at FLUID」",
       "image": "https://i.ytimg.com/vi/O_ieWKeSU48/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/O_ieWKeSU48?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=O_ieWKeSU48",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] LAZYLOXY x SAMBLACK 「Warmlight Team Live at เอกมัย อุดรธานี」",
       "image": "https://i.ytimg.com/vi/XuUSadueIw4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/XuUSadueIw4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=XuUSadueIw4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หลงกล I แวมไพร์ I ง่ายเกินไป - หิน เหล็ก ไฟ SMF 「Live at T-PRANG 15th Aniversary」",
       "image": "https://i.ytimg.com/vi/DA_1ltuejR0/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/DA_1ltuejR0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=DA_1ltuejR0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดีที่สุดแล้ว I ศรัทธา I อย่าหยุดยั้ง - หิน เหล็ก ไฟ SMF 「Live at T-PRANG 15th Aniversary」",
       "image": "https://i.ytimg.com/vi/gLmPMIRTnw4/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/gLmPMIRTnw4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=gLmPMIRTnw4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] The Parkinson [Live at รสนิยม' SAKON]",
       "image": "https://i.ytimg.com/vi/qsaquVV_MT0/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/qsaquVV_MT0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=qsaquVV_MT0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] โจอี้ ภูวศิษฐ์ I JOEY PWS [Live at ตากอากาศ สกลนคร]",
       "image": "https://i.ytimg.com/vi/l_WjkP4m864/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/l_WjkP4m864?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=l_WjkP4m864",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "MAIYARAP I ไมยราพ [Live at เอกมัย อุดรธานี]",
       "image": "https://i.ytimg.com/vi/3ktqWQMWZvE/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3ktqWQMWZvE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3ktqWQMWZvE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "TOUCH I ทัช ณ ตะกั่วทุ่ง [Live at โรงรถ อุดรธานี]",
       "image": "https://i.ytimg.com/vi/10InZblSaPA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/10InZblSaPA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=10InZblSaPA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "「Full Live」BIG ASS - บิ๊กแอส「Live at เอกมัย อุดรธานี」",
       "image": "https://i.ytimg.com/vi/rh9A50cFGxk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/rh9A50cFGxk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=rh9A50cFGxk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Silly Fools Acoustic Camp [Live at Udonthani]",
       "image": "https://i.ytimg.com/vi/oqNwyvwoN3M/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/oqNwyvwoN3M?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=oqNwyvwoN3M",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] Whal & Dolph [Live at เอกมัย อุดรธานี]",
       "image": "https://i.ytimg.com/vi/wR3ncydebHM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/wR3ncydebHM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=wR3ncydebHM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] ไททศมิตร - TaitosmitH [Live at เอกมัย อุดรธานี]",
       "image": "https://i.ytimg.com/vi/zhrOvZk15QA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/zhrOvZk15QA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=zhrOvZk15QA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] พงษ์สิทธิ์ คำภีร์ I Live at เอกมัย อุดรธานี",
       "image": "https://i.ytimg.com/vi/Z00KAJIUMy8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Z00KAJIUMy8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Z00KAJIUMy8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Full Live] POLYCAT I Live at เอกมัย อุดรธานี",
       "image": "https://i.ytimg.com/vi/t4NwPjDkSCo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/t4NwPjDkSCo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=t4NwPjDkSCo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "KLEAR - เคลียร์ [Live at VEGAS Kalasin]",
       "image": "https://i.ytimg.com/vi/oZ0CoRnUK-I/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/oZ0CoRnUK-I?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=oZ0CoRnUK-I",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "CLASH - แคลช [Live at เอกมัย อุดรธานี]",
       "image": "https://i.ytimg.com/vi/RilwvHXNeYs/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/RilwvHXNeYs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=RilwvHXNeYs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Joey PWS -โจอี้ ภูวศิษฐ์ [Live at FLUID]",
       "image": "https://i.ytimg.com/vi/VtDehjaPm1o/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/VtDehjaPm1o?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=VtDehjaPm1o",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โจอี้ ภูวศิษฐ์ I Joey PWS [Live at เอกมัย อุดรธานี]",
       "image": "https://i.ytimg.com/vi/GvtUErbdwH0/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/GvtUErbdwH0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=GvtUErbdwH0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Joey Pws I โจอี้ ภูวศิษฐ์ [Live at สุขสันต์ ขอนแก่น]",
       "image": "https://i.ytimg.com/vi/g6-7z-4mx-o/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/g6-7z-4mx-o?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=g6-7z-4mx-o",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หิน เหล็ก ไฟ 「Live at T-PRANG 15th Aniversary」",
       "image": "https://i.ytimg.com/vi/J7CTiKg46gw/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/J7CTiKg46gw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=J7CTiKg46gw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "WAN THANAKRIT - ว่าน ธนกฤต (Live at เพชรเกษม อุดรธานี)",
       "image": "https://i.ytimg.com/vi/Q5FWOhf-sao/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/Q5FWOhf-sao?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Q5FWOhf-sao",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "PENGUIN VILLA [Acoustic Live at Somsri Music Camp]",
       "image": "https://i.ytimg.com/vi/COvV6ych9Sg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/COvV6ych9Sg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=COvV6ych9Sg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Greasy Cafe [Acoustic Live at Somsri Music camp]",
       "image": "https://i.ytimg.com/vi/9Cp1HvL9WoI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/9Cp1HvL9WoI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=9Cp1HvL9WoI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ANATOMY RABBIT [Live at เอกมัย อุดรธานี]",
       "image": "https://i.ytimg.com/vi/0hhwcvVSJQ8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/0hhwcvVSJQ8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=0hhwcvVSJQ8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BOWKYLION - โบกี้ไลออน [Live at The Pallet]",
       "image": "https://i.ytimg.com/vi/qcLYqx_uPWs/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/qcLYqx_uPWs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=qcLYqx_uPWs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โจอี้ ภูวศิษฐ์ - Joey Phuwasit [Live at 2SiS]",
       "image": "https://i.ytimg.com/vi/4MedIA8pctI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/4MedIA8pctI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=4MedIA8pctI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "NUM KALA - หนุ่ม กะลา (Live at Garage Club)",
       "image": "https://i.ytimg.com/vi/ylcLPF10zxo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ylcLPF10zxo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ylcLPF10zxo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "NAP the NAP - Live at เอกมัยสามพร้าว",
       "image": "https://i.ytimg.com/vi/InTfqGtd4ow/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/InTfqGtd4ow?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=InTfqGtd4ow",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "TaitosmitH [ไททศมิตร Live at ทางของฝุ่น]",
       "image": "https://i.ytimg.com/vi/1B6pBHkrkKI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/1B6pBHkrkKI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=1B6pBHkrkKI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ - Apirome Live at แมวเป้าบาร์",
       "image": "https://i.ytimg.com/vi/YntMHR0pqZ8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/YntMHR0pqZ8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=YntMHR0pqZ8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Slot Machine - สล็อต แมชชีน [Live at เอกมัย อุดรธานี]",
       "image": "https://i.ytimg.com/vi/5rfCKqAO_Cg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/5rfCKqAO_Cg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=5rfCKqAO_Cg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "D!EOUT - SARAN X The BESTS X P6ICK X 1ST [Live at เอกมัย สามพร้าว]",
       "image": "https://i.ytimg.com/vi/ZpaTurAdwVY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/ZpaTurAdwVY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=ZpaTurAdwVY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Silly Fools - คอนเสิร์ต ซิลลี่ฟูลส์ [Live at FLUID]",
       "image": "https://i.ytimg.com/vi/nlTU-AIsgpE/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/nlTU-AIsgpE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=nlTU-AIsgpE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "INK WARUNTORN - อิงค์ วรันธร [Live at FLUID]",
       "image": "https://i.ytimg.com/vi/E8mH5uQOOYI/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/E8mH5uQOOYI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=E8mH5uQOOYI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต Three man down [Live at FLUID อุดรธานี]",
       "image": "https://i.ytimg.com/vi/n758rPzzvnc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/n758rPzzvnc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=n758rPzzvnc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต POTATO - โปเตโต้ Live at เอกมัย by ยูฟ่า",
       "image": "https://i.ytimg.com/vi/IfsZo_SX6Hc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/IfsZo_SX6Hc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=IfsZo_SX6Hc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต หนุ่ม กะลา (2022)",
       "image": "https://i.ytimg.com/vi/FZjjTg0-sW8/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/FZjjTg0-sW8?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=FZjjTg0-sW8",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต แหลม สมพล (2022)",
       "image": "https://i.ytimg.com/vi/7yQRz2MfAxY/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/7yQRz2MfAxY?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=7yQRz2MfAxY",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
