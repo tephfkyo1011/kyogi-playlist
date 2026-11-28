@@ -6,253 +6,295 @@
     {
       "name": "ตลกคณะ โน๊ต เชิญยิ้ม ชุด ฮาก็ฮาว่ะคนป่าอย่างข้าก็ฮาเป็น",
       "image": "https://i.ytimg.com/vi/ZIe8hMYwcBo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZIe8hMYwcBo",
+      "url": "https://m.youtube.com/watch?v=ZIe8hMYwcBo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดี๋ดอกมะดัน ชุด ดี่๋ฮามากับลาว ชุด 9 ตอน 2 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ดี๋ดอกมะดัน @โรเบิร์ตสายควัน",
       "image": "https://i.ytimg.com/vi/IrgCPfhdYg0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IrgCPfhdYg0",
+      "url": "https://m.youtube.com/watch?v=IrgCPfhdYg0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดี๋ดอกมะดัน ชุด ดี่๋ฮามากับลาว ชุด 9 ตอน 1 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ดี๋ดอกมะดัน @โรเบิร์ตสายควัน",
       "image": "https://i.ytimg.com/vi/tKWPKFqEK84/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tKWPKFqEK84",
+      "url": "https://m.youtube.com/watch?v=tKWPKFqEK84",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ แฉ่ง ช่อมะดัน ชุด หมอรำซ่าฮาสูตรใหม่ ม้วน 1 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #แฉ่งช่อมะดัน",
       "image": "https://i.ytimg.com/vi/kZ2BWCzyYwI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kZ2BWCzyYwI",
+      "url": "https://m.youtube.com/watch?v=kZ2BWCzyYwI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ โย่ง เชิญยิ้ม ชุดฮาสุดโด่งโย่งเชิญยิ้ม ชุด 28 Part 2",
       "image": "https://i.ytimg.com/vi/NMB__lX25jE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NMB__lX25jE",
+      "url": "https://m.youtube.com/watch?v=NMB__lX25jE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ โย่ง เชิญยิ้ม ชุดฮาสุดโด่งโย่งเชิญยิ้ม ชุด 28 Part 1",
       "image": "https://i.ytimg.com/vi/IOG38Pv3PHc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IOG38Pv3PHc",
+      "url": "https://m.youtube.com/watch?v=IOG38Pv3PHc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะกล้วย เชิญยิ้ม ชุด เช่นกันฮามันพะยะคะ #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #กล้วยเชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/CjGFI2s2e2g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CjGFI2s2e2g",
+      "url": "https://m.youtube.com/watch?v=CjGFI2s2e2g",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ ชวนชื่น ชุด มากับพระฮาสะเทือนทุ่ง #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ค่อมชวนชื่น #หลุยส์ชวนชื่น",
       "image": "https://i.ytimg.com/vi/cVGyCVrJi8s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cVGyCVrJi8s",
+      "url": "https://m.youtube.com/watch?v=cVGyCVrJi8s",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ ชูศรีเชิญยิ้ม ชุด ฮาสุดขั้วโชว์วงสตริงค์ ม้วน 2 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ชูศรีเชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/BsbR0wrB3vg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BsbR0wrB3vg",
+      "url": "https://m.youtube.com/watch?v=BsbR0wrB3vg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ ชูศรีเชิญยิ้ม ชุด ฮาสุดขั้วโชว์วงสตริงค์ ม้วน 1 #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #ชูศรีเชิญยิ้ม",
       "image": "https://i.ytimg.com/vi/JgD-HMOtU9g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JgD-HMOtU9g",
+      "url": "https://m.youtube.com/watch?v=JgD-HMOtU9g",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ เทพโพธิ์งาม ชุด พี่เทพมาซ่าส์สุดๆ ม้วน 2 #จี้เส้นคอนเสิร์ต #เทพโพธิ์งาม #ตลกคาเฟ่",
       "image": "https://i.ytimg.com/vi/XkYJBZl3D90/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XkYJBZl3D90",
+      "url": "https://m.youtube.com/watch?v=XkYJBZl3D90",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โป้งเหน่งเชิญยิ้ม กับคณะ เพชรดาราฉาย ชุด มายากลปนเสียงหัวเราะ Part 2",
       "image": "https://i.ytimg.com/vi/e2MsQfN3UR8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=e2MsQfN3UR8",
+      "url": "https://m.youtube.com/watch?v=e2MsQfN3UR8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โป้งเหน่งเชิญยิ้ม กับคณะ เพชรดาราฉาย ชุด มายากลปนเสียงหัวเราะ Part 1",
       "image": "https://i.ytimg.com/vi/AFRKELohqg0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=AFRKELohqg0",
+      "url": "https://m.youtube.com/watch?v=AFRKELohqg0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คุยตลกยุคตลับ I EP.3 I หลวงพ่อประสิทธิ์(หม่อมเหยิน) I1ต.ค. 2567 I#จี้เส้นคอนเสิร์ต #คุยตลกยุคตลับ",
       "image": "https://i.ytimg.com/vi/cZCL085ZmwE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cZCL085ZmwE",
+      "url": "https://m.youtube.com/watch?v=cZCL085ZmwE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "EP156 สวัสดิการชาวคณะ #จี้เส้นคอนเสิร์ต #ตลกคาเฟ่ #สีหนุ่มเชิญยิ้ม #shorts",
       "image": "https://i.ytimg.com/vi/hPtwMZAkYEg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hPtwMZAkYEg",
+      "url": "https://m.youtube.com/watch?v=hPtwMZAkYEg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตลกคณะ ดี๋ ดอกมะดัน ชุด มนต์เพลงเสียงหัวเราะม้วน 1(ปี2535)",
       "image": "https://i.ytimg.com/vi/nnUL30V9GfA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nnUL30V9GfA",
+      "url": "https://m.youtube.com/watch?v=nnUL30V9GfA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คุยตลกยุคตลับ I EP.2 I ตลกสู้ชีวิต เตี้ยพิจิตร I1ต.ค. 2567 I#จี้เส้นคอนเสิร์ต #คุยตลกยุคตลับ",
       "image": "https://i.ytimg.com/vi/1-RSG0Gbh7w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1-RSG0Gbh7w",
+      "url": "https://m.youtube.com/watch?v=1-RSG0Gbh7w",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คุยตลกยุคตลับ I EP.1 I ใครกันคือเจ้าของรายการตลกจี้เส้นคอนเสิร์ต I #ตลกคาเฟ่ #คุยตลกยุคตลับ",
       "image": "https://i.ytimg.com/vi/CfL0rQUFq5Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CfL0rQUFq5Q",
+      "url": "https://m.youtube.com/watch?v=CfL0rQUFq5Q",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กล้วยเชิญยิ้ม ชุด ฮามันส์สนั่นคาเฟ่ ม้วน 1 Part 1",
       "image": "https://i.ytimg.com/vi/HcAX69RvARY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HcAX69RvARY",
+      "url": "https://m.youtube.com/watch?v=HcAX69RvARY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เด๋อดอกสะเดา ชุด ฮานิ้มๆยิ้มฟัดโลก Part2",
       "image": "https://i.ytimg.com/vi/gIfkYX_7ZD4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gIfkYX_7ZD4",
+      "url": "https://m.youtube.com/watch?v=gIfkYX_7ZD4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เด๋อดอกสะเดา ชุด ฮานิ้มๆยิ้มฟัดโลก Part1",
       "image": "https://i.ytimg.com/vi/D_-lKKhsBXU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=D_-lKKhsBXU",
+      "url": "https://m.youtube.com/watch?v=D_-lKKhsBXU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เต๋อเชิญยิ้ม ชุด ฮาแบเบอร์เต๋อเชิญยิ้ม ชุด 1 ม้วน 2",
       "image": "https://i.ytimg.com/vi/CPeKoL8fzmg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CPeKoL8fzmg",
+      "url": "https://m.youtube.com/watch?v=CPeKoL8fzmg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เต๋อเชิญยิ้ม ชุด ฮาแบบเบอร์เต๋อเชิญยิ้ม ชุด 1 ม้วน 1",
       "image": "https://i.ytimg.com/vi/wbsZejigWLI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wbsZejigWLI",
+      "url": "https://m.youtube.com/watch?v=wbsZejigWLI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โรเบิร์ตสายควัน กับ ตลกคณะ ดี๋ดอกมะดัน ชุด ฮายาวลาวซิ่ง ม้วน 1 part2",
       "image": "https://i.ytimg.com/vi/liecX9eWiYc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=liecX9eWiYc",
+      "url": "https://m.youtube.com/watch?v=liecX9eWiYc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โรเบิร์ตสายควัน กับ ตลกคณะ ดี๋ดอกมะดัน ชุด ฮายาวลาวซิ่ง ม้วน 1 part1",
       "image": "https://i.ytimg.com/vi/Ig1Ry153QvQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ig1Ry153QvQ",
+      "url": "https://m.youtube.com/watch?v=Ig1Ry153QvQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 42 Part 2",
       "image": "https://i.ytimg.com/vi/zVDPfHs-dtw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=zVDPfHs-dtw",
+      "url": "https://m.youtube.com/watch?v=zVDPfHs-dtw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 42 Part 1",
       "image": "https://i.ytimg.com/vi/JfEOnv1TjZE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JfEOnv1TjZE",
+      "url": "https://m.youtube.com/watch?v=JfEOnv1TjZE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แดนสี่ดาว ชุด ยี่เกลาวฮาประสาทกลับ ม้วน 2",
       "image": "https://i.ytimg.com/vi/YKVN46phrhM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YKVN46phrhM",
+      "url": "https://m.youtube.com/watch?v=YKVN46phrhM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แดนสี่ดาว ชุด ยี่เกลาวฮาประสาทกลับ ม้วน 1 Part 2",
       "image": "https://i.ytimg.com/vi/E9Pwy-Jj1rY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=E9Pwy-Jj1rY",
+      "url": "https://m.youtube.com/watch?v=E9Pwy-Jj1rY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แดนสี่ดาว ชุด ยี่เกลาวฮาประสาทกลับ ม้วน 1 Part 1",
       "image": "https://i.ytimg.com/vi/uBl3_oy1_eo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uBl3_oy1_eo",
+      "url": "https://m.youtube.com/watch?v=uBl3_oy1_eo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โป้งเหน่งเชิญยิ้ม นกเชิญยิ้ม กับ ตลกคณะ เพชรดาราฉาย ชุด ฮาทีเด็ดเพชรดาราฉาย ชุด 2(ปี38) Part 2",
       "image": "https://i.ytimg.com/vi/YOvCKplxGVo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YOvCKplxGVo",
+      "url": "https://m.youtube.com/watch?v=YOvCKplxGVo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โป้งเหน่งเชิญยิ้ม นกเชิญยิ้ม กับ ตลกคณะ เพชรดาราฉาย ชุด ฮาทีเด็ดเพชรดาราฉาย ชุด 2(ปี38) Part 1",
       "image": "https://i.ytimg.com/vi/pHXfXX12A0g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pHXfXX12A0g",
+      "url": "https://m.youtube.com/watch?v=pHXfXX12A0g",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 2 Part 2",
       "image": "https://i.ytimg.com/vi/ebK6IhCjqdY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ebK6IhCjqdY",
+      "url": "https://m.youtube.com/watch?v=ebK6IhCjqdY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 2 Part 1",
       "image": "https://i.ytimg.com/vi/I4lWu2dBImQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=I4lWu2dBImQ",
+      "url": "https://m.youtube.com/watch?v=I4lWu2dBImQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 1 Part 2",
       "image": "https://i.ytimg.com/vi/SrHILr6L_K8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SrHILr6L_K8",
+      "url": "https://m.youtube.com/watch?v=SrHILr6L_K8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้าค่อม หลุยส์ จิ้ม จอย กับคณะ ชวนชื่น ชุด ซินเดอเรลล่าฮาร้อนๆ ม้วน 1 Part 1",
       "image": "https://i.ytimg.com/vi/vxePJigTPIo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vxePJigTPIo",
+      "url": "https://m.youtube.com/watch?v=vxePJigTPIo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สีหนุ่มเชิญยิ้ม ชุด ทะลักฮามาตามนัด ม้วน 2 (ปี 2535)",
       "image": "https://i.ytimg.com/vi/OP_KLHgZg-k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OP_KLHgZg-k",
+      "url": "https://m.youtube.com/watch?v=OP_KLHgZg-k",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 41 Part 2",
       "image": "https://i.ytimg.com/vi/DdUVTgxKSF4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DdUVTgxKSF4",
+      "url": "https://m.youtube.com/watch?v=DdUVTgxKSF4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดู๋ดอกกระโดน ชุด โห่สามลาฮากับดู๋ ชุด 41 Part 1",
       "image": "https://i.ytimg.com/vi/EaQoSIUcE20/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EaQoSIUcE20",
+      "url": "https://m.youtube.com/watch?v=EaQoSIUcE20",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โน๊ตเชิญยิ้ม ชุด ฮาล้วนๆกวนประสาท ม้วน 2 Part 2",
       "image": "https://i.ytimg.com/vi/amq_Plfyspk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=amq_Plfyspk",
+      "url": "https://m.youtube.com/watch?v=amq_Plfyspk",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โน๊ตเชิญยิ้ม ชุด ฮาล้วนๆกวนประสาท ม้วน 2 Part 1",
       "image": "https://i.ytimg.com/vi/TCof_KZ_deE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TCof_KZ_deE",
+      "url": "https://m.youtube.com/watch?v=TCof_KZ_deE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โน๊ตเชิญยิ้ม ชุด ฮาล้วนๆกวนประสาท ม้วน 1 Part 2",
       "image": "https://i.ytimg.com/vi/1cfHVkV37FU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1cfHVkV37FU",
+      "url": "https://m.youtube.com/watch?v=1cfHVkV37FU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
