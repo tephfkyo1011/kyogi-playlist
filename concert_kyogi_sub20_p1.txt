@@ -6,121 +6,121 @@
     {
       "name": "KAMPEE IS BACK! Live@EST.33 พงษ์สิทธิ์ คำภีร์'คัมแบ็ค【Official Video】",
       "image": "https://i.ytimg.com/vi/2iZtCczhvfA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2iZtCczhvfA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2iZtCczhvfA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Leadway presents Kampee Live Acoustic คอนเสิร์ตอะคูสติกเต็มวงจาก พงษ์สิทธิ์ คำภีร์【Official Video】",
       "image": "https://i.ytimg.com/vi/_0Dy-poH0AU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_0Dy-poH0AU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/_0Dy-poH0AU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มินิคอนเสิร์ตสดจากบ้าน พงษ์สิทธิ์ คำภีร์ : Kampee Live From Home ตอน อดทนไว้ 【ฉบับปรับปรุงเสียง】",
       "image": "https://i.ytimg.com/vi/JPCHQKbVP4k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JPCHQKbVP4k&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/JPCHQKbVP4k?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Kampee Live From Home Returns มินิคอนเสิร์ตสดจากบ้านคำภีร์ 1 ชั่วโมงเต็ม【Official Video】",
       "image": "https://i.ytimg.com/vi/E08F2j6sMNo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=E08F2j6sMNo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/E08F2j6sMNo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "4 ขุนพลเพื่อชีวิต ร่วมบรรเลงที่บ้านพี่ปู พงษ์สิทธิ์ Kampee Live From Home EP.2【Kampee From Home】",
       "image": "https://i.ytimg.com/vi/umiqy8UV1t4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=umiqy8UV1t4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/umiqy8UV1t4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พี่ปู พงษ์สิทธิ์ ชวนเพื่อนมาเล่นดนตรีให้พี่ๆ ฟังแบบเต็มวง【Kampee From Studio】#Special",
       "image": "https://i.ytimg.com/vi/D3yefgWikVQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=D3yefgWikVQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/D3yefgWikVQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พี่ปู พงษ์สิทธิ์ ไลฟ์สดจากบ้านครั้งแรก Kampee Live From Home EP.1【Kampee From Home】",
       "image": "https://i.ytimg.com/vi/TUFyyKQqi_8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TUFyyKQqi_8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/TUFyyKQqi_8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์สิทธิ์ คำภีร์ • หงา คาราวาน เล่นสดอะคูสติก Nga Caravan Live From Home【Official Video】",
       "image": "https://i.ytimg.com/vi/OScfPBhvmzE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OScfPBhvmzE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OScfPBhvmzE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Road to 35 ปี คำภีร์... ถึงเพื่อน | คอนเสิร์ตสุดพิเศษ ณ บ้านศรีตรัง คำภีร์ จ.เลย【Official Video】",
       "image": "https://i.ytimg.com/vi/sZ5HDdP9sbQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sZ5HDdP9sbQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/sZ5HDdP9sbQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต ปู...อยากร้อง เพื่อนพ้องอยากฟัง 2 | พงษ์สิทธิ์ คำภีร์【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/3E9jXJavnkw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3E9jXJavnkw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/3E9jXJavnkw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต 30 ปี คำภีร์...แกเพื่อนฉัน | พงษ์สิทธิ์ คำภีร์【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/GAWaQDVzlww/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=GAWaQDVzlww&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/GAWaQDVzlww?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คำภีร์คิดถึง...คอนเสิร์ต【FULL CONCERT】ปรากฏการณ์ความคิดถึงของ พงษ์สิทธิ์ คำภีร์",
       "image": "https://i.ytimg.com/vi/tPzOo3nP29w/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tPzOo3nP29w&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/tPzOo3nP29w?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์สิทธิ์ คำภีร์ - คอนเสิร์ต 25 ปี (มีหวัง)【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/rcYUUoZ7TfE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cAN3GK1vScQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cAN3GK1vScQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์สิทธิ์ คำภีร์ & เล็ก คาราบาว - คอนเสิร์ต ปลั๊กหลุด 2 ตอนเสียบปลั๊ก(Full Concert)【Official MV】",
       "image": "https://i.ytimg.com/vi/Qg9F1_BQvb8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=oqSWog1F_wQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/oqSWog1F_wQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Kampee Live From Home Returns มินิคอนเสิร์ตสดจากบ้านคำภีร์ 1 ชั่วโมงเต็ม【Official Video】",
       "image": "https://i.ytimg.com/vi/E08F2j6sMNo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=E08F2j6sMNo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/E08F2j6sMNo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
