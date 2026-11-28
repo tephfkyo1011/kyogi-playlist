@@ -6,301 +6,351 @@
     {
       "name": "[REPOST] รำลึกถึงเสนาโค้ก | ยุทธการขยับเหงือก | แขกรับเชิญ จตุพล ชมภูนิช & นันทนา นันทวโรภาส",
       "image": "https://i.ytimg.com/vi/7f2sjG2zJHc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7f2sjG2zJHc",
+      "url": "https://m.youtube.com/watch?v=7f2sjG2zJHc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[REPOST] รำลึกถึงเสนาโค้ก | ยุทธการขยับเหงือก | ตอนแขกรับเชิญ ปิยะพงษ์ ผิวอ่อน",
       "image": "https://i.ytimg.com/vi/paKc_Hxa1bM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=paKc_Hxa1bM",
+      "url": "https://m.youtube.com/watch?v=paKc_Hxa1bM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[REPOST] รำลึกถึงเสนาโค้ก | ยุทธการขยับเหงือก | ตอนแขกรับเชิญ ปัทมวรรณ เค้ามูลคดี",
       "image": "https://i.ytimg.com/vi/YGY5OzhckCE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YGY5OzhckCE",
+      "url": "https://m.youtube.com/watch?v=YGY5OzhckCE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[REPOST] รำลึกถึงเสนาโค้ก | ยุทธการขยับเหงือก | ตอนแขกรับเชิญ จุรี โอศิริ",
       "image": "https://i.ytimg.com/vi/gQ6s1_4RnlI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gQ6s1_4RnlI",
+      "url": "https://m.youtube.com/watch?v=gQ6s1_4RnlI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[REPOST] รำลึกถึงเสนาโค้ก | ยุทธการขยับเหงือก | ตอนแขกรับเชิญ สมบัติ เมทะนี",
       "image": "https://i.ytimg.com/vi/2IQ-wzBbhds/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2IQ-wzBbhds",
+      "url": "https://m.youtube.com/watch?v=2IQ-wzBbhds",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยุทธการขยับเหงือกรวมฮิตปี พ.ศ. 2536",
       "image": "https://i.ytimg.com/vi/6aaEdq5JQ6g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6aaEdq5JQ6g",
+      "url": "https://m.youtube.com/watch?v=6aaEdq5JQ6g",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รายการ ยุทธการขยับเหงือก ทีโบน T-BONE ช่อง 5",
       "image": "https://i.ytimg.com/vi/XP2QkY4ej1g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XP2QkY4ej1g",
+      "url": "https://m.youtube.com/watch?v=XP2QkY4ej1g",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รายการ ยุทการขยับเหงือก ตั๊ก ลีลา ( ศิริพร อยู่ยอด ) ช่อง 5 พ.ศ.2536",
       "image": "https://i.ytimg.com/vi/yAzt7DnXiu8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yAzt7DnXiu8",
+      "url": "https://m.youtube.com/watch?v=yAzt7DnXiu8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยุทธการขยับเหงือก พ.ศ.2537 แมน ศุภกิจ ตังทัตสวัสดิ์",
       "image": "https://i.ytimg.com/vi/YuEsxO-FoTE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YuEsxO-FoTE",
+      "url": "https://m.youtube.com/watch?v=YuEsxO-FoTE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โฆษณา คอนเสิร์ตหัวหกก้นขวิด ครั้งที่ 3 พ.ศ.2536",
       "image": "https://i.ytimg.com/vi/8znXB6rdcg4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8znXB6rdcg4",
+      "url": "https://m.youtube.com/watch?v=8znXB6rdcg4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รายการยุทธการขยับเหงือก รับน้องใหม่ ติ๊ก กลิ่นสี",
       "image": "https://i.ytimg.com/vi/whsUQGyza00/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=whsUQGyza00",
+      "url": "https://m.youtube.com/watch?v=whsUQGyza00",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รายการ ยุทธการขยับเหงือก เทปแรกของ อุดม แต้พานิช",
       "image": "https://i.ytimg.com/vi/sbbgv5MifFw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sbbgv5MifFw",
+      "url": "https://m.youtube.com/watch?v=sbbgv5MifFw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยุทธการขยับเหงือก ต่าย สายธาร นิยมการณ์ พ.ศ.2536 ช่อง 5",
       "image": "https://i.ytimg.com/vi/e3I3enjIemA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=e3I3enjIemA",
+      "url": "https://m.youtube.com/watch?v=e3I3enjIemA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตหัวหกก้นขวิด 3 พ.ศ.2536 หนุ่ม ศรราม ยุทธการขยับเหงือก",
       "image": "https://i.ytimg.com/vi/r8xmencwhLs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=r8xmencwhLs",
+      "url": "https://m.youtube.com/watch?v=r8xmencwhLs",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน นรินทร ณ บางช้าง | ยุทธการขยับเหงือก (2532) 🎬",
       "image": "https://i.ytimg.com/vi/YLI3LJWhOLE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YLI3LJWhOLE",
+      "url": "https://m.youtube.com/watch?v=YLI3LJWhOLE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน เป็ด เชิญยิ้ม | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/U5H8z0TKJ7Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=U5H8z0TKJ7Q",
+      "url": "https://m.youtube.com/watch?v=U5H8z0TKJ7Q",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน เกรียงไกร อุณหะนันทน์ | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/Gxug22l5VOQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Gxug22l5VOQ",
+      "url": "https://m.youtube.com/watch?v=Gxug22l5VOQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน เพชร พุฒิพงศ์ | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/S7tHyDbHyhc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=S7tHyDbHyhc",
+      "url": "https://m.youtube.com/watch?v=S7tHyDbHyhc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน บิณฑ์ บรรลือฤทธิ์ | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/2eI7Fn3KImA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2eI7Fn3KImA",
+      "url": "https://m.youtube.com/watch?v=2eI7Fn3KImA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน ต้อย เศรษฐา | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/38Go7gfePTY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=38Go7gfePTY",
+      "url": "https://m.youtube.com/watch?v=38Go7gfePTY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน โน้ต เชิญยิ้ม | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/mee_VxlzD1Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mee_VxlzD1Q",
+      "url": "https://m.youtube.com/watch?v=mee_VxlzD1Q",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน ป๋ากิ๊ก | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/hMTIsFEpTiU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hMTIsFEpTiU",
+      "url": "https://m.youtube.com/watch?v=hMTIsFEpTiU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน ไก่ วรายุฑ | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/pXg1kZBECVw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pXg1kZBECVw",
+      "url": "https://m.youtube.com/watch?v=pXg1kZBECVw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน จุ๋ม อุทุมพร | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/-0S81CHT634/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-0S81CHT634",
+      "url": "https://m.youtube.com/watch?v=-0S81CHT634",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน ธงชัย ประสงค์สันติ | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/-4LSVGKtuzg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-4LSVGKtuzg",
+      "url": "https://m.youtube.com/watch?v=-4LSVGKtuzg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน เปิ้ล จารุณี | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/UrONxcr7mlU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UrONxcr7mlU",
+      "url": "https://m.youtube.com/watch?v=UrONxcr7mlU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน เอ็ม ศุรศักดิ์ | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/L1j8H1xKipo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=L1j8H1xKipo",
+      "url": "https://m.youtube.com/watch?v=L1j8H1xKipo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน แก้ว อภิรดี | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/ZXvPRXC7mZQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZXvPRXC7mZQ",
+      "url": "https://m.youtube.com/watch?v=ZXvPRXC7mZQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน ตั๊ก มยุรา | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/yTMZ4d18TY4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yTMZ4d18TY4",
+      "url": "https://m.youtube.com/watch?v=yTMZ4d18TY4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้อนวันวาน เกรียงไกร อุณหะนันทน์ | ยุทธการขยับเหงือก (2532)",
       "image": "https://i.ytimg.com/vi/Gxug22l5VOQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Gxug22l5VOQ",
+      "url": "https://m.youtube.com/watch?v=Gxug22l5VOQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.20 | กีฬาฮาเฮ งานนี้ยอมไม่ได้",
       "image": "https://i.ytimg.com/vi/IqOzMaNsUp4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IqOzMaNsUp4",
+      "url": "https://m.youtube.com/watch?v=IqOzMaNsUp4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.19 | ยุทธการวิถีคนกล้า",
       "image": "https://i.ytimg.com/vi/iSNuuy9e20I/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iSNuuy9e20I",
+      "url": "https://m.youtube.com/watch?v=iSNuuy9e20I",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.18 | ครื้นแครงเพลงพื้นบ้าน",
       "image": "https://i.ytimg.com/vi/qCDD4UiZ-08/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qCDD4UiZ-08",
+      "url": "https://m.youtube.com/watch?v=qCDD4UiZ-08",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.17 | วันหวานวัยหินกลิ้ง",
       "image": "https://i.ytimg.com/vi/HD0zpi0PUcc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HD0zpi0PUcc",
+      "url": "https://m.youtube.com/watch?v=HD0zpi0PUcc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.16 | ต้องปล้นอะไรไม่รู้",
       "image": "https://i.ytimg.com/vi/EwzelzmoOeE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EwzelzmoOeE",
+      "url": "https://m.youtube.com/watch?v=EwzelzmoOeE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.15 | ป่าลั่นสะท้านใจ",
       "image": "https://i.ytimg.com/vi/9jCX34EC78o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9jCX34EC78o",
+      "url": "https://m.youtube.com/watch?v=9jCX34EC78o",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.14 | อมตะละครสุดฮิตริษยา",
       "image": "https://i.ytimg.com/vi/X505d2XJlOQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=X505d2XJlOQ",
+      "url": "https://m.youtube.com/watch?v=X505d2XJlOQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.13 | สวัสดีปีลิง",
       "image": "https://i.ytimg.com/vi/iyzzULhP2ew/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iyzzULhP2ew",
+      "url": "https://m.youtube.com/watch?v=iyzzULhP2ew",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.12 | ยุทธการหลอกเด็ก",
       "image": "https://i.ytimg.com/vi/-WLmrPz-kHQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-WLmrPz-kHQ",
+      "url": "https://m.youtube.com/watch?v=-WLmrPz-kHQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.11 | ศึกอินเดียนแดง",
       "image": "https://i.ytimg.com/vi/YwwgRIqGcS4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YwwgRIqGcS4",
+      "url": "https://m.youtube.com/watch?v=YwwgRIqGcS4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.10 | บัลเล่ต์หรรษา",
       "image": "https://i.ytimg.com/vi/SqySx4xjABg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SqySx4xjABg",
+      "url": "https://m.youtube.com/watch?v=SqySx4xjABg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.9 | ยุทธการล้อโฆษณา",
       "image": "https://i.ytimg.com/vi/eE4JlP6ciOY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eE4JlP6ciOY",
+      "url": "https://m.youtube.com/watch?v=eE4JlP6ciOY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.8 | ท้าประลองพ่อครัวหัวป่า",
       "image": "https://i.ytimg.com/vi/zarqH0aC-lM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=zarqH0aC-lM",
+      "url": "https://m.youtube.com/watch?v=zarqH0aC-lM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.7 | ลอยกระทงขยับเหงือก",
       "image": "https://i.ytimg.com/vi/1OedNfgc5sY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1OedNfgc5sY",
+      "url": "https://m.youtube.com/watch?v=1OedNfgc5sY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.6 | นักร้องตัวเอ้คาเฟ่หรรษา",
       "image": "https://i.ytimg.com/vi/9H2bqInbOjo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9H2bqInbOjo",
+      "url": "https://m.youtube.com/watch?v=9H2bqInbOjo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.5 | ทาร์ซานป่าแตก",
       "image": "https://i.ytimg.com/vi/Csjg20smeXo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Csjg20smeXo",
+      "url": "https://m.youtube.com/watch?v=Csjg20smeXo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.4 | สนุกสุดขวัญวันฮาโลวีน",
       "image": "https://i.ytimg.com/vi/uS6ZAl3weCE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uS6ZAl3weCE",
+      "url": "https://m.youtube.com/watch?v=uS6ZAl3weCE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.3 | ยุทธการป่วนเรืออันดามันปริ้นเซส",
       "image": "https://i.ytimg.com/vi/RyWNmtaNJLw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RyWNmtaNJLw",
+      "url": "https://m.youtube.com/watch?v=RyWNmtaNJLw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.2 | แม่หญิงของหมู่เฮา",
       "image": "https://i.ytimg.com/vi/EbiG2AX8rWg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EbiG2AX8rWg",
+      "url": "https://m.youtube.com/watch?v=EbiG2AX8rWg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขยับเหงือก Y2K EP.1 | เปิดตัวเสนาใหม่ โน้ส อุดม แต้พานิช",
       "image": "https://i.ytimg.com/vi/PqiD4pk7-Kw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PqiD4pk7-Kw",
+      "url": "https://m.youtube.com/watch?v=PqiD4pk7-Kw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
