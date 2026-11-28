@@ -6,56 +6,56 @@
     {
       "name": "คอนเสิร์ตเปิดตำนานเพื่อชีวิต วัดพระบาทน้ำพุ วงแฮมเมอร์ เต็มวง",
       "image": "https://i.ytimg.com/vi/yIoGZP-Z5dg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yIoGZP-Z5dg&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=yIoGZP-Z5dg&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต 30 ปีทอง - แฮมเมอร์ (Official MV - เพิ่อชีวิต 2019)",
       "image": "https://i.ytimg.com/vi/prKoj-6R14k/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShHMA8=&rs=AOn4CLC7gcSJuTitXgTaKdAmBifiNalmtQ",
-      "url": "https://m.youtube.com/watch?v=prKoj-6R14k&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=prKoj-6R14k&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต รวมเพลง เมืองไทยสวยงาม 27 เพลง - แฮมเมอร์ (Official MV - เพื่อชีวิต 2019)",
       "image": "https://i.ytimg.com/vi/-3XM6Rfknos/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGBggZShFMA8=&rs=AOn4CLD1OAc6e2AjynES0IKuPbCvR2Y-NQ",
-      "url": "https://m.youtube.com/watch?v=-3XM6Rfknos&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=-3XM6Rfknos&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต #แฮมเมอร์ ณ วัดเจดีย์(ไอ้ไข่)",
       "image": "https://i.ytimg.com/vi/ubvKkFSer7o/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFogKCh_MA8=&rs=AOn4CLCDsMFL2w2RUQLg-hAaNeDFJJhgoA",
-      "url": "https://m.youtube.com/watch?v=ubvKkFSer7o&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=ubvKkFSer7o&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต!! วงแฮมเมอร์ [เต็มวง]บุษบาขายถ่าน+ปักษ์ใต้บ้านเรา l บุญกฐินวัดพระบาทน้ำพุ @เซียร์รังสิต",
       "image": "https://i.ytimg.com/vi/phD8CgZx9og/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSCgzMA8=&rs=AOn4CLCvV8jNg2urxekYBXNIg3mW75xhAg",
-      "url": "https://m.youtube.com/watch?v=phD8CgZx9og&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=phD8CgZx9og&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บันทึกการแสดงสด -ศิลปินแฮมเมอร์-",
       "image": "https://i.ytimg.com/vi/bAHQbRRWPkM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgVChyMA8=&rs=AOn4CLB2y1QT93tAM5Kx-IVFMAafT05fug",
-      "url": "https://m.youtube.com/watch?v=bAHQbRRWPkM&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=bAHQbRRWPkM&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต!! วงแฮมเมอร์ [เต็มวง] ของขวัญ+สะตอ+บินหลา l ร่วมทำบุญกฐินวัดพระบาทน้ำพุ @หน้าเซียร์รังสิต",
       "image": "https://i.ytimg.com/vi/83-ZqIGEqWk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihHMA8=&rs=AOn4CLB3SU3Q9xqOCjgGUqWshuOtl2lfdQ",
-      "url": "https://m.youtube.com/watch?v=83-ZqIGEqWk&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=83-ZqIGEqWk&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เชิญดู คอนเสิร์ตครอบครัวดนตรี แฮมเมอร์",
       "image": "https://i.ytimg.com/vi/y8T0dMDJ8qo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=y8T0dMDJ8qo&app=m&persist_app=1",
+      "url": "https://m.youtube.com/watch?v=y8T0dMDJ8qo&app=m&persist_app=1&autoplay=1",
       "embed": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     }
