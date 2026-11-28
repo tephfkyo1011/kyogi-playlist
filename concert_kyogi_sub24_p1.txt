@@ -6,41 +6,41 @@
     {
       "name": "แสดงสด คอนเสิร์ต ซูซู บ้านคีตศิลป์ ขอนแก่น 25/11/2565",
       "image": "https://i.ytimg.com/vi/IHZ8c_Q6jhE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=IHZ8c_Q6jhE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/IHZ8c_Q6jhE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มินิคอนเสิร์ตวงซูซู ร้านเปลญวนเพชรบุรี",
       "image": "https://i.ytimg.com/vi/oHKa9rd2LIA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=oHKa9rd2LIA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/oHKa9rd2LIA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ZUZU | Live From Kimleng Audio [ Full Live ]",
       "image": "https://i.ytimg.com/vi/vP-FzFhS0VA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vP-FzFhS0VA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/vP-FzFhS0VA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต ซูซู ตำนานเพื่อชีวิต | เต็มโชว์ 2 ชั่วโมง",
       "image": "https://i.ytimg.com/vi/eB_9Z2n9xeo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eB_9Z2n9xeo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/eB_9Z2n9xeo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เต็มอิ่มเต็มอารมณ์!! คอนเสิร์ต ซูซู Vs. ทอมดันดี @ ตะวันแดงร้อยเอ็ด",
       "image": "https://i.ytimg.com/vi/xUigYkIk3uo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xUigYkIk3uo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/xUigYkIk3uo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
