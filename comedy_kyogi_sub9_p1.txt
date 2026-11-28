@@ -13,7 +13,8 @@
     {
       "name": "หมู่ วาไรตี้โชว์ อุดมและผองเพื่อน",
       "image": "https://i.ytimg.com/vi/Wli4EErQ-iw/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Wli4EErQ-iw",
+      "url": "https://m.youtube.com/watch?v=Wli4EErQ-iw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
@@ -26,79 +27,92 @@
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 11",
       "image": "https://i.ytimg.com/vi/9pqGGChiAjM/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9pqGGChiAjM",
+      "url": "https://m.youtube.com/watch?v=9pqGGChiAjM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 10",
       "image": "https://i.ytimg.com/vi/Sae84-pV2KI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Sae84-pV2KI",
+      "url": "https://m.youtube.com/watch?v=Sae84-pV2KI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 9.5 (เชียงใหม่ Story)",
       "image": "https://i.ytimg.com/vi/ExQ080KGkUc/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ExQ080KGkUc",
+      "url": "https://m.youtube.com/watch?v=ExQ080KGkUc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 9",
       "image": "https://i.ytimg.com/vi/NivvqVmJ5Cs/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NivvqVmJ5Cs",
+      "url": "https://m.youtube.com/watch?v=NivvqVmJ5Cs",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 8",
       "image": "https://i.ytimg.com/vi/BwoO7J65nw0/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BwoO7J65nw0",
+      "url": "https://m.youtube.com/watch?v=BwoO7J65nw0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 7.5",
       "image": "https://i.ytimg.com/vi/_nf8eQqRUDk/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_nf8eQqRUDk",
+      "url": "https://m.youtube.com/watch?v=_nf8eQqRUDk",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 7",
       "image": "https://i.ytimg.com/vi/IfGX7dd3ES8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IfGX7dd3ES8",
+      "url": "https://m.youtube.com/watch?v=IfGX7dd3ES8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 6 (ตูดหมึก)",
       "image": "https://i.ytimg.com/vi/TLvphXmSsvQ/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TLvphXmSsvQ",
+      "url": "https://m.youtube.com/watch?v=TLvphXmSsvQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 5 (ฉายเดี่ยว)",
       "image": "https://i.ytimg.com/vi/cnUePrLEjbY/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cnUePrLEjbY",
+      "url": "https://m.youtube.com/watch?v=cnUePrLEjbY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 4",
       "image": "https://i.ytimg.com/vi/W_VinjQT7OQ/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=W_VinjQT7OQ",
+      "url": "https://m.youtube.com/watch?v=W_VinjQT7OQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 3 (อุดมการช่าง)",
       "image": "https://i.ytimg.com/vi/rQahMEv_mpI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rQahMEv_mpI",
+      "url": "https://m.youtube.com/watch?v=rQahMEv_mpI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 2 (โชว์ห่วย)",
       "image": "https://i.ytimg.com/vi/5hCMNwZOoLE/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5hCMNwZOoLE",
+      "url": "https://m.youtube.com/watch?v=5hCMNwZOoLE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี่ยวไมโครโฟน ครั้งที่ 1",
       "image": "https://i.ytimg.com/vi/BXbezSxCn20/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BXbezSxCn20",
+      "url": "https://m.youtube.com/watch?v=BXbezSxCn20",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
