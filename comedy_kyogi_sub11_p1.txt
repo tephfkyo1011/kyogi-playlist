@@ -6,105 +6,79 @@
     {
       "name": "หนังตะลุงน้องเดียว ลูกทุ่งวัฒนธรรม ตอน ฮาได้ที่พรุ่งนี้โลกแตก",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/FXf_MRoalGU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=FXf_MRoalGU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกเฮฮาบ้าในตลาด",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/u7bWuyto_MU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=u7bWuyto_MU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เรื่อง รักข้ามภพ ตอนที่ 2 ยอดทองจีบนางเมือง",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/4h4_wV2vuQ4?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=4h4_wV2vuQ4",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกหนุกหนานโรงบาลบ้า",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/IOISoBRV_Zg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=IOISoBRV_Zg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนังตะลุง น้ำท่วมหาดใหญ่",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/wgwCNorf14E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=wgwCNorf14E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน ฮาระเบิดคอนเสิร์ตยอดทอง",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/eMsBbkT70LI?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=eMsBbkT70LI",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เทพบุตรจำแลง ตอนที่ 3 นายกประยุทธ",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/uzrxd5PprGA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=uzrxd5PprGA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มุกฮาหนังตะลุง มรดกใต้ [รวมมุกฮา ชั่วโมงเต็ม]",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/yHKfm65EOX0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=yHKfm65EOX0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน หลกหนุกมุกฮาด่าโรงบาล",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/CpUc6W1UyEs?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=CpUc6W1UyEs",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกฮาธรรมะ โรงฆ่าสัตว์",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/evbI2obyEGU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=evbI2obyEGU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มุกฮาบ้านๆ ทหารแก่",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8gDpQtsq4TU?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8gDpQtsq4TU",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกฮากู้ธนาคาร",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/C5Cn6uGi2Pg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=C5Cn6uGi2Pg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนังตะลุง หัดกินเจสะมั้ง",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/qRJOQyEpP7g?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=qRJOQyEpP7g",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
