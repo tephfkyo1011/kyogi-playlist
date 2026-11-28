@@ -6,64 +6,73 @@
     {
       "name": "Heisskalt - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/qPq36fVcx44/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qPq36fVcx44",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=qPq36fVcx44&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Kadavar - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/oLPHlGpb2BU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=oLPHlGpb2BU",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=oLPHlGpb2BU&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Swiss & Die Andern - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/N_PBHnY7OVw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=N_PBHnY7OVw",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=N_PBHnY7OVw&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ok.danke.tschüss - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/8L7hgvyzc6U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8L7hgvyzc6U",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=8L7hgvyzc6U&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Itchy - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/Bx3uhSd-sJs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Bx3uhSd-sJs",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Bx3uhSd-sJs&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Vicky - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/O6HsP4yG51Q/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=O6HsP4yG51Q",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=O6HsP4yG51Q&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Querbeat - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/DOwjym2169Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DOwjym2169Y",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=DOwjym2169Y&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Yellowcard - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/Iu_ig8IRhBA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Iu_ig8IRhBA",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Iu_ig8IRhBA&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Rise Against - Southside Festival 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/pommhewwnrA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pommhewwnrA",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=pommhewwnrA&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
