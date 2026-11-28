@@ -1,0 +1,14 @@
+{
+  "name": "🎤 คอนเสิร์ต รวม - คอนเสิร์ต",
+  "author": "KYO GI",
+  "image": "https://www.dropbox.com/scl/fi/lwsgs0wu8pgql8kwsaw1g/.gif?rlkey=wbc10qd0l3t5ebeefxq8h6d2z&dl=1",
+  "stations": [
+    {
+      "name": "LINKIN PARK - Rock in Rio 2026 (Full Concert) 21/06/2026",
+      "image": "https://i.ytimg.com/ZQIFzGM6Y/maxresdefault.jpg",
+      "url": "https://m.youtube.com/watch?v=a-ZQIFzGM6Y&app=m&persist_app=1&autoplay=1",
+      "embed": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
+    }
+  ]
+}
