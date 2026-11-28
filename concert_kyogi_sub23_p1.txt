@@ -6,65 +6,49 @@
     {
       "name": "เอ๋ สันติภาพ -บันทึกการแสดงสดคอนเสิร์ตสุขใจในป่ายาง ตอน มีทติ้งปาร์ตี้ MC#3",
       "image": "https://i.ytimg.com/vi/3wOkdV0Gw1E/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3wOkdV0Gw1E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3wOkdV0Gw1E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Live สดคอนเสิร์ตเอ๋ สันติภาพ ที่พัทลุง งานสืบสานศิลป์ ถิ่นโนรา อนุรักษ์มรดกไทย",
       "image": "https://i.ytimg.com/vi/KsHzCE5KQZg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgPihOMA8=&rs=AOn4CLDDX5QI8OGH8Xq9Eh3Z6t2ewGALBw",
-      "url": "https://www.youtube-nocookie.com/embed/KsHzCE5KQZg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=KsHzCE5KQZg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บันทึกการแสดงสดชุดคนใต้ใจเต็ม 2 - เอ๋ สันติภาพ (Official MV)",
       "image": "https://i.ytimg.com/vi/AlnwHEoy9mE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGH8gKSglMA8=&rs=AOn4CLCxjqdfCC9iV5ld3SeICgUiE0_fcA",
-      "url": "https://www.youtube-nocookie.com/embed/AlnwHEoy9mE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=AlnwHEoy9mE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเอ๋ สันติภาพ ที่พัทลุง EP1",
       "image": "https://i.ytimg.com/vi/Npoulwp7e0Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gISgvMA8=&rs=AOn4CLBvtiGihGR6V4nxjb_vt_-IsOA-0A",
-      "url": "https://www.youtube-nocookie.com/embed/Npoulwp7e0Q?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=Npoulwp7e0Q",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เอ๋ สันติภาพ บันทึกการแสดงสด 17 ปี ปากน้ำไรเดอร์ 19-01-62",
       "image": "https://i.ytimg.com/vi/taR1xKnfLMQ/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/taR1xKnfLMQ?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=taR1xKnfLMQ",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บันทึกการแสดงคอนเสิร์ต สมุยไบค์วีค - เอ๋ สันติภาพ (Official Video)",
       "image": "https://i.ytimg.com/vi/17j6TbudVuM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGHIgRChjMA8=&rs=AOn4CLCxinIsGGCL0-kxZDp2HKl7CFG_Rw",
-      "url": "https://www.youtube-nocookie.com/embed/17j6TbudVuM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=17j6TbudVuM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไลฟ์คอนเสิร์ตออนไลน์สันติภาพ&เสือสองเล EP1",
       "image": "https://i.ytimg.com/vi/lW8S8x2rQN0/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/lW8S8x2rQN0?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=lW8S8x2rQN0",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพลงเส้นทางดนตรี30ปีสันติภาพ - วงสันติภาพ [OFFICIAL MV]",
       "image": "https://i.ytimg.com/vi/X1Ln2V3qFAk/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/X1Ln2V3qFAk?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=X1Ln2V3qFAk",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
