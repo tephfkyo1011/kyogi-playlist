@@ -6,130 +6,114 @@
     {
       "name": "JENNIFER KIM & AOF PONGSAK BEYOND CONCERT NO.4 คุณนายปากร้าย กับคุณชายนะยะ",
       "image": "https://i.ytimg.com/vi/YlshsWtsjf4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YlshsWtsjf4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=YlshsWtsjf4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเพลงประภาส 1 - [Full Concert 1/2 ]",
       "image": "https://dl.dropbox.com/s/x9qhu6wtblg1c02/%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%AA%201.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=o0b5iPT6akw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=o0b5iPT6akw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเพลงประภาส 1 - [Full Concert 2/2 ]",
       "image": "https://dl.dropbox.com/s/x9qhu6wtblg1c02/%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%AA%201.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=Ijj2_nhgOJ4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Ijj2_nhgOJ4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเพลงประภาส 3 - [Full Concert 1/2 ]",
       "image": "https://dl.dropbox.com/s/n1eavnvtkolf0fx/%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%AA%203%20Disc1.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=-tVUiBddF5w&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=-tVUiBddF5w&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ตเพลงประภาส 3 - [Full Concert 2/2 ]",
       "image": "https://dl.dropbox.com/s/uqso73hktqiszve/%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%AA%203%20Disc2.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=Auzkz6EOAi8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Auzkz6EOAi8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "The Innocent...Reunite Concert",
       "image": "https://dl.dropbox.com/s/typtt0v25r2ssc5/The%20Innocent%20Reunite%20Concert.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=_whnuoH97KA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=_whnuoH97KA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "POLYCAT I WANT YOU CONCERT",
       "image": "https://dl.dropbox.com/s/jxlomojh5kwg4s6/POLYCAT%20I%20WANT%20YOU%20CONCERT.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=AfWKpBF3dl8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=AfWKpBF3dl8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Music & Moments with THE IMPOSSIBLES",
       "image": "https://dl.dropbox.com/s/kb0ayxtd1qyw5xk/Music%20%26%20Moments%20with%20THE%20IMPOSSIBLES.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=pr9BFNnQEdk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=pr9BFNnQEdk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "30 YEARS BYRD & HEART...Sometimes but Always",
       "image": "https://dl.dropbox.com/s/25k2s589e3dsz80/30%20YEARS%20BYRD%20%26%20HEART.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=cnqdGUvhbeU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=cnqdGUvhbeU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "The Legend Of Byrd & Heart : Friendship Forever Concert",
       "image": "https://dl.dropbox.com/s/6flmvjwgxdwdoez/The%20Legend%20Of%20Byrd%20%26%20Heart.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=lt126Ah5Ltg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=lt126Ah5Ltg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต 10 ปี เบิร์ดกะฮาร์ท",
       "image": "https://dl.dropbox.com/s/910wa6nwpbz34cy/%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95%2010%20%E0%B8%9B%E0%B8%B5%20%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%81%E0%B8%B0%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=ub3R6eVl2uU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ub3R6eVl2uU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Slot Machine - 10 ปีจันทร์เจ้า Virtual Live From The Moon",
       "image": "https://dl.dropbox.com/s/8f265cta98wxe3f/Virtual%20Live%20From%20The%20Moon.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=SANFKseDFRE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=SANFKseDFRE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Retrospect The First Concert ( Part 1 )",
       "image": "https://dl.dropbox.com/s/iha39xul38j9yfr/Retrospect%20The%20First%20Concert%20Part%201.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=j4E-bPua_RI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=j4E-bPua_RI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Retrospect The First Concert ( Part 2 )",
       "image": "https://dl.dropbox.com/s/55eupd45d61qpjm/Retrospect%20The%20First%20Concert%20Part%202.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=iWrzLO7g_5M&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=iWrzLO7g_5M&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Singto Numchok - Full Live Show - 「Live at Cat T-SHIRT 8」",
       "image": "https://dl.dropbox.com/s/6romj11goxhdv68/Singto%20NumchokLive%20at%20Cat%20T-SHIRT%208.png?dl=0",
-      "url": "https://m.youtube.com/watch?v=PcqYjZ5ruj0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=PcqYjZ5ruj0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บันทึกการแสดงสด วง หิน เหล็ก ไฟ @Electric Mango Resort",
       "image": "https://i.ytimg.com/vi/2gN-34GIyf0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2gN-34GIyf0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2gN-34GIyf0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
