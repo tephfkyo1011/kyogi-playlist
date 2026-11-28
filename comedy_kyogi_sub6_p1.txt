@@ -6,1386 +6,1213 @@
     {
       "name": "ก็มาดิคร้าบ EP.248 | ป๊อบ ปองกูล - โอ่ง กะละมัง หม้อ โอ่ง | 25 ม.ค. 69 Full EP",
       "image": "https://i.ytimg.com/vi/lCoVpWiOy2c/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lCoVpWiOy2c&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=lCoVpWiOy2c&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ EP.247 | เป็ก สัญชัย | 18 ม.ค. 69 Full EP",
       "image": "https://i.ytimg.com/vi/OQJr7BfjzfE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OQJr7BfjzfE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=OQJr7BfjzfE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ EP.246 | พิมมา Pixxie - เอิร์น วัดใหญ่ | 11 ม.ค. 69 Full EP",
       "image": "https://i.ytimg.com/vi/jwcgYicJhsU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=jwcgYicJhsU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=jwcgYicJhsU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ EP.245 | เจนิส เจณิสตา - ไหมทอง ก้องสยาม | 04 ม.ค. 69 Full EP",
       "image": "https://i.ytimg.com/vi/Uj12TeGdvLU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Uj12TeGdvLU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Uj12TeGdvLU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ EP.244 | สวัสดีปีใหม่ 2569 | 28 ธ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/JqAMdl-3hSw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JqAMdl-3hSw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=JqAMdl-3hSw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ EP.243 | โดนัท มนัสนันท์ - ยัต ชัยโสโร | 21 ธ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/nXxW7xtI4to/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=nXxW7xtI4to&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=nXxW7xtI4to&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 242 | เจ้านาย จินเจษฎ์ - นิคม คำดวง - ทึ่ม | 14 ธ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/bWQ5ZxhcEPo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=bWQ5ZxhcEPo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=bWQ5ZxhcEPo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ EP.241 | ตั๊ก & นัตตี้ ดอยแม่สลอง - เอิร์น วัดใหญ่ | 07 ธ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/VPZz9jK0AyY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VPZz9jK0AyY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=VPZz9jK0AyY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 240 | ใบเฟิร์น ณัฐฌา - พลอย พลอยสุรีย์ - มะนาว มณียา | 30 พ.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/iOcWl-J7FiY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iOcWl-J7FiY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=iOcWl-J7FiY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 239 | แอนโทเนีย โพซิ้ว - มารีญา พูลเลิศลาภ - นัตตี้ ข่าวสด | 23 พ.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/LcyitlLhOo4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LcyitlLhOo4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=LcyitlLhOo4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 238 | มิ้นต์ นวินดา - พลอย รัญดภา - เอิร์น วัดใหญ่ | 19 ต.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/JQr56NceZI0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JQr56NceZI0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=JQr56NceZI0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 237 | ฟรัง นรีกุล - ม๊าเดี่ยว | 12 ต.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/67k00aP4AIE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=67k00aP4AIE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=67k00aP4AIE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 236 | ฝน ทัตชญา - โย อรุณี - โจ๊ก ไอสครีม | 05 ต.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/uH60eKiS0lU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uH60eKiS0lU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uH60eKiS0lU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 235 | องอาจ เจียมเจริญพรกุล - เดนิส เจลีลชา - แพรว เฌอมาวีร์ | 28 ก.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/YnEPYoFWipw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YnEPYoFWipw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=YnEPYoFWipw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 234 | เล็ก รัชเมศฐ์ - ตังตัง NPC | 21 ก.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/2HeQ8UEHCis/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2HeQ8UEHCis&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2HeQ8UEHCis&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 233 | บี้ ธรรศภาคย์ - วงไททศมิตร - เอิร์น วัดใหญ่ | 14 ก.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/kV3MXaYQRt0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kV3MXaYQRt0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=kV3MXaYQRt0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 232 | กระทิง ขุนณรงค์ - มีน นิชคุณ - แดนนี่ ศรีภิญโญ | 07 ก.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/xs5n3jFpMIo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xs5n3jFpMIo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xs5n3jFpMIo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 231 | มาริโอ้ เมาเร่อ - แจ็ค เฉลิมพล | 31 ส.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/YAvzXWg-6J0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YAvzXWg-6J0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=YAvzXWg-6J0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 230 | ต๊ะ บอยสเก๊าท์ - ทัช ณ ตะกั่วทุ่ง | 24 ส.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/QtY4IBDuuMU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QtY4IBDuuMU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=QtY4IBDuuMU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 229 | เจนเย่ เมธิกา - เบนซ์ ข้าวขวัญ | 17 ส.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/xq34Q9UB3Sk/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xq34Q9UB3Sk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xq34Q9UB3Sk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 228 | เจมส์ จิรายุ - มีน พีรวิชญ์ | 10 ส.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/uhV5JAqT_r0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uhV5JAqT_r0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uhV5JAqT_r0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 227 | ฮาย อาภาพร - ตั๊ก ศิริพร | 03 ส.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/WJK5YI-10ko/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=WJK5YI-10ko&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=WJK5YI-10ko&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 226 | DJ ต้นหอม - เอิร์น วัดใหญ่ | 27 ก.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/tcAzgZ0C39g/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tcAzgZ0C39g&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=tcAzgZ0C39g&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 225 | น้าโย่ง - น้าพวง - น้านงค์ เชิญยิ้ม | 20 ก.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/OV06LzhCcsE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OV06LzhCcsE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=OV06LzhCcsE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 224 | ธามไท | 13 ก.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/LlKnca_KcRE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LlKnca_KcRE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=LlKnca_KcRE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 223 | ดร.พลัง โลกศิลป์ - อ๊อด ปากดี - หลิน ท่าขอนยาง | 06 ก.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/9uFmVW7uiOs/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9uFmVW7uiOs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=9uFmVW7uiOs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 222 | บาส วรวุธ - บิว วราภรณ์ - โบว์ กัญญารัตน์ | 29 มิ.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/qc-RjQurpz4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qc-RjQurpz4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=qc-RjQurpz4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 221 | เบนซ์ พริกไทย - YOUNGGU - GUNNER - MIXX | 22 มิ.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/P35fFrol2q4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=P35fFrol2q4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=P35fFrol2q4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 220 | ไทย - ขุนพล - ภีมวสุ BUS because of you i shine | 15 มิ.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/x7QdYjIMHHI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=x7QdYjIMHHI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=x7QdYjIMHHI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 219 | ดัง พันกร | 08 มิ.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/SfSDpgmceYo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SfSDpgmceYo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=SfSDpgmceYo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 218 | เฌอปราง | 01 มิ.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/bFhyZUZihyo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=bFhyZUZihyo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=bFhyZUZihyo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 217 | เอิร์น วัดใหญ่ - หรั่ง พระนคร | 25 พ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/2MPvOjfhhaM/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2MPvOjfhhaM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2MPvOjfhhaM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 216 | ใหม่ พัชรี | 18 พ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/i2JrU7D-2F4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=i2JrU7D-2F4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=i2JrU7D-2F4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 215 | วงไททศมิตร - ก้านตอง ทุ่งเงิน - DJ แมน พัฒนพล | 11 พ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/kyI37l0Hkmw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kyI37l0Hkmw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=kyI37l0Hkmw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 214 | เนสกาแฟ ศรีนคร | 4 พ.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/OQ-s2Fhhva4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OQ-s2Fhhva4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=OQ-s2Fhhva4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 213 | ปั๋ง ผู้กององอาจ-องอาจ จ่าประพันธ์-กอล์ฟ ปิ้งไก่อังกอร์ | 27เม.ย.68 Full EP",
       "image": "https://i.ytimg.com/vi/raI-1oNiOJE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=raI-1oNiOJE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=raI-1oNiOJE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 212 | เจมมี่ เจมส์ - แอลลี่ อชิรญา | 20 เม.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/JUZZRunNBqk/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JUZZRunNBqk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=JUZZRunNBqk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 211 | LITTLE JOHN - ปุ้ย L.กฮ. | 13 เม.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/HorddllDr6g/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HorddllDr6g&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=HorddllDr6g&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 210 | เซียนหรั่ง - บิวบอง - เอิร์น วัดใหญ่ - หรั่ง พระนคร | 06 เม.ย. 68 Full EP",
       "image": "https://i.ytimg.com/vi/ok7bXqJxHPU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ok7bXqJxHPU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ok7bXqJxHPU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 209 | นารา เทพนุภา - ซีดี กันต์ธีร์ - ท๊อป พิธีกรมวย | 30 มี.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/3RtV4VOmWzg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3RtV4VOmWzg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=3RtV4VOmWzg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 208 | ฟรีน สโรชา - เบ็คกี้ รีเบคก้า - ซุปเปอร์เตย | 23 มี.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/TitmrUbcRx0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TitmrUbcRx0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=TitmrUbcRx0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 207 | เหว่ง-เติร์ด เทพลีลา - มะหมี่ นภคปภา | 16 มี.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/CJsc2y0npPU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CJsc2y0npPU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=CJsc2y0npPU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 206 | วิว กุลวุฒิ - เฟิร์ส พรชิตา | 09 มี.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/fxNgWoG4Eys/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=fxNgWoG4Eys&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=fxNgWoG4Eys&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 205 | เป้ อารักษ์ - เฟย ภัทร | 02 มี.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/T2LsKm8CTDQ/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=T2LsKm8CTDQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=T2LsKm8CTDQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 204 | เอม ภูมิภัทร - เบนจามิน โจเซฟ วาร์นี | 23 ก.พ. 68 Full EP",
       "image": "https://i.ytimg.com/vi/DdLYRJJkEmM/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DdLYRJJkEmM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=DdLYRJJkEmM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 203 | แผ่นฟิล์ม อนันด้า - ทนายเมย์ - แน้ม ธรรมดาไม่ใส่ไข่ | 16 ก.พ. 68 Full EP",
       "image": "https://i.ytimg.com/vi/SnlNirKhMvI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SnlNirKhMvI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=SnlNirKhMvI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 202 | เมธี - อนันต์ - สมเมย์ LABANOON | 09 ก.พ. 68 Full EP",
       "image": "https://i.ytimg.com/vi/x7Z-tflpUig/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=x7Z-tflpUig&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=x7Z-tflpUig&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 201 | นพพล โกมารชุน - แต๋ง อาฟเตอร์ยำ - ดุจดิว | 02 ก.พ. 68 Full EP",
       "image": "https://i.ytimg.com/vi/myNt1gILuks/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=myNt1gILuks&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=myNt1gILuks&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 200 | หม่ำ จ๊กม๊ก - เท่ง เถิดเทิง - โหน่ง ชะชะช่า | 26 ม.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/lL-R6kqsht4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lL-R6kqsht4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=lL-R6kqsht4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 199 | เซียงเซียง พรสรวง - เน็ค นฤพล - แซ็ค ชุมแพ | 19 ม.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/qhqHP230JB8/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qhqHP230JB8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=qhqHP230JB8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 198 | มิ้ม รัตนวดี - พัชชา ชนุดม | 12 ม.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/2J1L4odgU7g/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2J1L4odgU7g&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2J1L4odgU7g&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 197 | ต้องเต ธิติ - เจ๊มิ่ง ช่างซ่อมพัดลม | 05 ม.ค. 68 Full EP",
       "image": "https://i.ytimg.com/vi/CIM4XW02AC0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CIM4XW02AC0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=CIM4XW02AC0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 196 | อิมเมจ สุธิตา - จั๊มพ์ พิสิฐพล | 29 ธ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/Vy0kbs6IJZg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Vy0kbs6IJZg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Vy0kbs6IJZg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 195 | โขม ก้องเกียรติ - เก้า จิรายุ - เดย์ Thaitanium | 22 ธ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/gqOZjgLqck8/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gqOZjgLqck8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=gqOZjgLqck8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 194 | แพรว นฤภรกมล - คิด เก๋ อาตี้ เบิร์ด เพจผ่าม | 15 ธ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/yoL_4EZAmSg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yoL_4EZAmSg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=yoL_4EZAmSg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 193 | คิวเท ซิม - ถาวร พรทวี - พรพยนต์ พรทวี - หนุ่มนา พาเพลิน | 8 ธ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/Lyp2z9tLjBY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Lyp2z9tLjBY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Lyp2z9tLjBY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 192 | พชร์ อานนท์ | 01 ธ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/gG3cAO0X16w/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gG3cAO0X16w&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=gG3cAO0X16w&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 191 | ชิปปี้ ศิรินทร์ - ต้น อรุณพงค์ - ท็อป ทศพล | 24 พ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/F3T30voA03M/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=F3T30voA03M&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=F3T30voA03M&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 190 | เนส พรอำนาจ - ทิดแอม | 17 พ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/OzeVvhbRW-g/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OzeVvhbRW-g&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=OzeVvhbRW-g&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 189 | ป๋อง กพล - เสนาหอย | 10 พ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/QAp_fDq-1vA/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QAp_fDq-1vA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=QAp_fDq-1vA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 188 | อ.ไข่ มาลีฮวนน่า - จาลี่ | 3 พ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/7tPZIZwbbbc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7tPZIZwbbbc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7tPZIZwbbbc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 187 | ซุปเปอร์เล็ก เกียรติหมู่ 9 - อ.เบียร์ คนตื่นธรรม | 27 ต.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/oFBdeMrmm0I/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=oFBdeMrmm0I&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=oFBdeMrmm0I&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 186 | โค้ชเช - จอร์จ - อิสระ - จ๊อบ Rubsarb | 20 ต.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/n1XjWturTpI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=n1XjWturTpI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=n1XjWturTpI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 185 | BOWKYLION - พี่แฉะ องอาจ | 13 ต.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/tjmYqv_7O1E/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tjmYqv_7O1E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=tjmYqv_7O1E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 184 | นาย มงคล - เบลล์ เอนกลาภ - อรชร เชิญยิ้ม | 6 ต.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/SqlHxWDUeWc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SqlHxWDUeWc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=SqlHxWDUeWc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 183 | เจเลอร์ - เทนนิส - จูเนียร์ | 29 ก.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/epWw-QTqZ8Y/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=epWw-QTqZ8Y&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=epWw-QTqZ8Y&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 182 | เต๋อ ฉันทวิชช์ - ไอซ์ พาริส | 22 ก.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/_AukeXueYFY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_AukeXueYFY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=_AukeXueYFY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 181 | เฟิร์ส พรชิตา | 15 ก.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/wsM0B53_s3g/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wsM0B53_s3g&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=wsM0B53_s3g&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 180 | บิลลี่ โอแกน - ลิลลี่ เหงียน | 8 ก.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/zfdJhSZrjFU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zfdJhSZrjFU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=zfdJhSZrjFU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 179 | แก๊ป ธนเวทย์ - น้ำหวาน รักษ์ณภัค | 1 ก.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/-6-8VrP_U98/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-6-8VrP_U98&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=-6-8VrP_U98&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 178 | กวาง วรรณปิยะ - น้าต๋อย เซมเบ้ - ศรีอาภา เรือนนาค | 25 ส.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/UyonhEAY7X8/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UyonhEAY7X8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=UyonhEAY7X8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 177 | โจอี้ ภูวศิษฐ์ | 18 ส.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/ZuULF0M1uLQ/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ZuULF0M1uLQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ZuULF0M1uLQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 176 | ทนายไพศาล - ทนายแก้ว - กัน จอมพลัง - ลิลลี่ - ตุ๊ดตู่ | 11 ส.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/TjzHJVz_deo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TjzHJVz_deo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=TjzHJVz_deo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 175 | แพรว เฌอมาวีร์ - อ.ยิ่งศักดิ์ | 4 ส.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/elA8nON81fg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=elA8nON81fg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=elA8nON81fg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 174 | กอล์ฟ F.HERO | 28 ก.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/364tZBpjv0M/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=364tZBpjv0M&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=364tZBpjv0M&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 173 | บอย อนุวัฒน์ - เจี๊ยบ พิจิตตรา | 21 ก.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/pEVgPHC0DM0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pEVgPHC0DM0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=pEVgPHC0DM0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 172 | มนัสวีร์ - 4Kings | 14 ก.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/rTkUCi5a7gU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rTkUCi5a7gU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=rTkUCi5a7gU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 171 | ชาร์เลท วาศิตา - ต้นอ้อ เป็นหนึ่ง - ปีเตอร์ เดนแมน | 7 ก.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/28HhOQEr6dg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=28HhOQEr6dg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=28HhOQEr6dg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 170 | เรวัช - ผู้การแต้ม - ปอย - ศรราม - เต๋า - เบลล์ | 30 มิ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/13bUe3cBM-0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=13bUe3cBM-0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=13bUe3cBM-0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 169 | น้ำตาล ชลิตา - วุ้นเส้น Andreas | 23 มิ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/JHZryYM36Qg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JHZryYM36Qg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=JHZryYM36Qg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 168 | โน้ต เชิญยิ้ม - เท่ง เถิดเทิง | 16 มิ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/cs0R0vglPsI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cs0R0vglPsI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=cs0R0vglPsI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 167 | เจมส์ ธีรดนย์ - ไอซ์ ปรีชญา - เอแคลร์ | 09 มิ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/Z9dPZJvlUR4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Z9dPZJvlUR4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Z9dPZJvlUR4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 166 | แอนโทเนีย - ดินสอสี พนิดา | 02 มิ.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/8rI7Vsu7eSQ/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8rI7Vsu7eSQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=8rI7Vsu7eSQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 165 | Empress - หมวดประดิษฐ์ | 26 พ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/wOt2AK_ok-c/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wOt2AK_ok-c&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=wOt2AK_ok-c&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 164 | Zeal - ทนายไพศาล - ทนายปาย | 19 พ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/zUJd5SrlWt4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zUJd5SrlWt4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=zUJd5SrlWt4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 163 | พลอยชมพู - บุ๊ค ศุภกาญจน์ - ทิดแอม | 12 พ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/Lubcw5qllxc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Lubcw5qllxc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Lubcw5qllxc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 162 | เอม วิทวัส - Aurora - Hana - Mimu | 05 พ.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/JFDkDQ__prA/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JFDkDQ__prA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=JFDkDQ__prA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 161 | bodyslam | 28 เม.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/OIlhwehClBM/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OIlhwehClBM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=OIlhwehClBM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 160 | เม้ก อภิสิทธิ์ - Bean Napason - Earth Patravee | 21 เม.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/xUvlGs9naU0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xUvlGs9naU0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xUvlGs9naU0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 159 | โหน่ง ชะชะช่า | 14 เม.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/wXaxxJzHIGY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wXaxxJzHIGY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=wXaxxJzHIGY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 158 | อี๊ด ลาล่า ลูลู่ โปงลางสะออน - อูโน่ หลาวทอง | 7 เม.ย. 67 Full EP",
       "image": "https://i.ytimg.com/vi/-bc3AdRt0ko/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-bc3AdRt0ko&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=-bc3AdRt0ko&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 157 | เจนนี่ ปาหนัน - ก๊อตจิ ทัชชกร | 31 มี.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/b5w1heC4vcs/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=b5w1heC4vcs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=b5w1heC4vcs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 156 | น้อย วงพรู | 24 มี.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/W8eJRNPPSvg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=W8eJRNPPSvg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=W8eJRNPPSvg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 155 | ศรราม น้ำเพชร - เบลล์ เอนกลาภ - ดำดง นุ่น เนตรชนก | 17 มี.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/9MVtnL6t2Xc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9MVtnL6t2Xc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=9MVtnL6t2Xc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 154 | แกรนด์ กรณ์ภัสสร - ดำดง นุ่น เนตรชนก | 10 มี.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/T_816R7Wvd8/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=T_816R7Wvd8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=T_816R7Wvd8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 153 | ลีซอ ธีรเทพ - ดัสกร ทองเหลา | 03 มี.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/CPRuBDTbsZk/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CPRuBDTbsZk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=CPRuBDTbsZk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 152 | โป่ง หิน เหล็ก ไฟ - อี๊ด FLY | 25 ก.พ. 67 Full EP",
       "image": "https://i.ytimg.com/vi/B0JT88HDLKI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=B0JT88HDLKI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=B0JT88HDLKI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 151 | ไททศมิตร TAITOSMITH | 18 ก.พ. 67 Full EP",
       "image": "https://i.ytimg.com/vi/pD_9TBkrRPA/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pD_9TBkrRPA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=pD_9TBkrRPA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 150 | บิ๊ก ดี เจอราร์ด | 11 ก.พ. 67 Full EP",
       "image": "https://i.ytimg.com/vi/9uC_ASqulyw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9uC_ASqulyw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=9uC_ASqulyw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 149 | อาภาพร นครสวรรค์ - สุนารี ราชสีมา - ศิริพร อยู่ยอด | 4 ก.พ. 67 Full EP",
       "image": "https://i.ytimg.com/vi/VW6ubP4Rdqw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VW6ubP4Rdqw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=VW6ubP4Rdqw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 148 | ป๋อง กพล - แจ็ค เดอะโกสต์ | 28 ม.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/zHp7Eu5TdM4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zHp7Eu5TdM4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=zHp7Eu5TdM4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 147 | หนุ่ม ศรราม - Aurora (น้องเต้าหู้) | 21 ม.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/vFLIJZbNweY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vFLIJZbNweY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=vFLIJZbNweY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 146 | หนิง ปัทมา | 14 ม.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/2x_a7LRxoM0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2x_a7LRxoM0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2x_a7LRxoM0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 145 | วิลลี่ แมคอินทอช - เสนาหอย | 07 ม.ค. 67 Full EP",
       "image": "https://i.ytimg.com/vi/YJDl2VuuTP4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YJDl2VuuTP4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=YJDl2VuuTP4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 144 | มิ้ม รัตนวดี | 31 ธ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/xxKDzBwQ6rI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xxKDzBwQ6rI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xxKDzBwQ6rI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 143 | แพมมี่ สุธิดา - ปริม ชมภูมาตย์ - นะโม ธันวาพร | 24 ธ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/2egPYsMg3Bs/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2egPYsMg3Bs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2egPYsMg3Bs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 142 | อุ้ม ลักขณา - นิวเคลียร์ หรรษา | 17 ธ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/XioSF_oxh9Q/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XioSF_oxh9Q&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=XioSF_oxh9Q&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 141 | เบิ้ล ปทุมราช | 10 ธ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/DPgKyUD9nlc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DPgKyUD9nlc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=DPgKyUD9nlc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 140 | พลอย เฌอมาลย์ | 03 ธ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/BNlwc7tHIiQ/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BNlwc7tHIiQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=BNlwc7tHIiQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 139 | เรย์ แมคโดนัลด์ - ลีโอ พุฒ | 26 พ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/Prf5MbNZg50/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Prf5MbNZg50&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Prf5MbNZg50&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 138 | แหลม สมพล - บิ๊ก ดี เจอราร์ด - ทู สิราษฎร์ | 19 พ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/cmPMfHPCdz8/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cmPMfHPCdz8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=cmPMfHPCdz8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 137 | URBOYTJ - เทนนิส พาณิภัค | 12 พ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/IrNEWixaVhY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=IrNEWixaVhY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=IrNEWixaVhY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 136 | อุ๋งอิ๋ง เพชรบ้านแพง - โจ ยมนิล | 5 พ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/B8fqa7lWaeE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=B8fqa7lWaeE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=B8fqa7lWaeE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 135 | เปิ้ล นาคร - เรวัช กลิ่นเกษร | 29 ต.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/oVQCzbc5sW8/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=oVQCzbc5sW8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=oVQCzbc5sW8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 134 | ป็อก Mindset - เป้ MVL | 22 ต.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/uVUlnE0aPhE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uVUlnE0aPhE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uVUlnE0aPhE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 133 | เจนิส เจณิสตา - ป้าตือ สมบัษร - เงาพระจันทร์ | 15 ต.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/eALvShKFi4E/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eALvShKFi4E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=eALvShKFi4E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 132 | Rae Lil Black - มาย ฮาเร็ม - บิ๋ม - ดำ - หน่อย เชิญยิ้ม | 08 ต.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/2URMXsKYmRM/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2URMXsKYmRM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2URMXsKYmRM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 131 | น้าเน็ก เกตุเสพย์สวัสดิ์ | 01 ต.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/7zoirz9ska4/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7zoirz9ska4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7zoirz9ska4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 130 | มะปราง อลิสา | 24 ก.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/inpmqflMYfo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=inpmqflMYfo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=inpmqflMYfo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 129 | ลิฟท์ สุพจน์ - ออย ธนา - หน่อย เชิญยิ้ม | 17 ก.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/FkSu-xTBL1E/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FkSu-xTBL1E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=FkSu-xTBL1E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 128 | บอย LOMOSONIC | 10 ก.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/jLIyeUwHVKc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=jLIyeUwHVKc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=jLIyeUwHVKc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 127 | เจนนิษฐ์ โอ่ประเสริฐ - เก้า จิรายุ | 03 ก.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/Hj6sx5jgJIM/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Hj6sx5jgJIM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Hj6sx5jgJIM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 126 | เนเน่ พรนับพัน | 27 ส.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/188ejKT5RtM/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=188ejKT5RtM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=188ejKT5RtM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 125 | เอ็ม หัตถ์เทพ - บอย ท่าพระจันทร์ - ฝน - นินิว | 20 ส.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/b52QoziIsZg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=b52QoziIsZg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=b52QoziIsZg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 124 | สเตฟาน | 13 ส.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/ddzjBjl0zGI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ddzjBjl0zGI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ddzjBjl0zGI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 123 | ต้า ยัต ชัยโสโร | 6 ส.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/qPAk24Sc8qY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qPAk24Sc8qY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=qPAk24Sc8qY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 122 | โต้ง Twopee | 30 ก.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/Bcb33BZSDkU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Bcb33BZSDkU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Bcb33BZSDkU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 121 | Three Man Down | 23 ก.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/1_3QDD-XtPg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=1_3QDD-XtPg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=1_3QDD-XtPg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 120 | พลอย Pigkaploy | 16 ก.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/sOhQugum74U/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sOhQugum74U&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=sOhQugum74U&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 119 | โอ้ต ปราโมทย์ - อุล ภาคภูมิ | 9 ก.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/KcqMA9el1NI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KcqMA9el1NI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=KcqMA9el1NI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 118 | หนุ่ม กรรชัย - เจ้าขุน จักรภัทร | 2 ก.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/6l8p1XX5WHY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6l8p1XX5WHY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=6l8p1XX5WHY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 117 | ปั๊บ โปเตโต้ - โบ สุรัตนาวี - จอยซ์ กรภัสสรณ์ | 25 มิ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/be_thz3hScw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=be_thz3hScw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=be_thz3hScw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 116 | แสนชัย - รถถัง - ตะวันฉาย | 18 มิ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/4vJuTYG5bOA/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4vJuTYG5bOA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=4vJuTYG5bOA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ | EP. 115 | MILLI - MAIYARAP | 11 มิ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/CNU24pJ4uTU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CNU24pJ4uTU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=CNU24pJ4uTU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 114 l วี วิโอเลต - เฟย ภัทร เอกแสงกุล | 4 มิ.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/7FQq0qrIqAk/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7FQq0qrIqAk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7FQq0qrIqAk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 113 l ไอซ์ ปรีชญา | 28 พ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/UTXFfL_WtSw/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UTXFfL_WtSw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=UTXFfL_WtSw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 112 l ว่าน ธนกฤต | 21 พ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/FXe7c-JKFig/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FXe7c-JKFig&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=FXe7c-JKFig&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 111 l จันจิ จันจิรา | 14 พ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/BHey-vh7tUo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BHey-vh7tUo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=BHey-vh7tUo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 110 l เอแคลร์ จือปาก - เอิ๊ก ชาลิสา | 7 พ.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/tYgqwYPMUyQ/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tYgqwYPMUyQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=tYgqwYPMUyQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 109 l นีโน่ เมทนี - จ๊อบ นิธิ - ตี๋อ้วน นำชัย | 30 เม.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/HNO8xqQrcew/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HNO8xqQrcew&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=HNO8xqQrcew&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 108 l ฮาย - เซน Paper Planes | 23 เม.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/RflJPuC1o1A/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=RflJPuC1o1A&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=RflJPuC1o1A&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 107 l เนะ อโณทัย - ปาย สิตางค์ | 16 เม.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/hJy4GSC5WsI/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hJy4GSC5WsI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=hJy4GSC5WsI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 106 l คัตโตะ - แนตตี้ - เอ็ดดี้ เสือร้องไห้ | 9 เม.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/ZePqc8sEY_c/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ZePqc8sEY_c&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ZePqc8sEY_c&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 105 l นิ้ง ชัญญา - น้าติง | 2 เม.ย. 66 Full EP",
       "image": "https://i.ytimg.com/vi/t3hZrIxkncY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t3hZrIxkncY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=t3hZrIxkncY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 104 l เจ๋ง บิ๊กแอส - แจ็ค เฉลิมพล | 26 มี.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/4Keq02F3238/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4Keq02F3238&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=4Keq02F3238&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 103 l แพรรี่ ไพรวัลย์ - เฟิร์น ศุภนารี | 19 มี.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/tJqwmiqW0n0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tJqwmiqW0n0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=tJqwmiqW0n0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 102 l ลูกเกด เมทินี | 12 มี.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/R5XqO7bBFoE/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=R5XqO7bBFoE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=R5XqO7bBFoE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 101 l เหมยหลิน ประณยา - ลูกหว้า อาทิตยา | 5 มี.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/HEa6DtChrAo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HEa6DtChrAo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=HEa6DtChrAo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 100 l มิกซ์ VKL - โหงวเฮ้ง Gangbad - บุหรี่ ศิวนาถ | 26 ก.พ. 66 Full EP",
       "image": "https://i.ytimg.com/vi/vGoTaAZ3hFU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vGoTaAZ3hFU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=vGoTaAZ3hFU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 99 l ปราง ปรางทิพย์ - เฟิร์ส พรชิตา | 19 ก.พ. 66 Full EP",
       "image": "https://i.ytimg.com/vi/hFjHO1-QtzA/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hFjHO1-QtzA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=hFjHO1-QtzA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 98 l เจแปน - เติ้ล Buffet | 12 ก.พ. 66 Full EP",
       "image": "https://i.ytimg.com/vi/rEkuvpSI2lk/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rEkuvpSI2lk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=rEkuvpSI2lk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 97 l PiXXiE | 05 ก.พ. 66 Full EP",
       "image": "https://i.ytimg.com/vi/wXVTs9dKNAU/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wXVTs9dKNAU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=wXVTs9dKNAU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 96 l ยังโอม | 29 ม.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/q7wJZS4mtFc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=q7wJZS4mtFc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=q7wJZS4mtFc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 95 l เท่ง เถิดเทิง | 22 ม.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/0j01cXJeXb8/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0j01cXJeXb8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=0j01cXJeXb8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 94 l ป้อง ณ วัฒน์ | 15 ม.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/FN68GESSrOQ/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FN68GESSrOQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=FN68GESSrOQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 93 l มายด์ ณภศศิ -โมจิโกะ | 8 ม.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/lHROix8eKXc/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lHROix8eKXc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=lHROix8eKXc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 92 l นารา เทพนุภา | 01 ม.ค. 66 Full EP",
       "image": "https://i.ytimg.com/vi/cpX7nhxsv4o/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cpX7nhxsv4o&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=cpX7nhxsv4o&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 91 l มะนาว ศรศิลป์ - บัง ฮาซัน | 25 ธ.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/EZk4FJOSY5U/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EZk4FJOSY5U&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=EZk4FJOSY5U&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 90 l สิงโต นำโชค | 18 ธ.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/ezMbLMW4Bmo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ezMbLMW4Bmo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ezMbLMW4Bmo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 89 l เนย วรัฐฐา - แจม ชรัฐฐา | 11 ธ.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/BtaLxQDLC0g/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BtaLxQDLC0g&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=BtaLxQDLC0g&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 88 l ต้า ยัต ชัยโสโร Part II | 4 ธ.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/t4nzgqkAMRY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t4nzgqkAMRY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=t4nzgqkAMRY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 87 l นุ่น สุทธิภา | 27 พ.ย. 65 Full EP",
       "image": "https://i.ytimg.com/vi/vfRsMJFaVlo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vfRsMJFaVlo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=vfRsMJFaVlo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 86 l เกรซ กาญจน์เกล้า - จอส เวอาห์ | 20 พ.ย. 65 Full EP",
       "image": "https://i.ytimg.com/vi/qvd-a-nFyTg/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qvd-a-nFyTg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=qvd-a-nFyTg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 85 l แทค ภรัณยู - DJ ลูกหว้า | 13 พ.ย. 65 Full EP",
       "image": "https://i.ytimg.com/vi/ZAXlsDiojto/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ZAXlsDiojto&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ZAXlsDiojto&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 84 l เอวา ปวรวรรณ - มายเมทเนท | 6 พ.ย. 65 Full EP",
       "image": "https://i.ytimg.com/vi/Z7EszeFEIIQ/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Z7EszeFEIIQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Z7EszeFEIIQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 83 l มีนตรา อินทิรา | 30 ต.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/Z1Gai7eFv1w/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Z1Gai7eFv1w&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Z1Gai7eFv1w&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 82 l ดาว ณัฐภัสสร | 23 ต.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/JzLN1r5WTvo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JzLN1r5WTvo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=JzLN1r5WTvo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 81 l มายด์ ลภัสลัล | 16 ต.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/z2pndB8aeRA/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=z2pndB8aeRA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=z2pndB8aeRA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 80 l เมโกะ ชนนิกานต์ - ปิ๊ง เพชรอำไพ | 9 ต.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/ovyAjR9S8yY/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ovyAjR9S8yY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ovyAjR9S8yY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 79 l เฌอปราง BNK48 | 2 ต.ค. 65 Full EP",
       "image": "https://i.ytimg.com/vi/OwpVr9O75NM/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OwpVr9O75NM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=OwpVr9O75NM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 78 l ญิ๋งญิ๋ง ศรุชา - เก้า จิรายุ l 25 ก.ย. 65 Full EP",
       "image": "https://i.ytimg.com/vi/z1RpHowmV5E/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=z1RpHowmV5E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=z1RpHowmV5E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 77 l ต้า ยัต ชัยโสโร l 18 ก.ย. 65 Full EP",
       "image": "https://i.ytimg.com/vi/BS-7kPNqjU0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BS-7kPNqjU0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=BS-7kPNqjU0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ก็มาดิคร้าบ l EP. 76 l ฟิฟิล์ม สิริอมร - ซัน หนุ่มกรีดยาง l 11 ก.ย. 65 Full EP",
       "image": "https://i.ytimg.com/vi/KgJrdGnipUo/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KgJrdGnipUo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=KgJrdGnipUo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
