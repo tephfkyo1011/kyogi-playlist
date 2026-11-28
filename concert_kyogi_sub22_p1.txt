@@ -6,22 +6,25 @@
     {
       "name": "แสดงสด สีเผือก คนด่าเกวียน คีตศิลป์แคมป์ ภูผาม่าน ขอนแก่น",
       "image": "https://i.ytimg.com/vi/73g0aVxPgGY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=73g0aVxPgGY",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=73g0aVxPgGY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อ.สีเผือก คนด่านเกวียน LIVE คอนเสิร์ตสุขใจในป่ายาง มีทติ้ง MC ครั้งที่4 ตอนป่ายางมหาสนุก 9-3-62",
       "image": "https://i.ytimg.com/vi/XVQI6G_XbDc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XVQI6G_XbDc",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=XVQI6G_XbDc&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บันทึกการแสดงสด สีเผือก คนด่านเกวียน",
       "image": "https://i.ytimg.com/vi/A0pAxzUxerM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=A0pAxzUxerM",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=A0pAxzUxerM&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
