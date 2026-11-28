@@ -6,523 +6,610 @@
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.144 I นาน่า ศวรรยา | 24 ม.ค. 69 I FULL EP",
       "image": "https://i.ytimg.com/vi/vkEL-jkuezI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vkEL-jkuezI",
+      "url": "https://m.youtube.com/watch?v=vkEL-jkuezI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.143 I ฮารวมมิตร EP.4 | 10 ม.ค. 69 I FULL EP",
       "image": "https://i.ytimg.com/vi/tkJR5KtE3CI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tkJR5KtE3CI",
+      "url": "https://m.youtube.com/watch?v=tkJR5KtE3CI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.142 I ฮารวมมิตร EP.3 | 3 ม.ค. 69 I FULL EP",
       "image": "https://i.ytimg.com/vi/nLS3_oLcS3o/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nLS3_oLcS3o",
+      "url": "https://m.youtube.com/watch?v=nLS3_oLcS3o",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.141 I ฮารวมมิตร EP.2 | 27 ธ.ค. 68 I FULL EP",
       "image": "https://i.ytimg.com/vi/fSxAZ7W0s74/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fSxAZ7W0s74",
+      "url": "https://m.youtube.com/watch?v=fSxAZ7W0s74",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.140 I ฮารวมมิตร EP.1 | 20 ธ.ค. 68 I FULL EP",
       "image": "https://i.ytimg.com/vi/ntvmhgXp4W8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ntvmhgXp4W8",
+      "url": "https://m.youtube.com/watch?v=ntvmhgXp4W8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.139 I ทีมงานบริษัทฮา | 13 ธ.ค. 68 I FULL EP",
       "image": "https://i.ytimg.com/vi/_w6mvKDaPFE/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_w6mvKDaPFE",
+      "url": "https://m.youtube.com/watch?v=_w6mvKDaPFE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.138 I ออย-ดรีม ข้าวผัดหมูไม่ใส่ผัก | 6 ธ.ค. 68 I FULL EP",
       "image": "https://i.ytimg.com/vi/fmKETd2XwR0/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fmKETd2XwR0",
+      "url": "https://m.youtube.com/watch?v=fmKETd2XwR0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.137 I โมนิก้า | 29 พ.ย. 68 I FULL EP",
       "image": "https://i.ytimg.com/vi/tlX7i1zULec/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tlX7i1zULec",
+      "url": "https://m.youtube.com/watch?v=tlX7i1zULec",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม EP.136 I ต้นข้าว เขมนาฏ | 22 พ.ย. 68 I FULL EP",
       "image": "https://i.ytimg.com/vi/SzWvm8bpe5c/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SzWvm8bpe5c",
+      "url": "https://m.youtube.com/watch?v=SzWvm8bpe5c",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | แคธี่ พล | EP.135 | 15 พ.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/2KbbOWHS5fo/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2KbbOWHS5fo",
+      "url": "https://m.youtube.com/watch?v=2KbbOWHS5fo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เนย นฤมล | EP.134 | 8 พ.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/lXcZOC3JwwM/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lXcZOC3JwwM",
+      "url": "https://m.youtube.com/watch?v=lXcZOC3JwwM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ส้ม มารี | EP.133 | 25 ต.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/M6tmPkGisfI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=M6tmPkGisfI",
+      "url": "https://m.youtube.com/watch?v=M6tmPkGisfI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ฮาจัดเต็มกับ แอร์ พรสวรรค์ นางเอกพันล้านวิว Iบริษัทฮาไม่จำกัดจัดเต็มEP.132",
       "image": "https://i.ytimg.com/vi/JDb0pXRPCJo/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JDb0pXRPCJo",
+      "url": "https://m.youtube.com/watch?v=JDb0pXRPCJo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | พลอย รัญดภา | EP.131 | 11 ต.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/EgEBXUFuGAs/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EgEBXUFuGAs",
+      "url": "https://m.youtube.com/watch?v=EgEBXUFuGAs",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | หลิน ท่าขอนยาง | EP.130 | 4 ต.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/8CYPmCVbYb8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8CYPmCVbYb8",
+      "url": "https://m.youtube.com/watch?v=8CYPmCVbYb8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เดนิส เจลีลชา | EP.129 | 27 ก.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/OtI80BEt7I4/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OtI80BEt7I4",
+      "url": "https://m.youtube.com/watch?v=OtI80BEt7I4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ลิลลี่ ลฎาภา | EP.128 | 20 ก.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/dha3y1CSsgU/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dha3y1CSsgU",
+      "url": "https://m.youtube.com/watch?v=dha3y1CSsgU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | พิกเล็ท ชาราฎา | EP.127 | 13 ก.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/MMW_NfX1bl4/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MMW_NfX1bl4",
+      "url": "https://m.youtube.com/watch?v=MMW_NfX1bl4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | J JAZZSPER | EP.126 | 6 ก.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/KpY3HVB1C6k/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KpY3HVB1C6k",
+      "url": "https://m.youtube.com/watch?v=KpY3HVB1C6k",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | มุก วรนิษฐ์ | EP.125 | 30 ส.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/twCezpeHs4I/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=twCezpeHs4I",
+      "url": "https://m.youtube.com/watch?v=twCezpeHs4I",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | นัวเนีย บวรรัตน์ | EP.124 | 23 ส.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/-MXqrrbMGhI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-MXqrrbMGhI",
+      "url": "https://m.youtube.com/watch?v=-MXqrrbMGhI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | มีนตรา อินทิรา | EP.123 | 9 ส.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/kq_-r2c7rjo/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kq_-r2c7rjo",
+      "url": "https://m.youtube.com/watch?v=kq_-r2c7rjo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เบลเล่ จิรัชญา | EP.122 | 2 ส.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/lEJYqWXMfxs/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lEJYqWXMfxs",
+      "url": "https://m.youtube.com/watch?v=lEJYqWXMfxs",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | แพรว นฤภรกมล | EP.121 | 26 ก.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/aRX7Se-jE5w/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=aRX7Se-jE5w",
+      "url": "https://m.youtube.com/watch?v=aRX7Se-jE5w",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ปอย เฌอลินณ์ | EP.120 | 19 ก.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/4ixk3Uc-N7k/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4ixk3Uc-N7k",
+      "url": "https://m.youtube.com/watch?v=4ixk3Uc-N7k",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | พิม กรกนก | EP.119 | 12 ก.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/NWnjL238P0g/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NWnjL238P0g",
+      "url": "https://m.youtube.com/watch?v=NWnjL238P0g",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | มุก พิชานา | EP.118 | 5 ก.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/70WHERcX-WU/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=70WHERcX-WU",
+      "url": "https://m.youtube.com/watch?v=70WHERcX-WU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ยูกิ ไหทองคำ | EP.117 | 28 มิ.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/86_84tfprWc/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=86_84tfprWc",
+      "url": "https://m.youtube.com/watch?v=86_84tfprWc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | มิเชล เบอร์แมนน์ | EP.116 | 21 มิ.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/vK4duhHrGVw/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vK4duhHrGVw",
+      "url": "https://m.youtube.com/watch?v=vK4duhHrGVw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | น้ำหนึ่ง มิลิญ | EP.115 | 14 มิ.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/F-DatUtE9OQ/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=F-DatUtE9OQ",
+      "url": "https://m.youtube.com/watch?v=F-DatUtE9OQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | โซแบม | EP.114 | 7 มิ.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/YPqHlUgcF-I/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YPqHlUgcF-I",
+      "url": "https://m.youtube.com/watch?v=YPqHlUgcF-I",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | พลอยชมพู | EP.113 | 31 พ.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/0Mzdg1hqA-E/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0Mzdg1hqA-E",
+      "url": "https://m.youtube.com/watch?v=0Mzdg1hqA-E",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ใยไหม ชินารดี | EP.112 | 24 พ.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/rqTpkN_UY4Y/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rqTpkN_UY4Y",
+      "url": "https://m.youtube.com/watch?v=rqTpkN_UY4Y",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | น้ำเพชร ไหทองคำ | EP.111 | 17 พ.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/6eAcSPuk2dk/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6eAcSPuk2dk",
+      "url": "https://m.youtube.com/watch?v=6eAcSPuk2dk",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | กชเบล ศรัณย์รัชต์ | EP.110 | 10 พ.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/2jujALH6LlI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2jujALH6LlI",
+      "url": "https://m.youtube.com/watch?v=2jujALH6LlI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เบลล์ ภัสราภรณ์ | EP.109 | 3 พ.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/PmGbnjPA6pM/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PmGbnjPA6pM",
+      "url": "https://m.youtube.com/watch?v=PmGbnjPA6pM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | โมบายล์ พิมรภัส | EP.108 | 26 เม.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/pd2DPgg9AMI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pd2DPgg9AMI",
+      "url": "https://m.youtube.com/watch?v=pd2DPgg9AMI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ก๊อปแก๊ป | EP.107 | 19 เม.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/vcdv9m_ccZw/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vcdv9m_ccZw",
+      "url": "https://m.youtube.com/watch?v=vcdv9m_ccZw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | แพร ชนา | EP.106 | 12 เม.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/djwj1G4jXDw/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=djwj1G4jXDw",
+      "url": "https://m.youtube.com/watch?v=djwj1G4jXDw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | มิ้ม รัตนวดี | EP.105 | 5 เม.ย. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/mMDoCLWUJKY/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mMDoCLWUJKY",
+      "url": "https://m.youtube.com/watch?v=mMDoCLWUJKY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | จีจี้ ณัฐกุล | EP.104 | 29 มี.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/Sp04nFRywJk/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Sp04nFRywJk",
+      "url": "https://m.youtube.com/watch?v=Sp04nFRywJk",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เจนนี่ ปาหนัน | EP.103 | 22 มี.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/AhNQBabR5lY/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=AhNQBabR5lY",
+      "url": "https://m.youtube.com/watch?v=AhNQBabR5lY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เนยหวาน | EP.102 | 15 มี.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/4JKm_kjmCSg/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4JKm_kjmCSg",
+      "url": "https://m.youtube.com/watch?v=4JKm_kjmCSg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เกรซ ฐิตารีย์ | EP.101| 8 มี.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/O9l1S9dSGdg/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=O9l1S9dSGdg",
+      "url": "https://m.youtube.com/watch?v=O9l1S9dSGdg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | นารา เทพนุภา | EP.100 | 22 ก.พ. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/D-VsEM7-vZc/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=D-VsEM7-vZc",
+      "url": "https://m.youtube.com/watch?v=D-VsEM7-vZc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ปุยเมฆ นภสร | EP.99 | 15 ก.พ. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/Sg5xS7hz0Oc/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Sg5xS7hz0Oc",
+      "url": "https://m.youtube.com/watch?v=Sg5xS7hz0Oc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | กุ๊งกิ๊ง ปฏิมา | EP.98 | 8 ก.พ. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/C3VDEVL-PK4/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=C3VDEVL-PK4",
+      "url": "https://m.youtube.com/watch?v=C3VDEVL-PK4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | อาม ชุติมา | EP.97 | 25 ม.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/PUpYZn_Bga8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PUpYZn_Bga8",
+      "url": "https://m.youtube.com/watch?v=PUpYZn_Bga8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ทับทิม มัลลิกา | EP.96 | 18 ม.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/WEINmP99Nlw/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=WEINmP99Nlw",
+      "url": "https://m.youtube.com/watch?v=WEINmP99Nlw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ยู กตัญญู | EP.95 | 11 ม.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/3dAV7X0XRvQ/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3dAV7X0XRvQ",
+      "url": "https://m.youtube.com/watch?v=3dAV7X0XRvQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมฮาต้อนรับปีใหม่ ! | Welcome 2025 | EP.94 | 4 ม.ค. 68 [FULL]",
       "image": "https://i.ytimg.com/vi/s2GK2_veg70/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=s2GK2_veg70",
+      "url": "https://m.youtube.com/watch?v=s2GK2_veg70",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รวมฮาแบบเน้นๆส่งท้ายปี ! | Goodbye 2024 | EP.93 | 28 ธ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/eopP3APjLRQ/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eopP3APjLRQ",
+      "url": "https://m.youtube.com/watch?v=eopP3APjLRQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ที่สุดของความฮาปี 2024 | Goodbye 2024 | EP.92 | 21 ธ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/xonoBlT9Z-A/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xonoBlT9Z-A",
+      "url": "https://m.youtube.com/watch?v=xonoBlT9Z-A",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | แอนนา เสือ | EP.91 | 14 ธ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/6whaebLR-mo/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6whaebLR-mo",
+      "url": "https://m.youtube.com/watch?v=6whaebLR-mo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เพิร์ธ วีริณฐ์ศรา | EP.90 | 7 ธ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/rJ9uxMgzZ_I/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rJ9uxMgzZ_I",
+      "url": "https://m.youtube.com/watch?v=rJ9uxMgzZ_I",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ยืนเดี่ยว YuenDeaw| EP.89 | 30 พ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/VcrzJTJtqpA/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VcrzJTJtqpA",
+      "url": "https://m.youtube.com/watch?v=VcrzJTJtqpA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | น้ำแข็ง ทิพวรรณ | EP.88 | 23 พ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/jKtbof4DtHc/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jKtbof4DtHc",
+      "url": "https://m.youtube.com/watch?v=jKtbof4DtHc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | หลิว อาจารียา | EP.87 | 9 พ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/JGVuqoW0Rb0/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JGVuqoW0Rb0",
+      "url": "https://m.youtube.com/watch?v=JGVuqoW0Rb0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ดินสอสี พนิดา | EP.86 | 2 พ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/us-rvSwyI4M/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=us-rvSwyI4M",
+      "url": "https://m.youtube.com/watch?v=us-rvSwyI4M",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | พั้มกิ้น หิ้วหวี| EP.85 | 26 ต.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/QtkFdxT9gk8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QtkFdxT9gk8",
+      "url": "https://m.youtube.com/watch?v=QtkFdxT9gk8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | นิวนิว เอวเด้ง | EP.84 | 19 ต.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/j8uGjBELVlg/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=j8uGjBELVlg",
+      "url": "https://m.youtube.com/watch?v=j8uGjBELVlg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | พราว ภัทราวดี | EP.83 | 12 ต.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/6bXASzn_oYo/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6bXASzn_oYo",
+      "url": "https://m.youtube.com/watch?v=6bXASzn_oYo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เอวา ปวรวรรณ | EP.82 | 5 ต.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/HM2gi6lVY0s/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HM2gi6lVY0s",
+      "url": "https://m.youtube.com/watch?v=HM2gi6lVY0s",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ป๋อง กพล | EP.81 | 28 ก.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/toOD_UULM5M/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=toOD_UULM5M",
+      "url": "https://m.youtube.com/watch?v=toOD_UULM5M",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ตุลย์ ณัฐนันท์ | EP.80 | 21 ก.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/6xQaUfPLadU/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6xQaUfPLadU",
+      "url": "https://m.youtube.com/watch?v=6xQaUfPLadU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เนส พรอำนาจ | EP.79 | 14 ก.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/MOPk8vvE2Ww/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MOPk8vvE2Ww",
+      "url": "https://m.youtube.com/watch?v=MOPk8vvE2Ww",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เชียร์ ฑิฆัมพร | EP.78 | 7 ก.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/ehimHxIAHxg/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ehimHxIAHxg",
+      "url": "https://m.youtube.com/watch?v=ehimHxIAHxg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ลิลลี่ เหงียน | EP.77 | 31 ส.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/PUriHiC_woU/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PUriHiC_woU",
+      "url": "https://m.youtube.com/watch?v=PUriHiC_woU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | กะทิ กะทิยา | EP.76 | 24 ส.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/M-VhN-r87-s/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=M-VhN-r87-s",
+      "url": "https://m.youtube.com/watch?v=M-VhN-r87-s",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ทนายไพศาล | EP.75 | 17 ส.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/PeM0UXjU0M0/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PeM0UXjU0M0",
+      "url": "https://m.youtube.com/watch?v=PeM0UXjU0M0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | พลอย Pigkaploy | EP.74 | 10 ส.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/wRIiOophmpQ/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wRIiOophmpQ",
+      "url": "https://m.youtube.com/watch?v=wRIiOophmpQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เบลล์ เอนกลาภ | EP.73 | 3 ส.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/oybLO0w4TW4/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oybLO0w4TW4",
+      "url": "https://m.youtube.com/watch?v=oybLO0w4TW4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | แพรว เฌอมาวีร์ | EP.72 | 27 ก.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/KEJg1ONikNk/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KEJg1ONikNk",
+      "url": "https://m.youtube.com/watch?v=KEJg1ONikNk",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ชาร์เลท วาศิตา | EP.71 | 20 ก.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/GWWSxaJjXZ8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GWWSxaJjXZ8",
+      "url": "https://m.youtube.com/watch?v=GWWSxaJjXZ8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | นนท์ อินทนนท์ | EP.70 | 13 ก.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/wy6Aepa_KlI/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wy6Aepa_KlI",
+      "url": "https://m.youtube.com/watch?v=wy6Aepa_KlI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | มายด์ ณภศศิ | EP.69 | 6 ก.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/VQEBU0A0Nys/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VQEBU0A0Nys",
+      "url": "https://m.youtube.com/watch?v=VQEBU0A0Nys",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | น้ำ รพีภัทร | EP.68 | 29 มิ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/y_pq8egTug0/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=y_pq8egTug0",
+      "url": "https://m.youtube.com/watch?v=y_pq8egTug0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ใบมิ้นท์ กิตติยาพร | EP.67 | 22 มิ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/yJhINQrRFQ4/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yJhINQrRFQ4",
+      "url": "https://m.youtube.com/watch?v=yJhINQrRFQ4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | JOELONG ,ฮาน่า ,มาร์แตล | EP.66 | 15 มิ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/0w6NP1_pWgk/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0w6NP1_pWgk",
+      "url": "https://m.youtube.com/watch?v=0w6NP1_pWgk",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | หลิน มาลิน | EP.65 | 8 มิ.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/2DL-4E0KKc4/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2DL-4E0KKc4",
+      "url": "https://m.youtube.com/watch?v=2DL-4E0KKc4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | เจนนี่ รัชนก | EP.64 | 25 พ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/pthXiigYR0M/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pthXiigYR0M",
+      "url": "https://m.youtube.com/watch?v=pthXiigYR0M",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ใจ๋ สายจี้ | EP.63 | 18 พ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/kqnTKllj0Qw/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kqnTKllj0Qw",
+      "url": "https://m.youtube.com/watch?v=kqnTKllj0Qw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ลำไย ไหทองคำ | EP.62 | 11 พ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/pZXZFGTypUY/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pZXZFGTypUY",
+      "url": "https://m.youtube.com/watch?v=pZXZFGTypUY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | แน๊ตตี้ นาตาชา | EP.61 | 4 พ.ค. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/gqJjKwp14iA/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gqJjKwp14iA",
+      "url": "https://m.youtube.com/watch?v=gqJjKwp14iA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ทับทิม อัญรินทร์ | EP.60 | 27 เม.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/TnwyCe4nih8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TnwyCe4nih8",
+      "url": "https://m.youtube.com/watch?v=TnwyCe4nih8",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | แน๊ต เกศริน | EP.59 | 20 เม.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/kzKwmOxCOZY/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kzKwmOxCOZY",
+      "url": "https://m.youtube.com/watch?v=kzKwmOxCOZY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บริษัทฮาไม่จำกัดจัดเต็ม | ฮาดับร้อน | EP.58 | 13 เม.ย. 67 [FULL]",
       "image": "https://i.ytimg.com/vi/R3rNmaDD7bQ/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=R3rNmaDD7bQ",
+      "url": "https://m.youtube.com/watch?v=R3rNmaDD7bQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
