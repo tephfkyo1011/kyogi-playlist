@@ -6,55 +6,64 @@
     {
       "name": "คอนเสิร์ต The Diary of Carabao เดอะ ไดอารี่ ออฟ คาราบาว【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/E883Dg6ZPVg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=E883Dg6ZPVg",
+      "url": "https://m.youtube.com/watch?v=E883Dg6ZPVg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แอ๊ด คาราบาว - สืบทอดเจตนา / ทะเลใจ / คนล่าฝัน / วณิพก / บัวลอย [Acoustic Live Session]",
       "image": "https://i.ytimg.com/vi/JimtSww-TTA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JimtSww-TTA",
+      "url": "https://m.youtube.com/watch?v=JimtSww-TTA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เอ็กซ์คลูซีฟคอนเสิร์ต วันวานไม่มีเขา วันนี้ไม่มีเรา : แอ๊ด คาราบาว【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/8u8t_FxIXCE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8u8t_FxIXCE",
+      "url": "https://m.youtube.com/watch?v=8u8t_FxIXCE",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต คาราบาว NEW YEAR EXPO【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/cWaZBszJNrw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cWaZBszJNrw",
+      "url": "https://m.youtube.com/watch?v=cWaZBszJNrw",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต 35 ปี คาราบาว【FULL CONCERT】ฉบับ 4 ชั่วโมงเต็ม",
       "image": "https://i.ytimg.com/vi/kziDLZTT6JM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kziDLZTT6JM",
+      "url": "https://m.youtube.com/watch?v=kziDLZTT6JM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "VELODROME RETURNS บันทึกการแสดงสด คอนเสิร์ต เวโลโดรม รีเทิร์นส์【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/FJ03M0D4CQA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FJ03M0D4CQA",
+      "url": "https://m.youtube.com/watch?v=FJ03M0D4CQA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต คาราบาว 3 ช่า สามัคคี ตอน ลูกทุ่งแฟนเทเชีย【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/_jSMm-NuEeo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_jSMm-NuEeo",
+      "url": "https://m.youtube.com/watch?v=_jSMm-NuEeo",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "40 ปี ฅนคาราบาว : ล้อมวงเล่า EP.1 [Special Live Session]",
       "image": "https://i.ytimg.com/vi/TLM0WYZPNIc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TLM0WYZPNIc",
+      "url": "https://m.youtube.com/watch?v=TLM0WYZPNIc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "40 ปี ฅนคาราบาว : ล้อมวงเล่า EP.2 [Special Live Session]",
       "image": "https://i.ytimg.com/vi/3TMbNpe6L8E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3TMbNpe6L8E",
+      "url": "https://m.youtube.com/watch?v=3TMbNpe6L8E",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
