@@ -6,29 +6,33 @@
     {
       "name": "แสดงสด คอนเสิร์ต หงา คาราวาน Vol.2 (3ช่า มันส์ๆกันยาว) บ้านคีตศิลป์ ขอนแก่น 24/12/2565",
       "image": "https://i.ytimg.com/vi/86u1UdN5c0M/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=86u1UdN5c0M",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=86u1UdN5c0M&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แสดงสด คอนเสิร์ต หงา คาราวาน Vol.1 บ้านคีตศิลป์ ขอนแก่น 24/12/2565",
       "image": "https://i.ytimg.com/vi/0T1e7UCJRJg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0T1e7UCJRJg",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=0T1e7UCJRJg&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หงา คาราวาน คอนเสิร์ตเพราะคิดถึงหว่อง#๒",
       "image": "https://i.ytimg.com/vi/etSdNoWEjwQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=etSdNoWEjwQ",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=etSdNoWEjwQ&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คาราวะ คาราวาน 75ปี หงา สุรชัย จันทิมาธร แสดงสด คอนเสิร์ต คีตศิลป์แคมป์ ภูผาม่าน ขอนแก่น",
       "image": "https://i.ytimg.com/vi/lu-AOSwWG_M/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lu-AOSwWG_M",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=lu-AOSwWG_M&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
