@@ -6,151 +6,176 @@
     {
       "name": "Cover Night Live : Top Form On Stage GAM x PETEPOL [ FULL ]",
       "image": "https://i.ytimg.com/vi/CDmwDYbVyQg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CDmwDYbVyQg",
+      "url": "https://m.youtube.com/watch?v=CDmwDYbVyQg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "COVER NIGHT LIVE : STAMP X ATOM [ FULL ]",
       "image": "https://i.ytimg.com/vi/Cq8RBLuMfpQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Cq8RBLuMfpQ",
+      "url": "https://m.youtube.com/watch?v=Cq8RBLuMfpQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Live Friend Zone Room39 x The Toys [ FULL ]",
       "image": "https://i.ytimg.com/vi/KlkQElhaEEk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KlkQElhaEEk",
+      "url": "https://m.youtube.com/watch?v=KlkQElhaEEk",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Live : Rock in Love 25hours X Big Ass [ FULL ]",
       "image": "https://i.ytimg.com/vi/8QdevRBPJdI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8QdevRBPJdI",
+      "url": "https://m.youtube.com/watch?v=8QdevRBPJdI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night LIVE : ETC LIPTA 18 อีกครั้ง [ FULL ]",
       "image": "https://i.ytimg.com/vi/BOhcHccOGtY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BOhcHccOGtY",
+      "url": "https://m.youtube.com/watch?v=BOhcHccOGtY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : POP OAT BIG BROTHER [ FULL ]",
       "image": "https://i.ytimg.com/vi/-EtRrZRvoGA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-EtRrZRvoGA",
+      "url": "https://m.youtube.com/watch?v=-EtRrZRvoGA",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : NJ&WAN [ FULL ]",
       "image": "https://i.ytimg.com/vi/QvK6yhxIH34/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QvK6yhxIH34",
+      "url": "https://m.youtube.com/watch?v=QvK6yhxIH34",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : Popetorn & The Parkinson [ FULL ]",
       "image": "https://i.ytimg.com/vi/Hc0J1tFXE3A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Hc0J1tFXE3A",
+      "url": "https://m.youtube.com/watch?v=Hc0J1tFXE3A",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : The Guitar Duet โรส ศิรินทิพย์ / ชาติ สุชาติ (FULL)",
       "image": "https://i.ytimg.com/vi/ak4HMEf-Gak/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ak4HMEf-Gak",
+      "url": "https://m.youtube.com/watch?v=ak4HMEf-Gak",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus FUN NIGHT ONLY",
       "image": "https://i.ytimg.com/vi/4z4gbfZgL5Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4z4gbfZgL5Q",
+      "url": "https://m.youtube.com/watch?v=4z4gbfZgL5Q",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "COVER NIGHT PLUS 90'S NIGHT - FULL CONCERT",
       "image": "https://i.ytimg.com/vi/E6detjo3c3A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=E6detjo3c3A",
+      "url": "https://m.youtube.com/watch?v=E6detjo3c3A",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "COVER NIGHT PLUS SOUL & LIFE โดย โรส ศิรินทิพย์ + มาเรียม",
       "image": "https://i.ytimg.com/vi/xiglo77jeXI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xiglo77jeXI",
+      "url": "https://m.youtube.com/watch?v=xiglo77jeXI",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "COVER NIGHT PLUS SOUL & LIFE โดย ว่าน ธนกฤต + ป๊อป ปองกูล",
       "image": "https://i.ytimg.com/vi/VhyTHcsvMCY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VhyTHcsvMCY",
+      "url": "https://m.youtube.com/watch?v=VhyTHcsvMCY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus “THE DRAMA QUEENS”",
       "image": "https://i.ytimg.com/vi/zsz3q7D2taQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=zsz3q7D2taQ",
+      "url": "https://m.youtube.com/watch?v=zsz3q7D2taQ",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "[Cover Night Plus] Stamp & Klear (Full Concert)",
       "image": "https://i.ytimg.com/vi/-C1SddxNiJc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-C1SddxNiJc",
+      "url": "https://m.youtube.com/watch?v=-C1SddxNiJc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : POD & THE LADIES",
       "image": "https://i.ytimg.com/vi/H0tedW0hwtc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=H0tedW0hwtc",
+      "url": "https://m.youtube.com/watch?v=H0tedW0hwtc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "COVER NIGHT PLUS SONGS IN THE WIND",
       "image": "https://i.ytimg.com/vi/NZk5l2GJFXg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NZk5l2GJFXg",
+      "url": "https://m.youtube.com/watch?v=NZk5l2GJFXg",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : “INDIE IN LOVE” [Room39 & SeasonFive]",
       "image": "https://i.ytimg.com/vi/Ll6ken42P7s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ll6ken42P7s",
+      "url": "https://m.youtube.com/watch?v=Ll6ken42P7s",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : WAN - BEN Uncensored",
       "image": "https://i.ytimg.com/vi/1192cd51yF0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1192cd51yF0",
+      "url": "https://m.youtube.com/watch?v=1192cd51yF0",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : THE UNFORGETTABLE LOVE [แอม เสาวลักษณ์ - กบ ทรงสิทธิ์]",
       "image": "https://i.ytimg.com/vi/Po83Cg5XNoc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Po83Cg5XNoc",
+      "url": "https://m.youtube.com/watch?v=Po83Cg5XNoc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : One Night in Summer [หนึ่ง อภิวัฒน์ - ณัฐ ศักดาทร]",
       "image": "https://i.ytimg.com/vi/dAFHaNJzKN4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dAFHaNJzKN4",
+      "url": "https://m.youtube.com/watch?v=dAFHaNJzKN4",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : We Sing Together [โบ สุนิตา - ป๊อป ปองกูล]",
       "image": "https://i.ytimg.com/vi/m1g5yysEhMU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=m1g5yysEhMU",
+      "url": "https://m.youtube.com/watch?v=m1g5yysEhMU",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : Wonder Girls [แก้ม-มาเรียม]",
       "image": "https://i.ytimg.com/vi/adRn-1ro5KM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=adRn-1ro5KM",
+      "url": "https://m.youtube.com/watch?v=adRn-1ro5KM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : Full Band and The Guitar [Stamp & Jetset'er]",
       "image": "https://i.ytimg.com/vi/kW1V26UQIXY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kW1V26UQIXY",
+      "url": "https://m.youtube.com/watch?v=kW1V26UQIXY",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cover Night Plus : New Jiew",
       "image": "https://i.ytimg.com/vi/UbJZ3MQ2zUM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UbJZ3MQ2zUM",
+      "url": "https://m.youtube.com/watch?v=UbJZ3MQ2zUM",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
