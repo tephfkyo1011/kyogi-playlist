@@ -6,106 +6,93 @@
     {
       "name": "หนังตะลุงน้องเดียว ลูกทุ่งวัฒนธรรม ตอน ฮาได้ที่พรุ่งนี้โลกแตก",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FXf_MRoalGU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=FXf_MRoalGU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกเฮฮาบ้าในตลาด",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=u7bWuyto_MU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=u7bWuyto_MU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เรื่อง รักข้ามภพ ตอนที่ 2 ยอดทองจีบนางเมือง",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4h4_wV2vuQ4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=4h4_wV2vuQ4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกหนุกหนานโรงบาลบ้า",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=IOISoBRV_Zg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=IOISoBRV_Zg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนังตะลุง น้ำท่วมหาดใหญ่",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wgwCNorf14E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=wgwCNorf14E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน ฮาระเบิดคอนเสิร์ตยอดทอง",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eMsBbkT70LI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=eMsBbkT70LI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เทพบุตรจำแลง ตอนที่ 3 นายกประยุทธ",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uzrxd5PprGA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uzrxd5PprGA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มุกฮาหนังตะลุง มรดกใต้ [รวมมุกฮา ชั่วโมงเต็ม]",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yHKfm65EOX0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=yHKfm65EOX0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน หลกหนุกมุกฮาด่าโรงบาล",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CpUc6W1UyEs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=CpUc6W1UyEs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกฮาธรรมะ โรงฆ่าสัตว์",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=evbI2obyEGU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=evbI2obyEGU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มุกฮาบ้านๆ ทหารแก่",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8gDpQtsq4TU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=8gDpQtsq4TU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตอน มุกฮากู้ธนาคาร",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=C5Cn6uGi2Pg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=C5Cn6uGi2Pg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนังตะลุง หัดกินเจสะมั้ง",
       "image": "https://i.ytimg.com/vi/y4iBPvCYUZ0/maxresdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qRJOQyEpP7g&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=qRJOQyEpP7g&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้ำล้น",
