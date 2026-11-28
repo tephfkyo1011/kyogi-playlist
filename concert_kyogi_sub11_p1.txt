@@ -6,610 +6,697 @@
     {
       "name": "ETC ชวนมาแจม EP.86 | ปิงปอง ศิรศักดิ์ : เจ้าพ่อเพลงละคร",
       "image": "https://i.ytimg.com/vi/91yFsw4fc2w/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=91yFsw4fc2w",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=91yFsw4fc2w&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.85 | ดาว Rock ประดับฟ้า : แมว จิรศักดิ์",
       "image": "https://i.ytimg.com/vi/26Yr4JnmcTk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=26Yr4JnmcTk",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=26Yr4JnmcTk&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.84 | การกลับมาอีกครั้งของ BILLKIN",
       "image": "https://i.ytimg.com/vi/gtPzYqWM8Xg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gtPzYqWM8Xg",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=gtPzYqWM8Xg&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.83 | JAONAAY x JAOKHUN",
       "image": "https://i.ytimg.com/vi/Gs7X3jf72eE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Gs7X3jf72eE",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Gs7X3jf72eE&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.82 | เจ้าชายเสียงหวาน กัน นภัทร",
       "image": "https://i.ytimg.com/vi/HBmA95bPl1A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HBmA95bPl1A",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=HBmA95bPl1A&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.81 | Marsha : มาช่า วัฒนพานิช",
       "image": "https://i.ytimg.com/vi/_Ib72QbtKzA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_Ib72QbtKzA",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=_Ib72QbtKzA&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC. ชวนมาแจม Concert 2025 live @UOB",
       "image": "https://i.ytimg.com/vi/ioqQKFg8zLE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ioqQKFg8zLE",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=ioqQKFg8zLE&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.80 | fellow fellow",
       "image": "https://i.ytimg.com/vi/_yx8JpUxlBw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_yx8JpUxlBw",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=_yx8JpUxlBw&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.79 | SEASON FIVE",
       "image": "https://i.ytimg.com/vi/hNxSFePYV28/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hNxSFePYV28",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=hNxSFePYV28&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.78 | พั้นช์ วรกาญจน์",
       "image": "https://i.ytimg.com/vi/HG-8hxaG_aU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HG-8hxaG_aU",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=HG-8hxaG_aU&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.77 | GROOVE RIDERS",
       "image": "https://i.ytimg.com/vi/Vd9Ho6_SnpU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Vd9Ho6_SnpU",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Vd9Ho6_SnpU&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.76 | TIMETHAI เขาคนนี้จะทำให้ เธอ พอ ใจ！",
       "image": "https://i.ytimg.com/vi/Ugb8lMg1rmc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Ugb8lMg1rmc",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Ugb8lMg1rmc&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.75 | เปลี่ยนหนุ่มบาว เป็นอีทีซี EP นี้ เจอสาวปาน !",
       "image": "https://i.ytimg.com/vi/7aqvgOu8yCU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7aqvgOu8yCU",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=7aqvgOu8yCU&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.74 l จุ๊บ วุฒินันต์ & VARITDA (อุ๋ม) ครอบครัวดนตรี บิ๊กบอสใหญ่ค่าย Muzik Move",
       "image": "https://i.ytimg.com/vi/f0_8Zdeg1C8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=f0_8Zdeg1C8",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=f0_8Zdeg1C8&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP 73 l โรส ศิรินทิพย์ เสียงร้องที่โอบกอดหัวใจ",
       "image": "https://i.ytimg.com/vi/4MdAXN21m4A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4MdAXN21m4A",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=4MdAXN21m4A&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.72 l ดัง พันกร ที่สุดของ Superstar ล้านตลับ ！",
       "image": "https://i.ytimg.com/vi/gZOAWrdkUgE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gZOAWrdkUgE",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=gZOAWrdkUgE&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.71 l ตุ๊ก วิยะดา DIVA อารมณ์ดี เจ้าแม่เพลงรักแห่งยุค 80",
       "image": "https://i.ytimg.com/vi/b5MoooFX1kk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=b5MoooFX1kk",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=b5MoooFX1kk&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.70 l Magic Vibe with Mr.Feelgood (กานต์) WIM",
       "image": "https://i.ytimg.com/vi/6sDhQsqA7eQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6sDhQsqA7eQ",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=6sDhQsqA7eQ&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.69 | บร๊ะเจ้า x ETC อีพีนี้ So Cool !!!",
       "image": "https://i.ytimg.com/vi/zGTnR0axE-k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zGTnR0axE-k",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=zGTnR0axE-k&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.68 | ปั่น ไพบูลย์เกียรติ เจ้าพ่อเพลงรักสุดยืนยง ที่ยังคงล้นใจแฟนๆ",
       "image": "https://i.ytimg.com/vi/kRT_ZH2bj8I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kRT_ZH2bj8I",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=kRT_ZH2bj8I&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.67 | น่ารักส่งท้ายปีกับ ALLY ลูกสาวแห่งชาติ",
       "image": "https://i.ytimg.com/vi/SsXpmTkj5rI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SsXpmTkj5rI",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=SsXpmTkj5rI&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.66 | Peck Palitchoke นักร้อง Superstar สุดหล่อเสียงละมุน ที่ใครๆก็หลงรัก",
       "image": "https://i.ytimg.com/vi/EiYZJwkKR7I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EiYZJwkKR7I",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=EiYZJwkKR7I&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.65 | ท้าชนนายห้างใหญ่ Divo ตัวพ่อ โดม จารุวัฒน์",
       "image": "https://i.ytimg.com/vi/ndLXkPn8cxs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ndLXkPn8cxs",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=ndLXkPn8cxs&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.64 | อิมเมจ สุธิตา นักร้องสาวเสียงบาดลึก ที่แจ้งเกิดจาก The voice",
       "image": "https://i.ytimg.com/vi/CV8BuPkNM0I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CV8BuPkNM0I",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=CV8BuPkNM0I&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.63 | มาลีวัลย์ เจมิน่า สุดยอด Diva ราชินีเพลงเศร้า",
       "image": "https://i.ytimg.com/vi/Sf3gFHmSjhY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Sf3gFHmSjhY",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Sf3gFHmSjhY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.62 | ชรัส เฟื่องอารมย์ อบอุ่น สุดคลาสสิค ตลอดกาล",
       "image": "https://i.ytimg.com/vi/uxJyByQShlM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uxJyByQShlM",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=uxJyByQShlM&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.61 | เอิ๊ต ภัทรวี เสียงใสๆที่ใครๆก็ตกหลุมรัก",
       "image": "https://i.ytimg.com/vi/qDh1DaDEdtI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qDh1DaDEdtI",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=qDh1DaDEdtI&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.60 | ติดฝน ติดใจ ไปกับสามสาว PiXXiE !!",
       "image": "https://i.ytimg.com/vi/qnNbQ-hJ99w/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qnNbQ-hJ99w",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=qnNbQ-hJ99w&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.59 | โจอี้ ภูวศิษฐ์ หนุ่มเลือดอีสานขวัญใจมหาชน",
       "image": "https://i.ytimg.com/vi/bvM8pVvub5w/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=bvM8pVvub5w",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=bvM8pVvub5w&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.58 | Zeal ที่สุดของความ (เมา) มันส์",
       "image": "https://i.ytimg.com/vi/kTF8nv-dSrs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kTF8nv-dSrs",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=kTF8nv-dSrs&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.57 | ความสดใสของวงการเพลงไทย สบตาคนไหนเป็นต้อง พบรัก INK WARUNTORN",
       "image": "https://i.ytimg.com/vi/C5zCKDP_Ojs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=C5zCKDP_Ojs",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=C5zCKDP_Ojs&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "It’s been a while 20 ปีที่ คิดถึงไม่หาย กับ พล หุยประเสริฐ",
       "image": "https://i.ytimg.com/vi/c1dLFvkdk9k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=c1dLFvkdk9k",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=c1dLFvkdk9k&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.56 | นักร้องผู้คืนชีวิตให้วงพอส เฟ้น PAUSE",
       "image": "https://i.ytimg.com/vi/JJvweUU61UI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JJvweUU61UI",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=JJvweUU61UI&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.55 | PROXIE",
       "image": "https://i.ytimg.com/vi/e3XOtT_R8YY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=e3XOtT_R8YY",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=e3XOtT_R8YY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.54 | @QUADLIPS",
       "image": "https://i.ytimg.com/vi/alWVKDMV0CY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=alWVKDMV0CY",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=alWVKDMV0CY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.53 | POLYCAT",
       "image": "https://i.ytimg.com/vi/vtJsayrt5U4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vtJsayrt5U4",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=vtJsayrt5U4&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.52 | ปราโมทย์ วิเลปะนะ",
       "image": "https://i.ytimg.com/vi/MkQklJv3mr4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MkQklJv3mr4",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=MkQklJv3mr4&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.51 | Violette Wautier",
       "image": "https://i.ytimg.com/vi/PaqZTRs2iAo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=PaqZTRs2iAo",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=PaqZTRs2iAo&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.50 | NuNew",
       "image": "https://i.ytimg.com/vi/Yak-K9bhQ8A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Yak-K9bhQ8A",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Yak-K9bhQ8A&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.49 | โป้ YOKEE PLAYBOY",
       "image": "https://i.ytimg.com/vi/9yvwgSEvSAQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9yvwgSEvSAQ",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=9yvwgSEvSAQ&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.48 | Bodyslam",
       "image": "https://i.ytimg.com/vi/Jo9S07XJLSg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Jo9S07XJLSg",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Jo9S07XJLSg&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.47 | MR.TEAM Avenger วงดนตรีแห่งยุค 2000",
       "image": "https://i.ytimg.com/vi/nDTqTWHQYNU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=nDTqTWHQYNU",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=nDTqTWHQYNU&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.46 | เบน ชลาทิศ",
       "image": "https://i.ytimg.com/vi/Dnva7dCG_NU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Dnva7dCG_NU",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Dnva7dCG_NU&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.45 | มีนตรา อินทิรา ลูกทุ่งดาวรุ่งที่มาแรงที่สุดใน พศ.นี้",
       "image": "https://i.ytimg.com/vi/-bEXJIv50LY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-bEXJIv50LY",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=-bEXJIv50LY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม EP.44 | ฟอร์ด สบชัย เจ้าพ่อเพลงรักยุค 90",
       "image": "https://i.ytimg.com/vi/10g8WSjEkRo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=10g8WSjEkRo",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=10g8WSjEkRo&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม | ตู่ ภพธร x ETC EP.43",
       "image": "https://i.ytimg.com/vi/pWuTIl27s5o/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pWuTIl27s5o",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=pWuTIl27s5o&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม | มิกซ์ เฉลิมศรี BADMIXY x ETC EP.42",
       "image": "https://i.ytimg.com/vi/2Ns7YRebmiY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2Ns7YRebmiY",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=2Ns7YRebmiY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l Special EP.Happy New year",
       "image": "https://i.ytimg.com/vi/mDc_cpJxcb4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=mDc_cpJxcb4",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=mDc_cpJxcb4&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม | ลุลา x ETC EP.40",
       "image": "https://i.ytimg.com/vi/VPT7ozs4f8I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VPT7ozs4f8I",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=VPT7ozs4f8I&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l เท่ห์ อุเทน x ETC EP.39",
       "image": "https://i.ytimg.com/vi/Sme9GcO0bh4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Sme9GcO0bh4",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Sme9GcO0bh4&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l ZOM MARIE x ETC EP.38",
       "image": "https://i.ytimg.com/vi/iupIupNJqag/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iupIupNJqag",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=iupIupNJqag&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l SIN x ETC EP 37",
       "image": "https://i.ytimg.com/vi/PambgaT4Ncs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=PambgaT4Ncs",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=PambgaT4Ncs&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l MEAN x ETC EP 36",
       "image": "https://i.ytimg.com/vi/w2Lw9rU7L9U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=w2Lw9rU7L9U",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=w2Lw9rU7L9U&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l คริส พีรวัส x ETC EP 35 #kristperawat",
       "image": "https://i.ytimg.com/vi/g9MSTL9UkbM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=g9MSTL9UkbM",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=g9MSTL9UkbM&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l THE PARKINSON x ETC EP 34",
       "image": "https://i.ytimg.com/vi/vGThNeySKkU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vGThNeySKkU",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=vGThNeySKkU&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l TATTOO COLOUR x ETC EP 33",
       "image": "https://i.ytimg.com/vi/rrmtAEvhnpE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rrmtAEvhnpE",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=rrmtAEvhnpE&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม l โก้ MR.SAXMAN X ETC EP 32",
       "image": "https://i.ytimg.com/vi/eYecK9tiIBA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eYecK9tiIBA",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=eYecK9tiIBA&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม | D GERRARD X ETC EP 31",
       "image": "https://i.ytimg.com/vi/m2NozoVWP7s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=m2NozoVWP7s",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=m2NozoVWP7s&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม | แม็ค ศรัณย์ X ETC EP 30",
       "image": "https://i.ytimg.com/vi/BbZKyuhGzDA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BbZKyuhGzDA",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=BbZKyuhGzDA&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม | GAHO & KAVE X ETC EP 29 @Gaho_official Subtitle TH/KR @CC",
       "image": "https://i.ytimg.com/vi/voLYHpg-HEg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=voLYHpg-HEg",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=voLYHpg-HEg&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC ชวนมาแจม | LIPTA X ETC EP 28",
       "image": "https://i.ytimg.com/vi/pjCo1FfN0nE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pjCo1FfN0nE",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=pjCo1FfN0nE&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | GETSUNOVA X ETC. EP.27",
       "image": "https://i.ytimg.com/vi/lQTvr3hp-G4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lQTvr3hp-G4",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=lQTvr3hp-G4&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | ป้อม Autobahn X ETC. EP.26",
       "image": "https://i.ytimg.com/vi/CWr6AEXnRBc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CWr6AEXnRBc",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=CWr6AEXnRBc&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | สงกรานต์ รังสรรค์ X ETC. EP.25",
       "image": "https://i.ytimg.com/vi/YFutidhCgBw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YFutidhCgBw",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=YFutidhCgBw&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | เจนนิเฟอร์ คิ้ม X ETC. EP.24",
       "image": "https://i.ytimg.com/vi/5ywnGGbKhzQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5ywnGGbKhzQ",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=5ywnGGbKhzQ&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | BILLKIN X ETC. EP.23",
       "image": "https://i.ytimg.com/vi/EtJrCIVcyR8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EtJrCIVcyR8",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=EtJrCIVcyR8&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | SLOT MACHINE X ETC. EP.22",
       "image": "https://i.ytimg.com/vi/aX4-5sty-dY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=aX4-5sty-dY",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=aX4-5sty-dY&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | NONT TANONT X ETC. EP.21",
       "image": "https://i.ytimg.com/vi/t_ksfxX0FT4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t_ksfxX0FT4",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=t_ksfxX0FT4&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | โอ๊ต ปราโมทย์ X ETC. EP.20 พี่ทำดีๆมาเยอะแล้ว ทำแบบนี้บ้าง",
       "image": "https://i.ytimg.com/vi/qkKZA8xT7c8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qkKZA8xT7c8",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=qkKZA8xT7c8&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | ว่าน ธนกฤต X ETC. EP.19",
       "image": "https://i.ytimg.com/vi/lj3VFhRk6_Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lj3VFhRk6_Y",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=lj3VFhRk6_Y&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | ป๊อป ปองกูล X ETC. EP.18",
       "image": "https://i.ytimg.com/vi/gphSiPImGjE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gphSiPImGjE",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=gphSiPImGjE&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | No One Else X ETC EP.17",
       "image": "https://i.ytimg.com/vi/6eRBg-qYjd4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6eRBg-qYjd4",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=6eRBg-qYjd4&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | YourMOOD X ETC EP.16",
       "image": "https://i.ytimg.com/vi/SUtkqGRYIXc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SUtkqGRYIXc",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=SUtkqGRYIXc&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | เจฟ ซาเตอร์ X ETC EP.14 Jeff Satur",
       "image": "https://i.ytimg.com/vi/W7txIoyCjjI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=W7txIoyCjjI",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=W7txIoyCjjI&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | แปม อัญญ์ชิสา X ETC EP.13",
       "image": "https://i.ytimg.com/vi/Ic1nw3f6-6M/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Ic1nw3f6-6M",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Ic1nw3f6-6M&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | SLAPKISS X ETC EP.12",
       "image": "https://i.ytimg.com/vi/epDKDbzZp-8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=epDKDbzZp-8",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=epDKDbzZp-8&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | ดา เอ็นโดรฟิน X ETC EP.11",
       "image": "https://i.ytimg.com/vi/0u09WhwiGEo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0u09WhwiGEo",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=0u09WhwiGEo&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | คริสต้า X ETC EP.10",
       "image": "https://i.ytimg.com/vi/gzgrOxarxic/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gzgrOxarxic",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=gzgrOxarxic&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | ไอซ์ พาริส X ETC EP.9",
       "image": "https://i.ytimg.com/vi/sp02ikTKseQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sp02ikTKseQ",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=sp02ikTKseQ&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | บุรินทร์ บุญวิสุทธิ์ X ETC EP.8",
       "image": "https://i.ytimg.com/vi/Yf_Ex5qle6Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Yf_Ex5qle6Y",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=Yf_Ex5qle6Y&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | เพียว The Voice All Star X ETC EP.7",
       "image": "https://i.ytimg.com/vi/sod1ZXd46yE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sod1ZXd46yE",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=sod1ZXd46yE&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | INDIGO แค่เส้นบางๆ ที่เธอไม่ชัดเจนมันก็ชัดเจนพออยู่แล้ว EP.6",
       "image": "https://i.ytimg.com/vi/BigNwpvdjUM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BigNwpvdjUM",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=BigNwpvdjUM&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | เธอชอบฉันตรงไหน ให้เอาปากกามาวง น้องเบล EP.5",
       "image": "https://i.ytimg.com/vi/SxJNr9--Htg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SxJNr9--Htg",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=SxJNr9--Htg&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | sarah salola เอาใจลงไปเล่นเอง ก็เจ็บเองทุกที EP.4",
       "image": "https://i.ytimg.com/vi/z5m33M0Oj-I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=z5m33M0Oj-I",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=z5m33M0Oj-I&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | แสตมป์ อภิวัชร์ ความคิดที่ลืมความเจ็บและชินไปเอง EP.3",
       "image": "https://i.ytimg.com/vi/k6FLKsowZL0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=k6FLKsowZL0",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=k6FLKsowZL0&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | Up To You อัพภูมิพัฒน์ EP.2",
       "image": "https://i.ytimg.com/vi/gNdYx9MlaQQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gNdYx9MlaQQ",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=gNdYx9MlaQQ&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ETC.ชวนมาแจม | เฮอร์ไมโอน้อง อูน & แอ้ม EP.1",
       "image": "https://i.ytimg.com/vi/faQ5pzcZwj0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=faQ5pzcZwj0",
-      "openInSafari": "true",
+      "url": "https://m.youtube.com/watch?v=faQ5pzcZwj0&cc_load_policy=0",
+      "embed": "true",
+      "referer": "https://m.youtube.com",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
