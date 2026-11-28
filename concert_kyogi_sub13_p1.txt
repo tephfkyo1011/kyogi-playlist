@@ -6,474 +6,415 @@
     {
       "name": "The Hu - Live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/QkWX1qShzWc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QkWX1qShzWc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=QkWX1qShzWc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Eisbrecher - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/ULsE4YpzAs4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ULsE4YpzAs4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ULsE4YpzAs4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Orange Goblin - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/NErjdNls8t8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NErjdNls8t8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=NErjdNls8t8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Good Riddance - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/1w7kPQ6Zc40/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=1w7kPQ6Zc40&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=1w7kPQ6Zc40&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "The Kovenant - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/95Bt0wQqAXg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=95Bt0wQqAXg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=95Bt0wQqAXg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Walls of Jericho - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/phpcRTVJ6Nk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=phpcRTVJ6Nk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=phpcRTVJ6Nk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Lorna Shore - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/udsSJIi2Tmg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=udsSJIi2Tmg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=udsSJIi2Tmg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Apocalyptica - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/2uxdmee7z-k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2uxdmee7z-k&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2uxdmee7z-k&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Fit for an Autopsy - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/VNu3Wi0vyYg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VNu3Wi0vyYg&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=VNu3Wi0vyYg&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Chat Pile - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/VdIJhQ8gTTA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VdIJhQ8gTTA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=VdIJhQ8gTTA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Slomosa - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/6pblD0lVE_E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6pblD0lVE_E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=6pblD0lVE_E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Defeater - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/7ey97ac-zx0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7ey97ac-zx0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7ey97ac-zx0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Abbath Doom Occulta - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/RtwCJeGQBYE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=RtwCJeGQBYE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=RtwCJeGQBYE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Jinjer - Live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/9ZmYAdiF3ko/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9ZmYAdiF3ko&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=9ZmYAdiF3ko&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Epica - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/Gg0Exe2Ieqw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Gg0Exe2Ieqw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=Gg0Exe2Ieqw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Monkey3 - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/0uTIhVhlpeQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0uTIhVhlpeQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=0uTIhVhlpeQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Whitechapel - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/4odklb8tx94/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4odklb8tx94&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=4odklb8tx94&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Royal Republic - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/xkr2KIiSwd8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xkr2KIiSwd8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=xkr2KIiSwd8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "The Real McKenzies - Live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/hr2CdshJdgE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hr2CdshJdgE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=hr2CdshJdgE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Tankard - Live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/UAwsNIjxQjQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UAwsNIjxQjQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=UAwsNIjxQjQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Deafheaven - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/G-_NjjOUvLU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=G-_NjjOUvLU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=G-_NjjOUvLU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Myles Kennedy - Live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/tHZMFTllua8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tHZMFTllua8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=tHZMFTllua8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Within Temptation - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/dr4GZMBaToM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=dr4GZMBaToM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=dr4GZMBaToM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Grima - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/tkW4je_DOwQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tkW4je_DOwQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=tkW4je_DOwQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Stick To Your Guns - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/4stxP44-5_E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4stxP44-5_E&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=4stxP44-5_E&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Les Garçons Bouchers - Live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/9d2aOGliP0U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9d2aOGliP0U&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=9d2aOGliP0U&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Black Country Communion - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/lverrdlTFrk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lverrdlTFrk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=lverrdlTFrk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Terror - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/ksg8InaFYxs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ksg8InaFYxs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ksg8InaFYxs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Gorilla Biscuits - live at Hellfest 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/he2-BRm_Tyo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=he2-BRm_Tyo&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=he2-BRm_Tyo&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Shaârghot - Live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/yn4X-OtYOx0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yn4X-OtYOx0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=yn4X-OtYOx0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Knocked Loose - live at Hellfest 2025 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/7_CXnD1vDQA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7_CXnD1vDQA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=7_CXnD1vDQA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Nervosa - Hellfest Warm-up Tour 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/sCovTTbVw0c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sCovTTbVw0c&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=sCovTTbVw0c&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Novelists - Hellfest Warm-up Tour 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/QWmVHNfW4_c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QWmVHNfW4_c&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=QWmVHNfW4_c&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Skindred - Hellfest Warm-up Tour 2025 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/huEiXq0K3y0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=huEiXq0K3y0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=huEiXq0K3y0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BABYMETAL - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/iMpuhm_M01w/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iMpuhm_M01w&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=iMpuhm_M01w&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Savage Lands - Hellfest 2024 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/iOs_gDO8MNI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iOs_gDO8MNI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=iOs_gDO8MNI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cradle of Filth - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/GKTKke-nYQk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=GKTKke-nYQk&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=GKTKke-nYQk&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Cock Sparrer - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/E7a1ctLigcY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=E7a1ctLigcY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=E7a1ctLigcY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Thursday - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/ghgYD0zFAiw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ghgYD0zFAiw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=ghgYD0zFAiw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Dropkick Murphys - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/hS0ZgBRDskM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hS0ZgBRDskM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=hS0ZgBRDskM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Enter Shikari - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/kyEW0KoirOM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kyEW0KoirOM&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=kyEW0KoirOM&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Planet of Zeus - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/vx1dHQgN7ZI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vx1dHQgN7ZI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=vx1dHQgN7ZI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "1000mods - Hellfest 2024– ARTE Concert",
       "image": "https://i.ytimg.com/vi/CrKjaIQ5dXs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CrKjaIQ5dXs&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=CrKjaIQ5dXs&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Emperor - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/uB0kYXbBaBA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uB0kYXbBaBA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=uB0kYXbBaBA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Machine Head - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/30F4UEmfgg0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=30F4UEmfgg0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=30F4UEmfgg0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Fu Manchu - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/v1DdIk77gY4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=v1DdIk77gY4&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=v1DdIk77gY4&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Anaal Nathrakh - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/zbr-LftSyMA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zbr-LftSyMA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=zbr-LftSyMA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Mammoth WVH - Hellfest – ARTE Concert",
       "image": "https://i.ytimg.com/vi/yY6aAqcl5Hc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yY6aAqcl5Hc&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=yY6aAqcl5Hc&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Corvus Corax - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/479NAX-Eukw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=479NAX-Eukw&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=479NAX-Eukw&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Accept - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/NeiZWnNvhEA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NeiZWnNvhEA&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=NeiZWnNvhEA&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Nekromantix - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/UYHSp39JWHU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UYHSp39JWHU&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=UYHSp39JWHU&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Suicidal Tendencies - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/EPgAxGD_Yns/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EPgAxGD_Yns&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=EPgAxGD_Yns&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Frank Carter and The Rattlesnakes - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/_usvQvtJMLE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_usvQvtJMLE&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=_usvQvtJMLE&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Madball - Hellfest 2024 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/AKFQIN9nmCY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=AKFQIN9nmCY&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=AKFQIN9nmCY&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Benighted - Hellfest Warm-Up Tour – ARTE Concert",
       "image": "https://i.ytimg.com/vi/63ruYRBGyV8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=63ruYRBGyV8&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=63ruYRBGyV8&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ten56. - Hellfest Warm-Up Tour –ARTE Concert",
       "image": "https://i.ytimg.com/vi/2q8u94-sJvI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2q8u94-sJvI&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=2q8u94-sJvI&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Hangman's Chair - Hellfest 2022 - ARTE Concert",
       "image": "https://i.ytimg.com/vi/wsshpam4cE0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wsshpam4cE0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=wsshpam4cE0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Jinjer - Hellfest 2022 - @arteconcert",
       "image": "https://i.ytimg.com/vi/DQ8f3PiUzdQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DQ8f3PiUzdQ&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=DQ8f3PiUzdQ&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "POV: Hellfest 2023 – ARTE Concert",
       "image": "https://i.ytimg.com/vi/fN8swX_kbv0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=fN8swX_kbv0&cc_load_policy=0",
+      "url": "https://m.youtube.com/watch?v=fN8swX_kbv0&app=m&persist_app=1",
       "embed": "true",
-      "referer": "https://m.youtube.com",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
