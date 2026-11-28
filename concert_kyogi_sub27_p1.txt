@@ -6,1345 +6,1345 @@
     {
       "name": "เท่พิลิก ( LIVE ) @โฟล์คร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/952USt3D-XQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=952USt3D-XQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/952USt3D-XQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไวทยาศิริพงษ์ ( LIVE ) @โฟล์คร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/8f5h0y5eV_I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8f5h0y5eV_I&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8f5h0y5eV_I?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดวงดาว เดียวดาย ( FULL SHOW ) @โฟล์คร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/igsEWR-iVQc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=igsEWR-iVQc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/igsEWR-iVQc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เชติกา ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/yZSJoVDcZhk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yZSJoVDcZhk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/yZSJoVDcZhk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใหม่ สิบล้อ ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/9-ADaULvinM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9-ADaULvinM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/9-ADaULvinM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไทยตรง ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/Ar7KqaF1kdo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Ar7KqaF1kdo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Ar7KqaF1kdo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Television off ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/qMUVT3_Istk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qMUVT3_Istk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/qMUVT3_Istk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช ( Live ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/m59vYS3TnUU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=m59vYS3TnUU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/m59vYS3TnUU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จินตนาการ ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/9uSIZy5keGI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9uSIZy5keGI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/9uSIZy5keGI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มนัสวีร์ ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/uPIgeKr4mT8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uPIgeKr4mT8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/uPIgeKr4mT8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BIX MUFF ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/OikBqR2PAAk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OikBqR2PAAk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OikBqR2PAAk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Phumin ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/0pWl6I-DMvw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0pWl6I-DMvw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/0pWl6I-DMvw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Blackbeans ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/G1_2BtDut58/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=G1_2BtDut58&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/G1_2BtDut58?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สนทนาไทเกอร์ ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/kIz8fCqjdaY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kIz8fCqjdaY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/kIz8fCqjdaY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พาลอารมณ์ ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/mHqa3KoVlIc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=mHqa3KoVlIc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/mHqa3KoVlIc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ ( FULL SHOW ) @โฟลคร็อคบางกอก 3",
       "image": "https://i.ytimg.com/vi/ocdYSbclaQg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ocdYSbclaQg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ocdYSbclaQg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/Ukc1hlVFf6Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Ukc1hlVFf6Y&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Ukc1hlVFf6Y?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดาวิด คิม ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/DzMF_Y4UYQM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DzMF_Y4UYQM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/DzMF_Y4UYQM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เทอด พฤษภา ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/2wYQSQQFVOw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2wYQSQQFVOw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2wYQSQQFVOw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Anirut ( Live ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/aYxwUTJyZgU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=aYxwUTJyZgU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/aYxwUTJyZgU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จักรวาไลย ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/rshch1OiDPc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rshch1OiDPc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/rshch1OiDPc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สนิมหยก ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/a6iYo3zQ1o0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=a6iYo3zQ1o0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/a6iYo3zQ1o0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะสุเทพการบันเทิง ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/5BqLOhHaQ-s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5BqLOhHaQ-s&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/5BqLOhHaQ-s?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สนทนาไทเกอร์ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/SxbBz5ZDdac/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SxbBz5ZDdac&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/SxbBz5ZDdac?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดวงดาว เดียวดาย ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/DM47k4Em8_E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DM47k4Em8_E&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/DM47k4Em8_E?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Southern Boys (Thai Rockabilly) ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/NP-UoyV5T9A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NP-UoyV5T9A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NP-UoyV5T9A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จินตนาการ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/z4g6hXJ71WE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=z4g6hXJ71WE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/z4g6hXJ71WE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คาราวาน ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/g12zHOS4OvI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=g12zHOS4OvI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/g12zHOS4OvI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์สิทธิ์ คําภีร์ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/vDyNKVmGSp0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vDyNKVmGSp0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/vDyNKVmGSp0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วรินทร์ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/z4F3E8Palus/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=z4F3E8Palus&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/z4F3E8Palus?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พาลอารมณ์ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/2rRnfROr2gA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2rRnfROr2gA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2rRnfROr2gA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เรนิษรา ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/2Elz-BbM5Aw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2Elz-BbM5Aw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2Elz-BbM5Aw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BONE HEAD ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/-rmwrKlCwg8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-rmwrKlCwg8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/-rmwrKlCwg8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เท่พิลิก ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/sCAwHO2qchM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sCAwHO2qchM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/sCAwHO2qchM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เมืองแคน อิสระธรรม ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/cgqW79OLucM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cgqW79OLucM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cgqW79OLucM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไทยตรง ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/wvgB6p0feQI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wvgB6p0feQI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/wvgB6p0feQI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วสุ ห้าวหาญ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/H-weztjg5J4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=H-weztjg5J4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/H-weztjg5J4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Zero Hero ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/JI_8XsF3Bzo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JI_8XsF3Bzo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/JI_8XsF3Bzo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Mosquitoes ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/QMvgFtqbC-o/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QMvgFtqbC-o&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/QMvgFtqbC-o?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มนัสวีร์ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/NDlLkt4v-0c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NDlLkt4v-0c&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NDlLkt4v-0c?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนู มิดด้าม(ตัวจริง) ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/eXhXyDIL5xA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eXhXyDIL5xA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/eXhXyDIL5xA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/NkknW1iCO_w/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NkknW1iCO_w&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NkknW1iCO_w?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "T_047 ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/NLpGE-KKacM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NLpGE-KKacM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NLpGE-KKacM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/RygZl7rQ_6U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=RygZl7rQ_6U&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/RygZl7rQ_6U?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มาณพ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/4bAWRYWTR0I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4bAWRYWTR0I&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/4bAWRYWTR0I?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วิจิตรชน ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/GL95fmatQjY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=GL95fmatQjY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/GL95fmatQjY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "การิน ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/H_33kKXSnAo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=H_33kKXSnAo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/H_33kKXSnAo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Mr'พระจันทร์ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/8HSqkWOSQtA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8HSqkWOSQtA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8HSqkWOSQtA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อีสานฟิวชั่น ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/3Vp1IwvxhLI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3Vp1IwvxhLI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/3Vp1IwvxhLI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สะบายอุรา ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/56-Mks53fYk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=56-Mks53fYk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/56-Mks53fYk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เเกนฮาว่า ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/eNM1TA6AH3M/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eNM1TA6AH3M&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/eNM1TA6AH3M?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใหม่ สิบล้อ ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/t4dMkeeFvQM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t4dMkeeFvQM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/t4dMkeeFvQM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เยนา ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/WnE7qOv9YVM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=WnE7qOv9YVM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/WnE7qOv9YVM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อาบู ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/f5Cw92EgVLc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=f5Cw92EgVLc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/f5Cw92EgVLc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะรรรรร ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/bvIcvmThVnc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=bvIcvmThVnc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/bvIcvmThVnc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กิ้ฟเห็ด ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/mvGZ_zJF9JM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=mvGZ_zJF9JM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/mvGZ_zJF9JM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "WHATFALSE ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/egrgOqAVEEA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=egrgOqAVEEA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/egrgOqAVEEA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วสันต์17 ( FULL SHOW ) @Meechue Folk Festival 4",
       "image": "https://i.ytimg.com/vi/AOZy9bjvZxU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=AOZy9bjvZxU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/AOZy9bjvZxU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/w63OSLIphJE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=w63OSLIphJE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/w63OSLIphJE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไทยตรง ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/D9kb66FqDhs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=D9kb66FqDhs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/D9kb66FqDhs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BLACKBEANS ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/0M_Ew-ad8jU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0M_Ew-ad8jU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/0M_Ew-ad8jU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "T047 ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/cZVeoKwcJzI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cZVeoKwcJzI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cZVeoKwcJzI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Southern Boys (Thai Rockabilly) ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/R68X11ocfnI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=R68X11ocfnI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/R68X11ocfnI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "FREENHAND ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/3qnQJIV5Nt0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3qnQJIV5Nt0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/3qnQJIV5Nt0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Greasy Cafe ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/pdWM1hvLKoM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pdWM1hvLKoM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pdWM1hvLKoM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดวงดายเดียวดาย ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/Z8z09a3LNWE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Z8z09a3LNWE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Z8z09a3LNWE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จินตนาการ ( FULL SHOW ) @โฟลคร็อคบางกอก 2",
       "image": "https://i.ytimg.com/vi/-4iZNsn8ZSk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-4iZNsn8ZSk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/-4iZNsn8ZSk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สิงโต นำโชค ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/LMKqeG8HhVE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LMKqeG8HhVE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LMKqeG8HhVE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/85X1rZbyQPw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=85X1rZbyQPw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/85X1rZbyQPw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/Gi_nxdTknEk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Gi_nxdTknEk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Gi_nxdTknEk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชาติ สุชาติ ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/1tru-F0yd6c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=1tru-F0yd6c&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/1tru-F0yd6c?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เยนา ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/iUW4vAaOTWs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iUW4vAaOTWs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/iUW4vAaOTWs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จุลโหฬาร ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/gcMGELS00v8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gcMGELS00v8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/gcMGELS00v8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะสุเทพการบันเทิง ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/INCis6e4mRg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=INCis6e4mRg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/INCis6e4mRg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/NPmtT4R6HH0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NPmtT4R6HH0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NPmtT4R6HH0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พงษ์สิทธิ์ คําภีร์ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/BHf9gaVjKtw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BHf9gaVjKtw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BHf9gaVjKtw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ZWEED N' ROLL ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/A-260ESqAyA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=A-260ESqAyA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/A-260ESqAyA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "T BONE ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/HFcaS2z1QUc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HFcaS2z1QUc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/HFcaS2z1QUc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อีสานฟิวชั่น E SAN FUSION ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/KTEF2G58G0k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KTEF2G58G0k&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/KTEF2G58G0k?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Southern Boys [ Thai Rockabilly ] ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/KgjMzhsYgP8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KgjMzhsYgP8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/KgjMzhsYgP8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "J.A.M ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/A-XZXBV2brk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=A-XZXBV2brk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/A-XZXBV2brk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Blackbeans ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/MoYXtfgVAVI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MoYXtfgVAVI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/MoYXtfgVAVI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มนัสวีร์ ( LIVE SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/z_8YAmVqWYc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=z_8YAmVqWYc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/z_8YAmVqWYc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดวงดาวเดียวดาย ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/6hoYRVIswIE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6hoYRVIswIE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/6hoYRVIswIE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "WHATFALSE ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/MH2uT2F_T7Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MH2uT2F_T7Y&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/MH2uT2F_T7Y?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "T_047 ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/edk_9ZGEBP0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=edk_9ZGEBP0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/edk_9ZGEBP0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Greasy Cafe ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/P-tdXc5FCI0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=P-tdXc5FCI0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/P-tdXc5FCI0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เรนิษรา ( FULL SHOW ) @KHAO KHO Festival 1",
       "image": "https://i.ytimg.com/vi/qktX6L0uiPI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qktX6L0uiPI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/qktX6L0uiPI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หงา คาราวาน ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/pH9sEQ-0Zck/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pH9sEQ-0Zck&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pH9sEQ-0Zck?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จิตปรุงแต่ง ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/Fd2vzvZbgwY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Fd2vzvZbgwY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Fd2vzvZbgwY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วสุ ห้าวหาญ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/zLXQ4KqC8Xg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zLXQ4KqC8Xg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/zLXQ4KqC8Xg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไววิทย์ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/3skhFjJ1jXQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3skhFjJ1jXQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/3skhFjJ1jXQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดรบม ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/Qv3RsztQipI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Qv3RsztQipI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Qv3RsztQipI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใหม่ สิบล้อ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/jgR3rVFmkbA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=jgR3rVFmkbA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/jgR3rVFmkbA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จุลโหฬาร ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/LVasdHPh_JU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LVasdHPh_JU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LVasdHPh_JU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เสือสองเล ( LIVE SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/X2OLD6ceiwA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=X2OLD6ceiwA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/X2OLD6ceiwA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "SITTA ( LIVE SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/a5Bmh9mM4Os/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=a5Bmh9mM4Os&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/a5Bmh9mM4Os?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Scootslande ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/ZL3avHWg7ns/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ZL3avHWg7ns&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ZL3avHWg7ns?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Whatfalse ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/Z-5yIKAGq-A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Z-5yIKAGq-A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Z-5yIKAGq-A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "R-BU ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/owNRs2X1tNk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=owNRs2X1tNk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/owNRs2X1tNk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มนัสวีร์ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/qGUCVRXaO44/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qGUCVRXaO44&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/qGUCVRXaO44?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพ-ลา ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/-1bomnyHZPs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-1bomnyHZPs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/-1bomnyHZPs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สนิมหยก ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/OhNS0-z4vpE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OhNS0-z4vpE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OhNS0-z4vpE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ ( LIVE SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/gE5IIh3V6CQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gE5IIh3V6CQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/gE5IIh3V6CQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไททศมิตร ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/1SztIzGY100/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=1SztIzGY100&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/1SztIzGY100?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะสุเทพการบันเทิง ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/uW3b9wbOU_A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uW3b9wbOU_A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/uW3b9wbOU_A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วรชา ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/Du3DyHbr3CM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Du3DyHbr3CM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Du3DyHbr3CM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กรุงกวี ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/71m6Zd8B_-E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=71m6Zd8B_-E&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/71m6Zd8B_-E?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Mr'พระจันทร์ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/39M1pb80Fsg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=39M1pb80Fsg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/39M1pb80Fsg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Mosquitoes ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/y2RiItkwPaA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=y2RiItkwPaA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/y2RiItkwPaA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Kitties Peace ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/Yv0ozLlQu5s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Yv0ozLlQu5s&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Yv0ozLlQu5s?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เท่พิลิก ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/f3cgzDOpaBo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=f3cgzDOpaBo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/f3cgzDOpaBo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เมืองแคน อิสระธรรม ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/LcD7gFLNMG0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LcD7gFLNMG0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LcD7gFLNMG0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หนู มิดด้าม(ตัวจริง)",
       "image": "https://i.ytimg.com/vi/HkhbpF7AVFU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HkhbpF7AVFU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/HkhbpF7AVFU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ธาดา ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/OIwlPkw--y4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OIwlPkw--y4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OIwlPkw--y4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เบื๊อก ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/Dy1D0pKrQ9Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Dy1D0pKrQ9Y&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Dy1D0pKrQ9Y?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BONE HEAD ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/FgcA1hG3bCA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FgcA1hG3bCA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/FgcA1hG3bCA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "BIG MUFF ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/E_8get7PhY4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=E_8get7PhY4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/E_8get7PhY4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ศรีนวล ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/36p4RwmRlDs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=36p4RwmRlDs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/36p4RwmRlDs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดาวิด คิม ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/crkbrPh4VZY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=crkbrPh4VZY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/crkbrPh4VZY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สหายก่อ กรการ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/VpmK48TCcJY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VpmK48TCcJY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/VpmK48TCcJY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Phumin ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/89XUCIzIDOw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=89XUCIzIDOw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/89XUCIzIDOw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จินตนาการ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/OCSkwsFdL7w/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OCSkwsFdL7w&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OCSkwsFdL7w?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "HUGO ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/xGOyg23tuI8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xGOyg23tuI8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/xGOyg23tuI8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เยนา ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/av30Ud_BKU4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=av30Ud_BKU4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/av30Ud_BKU4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/EHq93OTFUSc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EHq93OTFUSc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EHq93OTFUSc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดวงดาวเดียวดาย ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/G-FCllL6YGY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=G-FCllL6YGY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/G-FCllL6YGY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สนทนาไทเกอร์ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/BI_gYgXDGvs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BI_gYgXDGvs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BI_gYgXDGvs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Southern Boys Thai Rockabilly ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/8n6p-0yi8qk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8n6p-0yi8qk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8n6p-0yi8qk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อีสานฟิวชั่น E-SAN FUSION @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/21lbam_MBqw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=21lbam_MBqw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/21lbam_MBqw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไทยตรง ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/BG8OwT91u9k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BG8OwT91u9k&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BG8OwT91u9k?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สุขเสมอ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/5e8CqgdnUYM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5e8CqgdnUYM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/5e8CqgdnUYM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "J.A.M ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/QqMIeXqjNug/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QqMIeXqjNug&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/QqMIeXqjNug?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พาลอารมณ์ ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/gHROxnlvcTM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gHROxnlvcTM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/gHROxnlvcTM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กิ๊ฟเห็ด ( FULL SHOW ) @Meechue Folk Festival 3",
       "image": "https://i.ytimg.com/vi/dPmNb0rMKYI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=dPmNb0rMKYI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/dPmNb0rMKYI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/R-6QulsRJyw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=R-6QulsRJyw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/R-6QulsRJyw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จุลโหฬาร @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/OuSpHE99iFM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OuSpHE99iFM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OuSpHE99iFM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Safeplanet @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/6nxCJvJXIOQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6nxCJvJXIOQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/6nxCJvJXIOQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Southern Boys ( Thai Rockabilly) LIVE @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/Cm5otx2ZbXo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Cm5otx2ZbXo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Cm5otx2ZbXo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไทยตรง X ไม้หมอน LIVE @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/liZVPROeYCA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=liZVPROeYCA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/liZVPROeYCA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "T_047 LIVE @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/XwgwTo1g054/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XwgwTo1g054&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/XwgwTo1g054?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "J.A.M. LIVE @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/0tvzOoGtvPA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0tvzOoGtvPA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/0tvzOoGtvPA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พิชชา LIVE @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/Lp0NCfqXVvA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Lp0NCfqXVvA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Lp0NCfqXVvA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช LIVE @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/y48oXC-OawU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=y48oXC-OawU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/y48oXC-OawU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มนัสวีร์ LIVE @นอกคอก ( Full Live Show )",
       "image": "https://i.ytimg.com/vi/VzswHvmUrYk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VzswHvmUrYk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/VzswHvmUrYk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ศรีนวล Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/aK3tPALaufM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=aK3tPALaufM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/aK3tPALaufM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Hugo & Mai Siplor Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/PqxNoytO7fU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=PqxNoytO7fU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/PqxNoytO7fU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Scootslande Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/BnXZvSwo9f4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BnXZvSwo9f4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BnXZvSwo9f4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใหม่ สิบล้อ Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/cPVGAY6rpjI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cPVGAY6rpjI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cPVGAY6rpjI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "R BU Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/yiXxtAAMmSE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yiXxtAAMmSE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/yiXxtAAMmSE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "J A M Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/NB1F2ex6Fn4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NB1F2ex6Fn4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NB1F2ex6Fn4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดวงดาวเดียวดาย Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/59tRT1dLwmU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=59tRT1dLwmU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/59tRT1dLwmU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เมืองแคน อิสระธรรม Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/VDhaqwefJ50/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VDhaqwefJ50&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/VDhaqwefJ50?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Sao Moonlight Gypsy Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/JbGUqqK-o-s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JbGUqqK-o-s&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/JbGUqqK-o-s?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Zweed n' Roll Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/LRlYM2J1lt4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LRlYM2J1lt4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LRlYM2J1lt4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Sitta Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/eMLjo2MFPGA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eMLjo2MFPGA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/eMLjo2MFPGA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "T 047 Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/cU6ee7bVuGE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cU6ee7bVuGE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cU6ee7bVuGE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "WHATFALSE Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/OdjTtTaWffg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OdjTtTaWffg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OdjTtTaWffg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Abandoned House Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/O4gXq0ormyw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=O4gXq0ormyw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/O4gXq0ormyw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Warin Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/AUuiZII9s9k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=AUuiZII9s9k&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/AUuiZII9s9k?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เรืองฤทธิ์ บุญรอด Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/Wx_mgLU2Vzw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Wx_mgLU2Vzw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Wx_mgLU2Vzw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สนิมหยก Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/5ngfCztw85A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5ngfCztw85A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/5ngfCztw85A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะขวัญใจ Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/JpzixHecY04/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JpzixHecY04&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/JpzixHecY04?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เยนา Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/EB6X_4P1RD0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EB6X_4P1RD0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EB6X_4P1RD0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จุลโหฬาร Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/RUhYVQf3gJs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=RUhYVQf3gJs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/RUhYVQf3gJs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อภิรมย์ Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/x-NU8wqEeHs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=x-NU8wqEeHs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/x-NU8wqEeHs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขียนไขและวานิช Live in Meechue Folk Festival 2 [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/DJ43vHzWbgY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DJ43vHzWbgY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/DJ43vHzWbgY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "Southern Boys - Live in Meechue Folk Festival [ Full Live Show ]",
       "image": "https://i.ytimg.com/vi/xx9Vz16MfXY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xx9Vz16MfXY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/xx9Vz16MfXY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
