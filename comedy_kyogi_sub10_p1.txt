@@ -6,7 +6,8 @@
     {
       "name": "รวมที่สุดฉากฮา น้าค่อม ชวนชื่น เต็มอิ่ม 2 ชั่วโมงเต็ม",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFQGne6okcwl2VtrmsEqpn0KD-HfuRbrG8T1hhuswow&s=10",
-      "url": "https://www.youtube.com/watch?v=9a3GYA3-Aqc",
+      "url": "https://m.youtube.com/watch?v=9a3GYA3-Aqc",
+      "openInSafari": "true",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
