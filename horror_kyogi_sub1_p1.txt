@@ -6,2105 +6,2105 @@
     {
       "name": "มากับฝนคนหรือผี (รังสิต) - หลอนสเปเชียล / PODCAST EP. 284",
       "image": "https://i.ytimg.com/vi/KosruiSjqmU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KosruiSjqmU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/KosruiSjqmU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านเช่าเจ้าที่แรง (นครปฐม) - หลอนสเปเชียล / PODCAST EP. 283",
       "image": "https://i.ytimg.com/vi/ltoo4VYR1Tk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ltoo4VYR1Tk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ltoo4VYR1Tk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตัวเลือกสุดท้าย (เพชรเกษม) - หลอนสเปเชียล / PODCAST EP. 282",
       "image": "https://i.ytimg.com/vi/rEJhJwjliJw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rEJhJwjliJw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/rEJhJwjliJw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วิวาห์อาถรรพ์ (จันทบุรี) - หลอนสเปเชียล / PODCAST EP. 281",
       "image": "https://i.ytimg.com/vi/McXb3TUoGYw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=McXb3TUoGYw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/McXb3TUoGYw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พิธีลวงสังเวยปอบ ( ร้อยเอ็ด ) - หลอนสเปเชียล / PODCAST EP. 280",
       "image": "https://i.ytimg.com/vi/z8yGoj3TN6k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=z8yGoj3TN6k&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/z8yGoj3TN6k?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลูกสาวสัปเหร่อ ( พิษณุโลก ) - หลอนสเปเชียล / PODCAST EP. 279",
       "image": "https://i.ytimg.com/vi/i6wtv70Nc_Q/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=i6wtv70Nc_Q&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/i6wtv70Nc_Q?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านเจ้านาย ( อยุธยา ) - หลอนสเปเชียล / PODCAST EP. 278",
       "image": "https://i.ytimg.com/vi/IrB1TIdmvKo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=IrB1TIdmvKo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/IrB1TIdmvKo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ดูดวงให้ผี - หลอนสเปเชียล / PODCAST EP. 277",
       "image": "https://i.ytimg.com/vi/CxCo9M6_3hc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=CxCo9M6_3hc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/CxCo9M6_3hc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หอพักข้างมหาลัย ( นครปฐม ) - หลอนสเปเชียล / PODCAST EP. 276",
       "image": "https://i.ytimg.com/vi/BDdqWsQJhgA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BDdqWsQJhgA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BDdqWsQJhgA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขึ้นบ้านใหม่ ( สะพานสูง ) - หลอนสเปเชียล / PODCAST EP. 275",
       "image": "https://i.ytimg.com/vi/URBpXJHyL8U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=URBpXJHyL8U&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/URBpXJHyL8U?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนพ่อ - หลอนสเปเชียล / PODCAST EP. 274",
       "image": "https://i.ytimg.com/vi/6zaIwmIqDKw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6zaIwmIqDKw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/6zaIwmIqDKw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เรื่องที่ไม่ได้บอก ( สมุทรปราการ ) - หลอนสเปเชียล / PODCAST EP. 273",
       "image": "https://i.ytimg.com/vi/AAugVI75oiQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=AAugVI75oiQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/AAugVI75oiQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โรงแรมม่านรูด ( นครนายก ) - หลอนสเปเชียล / PODCAST EP. 272",
       "image": "https://i.ytimg.com/vi/yp-HMAevqpc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yp-HMAevqpc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/yp-HMAevqpc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หมู่บ้านคนตาย ( เชียงราย ) - หลอนสเปเชียล / PODCAST EP. 271",
       "image": "https://i.ytimg.com/vi/pxg2n00d3Ag/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pxg2n00d3Ag&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pxg2n00d3Ag?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชุดราตรีสีขาว ( พัทยา ) - หลอนสเปเชียล / PODCAST EP. 270",
       "image": "https://i.ytimg.com/vi/KW7l_4qQj1A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KW7l_4qQj1A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/KW7l_4qQj1A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พยาบาลกับงานที่เธอรัก ( นครศรีธรรมราช ) - หลอนสเปเชียล / PODCAST EP. 269",
       "image": "https://i.ytimg.com/vi/-rbDm0Qdjhs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-rbDm0Qdjhs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/-rbDm0Qdjhs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จุดจบคนเจ้าชู้ ( นครนายก ) - หลอนสเปเชียล / PODCAST EP. 268",
       "image": "https://i.ytimg.com/vi/__e1CorY49U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=__e1CorY49U&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/__e1CorY49U?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เจ้าสาวที่เปียกฝน (สระแก้ว) - หลอนสเปเชียล / PODCAST EP. 267",
       "image": "https://i.ytimg.com/vi/mgDaoJK1MgU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=mgDaoJK1MgU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/mgDaoJK1MgU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ส่งถึงที่หมาย - หลอนสเปเชียล / PODCAST EP. 266",
       "image": "https://i.ytimg.com/vi/ZoVc21a8Nqk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ZoVc21a8Nqk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ZoVc21a8Nqk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เจ้าของตัวจริง - หลอนสเปเชียล / PODCAST EP. 265",
       "image": "https://i.ytimg.com/vi/0UZTQRSf-Hc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0UZTQRSf-Hc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/0UZTQRSf-Hc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สัญญาสีเลือด ( อ่างทอง ) - หลอนสเปเชียล / PODCAST EP. 264",
       "image": "https://i.ytimg.com/vi/BKWk8YjTsT4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BKWk8YjTsT4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BKWk8YjTsT4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รักซ่อนเลือด (ภูเก็ต) - หลอนสเปเชียล / PODCAST EP. 263",
       "image": "https://i.ytimg.com/vi/ooIWDb4lzwY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ooIWDb4lzwY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ooIWDb4lzwY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คำขอจากเพื่อน ( พะเยา ) - หลอนสเปเชียล / PODCAST EP. 262",
       "image": "https://i.ytimg.com/vi/5HavrluouIE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5HavrluouIE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/5HavrluouIE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนเก่า ( อุบลราชธานี ) - หลอนสเปเชียล / PODCAST EP. 261",
       "image": "https://i.ytimg.com/vi/N36YNV6PznU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=N36YNV6PznU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/N36YNV6PznU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนหลอนโรงแรมม่านรูด ( รังสิต ) - หลอนสเปเชียล / PODCAST EP. 260",
       "image": "https://i.ytimg.com/vi/pXEuuPHRGEQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pXEuuPHRGEQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pXEuuPHRGEQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ปริศนาห้องข้างๆ ( ปิ่นเกล้า ) - หลอนสเปเชียล / PODCAST EP. 259",
       "image": "https://i.ytimg.com/vi/qps6v7bJaBA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qps6v7bJaBA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/qps6v7bJaBA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านหลังสุดท้าย ( หนองบัวลำภู ) - หลอนสเปเชียล / PODCAST EP. 258",
       "image": "https://i.ytimg.com/vi/3dWj1zjSN-k/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=3dWj1zjSN-k&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/3dWj1zjSN-k?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทั้งชั้นมีห้องเดียว ( ขอนแก่น ) - หลอนสเปเชียล / PODCAST EP. 257",
       "image": "https://i.ytimg.com/vi/Noh1Jm27lQU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Noh1Jm27lQU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Noh1Jm27lQU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องเช่าชั่วคราว ( ระยอง ) - หลอนสเปเชียล / PODCAST EP. 256",
       "image": "https://i.ytimg.com/vi/Qv-GAwWoGKQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Qv-GAwWoGKQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Qv-GAwWoGKQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนไข้ห้องพิเศษ ( สุโขทัย ) - หลอนสเปเชียล / PODCAST EP. 255",
       "image": "https://i.ytimg.com/vi/iZwDKcRZsWk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iZwDKcRZsWk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/iZwDKcRZsWk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผู้โดยสารปริศนา ( บางใหญ่ ) - หลอนสเปเชียล / PODCAST EP. 254",
       "image": "https://i.ytimg.com/vi/yJYnqR_tIQ4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yJYnqR_tIQ4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/yJYnqR_tIQ4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พิธีคืนของ (น่าน) - หลอนสเปเชียล / PODCAST EP. 253",
       "image": "https://i.ytimg.com/vi/Vn17VSQhg4c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Vn17VSQhg4c&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Vn17VSQhg4c?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนสุดท้ายในห้องรวม - หลอนสเปเชียล / PODCAST EP. 252",
       "image": "https://i.ytimg.com/vi/Va1HKSs2Qng/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Va1HKSs2Qng&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Va1HKSs2Qng?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ค่ายธรรมะ ( เชียงราย ) - หลอนสเปเชียล / PODCAST EP. 251",
       "image": "https://i.ytimg.com/vi/NJM3OQ-OWwc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NJM3OQ-OWwc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NJM3OQ-OWwc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนสุดท้าย ( ลพบุรี ) - หลอนสเปเชียล / PODCAST EP. 250",
       "image": "https://i.ytimg.com/vi/8nlA-ZHBzdQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8nlA-ZHBzdQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8nlA-ZHBzdQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มันไม่ใช่ฝัน ( นนทบุรี ) - หลอนสเปเชียล / PODCAST EP. 249",
       "image": "https://i.ytimg.com/vi/x-lPk8f3kco/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=x-lPk8f3kco&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/x-lPk8f3kco?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มันอยู่หลังบ้าน ( ศรีสะเกษ ) - หลอนสเปเชียล / PODCAST EP. 248",
       "image": "https://i.ytimg.com/vi/4Od5h6Gq9Hg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4Od5h6Gq9Hg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/4Od5h6Gq9Hg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านดนตรีไทย ( อ่างทอง ) - หลอนสเปเชียล / PODCAST EP. 247",
       "image": "https://i.ytimg.com/vi/W24jaluTyi0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=W24jaluTyi0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/W24jaluTyi0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โรงแรมในปั๊ม ( นครสวรรค์ ) - หลอนสเปเชียล / PODCAST EP. 246",
       "image": "https://i.ytimg.com/vi/jPJ-KaSjtOU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=jPJ-KaSjtOU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/jPJ-KaSjtOU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ของที่เลี้ยงไว้ ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 245",
       "image": "https://i.ytimg.com/vi/PIt8VRtQ43I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=PIt8VRtQ43I&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/PIt8VRtQ43I?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พระวัดป่า ( อุดรธานี ) - หลอนสเปเชียล / PODCAST EP. 244",
       "image": "https://i.ytimg.com/vi/2hiG6hWq2So/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2hiG6hWq2So&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2hiG6hWq2So?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "512 ห้องสุดท้าย ( สงขลา ) - หลอนสเปเชียล / PODCAST EP. 243",
       "image": "https://i.ytimg.com/vi/VZHKs35dNKA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VZHKs35dNKA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/VZHKs35dNKA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนแนะนำ ( เชียงใหม่ ) - หลอนสเปเชียล / PODCAST EP. 242",
       "image": "https://i.ytimg.com/vi/46Sju48Yqp0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=46Sju48Yqp0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/46Sju48Yqp0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไปตามที่บอก ( เชียงใหม่ ) - หลอนสเปเชียล / PODCAST EP. 241",
       "image": "https://i.ytimg.com/vi/truC9jb4dKk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=truC9jb4dKk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/truC9jb4dKk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เฮี้ยนยกบ้าน ( อ่างทอง ) - หลอนสเปเชียล / PODCAST EP. 240",
       "image": "https://i.ytimg.com/vi/JEpy9l_ZJnw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JEpy9l_ZJnw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/JEpy9l_ZJnw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนย้ายออก ( เชียงใหม่ ) - หลอนสเปเชียล / PODCAST EP. 239",
       "image": "https://i.ytimg.com/vi/omgYIlZLD2o/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=omgYIlZLD2o&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/omgYIlZLD2o?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ออร์เดอร์สุดท้าย ( บางนา ) - หลอนสเปเชียล / PODCAST EP. 238",
       "image": "https://i.ytimg.com/vi/LP1TCr9Y8Bk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LP1TCr9Y8Bk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LP1TCr9Y8Bk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านซอย3 - หลอนสเปเชียล / PODCAST EP. 237",
       "image": "https://i.ytimg.com/vi/ktBrWj8dIhU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ktBrWj8dIhU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ktBrWj8dIhU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านเก่าให้เช่า ( ปทุมธานี ) - หลอนสเปเชียล / PODCAST EP. 236",
       "image": "https://i.ytimg.com/vi/DnZoNnkbyKk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DnZoNnkbyKk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/DnZoNnkbyKk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เที่ยงคืนสิบห้านาที ( สมุทรปราการ ) - หลอนสเปเชียล / PODCAST EP. 235",
       "image": "https://i.ytimg.com/vi/GIbb_kczzdQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=GIbb_kczzdQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/GIbb_kczzdQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ความลับโรงแรมหลอน ( ภูเก็ต ) - หลอนสเปเชียล / PODCAST EP. 234",
       "image": "https://i.ytimg.com/vi/PR24R8gBZsY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=PR24R8gBZsY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/PR24R8gBZsY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อาถรรพ์ 402 ( บางนาตราด ) - หลอนสเปเชียล / PODCAST EP. 233",
       "image": "https://i.ytimg.com/vi/pD84ZugKuLU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pD84ZugKuLU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pD84ZugKuLU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มึงอย่ามอง ( นครปฐม ) - หลอนสเปเชียล / PODCAST EP. 232",
       "image": "https://i.ytimg.com/vi/iIcNDGQnJnc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iIcNDGQnJnc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/iIcNDGQnJnc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แฟนที่หายไป ( บางบ่อ ) - หลอนสเปเชียล / PODCAST EP. 231",
       "image": "https://i.ytimg.com/vi/RpXZi1OH9_E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=RpXZi1OH9_E&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/RpXZi1OH9_E?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนวันพระ ( รังสิต ) - หลอนสเปเชียล / PODCAST EP. 230",
       "image": "https://i.ytimg.com/vi/TZJ_GIqYzr4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TZJ_GIqYzr4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/TZJ_GIqYzr4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ปลายทางวัดร้าง ( บางบัวทอง ) - หลอนสเปเชียล / PODCAST EP. 229",
       "image": "https://i.ytimg.com/vi/OX9xhh50xms/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OX9xhh50xms&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OX9xhh50xms?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนสุดท้ายในโรงพยาบาล ( สุราษฎร์ธานี ) - หลอนสเปเชียล / PODCAST EP. 228",
       "image": "https://i.ytimg.com/vi/TkTrHIyF8aM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TkTrHIyF8aM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/TkTrHIyF8aM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขาใช้ให้กูมา - หลอนสเปเชียล / PODCAST EP. 227",
       "image": "https://i.ytimg.com/vi/BUbdtwtKqgk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BUbdtwtKqgk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BUbdtwtKqgk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รอการกลับมา ( กาฬสินธุ์ ) - หลอนสเปเชียล / PODCAST EP. 226",
       "image": "https://i.ytimg.com/vi/gXSi65s7B10/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gXSi65s7B10&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/gXSi65s7B10?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แมนชั่นชั้น4 ( รามคำแหง ) - หลอนสเปเชียล / PODCAST EP. 225",
       "image": "https://i.ytimg.com/vi/cFuqUecBtGc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cFuqUecBtGc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cFuqUecBtGc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ความลับห้อง 507 ( ดินแดง ) - หลอนสเปเชียล / PODCAST EP. 224",
       "image": "https://i.ytimg.com/vi/usB8hoG25RY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=usB8hoG25RY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/usB8hoG25RY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนกลับบ้าน ( นครสวรรค์ ) - หลอนสเปเชียล / PODCAST EP. 223",
       "image": "https://i.ytimg.com/vi/2cTbe5jc8Nw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2cTbe5jc8Nw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2cTbe5jc8Nw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เธอขอให้ไปส่ง ( ราชพฤกษ์ ) - หลอนสเปเชียล / PODCAST EP. 222",
       "image": "https://i.ytimg.com/vi/MgLu3iidWnM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MgLu3iidWnM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/MgLu3iidWnM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตึกใหม่ให้เช่า ( บางกะปิ ) - หลอนสเปเชียล / PODCAST EP. 221",
       "image": "https://i.ytimg.com/vi/rVZl2zygMyM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rVZl2zygMyM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/rVZl2zygMyM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนในครอบครัว - หลอนสเปเชียล / PODCAST EP. 220",
       "image": "https://i.ytimg.com/vi/U1rUFYzLfdc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=U1rUFYzLfdc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/U1rUFYzLfdc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ย้ายหนีก็ไม่ช่วย - หลอนสเปเชียล / PODCAST EP. 219",
       "image": "https://i.ytimg.com/vi/hMgJvZ2NzMk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hMgJvZ2NzMk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/hMgJvZ2NzMk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ส่งถึงที่ ( จรัญสนิทวงศ์ ) - หลอนสเปเชียล / PODCAST EP. 218",
       "image": "https://i.ytimg.com/vi/_B0fFw02vvA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_B0fFw02vvA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/_B0fFw02vvA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องเตียงรวม ( ประจวบคีรีขันธ์ ) - หลอนสเปเชียล / PODCAST EP. 217",
       "image": "https://i.ytimg.com/vi/_NrllhreoIM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_NrllhreoIM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/_NrllhreoIM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องหมายเลข8 ( ภูเก็ต ) - หลอนสเปเชียล / PODCAST EP. 216",
       "image": "https://i.ytimg.com/vi/_Qby4EwrgNw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_Qby4EwrgNw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/_Qby4EwrgNw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นางสาวประภัสสร ( บางบอน ) - หลอนสเปเชียล / PODCAST EP. 215",
       "image": "https://i.ytimg.com/vi/Ng1YLY2S-xg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Ng1YLY2S-xg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Ng1YLY2S-xg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนหลอนก่อนกลับบ้าน ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 214",
       "image": "https://i.ytimg.com/vi/anzQWGDAqfY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=anzQWGDAqfY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/anzQWGDAqfY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไปอยู่ด้วยกัน ( อนุสาวรีย์ชัย ) - หลอนสเปเชียล / PODCAST EP. 213",
       "image": "https://i.ytimg.com/vi/eQ2vVr0HSqs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=eQ2vVr0HSqs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/eQ2vVr0HSqs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เบญจเพส - หลอนสเปเชียล / PODCAST EP. 212",
       "image": "https://i.ytimg.com/vi/A8hQh5yaY90/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=A8hQh5yaY90&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/A8hQh5yaY90?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลูกค้าประจำ ( บางเขน ) - หลอนสเปเชียล / PODCAST EP. 211",
       "image": "https://i.ytimg.com/vi/JpO1Bh8c9e8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JpO1Bh8c9e8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/JpO1Bh8c9e8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แรงแค้น ( อ่างทอง ) - หลอนสเปเชียล / PODCAST EP. 210",
       "image": "https://i.ytimg.com/vi/gW6eUQlCKks/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gW6eUQlCKks&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/gW6eUQlCKks?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนบ้าน ( เพชรบูรณ์ ) - หลอนสเปเชียล / PODCAST EP. 209",
       "image": "https://i.ytimg.com/vi/GK9oWcoWYsk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=GK9oWcoWYsk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/GK9oWcoWYsk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านรุ่นพี่ ( พะเยา ) - หลอนสเปเชียล / PODCAST EP. 208",
       "image": "https://i.ytimg.com/vi/e4D2QPAFK1E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=e4D2QPAFK1E&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/e4D2QPAFK1E?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คณะลิเกหลอน ( ชัยนาท ) - หลอนสเปเชียล / PODCAST EP. 207",
       "image": "https://i.ytimg.com/vi/cguC5ExBuZw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cguC5ExBuZw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cguC5ExBuZw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เส้นทางอาถรรพ์ ( ชลบุรี ) - หลอนสเปเชียล / PODCAST EP. 206",
       "image": "https://i.ytimg.com/vi/cHgcU31O8_E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cHgcU31O8_E&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cHgcU31O8_E?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไปส่งวัด ( ปทุมธานี ) - หลอนสเปเชียล / PODCAST EP. 205",
       "image": "https://i.ytimg.com/vi/HAXYieWtv1o/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HAXYieWtv1o&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/HAXYieWtv1o?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "งานบุญบ้านเพื่อน ( นครปฐม ) - หลอนสเปเชียล / PODCAST EP. 206",
       "image": "https://i.ytimg.com/vi/939P2TY47CY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=939P2TY47CY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/939P2TY47CY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านใหม่ ( อุดรธานี ) - หลอนสเปเชียล / PODCAST EP. 205",
       "image": "https://i.ytimg.com/vi/ue5Hm1HP4J8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ue5Hm1HP4J8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ue5Hm1HP4J8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อยู่ได้คืนเดียว ( บางนา ) - หลอนสเปเชียล / PODCAST EP. 204",
       "image": "https://i.ytimg.com/vi/4X_-0bPmz7Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4X_-0bPmz7Y&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/4X_-0bPmz7Y?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เตียงมือสอง ( ตราด ) - หลอนสเปเชียล / PODCAST EP. 203",
       "image": "https://i.ytimg.com/vi/EWodPErwknI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EWodPErwknI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EWodPErwknI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เขาตามมาด้วย - หลอนสเปเชียล / PODCAST EP. 202",
       "image": "https://i.ytimg.com/vi/9I4sjvTQ_8A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=9I4sjvTQ_8A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/9I4sjvTQ_8A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านเพื่อน ( อุตรดิตถ์ ) - หลอนสเปเชียล / PODCAST EP. 201",
       "image": "https://i.ytimg.com/vi/6A25vBf_wMY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6A25vBf_wMY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/6A25vBf_wMY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ของฝากบ้านพ่อ ( สกลนคร ) - หลอนสเปเชียล / PODCAST EP. 200",
       "image": "https://i.ytimg.com/vi/8uaD5F2KxAA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8uaD5F2KxAA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8uaD5F2KxAA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนออกทริป ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 199",
       "image": "https://i.ytimg.com/vi/KQFJx3gB3Es/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=KQFJx3gB3Es&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/KQFJx3gB3Es?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โดนไม่รู้ตัว ( จันทบุรี ) - หลอนสเปเชียล / PODCAST EP. 198",
       "image": "https://i.ytimg.com/vi/FFAIkmGyWVk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FFAIkmGyWVk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/FFAIkmGyWVk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เห็นแล้วอย่าทัก ( ภูเก็ต ) - หลอนสเปเชียล / PODCAST EP. 197",
       "image": "https://i.ytimg.com/vi/TFGp6538G38/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TFGp6538G38&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/TFGp6538G38?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จ้างเฝ้าไข้ ( ลพบุรี ) - หลอนสเปเชียล / PODCAST EP. 196",
       "image": "https://i.ytimg.com/vi/t4B_vWWcFiY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t4B_vWWcFiY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/t4B_vWWcFiY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รุ่นน้องที่มหาลัย ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 195",
       "image": "https://i.ytimg.com/vi/EAQETsF7Np0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EAQETsF7Np0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EAQETsF7Np0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วิญญาณคอยหวง ( ราม2 ) - หลอนสเปเชียล / PODCAST EP. 194",
       "image": "https://i.ytimg.com/vi/0nbKuX2imDE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0nbKuX2imDE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/0nbKuX2imDE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แม่จันฉาย ( พิจิตร ) - หลอนสเปเชียล / PODCAST EP. 193",
       "image": "https://i.ytimg.com/vi/rQO_l8BSXd4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rQO_l8BSXd4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/rQO_l8BSXd4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คำขอจากเพื่อน ( สระบุรี ) - หลอนสเปเชียล / PODCAST EP. 192",
       "image": "https://i.ytimg.com/vi/UICyDyR6HCg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UICyDyR6HCg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/UICyDyR6HCg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทางไปบ้านเพื่อน ( ลพบุรี ) - หลอนสเปเชียล / PODCAST EP. 191",
       "image": "https://i.ytimg.com/vi/oVu2262cN_I/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=oVu2262cN_I&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/oVu2262cN_I?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "มันอยู่ในห้อง ( นนทบุรี ) - หลอนสเปเชียล / PODCAST EP. 190",
       "image": "https://i.ytimg.com/vi/k-JLFaZG_uQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=k-JLFaZG_uQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/k-JLFaZG_uQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไม่น่าไปอยากรู้ ( บางกะปิ ) - หลอนสเปเชียล / PODCAST EP. 189",
       "image": "https://i.ytimg.com/vi/M7OqAr39x2E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=M7OqAr39x2E&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/M7OqAr39x2E?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เจ้าตัวมาเอง ( นครราชสีมา ) - หลอนสเปเชียล / PODCAST EP. 188",
       "image": "https://i.ytimg.com/vi/yhW9h1kC1qc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yhW9h1kC1qc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/yhW9h1kC1qc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อย่าเข้าไปยุ่ง ( มุกดาหาร ) - หลอนสเปเชียล / PODCAST EP. 187",
       "image": "https://i.ytimg.com/vi/wW7jgdA_hvI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=wW7jgdA_hvI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/wW7jgdA_hvI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โทรมาให้ช่วย ( ปทุมธานี ) - หลอนสเปเชียล / PODCAST EP. 186",
       "image": "https://i.ytimg.com/vi/sEZPifWk9no/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sEZPifWk9no&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/sEZPifWk9no?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โชคดีที่ไม่ตาย ( นครสวรรค์ ) - หลอนสเปเชียล / PODCAST EP. 185",
       "image": "https://i.ytimg.com/vi/PvtL4_G-OMU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=PvtL4_G-OMU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/PvtL4_G-OMU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ค่ายอาถรรพ์ - หลอนสเปเชียล / PODCAST EP. 184",
       "image": "https://i.ytimg.com/vi/iD9FgTggqYc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iD9FgTggqYc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/iD9FgTggqYc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วิญญาณคนรัก - หลอนสเปเชียล / PODCAST EP. 183",
       "image": "https://i.ytimg.com/vi/swTqpJUm7LM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=swTqpJUm7LM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/swTqpJUm7LM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนเลี้ยงผี ( อนุสาวรีย์ ) - หลอนสเปเชียล / PODCAST EP. 182",
       "image": "https://i.ytimg.com/vi/cWCvYumt7Jo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cWCvYumt7Jo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cWCvYumt7Jo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อยู่ที่เดิม ( สระบุรี ) - หลอนสเปเชียล / PODCAST EP. 181",
       "image": "https://i.ytimg.com/vi/ibck9M2fkoM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ibck9M2fkoM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ibck9M2fkoM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พนักงานแทน - หลอนสเปเชียล / PODCAST EP. 180",
       "image": "https://i.ytimg.com/vi/8xi-RKkFhEw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8xi-RKkFhEw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8xi-RKkFhEw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านมโนราห์ ( นครศรีธรรมราช ) - หลอนสเปเชียล / PODCAST EP. 179",
       "image": "https://i.ytimg.com/vi/w8yhtKXk594/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=w8yhtKXk594&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/w8yhtKXk594?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บังกะโลหลอน ( ระยอง ) - หลอนสเปเชียล / PODCAST EP. 178",
       "image": "https://i.ytimg.com/vi/tTVc0Dhod-4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tTVc0Dhod-4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/tTVc0Dhod-4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตามกลับมา ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 177",
       "image": "https://i.ytimg.com/vi/tG8T4hvVBhU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tG8T4hvVBhU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/tG8T4hvVBhU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แอบใต้เตียง ( อนุสาวรีย์ชัยฯ ) - หลอนสเปเชียล / PODCAST EP. 176",
       "image": "https://i.ytimg.com/vi/udzizmXQyPg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=udzizmXQyPg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/udzizmXQyPg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องมีประวัติ ( ร้อยเอ็ด ) - หลอนสเปเชียล / PODCAST EP. 175",
       "image": "https://i.ytimg.com/vi/7aewsw9oMGc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=7aewsw9oMGc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/7aewsw9oMGc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนหลอนนอนเฝ้าลูก ( หนองแขม ) - หลอนสเปเชียล / PODCAST EP. 174",
       "image": "https://i.ytimg.com/vi/I4DHvZBWrrk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=I4DHvZBWrrk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/I4DHvZBWrrk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ถูกชะตา ( ศรีนครินทร์ ) - หลอนสเปเชียล / PODCAST EP. 173",
       "image": "https://i.ytimg.com/vi/dP6joninyR8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=dP6joninyR8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/dP6joninyR8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เธอมาทวง ( ปราจีนบุรี ) - หลอนสเปเชียล / PODCAST EP. 172",
       "image": "https://i.ytimg.com/vi/YI8cVT5Z_e4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YI8cVT5Z_e4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/YI8cVT5Z_e4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วิญญาณตามติด ( หนองจอก ) - หลอนสเปเชียล / PODCAST EP. 171",
       "image": "https://i.ytimg.com/vi/s3F4bc0D1Vk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=s3F4bc0D1Vk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/s3F4bc0D1Vk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยายเป็นใคร ( นครสวรรค์ ) - หลอนสเปเชียล / PODCAST EP. 169",
       "image": "https://i.ytimg.com/vi/OmbNGvgSzew/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OmbNGvgSzew&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OmbNGvgSzew?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จบไม่สวย ( เชียงใหม่ ) - หลอนสเปเชียล / PODCAST EP. 168",
       "image": "https://i.ytimg.com/vi/t8DiHkdo05U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t8DiHkdo05U&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/t8DiHkdo05U?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เสากลางบ้าน ( สระแก้ว ) - หลอนสเปเชียล / PODCAST EP. 167",
       "image": "https://i.ytimg.com/vi/EBeQXJtm2Ok/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EBeQXJtm2Ok&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EBeQXJtm2Ok?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ถ้าขานรับคงไม่รอด ( มุกดาหาร ) - หลอนสเปเชียล / PODCAST EP. 166",
       "image": "https://i.ytimg.com/vi/HDsI2E0U14c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HDsI2E0U14c&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/HDsI2E0U14c?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กว่าจะรู้ตัว ( ดินแดง ) - หลอนสเปเชียล / PODCAST EP. 164",
       "image": "https://i.ytimg.com/vi/gfMJovJF710/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gfMJovJF710&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/gfMJovJF710?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แลกด้วยชีวิต ( บางพลี ) - หลอนสเปเชียล / PODCAST EP. 163",
       "image": "https://i.ytimg.com/vi/YWWS8jfmjic/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YWWS8jfmjic&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/YWWS8jfmjic?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หลอนทั้งหมู่บ้าน ( สุรินทร์ ) - หลอนสเปเชียล / PODCAST EP. 162",
       "image": "https://i.ytimg.com/vi/1cmHiaRCToY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=1cmHiaRCToY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/1cmHiaRCToY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กอดสุดท้ายของแม่ ( ขอนแก่น ) - หลอนสเปเชียล / PODCAST EP. 161",
       "image": "https://i.ytimg.com/vi/YA2ABK7n44E/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YA2ABK7n44E&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/YA2ABK7n44E?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านแดง ( หนองคาย )- หลอนสเปเชียล / PODCAST EP. 159",
       "image": "https://i.ytimg.com/vi/vHC5_s2gKUU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vHC5_s2gKUU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/vHC5_s2gKUU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สยองคืนงานศพ ( สระแก้ว ) - หลอนสเปเชียล / PODCAST EP. 158",
       "image": "https://i.ytimg.com/vi/6fbKl0aXOFk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6fbKl0aXOFk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/6fbKl0aXOFk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จำเป็นต้องย้าย ( ปุทมธานี ) - หลอนสเปเชียล / PODCAST EP. 156",
       "image": "https://i.ytimg.com/vi/uZIsML2_DFo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uZIsML2_DFo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/uZIsML2_DFo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แฝงร่าง ( ศรีสะเกษ ) - หลอนสเปเชียล / PODCAST EP. 155",
       "image": "https://i.ytimg.com/vi/Zpb8aDGXWoo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Zpb8aDGXWoo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Zpb8aDGXWoo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนส่งผู้โดยสาร ( สุขสวัสดิ์ ) - หลอนสเปเชียล / PODCAST EP. 154",
       "image": "https://i.ytimg.com/vi/NOr-9oaCoDQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NOr-9oaCoDQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NOr-9oaCoDQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนพี่สาว ( ขอนแก่น ) - หลอนสเปเชียล / PODCAST EP. 153",
       "image": "https://i.ytimg.com/vi/dDOV8XSb9rk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=dDOV8XSb9rk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/dDOV8XSb9rk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชั้นสองห้องในสุด ( ชัยภูมิ ) - หลอนสเปเชียล / PODCAST EP. 152",
       "image": "https://i.ytimg.com/vi/UdyTxE2P7Y4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=UdyTxE2P7Y4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/UdyTxE2P7Y4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนร่วมห้อง ( รามคำแหง ) - หลอนสเปเชียล / PODCAST EP. 151",
       "image": "https://i.ytimg.com/vi/LVoZ1IZc6zc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LVoZ1IZc6zc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LVoZ1IZc6zc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จอดผิดที่ ( มหาชัย ) - หลอนสเปเชียล / PODCAST EP. 150",
       "image": "https://i.ytimg.com/vi/_63kzZTsrGg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=_63kzZTsrGg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/_63kzZTsrGg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนดวงดับ ( ภูเก็ต ) - หลอนสเปเชียล / PODCAST EP. 149",
       "image": "https://i.ytimg.com/vi/SZYDa8X_M64/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SZYDa8X_M64&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/SZYDa8X_M64?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สยองห้องเบอร์.9 ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 148",
       "image": "https://i.ytimg.com/vi/tV7YOU-6N_U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tV7YOU-6N_U&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/tV7YOU-6N_U?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนที่โชคร้าย ( จ.นครพนม ) - หลอนสเปเชียล / PODCAST EP. 147",
       "image": "https://i.ytimg.com/vi/4D7O4N9xpz0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4D7O4N9xpz0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/4D7O4N9xpz0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พี่ขอไปด้วย ( สระแก้ว ) - หลอนสเปเชียล / PODCAST EP. 145",
       "image": "https://i.ytimg.com/vi/LHJlBOilA_Q/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LHJlBOilA_Q&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LHJlBOilA_Q?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องปิดตาย ( บางนา ) - หลอนสเปเชียล / PODCAST EP. 144",
       "image": "https://i.ytimg.com/vi/gRgqctzUoxc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=gRgqctzUoxc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/gRgqctzUoxc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ด้วยความจำเป็น ( พัทยา ) - หลอนสเปเชียล / PODCAST EP. 143",
       "image": "https://i.ytimg.com/vi/MvOW7neyvxY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MvOW7neyvxY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/MvOW7neyvxY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รู้ทั้งหมู่บ้าน ( จ.นนทบุรี ) - หลอนสเปเชียล / PODCAST EP. 142",
       "image": "https://i.ytimg.com/vi/cnfML15lhM4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cnfML15lhM4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cnfML15lhM4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนเฝ้าศพ ( จ.สมุทรสาคร ) - หลอนสเปเชียล / PODCAST EP. 141",
       "image": "https://i.ytimg.com/vi/kfM2GcVQmV4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kfM2GcVQmV4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/kfM2GcVQmV4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คำสั่งเสีย ( จ.อ่างทอง ) - หลอนสเปเชียล / PODCAST EP. 140",
       "image": "https://i.ytimg.com/vi/ohLQmAGRwAE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ohLQmAGRwAE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ohLQmAGRwAE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พักบ้านเพื่อน ( ระยอง ) - หลอนสเปเชียล / PODCAST EP. 139",
       "image": "https://i.ytimg.com/vi/uOPUtf2kmag/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uOPUtf2kmag&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/uOPUtf2kmag?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หญิงสาวข้างห้อง ( ฝั่งธน ) - หลอนสเปเชียล / PODCAST EP. 138",
       "image": "https://i.ytimg.com/vi/Q35lrn0d1t0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Q35lrn0d1t0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Q35lrn0d1t0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เหลือห้องเดียว ( จ.สุรินทร์ ) - หลอนสเปเชียล / PODCAST EP. 137",
       "image": "https://i.ytimg.com/vi/pnIzD50dc3Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pnIzD50dc3Y&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pnIzD50dc3Y?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผู้เช่ารายใหม่ ( อนุสาวรีย์ชัย ) - หลอนสเปเชียล / PODCAST EP. 136",
       "image": "https://i.ytimg.com/vi/8Cxnh9HJhug/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8Cxnh9HJhug&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8Cxnh9HJhug?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จุดจบคุณไสย ( สุรินทร์ ) - หลอนสเปเชียล / PODCAST EP. 135",
       "image": "https://i.ytimg.com/vi/-7ctLzJdbkI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-7ctLzJdbkI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/-7ctLzJdbkI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รับซื้อของเก่า ( จตุจักร ) - หลอนสเปเชียล / PODCAST EP. 134",
       "image": "https://i.ytimg.com/vi/6F9LJPxuhdw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=6F9LJPxuhdw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/6F9LJPxuhdw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านมีเจ้าของ ( ร้อยเอ็ด ) - หลอนสเปเชียล / PODCAST EP. 133",
       "image": "https://i.ytimg.com/vi/VeGDsK4qgVA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VeGDsK4qgVA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/VeGDsK4qgVA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "วิญญาณหวงลูก ( บางนา ) - หลอนสเปเชียล / PODCAST EP. 132",
       "image": "https://i.ytimg.com/vi/tEI-EA3CIOo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tEI-EA3CIOo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/tEI-EA3CIOo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนเฝ้าไข้ ( รังสิต ) - หลอนสเปเชียล / PODCAST EP. 131",
       "image": "https://i.ytimg.com/vi/2y3gymE5wpE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2y3gymE5wpE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2y3gymE5wpE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ช่วยไม่ทัน ( พุทธมณฑลสาย 4 ) - หลอนสเปเชียล / PODCAST EP. 130",
       "image": "https://i.ytimg.com/vi/fbHvdru4liA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=fbHvdru4liA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/fbHvdru4liA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พนักงานเก่า ( บางพลี ) - หลอนสเปเชียล / PODCAST EP. 129",
       "image": "https://i.ytimg.com/vi/2WcL0e64UWY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2WcL0e64UWY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2WcL0e64UWY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หมู่บ้านซ่อนศพ ( บางใหญ่ ) - หลอนสเปเชียล / PODCAST EP. 128",
       "image": "https://i.ytimg.com/vi/xl9deuFWZqg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xl9deuFWZqg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/xl9deuFWZqg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เสริมสยอง ( รามคำแหง ) - หลอนสเปเชียล / PODCAST EP. 127",
       "image": "https://i.ytimg.com/vi/feZ8hxTX01A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=feZ8hxTX01A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/feZ8hxTX01A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผู้โดยสารหญิง ( ลพบุรี ) - หลอนสเปเชียล / PODCAST EP. 126",
       "image": "https://i.ytimg.com/vi/jLMNfHFAV58/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=jLMNfHFAV58&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/jLMNfHFAV58?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กุฎิหลังวัด ( กาฬสินธุ์ ) - หลอนสเปเชียล / PODCAST EP. 125",
       "image": "https://i.ytimg.com/vi/5XkW4e6gWEo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=5XkW4e6gWEo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/5XkW4e6gWEo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านเลี้ยงผี ( ร้อยเอ็ด ) - หลอนสเปเชียล / PODCAST EP. 124",
       "image": "https://i.ytimg.com/vi/Dkdab2Rw3OM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Dkdab2Rw3OM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Dkdab2Rw3OM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พี่น้องสยองขวัญ ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 123",
       "image": "https://i.ytimg.com/vi/XSJ9ynleL-0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XSJ9ynleL-0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/XSJ9ynleL-0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สาวบริการ ( จรัญสนิทวงศ์ ) - หลอนสเปเชียล / PODCAST EP. 122",
       "image": "https://i.ytimg.com/vi/TGBFaevoNz0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=TGBFaevoNz0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/TGBFaevoNz0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หอพักพยาบาล - หลอนสเปเชียล / PODCAST EP. 121",
       "image": "https://i.ytimg.com/vi/mUrO_MzrHOE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=mUrO_MzrHOE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/mUrO_MzrHOE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชายปริศนา ( รัชดา ) - หลอนสเปเชียล / PODCAST EP. 120",
       "image": "https://i.ytimg.com/vi/qpoYGR3WBtE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qpoYGR3WBtE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/qpoYGR3WBtE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องนี้มีเจ้าของ ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 119",
       "image": "https://i.ytimg.com/vi/EO3p0oVcEps/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EO3p0oVcEps&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EO3p0oVcEps?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "งานพิเศษ ( สาทร ) - หลอนสเปเชียล / PODCAST EP. 118",
       "image": "https://i.ytimg.com/vi/cfoyz85kv2g/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cfoyz85kv2g&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cfoyz85kv2g?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อยู่กันไม่ได้ ( สุพรรณบุรี ) - หลอนสเปเชียล / PODCAST EP. 117",
       "image": "https://i.ytimg.com/vi/xmf6u8NR1HE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=xmf6u8NR1HE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/xmf6u8NR1HE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องมีประวัติ ( สมุทรสาคร ) - หลอนสเปเชียล / PODCAST EP. 116",
       "image": "https://i.ytimg.com/vi/e6D5UcUS-ok/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=e6D5UcUS-ok&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/e6D5UcUS-ok?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนดวงตก ( ศรีนครินทร์ ) - หลอนสเปเชียล / PODCAST EP. 114",
       "image": "https://i.ytimg.com/vi/sai4NzHdX4c/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sai4NzHdX4c&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/sai4NzHdX4c?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โชคดีที่ยังรอด ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 113",
       "image": "https://i.ytimg.com/vi/zIlB7i4d1lI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=zIlB7i4d1lI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/zIlB7i4d1lI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เจ้าของคนเก่า ( อุดรธานี ) - หลอนสเปเชียล / PODCAST EP. 112",
       "image": "https://i.ytimg.com/vi/QMwZQwht8vY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=QMwZQwht8vY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/QMwZQwht8vY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไม่น่าทำแบบนี้เลย ( กาฬสินธุ์ ) - หลอนสเปเชียล / PODCAST EP. 111",
       "image": "https://i.ytimg.com/vi/8z9LqL20eDs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8z9LqL20eDs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8z9LqL20eDs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านเช่าราคาถูก ( ชลบุรี ) - หลอนสเปเชียล / PODCAST EP. 110",
       "image": "https://i.ytimg.com/vi/Q_vbP9W1nuA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Q_vbP9W1nuA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Q_vbP9W1nuA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องที่ไม่เคยเปิด ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 109",
       "image": "https://i.ytimg.com/vi/MGrYjMaASX4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MGrYjMaASX4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/MGrYjMaASX4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านลุงชัย ( บางซื่อ ) - หลอนสเปเชียล / PODCAST EP. 108",
       "image": "https://i.ytimg.com/vi/Pji3P4ad9hU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Pji3P4ad9hU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Pji3P4ad9hU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เป็นเพราะปาก ( นครนายก ) - หลอนสเปเชียล / PODCAST EP. 107",
       "image": "https://i.ytimg.com/vi/sprWMnOhW6g/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sprWMnOhW6g&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/sprWMnOhW6g?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เกือบไม่รอด ( ร้อยเอ็ด ) - หลอนสเปเชียล / PODCAST EP. 106",
       "image": "https://i.ytimg.com/vi/X1GV-T6Y2ng/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=X1GV-T6Y2ng&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/X1GV-T6Y2ng?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ซอยร้างข้างวัด ( ร้อยเอ็ด ) - หลอนสเปเชียล / PODCAST EP. 105",
       "image": "https://i.ytimg.com/vi/239Xf9UuG40/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=239Xf9UuG40&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/239Xf9UuG40?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ถ้ารอดก็เอาไป ( สระบุรี ) - หลอนสเปเชียล / PODCAST EP. 104",
       "image": "https://i.ytimg.com/vi/pyqWx09aXQI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pyqWx09aXQI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pyqWx09aXQI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนแรกก็โดนเลย ( สระบุรี ) - หลอนสเปเชียล / PODCAST EP. 103",
       "image": "https://i.ytimg.com/vi/iibf-uJE49Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=iibf-uJE49Y&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/iibf-uJE49Y?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตึกเก่าบ้านพักครู ( ชลบุรี ) - หลอนสเปเชียล / PODCAST EP. 102",
       "image": "https://i.ytimg.com/vi/nCLGl8z_PuA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=nCLGl8z_PuA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/nCLGl8z_PuA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทำไมไม่บอก - หลอนสเปเชียล / PODCAST EP. 101",
       "image": "https://i.ytimg.com/vi/yDoAd794mSE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=yDoAd794mSE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/yDoAd794mSE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไม่ยอมไปไหน ( ประจวบคีรีขันธ์ ) - หลอนสเปเชียล / PODCAST EP. 100",
       "image": "https://i.ytimg.com/vi/fMUqtHv5xns/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=fMUqtHv5xns&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/fMUqtHv5xns?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ศาลไม้หลังบ้าน ( นครราชสีมา ) - หลอนสเปเชียล / PODCAST EP. 99",
       "image": "https://i.ytimg.com/vi/XPwgu_EO6u8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XPwgu_EO6u8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/XPwgu_EO6u8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนสนิท ( นครสวรรค์ ) - หลอนสเปเชียล / PODCAST EP. 98",
       "image": "https://i.ytimg.com/vi/Aa5qeLHCfJ8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Aa5qeLHCfJ8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Aa5qeLHCfJ8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ใครก็อยู่ไม่ได้ ( ห้วยขวาง ) - หลอนสเปเชียล / PODCAST EP. 97",
       "image": "https://i.ytimg.com/vi/vXf06UgbUKA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vXf06UgbUKA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/vXf06UgbUKA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผีหวงบ้าน ( สระบุรี ) - หลอนสเปเชียล / PODCAST EP. 96",
       "image": "https://i.ytimg.com/vi/MENH5JzsVUE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MENH5JzsVUE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/MENH5JzsVUE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนเฝ้าเวร ( ย่านรังสิต ) - หลอนสเปเชียล / PODCAST EP. 95",
       "image": "https://i.ytimg.com/vi/pnvP1tZScQw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pnvP1tZScQw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pnvP1tZScQw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คืนนี้มีงานด่วน ( สิงห์บุรี ) - หลอนสเปเชียล / PODCAST EP. 94",
       "image": "https://i.ytimg.com/vi/4HRKGMQpiFU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4HRKGMQpiFU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/4HRKGMQpiFU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เจ้าแม่ทิพย์ทอง ( จ.จันทบุรี ) - หลอนสเปเชียล / PODCAST EP. 93",
       "image": "https://i.ytimg.com/vi/G5nHgQFkjfQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=G5nHgQFkjfQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/G5nHgQFkjfQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จ้างให้ก็ไม่อยู่ ( จ.อยุธยา ) - หลอนสเปเชียล / PODCAST EP. 92",
       "image": "https://i.ytimg.com/vi/kSNYSXWc6D8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=kSNYSXWc6D8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/kSNYSXWc6D8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "โดนไม่รู้ตัว ( จ.บุรีรัมย์ ) - หลอนสเปเชียล / PODCAST EP. 91",
       "image": "https://i.ytimg.com/vi/hdJ74GBcE-U/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=hdJ74GBcE-U&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/hdJ74GBcE-U?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านพักชั่วคราว - หลอนสเปเชียล / PODCAST EP. 90",
       "image": "https://i.ytimg.com/vi/pF6j8zZP1iQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=pF6j8zZP1iQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/pF6j8zZP1iQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านหลังแรก - หลอนสเปเชียล / PODCAST EP. 89",
       "image": "https://i.ytimg.com/vi/XqqN4JdnQlY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XqqN4JdnQlY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/XqqN4JdnQlY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชุดสุดท้ายที่ได้ใส่ - หลอนสเปเชียล / PODCAST EP. 88",
       "image": "https://i.ytimg.com/vi/W6xAevuRdMg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=W6xAevuRdMg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/W6xAevuRdMg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านร่างทรง ( บางบัวทอง ) - หลอนสเปเชียล / PODCAST EP. 87",
       "image": "https://i.ytimg.com/vi/4mqH262b0V4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=4mqH262b0V4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/4mqH262b0V4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยายเป็นใคร - หลอนสเปเชียล / PODCAST EP. 86",
       "image": "https://i.ytimg.com/vi/nlWP3KYlBaM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=nlWP3KYlBaM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/nlWP3KYlBaM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พนักงานใหม่ - หลอนสเปเชียล / PODCAST EP. 85",
       "image": "https://i.ytimg.com/vi/MGAJqT0ijqc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=MGAJqT0ijqc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/MGAJqT0ijqc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สยองห้องรวม - หลอนสเปเชียล / PODCAST EP. 83",
       "image": "https://i.ytimg.com/vi/DOV7oPhh_jI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DOV7oPhh_jI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/DOV7oPhh_jI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องสุดท้าย - หลอนสเปเชียล / PODCAST EP. 82",
       "image": "https://i.ytimg.com/vi/Gh-8ZmYokZs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Gh-8ZmYokZs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Gh-8ZmYokZs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คุณครูรศนา - หลอนสเปเชียล / PODCAST EP. 81",
       "image": "https://i.ytimg.com/vi/Lhy9I8fhZOg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Lhy9I8fhZOg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Lhy9I8fhZOg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เสียงกระซิบ - หลอนสเปเชียล / PODCAST EP. 80",
       "image": "https://i.ytimg.com/vi/OhpLBXfgCHM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OhpLBXfgCHM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OhpLBXfgCHM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เล่นซ่อนหาย - หลอนสเปเชียล / PODCAST EP. 79",
       "image": "https://i.ytimg.com/vi/t9x0G7ZR5vg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=t9x0G7ZR5vg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/t9x0G7ZR5vg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนไข้ยามวิกาล - หลอนสเปเชียล / PODCAST EP. 78",
       "image": "https://i.ytimg.com/vi/U6Y1AZ0nYO0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=U6Y1AZ0nYO0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/U6Y1AZ0nYO0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องต้องห้าม ( หอพัก ปทุมธานี ) - หลอนสเปเชียล / PODCAST EP. 77",
       "image": "https://i.ytimg.com/vi/BXVOzXh73qk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BXVOzXh73qk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BXVOzXh73qk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "204ห้องนี้ผีอยู่ ( โรงแรมพัทยา ) - หลอนสเปเชียล / PODCAST EP. 76",
       "image": "https://i.ytimg.com/vi/FMNmjN3dlgs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FMNmjN3dlgs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/FMNmjN3dlgs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนข้างห้อง - หลอนสเปเชียล / PODCAST EP. 75",
       "image": "https://i.ytimg.com/vi/SQihGwAjeAY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=SQihGwAjeAY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/SQihGwAjeAY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตามมาจากวัด - หลอนสเปเชียล / PODCAST EP. 74",
       "image": "https://i.ytimg.com/vi/8UlgoWz9ihA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8UlgoWz9ihA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8UlgoWz9ihA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านต้นตะเคียน - หลอนสเปเชียล / PODCAST EP. 73",
       "image": "https://i.ytimg.com/vi/sg1vDWa1nmI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=sg1vDWa1nmI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/sg1vDWa1nmI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ชุดวิวาห์ที่สั่งไว้ - หลอนสเปเชียล / PODCAST EP. 72",
       "image": "https://i.ytimg.com/vi/BAvTUMD_isg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BAvTUMD_isg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BAvTUMD_isg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ขอเจอครั้งสุดท้าย - หลอนสเปเชียล / PODCAST EP. 71",
       "image": "https://i.ytimg.com/vi/Gw1aToVK0fE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Gw1aToVK0fE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Gw1aToVK0fE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "รักตรอมใจ - หลอนสเปเชียล / PODCAST EP. 70",
       "image": "https://i.ytimg.com/vi/VjW1L-Wa2ZE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VjW1L-Wa2ZE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/VjW1L-Wa2ZE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "นอนกับผีห้อง 413 ( ย่าน บางมด ) - หลอนสเปเชียล / PODCAST EP. 69",
       "image": "https://i.ytimg.com/vi/EYvihX5T0oE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EYvihX5T0oE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EYvihX5T0oE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "หอพักในมหาลัย - หลอนสเปเชียล / PODCAST EP. 68",
       "image": "https://i.ytimg.com/vi/cJ7zsryJVS0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=cJ7zsryJVS0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/cJ7zsryJVS0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เกือบไม่รอด ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 67",
       "image": "https://i.ytimg.com/vi/qzrg1jpRNUU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qzrg1jpRNUU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/qzrg1jpRNUU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ช่วยฉันหน่อย - หลอนสเปเชียล / PODCAST EP. 66",
       "image": "https://i.ytimg.com/vi/JmFy5YVJUws/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=JmFy5YVJUws&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/JmFy5YVJUws?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ร้านเสริมหลอน ( อนุสาวรีย์ชัยฯ ) - หลอนสเปเชียล / PODCAST EP. 65",
       "image": "https://i.ytimg.com/vi/-6FGJw1BpAM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=-6FGJw1BpAM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/-6FGJw1BpAM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "จำเป็นต้องพัก - หลอนสเปเชียล / PODCAST EP. 64",
       "image": "https://i.ytimg.com/vi/snNYltDFHA0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=snNYltDFHA0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/snNYltDFHA0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องหลอนซ่อนในตู้ - หลอนสเปเชียล / PODCAST EP. 63",
       "image": "https://i.ytimg.com/vi/Bt8hJwHeWMw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Bt8hJwHeWMw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Bt8hJwHeWMw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตามมาทวงคืน - หลอนสเปเชียล / PODCAST EP. 62",
       "image": "https://i.ytimg.com/vi/uXCGoKXiFiY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uXCGoKXiFiY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/uXCGoKXiFiY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สุดท้ายก็ไม่รอด - หลอนสเปเชียล / PODCAST EP. 61",
       "image": "https://i.ytimg.com/vi/PjIRdqPOGN8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=PjIRdqPOGN8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/PjIRdqPOGN8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "กุฏิพระใหม่ ( ย่าน ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 60",
       "image": "https://i.ytimg.com/vi/rdqMJ0NOWuc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=rdqMJ0NOWuc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/rdqMJ0NOWuc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ไม่น่าไปทักเลย- หลอนสเปเชียล / PODCAST EP. 58",
       "image": "https://i.ytimg.com/vi/8-djNBoWQ4A/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=8-djNBoWQ4A&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/8-djNBoWQ4A?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "อย่าขึ้นไปชั้นสอง- หลอนสเปเชียล / PODCAST EP. 57",
       "image": "https://i.ytimg.com/vi/s7HPQNojaNk/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=s7HPQNojaNk&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/s7HPQNojaNk?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "พูดถึงก็เจอเลย - หลอนสเปเชียล / PODCAST EP. 56",
       "image": "https://i.ytimg.com/vi/HVs3o4eEqgY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HVs3o4eEqgY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/HVs3o4eEqgY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สถานีมีประวัติ - หลอนสเปเชียล / PODCAST EP. 55",
       "image": "https://i.ytimg.com/vi/0CHGMSPgw28/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=0CHGMSPgw28&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/0CHGMSPgw28?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ด้วยรักและจากไป - หลอนสเปเชียล / PODCAST EP. 54",
       "image": "https://i.ytimg.com/vi/VuKXppX29xU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=VuKXppX29xU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/VuKXppX29xU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านหลังนี้เจ้าที่ยังยอม - หลอนสเปเชียล / PODCAST EP. 53",
       "image": "https://i.ytimg.com/vi/YDly7EikNuI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=YDly7EikNuI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/YDly7EikNuI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ยังไงก็ต้องเจอ ( ห้องพัก อุดมสุข ) - หลอนสเปเชียล / PODCAST EP. 52",
       "image": "https://i.ytimg.com/vi/2aBZFcKoKxM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=2aBZFcKoKxM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/2aBZFcKoKxM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านใหม่ของเรา ( หมู่บ้าน ศรีนครินทร์ ) - หลอนสเปเชียล / PODCAST EP. 51",
       "image": "https://i.ytimg.com/vi/ZmZr5g_qGpc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ZmZr5g_qGpc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ZmZr5g_qGpc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สยองขวัญบนชั้น5 ( อพาร์ทเม้นท์ ราม2 ) - หลอนสเปเชียล / PODCAST EP. 50",
       "image": "https://i.ytimg.com/vi/65cowjkB4Tw/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=65cowjkB4Tw&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/65cowjkB4Tw?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คำพูดที่ให้ไว้ - หลอนสเปเชียล / PODCAST EP. 49",
       "image": "https://i.ytimg.com/vi/NCrrq9j2My4/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NCrrq9j2My4&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NCrrq9j2My4?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คนไข้เตียงแรก - หลอนสเปเชียล / PODCAST EP. 48",
       "image": "https://i.ytimg.com/vi/EGW59nhYW88/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EGW59nhYW88&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EGW59nhYW88?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ของดีสายดำ - หลอนสเปเชียล / PODCAST EP. 47",
       "image": "https://i.ytimg.com/vi/ibQnhjjylGU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ibQnhjjylGU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ibQnhjjylGU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ทำไมมึงยังรอด - หลอนสเปเชียล / PODCAST EP. 46",
       "image": "https://i.ytimg.com/vi/XDelYk7Jl2g/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=XDelYk7Jl2g&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/XDelYk7Jl2g?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านไม้หลังเก่า - หลอนสเปเชียล / PODCAST EP. 45",
       "image": "https://i.ytimg.com/vi/tjzt-_qgkww/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=tjzt-_qgkww&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/tjzt-_qgkww?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ที่เก่าเวลาเดิม - หลอนสเปเชียล / PODCAST EP. 43",
       "image": "https://i.ytimg.com/vi/N461Fj5CoQI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=N461Fj5CoQI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/N461Fj5CoQI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผิดคำสัญญา - หลอนสเปเชียล / PODCAST EP. 42",
       "image": "https://i.ytimg.com/vi/BbDl--471SU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BbDl--471SU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BbDl--471SU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผีโทรเข้ามาเล่า - หลอนสเปเชียล / PODCAST EP. 41",
       "image": "https://i.ytimg.com/vi/NFnaBTiEbZU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NFnaBTiEbZU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NFnaBTiEbZU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เจ้าของคนเก่า - หลอนสเปเชียล / PODCAST EP. 39",
       "image": "https://i.ytimg.com/vi/Z7phXZv6LMg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Z7phXZv6LMg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Z7phXZv6LMg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านท้ายซอย - หลอนสเปเชียล / PODCAST EP. 38",
       "image": "https://i.ytimg.com/vi/ToE91DrV2wo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=ToE91DrV2wo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/ToE91DrV2wo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บนบานเป็นเหตุ - หลอนสเปเชียล / PODCAST EP. 37",
       "image": "https://i.ytimg.com/vi/jD9WYb767ng/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=jD9WYb767ng&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/jD9WYb767ng?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "602 ห้องชั้นบน - หลอนสเปเชียล / PODCAST EP. 34",
       "image": "https://i.ytimg.com/vi/qZgDWZlBKfg/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=qZgDWZlBKfg&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/qZgDWZlBKfg?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนใหม่ - หลอนสเปเชียล / PODCAST EP. 33",
       "image": "https://i.ytimg.com/vi/HKn2QnmDq4M/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=HKn2QnmDq4M&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/HKn2QnmDq4M?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้องพิเศษ - หลอนสเปเชียล / PODCAST EP. 31",
       "image": "https://i.ytimg.com/vi/Hg7uFqDtAdU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Hg7uFqDtAdU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Hg7uFqDtAdU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ห้ามไปบอกใคร - หลอนสเปเชียล / PODCAST EP. 29",
       "image": "https://i.ytimg.com/vi/jEI28gE_o8s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=jEI28gE_o8s&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/jEI28gE_o8s?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ผิดคำสัญญา - หลอนสเปเชียล / PODCAST EP. 28",
       "image": "https://i.ytimg.com/vi/K7lygYEixA8/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=K7lygYEixA8&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/K7lygYEixA8?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ปริศนาสาวท้องอ่อน - หลอนสเปเชียล / PODCAST EP. 23",
       "image": "https://i.ytimg.com/vi/vKWZr7scECc/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=vKWZr7scECc&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/vKWZr7scECc?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คุณไสยจากเพื่อนสนิท - หลอนสเปเชียล / PODCAST EP. 22",
       "image": "https://i.ytimg.com/vi/uaBFmFMbf-Q/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=uaBFmFMbf-Q&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/uaBFmFMbf-Q?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บ้านร้างข้างโรงเรียน - หลอนสเปเชียล / PODCAST EP. 21",
       "image": "https://i.ytimg.com/vi/r-HOBhmanDI/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=r-HOBhmanDI&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/r-HOBhmanDI?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แฟนเก่า - หลอนสเปเชียล / PODCAST EP. 20",
       "image": "https://i.ytimg.com/vi/Z88ivDsdnxo/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=Z88ivDsdnxo&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/Z88ivDsdnxo?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตึกนี้เค้าว่าเฮี้ยน ( งามวงศ์วาน... ) - หลอนสเปเชียล / PODCAST EP. 19",
       "image": "https://i.ytimg.com/vi/BLBYCvnfxTs/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BLBYCvnfxTs&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BLBYCvnfxTs?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เส้นทางขึ้นเขา ( โค้งร้อยศพ จ.ชุมพร - ระนอง ) - หลอนสเปเชียล / PODCAST EP. 18",
       "image": "https://i.ytimg.com/vi/NLNOpp1Yx58/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=NLNOpp1Yx58&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/NLNOpp1Yx58?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ลิเกงานวัดร้าง (จ.ศรีสะเกษ) - หลอนสเปเชียล / PODCAST EP. 17",
       "image": "https://i.ytimg.com/vi/BSGfmyo2ICA/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=BSGfmyo2ICA&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/BSGfmyo2ICA?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้าช่วยผมหน่อย (จังหวัด-ปทุมธานี ) - หลอนสเปเชียล / PODCAST EP. 16",
       "image": "https://i.ytimg.com/vi/flMfx-OYJiQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=flMfx-OYJiQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/flMfx-OYJiQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ช่วยยายซื้อหน่อย - หลอนสเปเชียล / PODCAST EP. 15",
       "image": "https://i.ytimg.com/vi/EXiXF16WdZQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EXiXF16WdZQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EXiXF16WdZQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "409 ห้องนี้ผีเฮี้ยน ( โรงแรมดัง หาดใหญ่ ) - หลอนสเปเชียล / PODCAST EP. 14",
       "image": "https://i.ytimg.com/vi/FAeFL_Yb33s/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=FAeFL_Yb33s&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/FAeFL_Yb33s?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เพื่อนฉันชื่อดา - หลอนสเปเชียล / PODCAST EP. 13",
       "image": "https://i.ytimg.com/vi/1llnGFR1KkM/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=1llnGFR1KkM&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/1llnGFR1KkM?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เดี๋ยวจะอยู่เป็นเพื่อน ( ซอย เอแบค ) - หลอนสเปเชียล / PODCAST EP. 11",
       "image": "https://i.ytimg.com/vi/LZNbUV2-mJU/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=LZNbUV2-mJU&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/LZNbUV2-mJU?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "บวชใหม่วัดป่า ( วัดดัง เพชรบูรณ์ ) - หลอนสเปเชียล / PODCAST EP. 10",
       "image": "https://i.ytimg.com/vi/lJ_lKLqT0VY/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=lJ_lKLqT0VY&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/lJ_lKLqT0VY?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "น้องสาวข้างบ้าน ( ลาดกระบัง54 ) - หลอนสเปเชียล / PODCAST EP. 8",
       "image": "https://i.ytimg.com/vi/EQlD_KvMwnE/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=EQlD_KvMwnE&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/EQlD_KvMwnE?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "สมบัติชิ้นสุดท้าย - หลอนสเปเชียล / PODCAST EP. 4",
       "image": "https://i.ytimg.com/vi/DpR56-Yde3Y/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=DpR56-Yde3Y&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/DpR56-Yde3Y?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "งานพาร์ทไทม์ ( รังสิต - คลอง3 ) - หลอนสเปเชียล / PODCAST EP. 3",
       "image": "https://i.ytimg.com/vi/njZW0reG9VQ/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=njZW0reG9VQ&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/njZW0reG9VQ?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แท็กซี่สนามบิน - หลอนสเปเชียล / PODCAST EP. 2",
       "image": "https://i.ytimg.com/vi/OPpd6hzBiC0/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=OPpd6hzBiC0&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/OPpd6hzBiC0?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "ตึกว่างให้เช่าบางเขน - หลอนสเปเชียล / PODCAST EP.1",
       "image": "https://i.ytimg.com/vi/a_8N8gFK988/hqdefault.jpg",
-      "url": "https://m.youtube.com/watch?v=a_8N8gFK988&cc_load_policy=0",
+      "url": "https://www.youtube-nocookie.com/embed/a_8N8gFK988?playsinline=0&fs=1&rel=0",
       "embed": "true",
-      "referer": "https://m.youtube.com",
+      "referer": "https://www.youtube.com/",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
