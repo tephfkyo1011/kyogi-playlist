@@ -6,73 +6,55 @@
     {
       "name": "คอนเสิร์ต The Diary of Carabao เดอะ ไดอารี่ ออฟ คาราบาว【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/E883Dg6ZPVg/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/E883Dg6ZPVg?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=E883Dg6ZPVg",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "แอ๊ด คาราบาว - สืบทอดเจตนา / ทะเลใจ / คนล่าฝัน / วณิพก / บัวลอย [Acoustic Live Session]",
       "image": "https://i.ytimg.com/vi/JimtSww-TTA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/JimtSww-TTA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=JimtSww-TTA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "เอ็กซ์คลูซีฟคอนเสิร์ต วันวานไม่มีเขา วันนี้ไม่มีเรา : แอ๊ด คาราบาว【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/8u8t_FxIXCE/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/8u8t_FxIXCE?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=8u8t_FxIXCE",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต คาราบาว NEW YEAR EXPO【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/cWaZBszJNrw/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/cWaZBszJNrw?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=cWaZBszJNrw",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต 35 ปี คาราบาว【FULL CONCERT】ฉบับ 4 ชั่วโมงเต็ม",
       "image": "https://i.ytimg.com/vi/kziDLZTT6JM/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/kziDLZTT6JM?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=kziDLZTT6JM",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "VELODROME RETURNS บันทึกการแสดงสด คอนเสิร์ต เวโลโดรม รีเทิร์นส์【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/FJ03M0D4CQA/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/FJ03M0D4CQA?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=FJ03M0D4CQA",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "คอนเสิร์ต คาราบาว 3 ช่า สามัคคี ตอน ลูกทุ่งแฟนเทเชีย【FULL CONCERT】",
       "image": "https://i.ytimg.com/vi/_jSMm-NuEeo/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/_jSMm-NuEeo?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=_jSMm-NuEeo",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "40 ปี ฅนคาราบาว : ล้อมวงเล่า EP.1 [Special Live Session]",
       "image": "https://i.ytimg.com/vi/TLM0WYZPNIc/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/TLM0WYZPNIc?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=TLM0WYZPNIc",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     },
     {
       "name": "40 ปี ฅนคาราบาว : ล้อมวงเล่า EP.2 [Special Live Session]",
       "image": "https://i.ytimg.com/vi/3TMbNpe6L8E/hqdefault.jpg",
-      "url": "https://www.youtube-nocookie.com/embed/3TMbNpe6L8E?playsinline=0&fs=1&rel=0",
-      "embed": "true",
-      "referer": "https://www.youtube.com/",
+      "url": "https://www.youtube.com/watch?v=3TMbNpe6L8E",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
     }
   ]
